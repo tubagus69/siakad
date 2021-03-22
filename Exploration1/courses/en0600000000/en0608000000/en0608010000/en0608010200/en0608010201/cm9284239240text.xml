@@ -1,0 +1,18 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Representations of Signals on the Physical Media</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Sample electrical signals transmitted on copper cable</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Representative light pulse fiber signals</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Microwave (wireless) signals</b>]]></text>
+</component>
+</textcomponents>

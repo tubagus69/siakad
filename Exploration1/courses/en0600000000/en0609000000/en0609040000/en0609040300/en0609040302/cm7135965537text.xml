@@ -1,0 +1,56 @@
+<textcomponents>
+
+<component id="ID_title">
+           <text><![CDATA[<b>Frame Synchronization for Asynchronous Communications </b>]]></text> 
+  </component>
+
+<component id="ID_txt01">
+    <text><![CDATA[<b>Field Names</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt02">
+      <text><![CDATA[<b>A</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+      <text><![CDATA[<b>B</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+      <text><![CDATA[<b>C</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt05">
+            <text><![CDATA[<b>D</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt06">
+              <text><![CDATA[<b>E</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt07">
+              <text><![CDATA[<b>Start Frame Field</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt08">
+              <text><![CDATA[<b>Address Field</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt09">
+              <text><![CDATA[<b>Type/Length Field</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt10">
+              <text><![CDATA[<b>Data Field</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt11">
+              <text><![CDATA[<b>FCS Field</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt12">
+                <text><![CDATA[<b>10 Mbps and slower Ethernet use the first 64 bits of the frame Preamble to synchronize the receiver.</b>]]></text> 
+  </component>
+  
+     
+</textcomponents>

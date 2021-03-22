@@ -1,0 +1,14 @@
+﻿<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>The routing table shows the default route 0.0.0.0.</b>]]></text>
+</component>
+
+
+<component id="output_text_01">
+<text><![CDATA[<b>Packets with destination hosts addresses not in one of the network ranges shown will be forwarded to the gateway of last resort.
+</b>]]></text>
+</component>
+
+
+</textcomponents>

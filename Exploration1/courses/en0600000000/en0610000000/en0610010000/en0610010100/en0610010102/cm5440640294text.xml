@@ -1,0 +1,16 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Intranetwork Connections</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Small LAN using a hub</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>LAN using a switch</b>]]></text>
+</component>
+
+
+</textcomponents>

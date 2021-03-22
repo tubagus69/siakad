@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13233" dateexported="06/06/2007">
+		<name>Module 1 Quiz</name>
+		<form id="18830" lang="en"><form-item order="fixed">
+			<ai id="110096" type="mc-sa"><question><![CDATA[Which form of communication is a real-time text-based communication type used between two or more people who use mostly text to communicate with each other?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Weblogs]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Wikis]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Instant Messaging]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Podcasting]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Collaboration Tools]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="111530" type="mc-sa"><question><![CDATA[Which type of network provides customer's limited access to corporate data such as inventory, parts lists and orders?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[intranet]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[extranet]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[internetwork]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Internet]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="111531" type="mc-sa"><question><![CDATA[What balances the importance of traffic and its characteristics in order to manage data?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[network administration]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[network traffic]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[QoS strategy]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[network evaluation]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="113492" type="mc-ma"><question><![CDATA[Which processes occur to network traffic so that quality of service strategies work correctly? (Choose two.)]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[Traffic is classified based on quality of service requirements.]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Priorities are assigned to each classification of application data.]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Web traffic is always assigned to a high priority queue for processing.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Digital movies are always assigned to the high priority queue for processing.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[E-mail traffic is always assigned to the low priority queue.]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="113486" type="mc-ma"><question><![CDATA[What are two components of network architecture? (Choose two.)]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[people that comprise the human network]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[programmed services and protocols that move the messages across the network]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[data transferred across the network]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[technologies that support network communications]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[corporations that operate and maintain the data network]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="113487" type="mc-ma"><question><![CDATA[For which three reasons were circuit-switched, connection-oriented technologies rejected when the Internet was being developed? (Choose three.)]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Circuit-switched technologies required that a single message be broken up into multiple message blocks that contain addressing information.]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Early circuit-switched networks did not automatically establish alternative circuits in the event of circuit failure.]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Circuit-switched technologies required that an open circuit between network endpoints be established, even if data was not actively being transferred between locations.]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[The quality and consistency of messages transmitted across a connection-oriented, circuit-switched network cannot be guaranteed.]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[The establishment of multiple, simultaneous open circuits for fault tolerance is costly.]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="113488" type="mc-ma"><question><![CDATA[For which three reasons was a packet-switched connectionless data communications technology used when developing the Internet? (Choose three.)]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[It can rapidly adapt to the loss of data transmission facilities.]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[It efficiently utilizes the network infrastructure to transfer data.]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Data packets can travel multiple paths through the network simultaneously.]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[It allows for billing of network use by the amount of time a connection is established.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[It requires that a data circuit between the source and destination be established before data can be transferred.]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="110657" type="mc-sa"><question><![CDATA[What is the role of QoS in a converged network?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[ensures that all traffic above available bandwidth levels is dropped]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[establishes delivery priorities for different communication in a network]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[determines precise priorities for all network communication]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[allows unused bandwidth to be shared by other organizations within the network]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="113485" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="113485" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>convergence</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>scalability</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>security</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>fault tolerance</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>quality of service</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>limits the impact of hardware or software failures and provides failure recovery mechanisms</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>supports expansion of the network infrastructure to support new users and applications</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>provides a level of consistent and uninterrupted data delivery to support expectations of users</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>protects confidential and business critical information from theft or alteration</mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="760"><material><mattext>Match the characteristics of a network architecture with their definitions by dragging the options on the left to targets on the right. (Not all options are used.)</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-111.5" targetYspacing="15" yspacing="60" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="135"/><display componentIdent="3" xpos="200" ypos="195"/><display componentIdent="4" xpos="200" ypos="255"/><display componentIdent="5" xpos="200" ypos="315"/></options><targets><display componentIdent="1" xpos="600" ypos="75"/><display componentIdent="2" xpos="600" ypos="127"/><display componentIdent="3" xpos="600" ypos="179"/><display componentIdent="4" xpos="600" ypos="231"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident></scoringzone><scoringzone ident ="2"><componentident>2</componentident></scoringzone><scoringzone ident ="3"><componentident>3</componentident></scoringzone><scoringzone ident ="4"><componentident>4</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="200293" maxvalue ="1"><title>no title</title></decvar><interpretvar varname="200293" view="All">no description given</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>3</componentident></scoringzonecontains></conditionvar><setvar varname="200293" action="Set">1</setvar><scoringdescription>fault tolerance, scalability, quality of service, security. distractor = convergence</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="113504" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="113504" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>a custodian unplugs an essential network device</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>a disgruntled employee alters information in a customer database</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>builders accidentally cut a network cable while digging</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>a competitor accesses sensitive information through an unsecured wireless network</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>a secretary sends confidential information in reply to an e-mail that falsely appears to come from her boss</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>a hacker connects to a network device and changes settings in its management software</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>network infrastructure security</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>content security</mattext></material></textcomponent></component> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext></mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="760"><material><mattext>Network security threats can be classified as relating to either network infrastructure security or content security. Classify the security threats on the left by dragging them into the appropriate category on the right.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-111.5" targetYspacing="15" yspacing="60" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="135"/><display componentIdent="3" xpos="200" ypos="195"/><display componentIdent="4" xpos="200" ypos="255"/><display componentIdent="5" xpos="200" ypos="315"/><display componentIdent="6" xpos="200" ypos="375"/></options><labels><display componentIdent="1" xpos="600" ypos="85.5" containsTargets="3" startTarg="1" labelStyle="1"/><display componentIdent="2" xpos="600" ypos="266.5" containsTargets="3" startTarg="4" labelStyle="1"/></labels><targets><display componentIdent="1" xpos="600" ypos="100"/><display componentIdent="2" xpos="600" ypos="152"/><display componentIdent="3" xpos="600" ypos="204"/><display componentIdent="4" xpos="600" ypos="281"/><display componentIdent="5" xpos="600" ypos="333"/><display componentIdent="6" xpos="600" ypos="385"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident><componentident>2</componentident><componentident>3</componentident></scoringzone><scoringzone ident ="2"><componentident>4</componentident><componentident>5</componentident><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="200328" maxvalue ="1"><title>no title</title></decvar><interpretvar varname="200328" view="All">no description given</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>1</componentident><componentident>3</componentident><componentident>6</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident><componentident>4</componentident><componentident>5</componentident></scoringzonecontains></conditionvar><setvar varname="200328" action="Set">1</setvar><scoringdescription>network infrastructure security = a custodian unplugs..., builders accidentally..., a hacker connects... content security = a disgruntled employee..., a competitor accesses..., a secretary provides...</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item></form></exam> 

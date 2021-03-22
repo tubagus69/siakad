@@ -1,0 +1,29 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Packet destined for Network 10.1.1.0/24</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>I want to forward this packet so it can take the next hop towards its destination. I can use the information in my routing table to determine where to forward this message.</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b><font color="#003399">192.168.2.1/24</font></b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b><font color="#003399">192.168.2.2/24</font></b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Network <font color="#993333">10.1.1.0/24</font></b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>Remote Router</b>]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>Network <font color="#993333">10.1.2.0/24</font></b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b><font color="#003399">ROUTING TABLE</font></b>]]></text> 
+  </component>
+<component id="titleText">
+	<text><![CDATA[<b>Routing Tables</b>]]></text> 
+</component>
+</textcomponents>

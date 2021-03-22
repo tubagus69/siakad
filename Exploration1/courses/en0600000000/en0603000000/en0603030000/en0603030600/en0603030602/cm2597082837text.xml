@@ -1,0 +1,19 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>SMB Protocol</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>SMB Requests</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>A file may be copied from PC to PC with Windows Explorer using the SMB protocol.</b>]]></text>
+</component>
+
+
+</textcomponents>

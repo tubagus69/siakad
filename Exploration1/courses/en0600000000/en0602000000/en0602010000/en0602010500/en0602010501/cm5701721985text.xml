@@ -1,0 +1,56 @@
+<textcomponents>
+	<component id="play">
+		<text><![CDATA[Play]]></text>
+	</component>
+    <component id="pause">
+		<text><![CDATA[Pause]]></text>
+	</component>
+    <component id="rewind">
+		<text><![CDATA[Rewind]]></text>
+	</component>
+	<component id="forward">
+		<text><![CDATA[Fast Forward]]></text>
+	</component>
+    <component id="mute">
+		<text><![CDATA[Mute]]></text>
+	</component>
+    <component id="unmute">
+		<text><![CDATA[UnMute]]></text>
+	</component>
+    <component id="previous">
+		<text><![CDATA[Restart]]></text>
+	</component>
+    <component id="next">
+		<text><![CDATA[End]]></text>
+	</component>
+<component id="transcript">
+		<text><![CDATA[Transcript]]></text>
+	</component>
+	<component id="ID_txt01">
+	<text><![CDATA[<b>This message is important, give it priority.</b>]]></text>
+	</component>
+	
+	<component id="ID_txt02">
+	<text><![CDATA[<b>This message is broken, re-send it.</b>]]></text>
+	</component>
+	
+	<component id="ID_txt03">
+	<text><![CDATA[<b>This message will arrive faster if it goes this way.</b>]]></text>
+	</component>
+	
+	<component id="ID_txt04">
+		<text><![CDATA[<b>Internetwork</b>]]></text>
+	</component>
+	
+<component id="ID_txt05">
+<text><![CDATA[<b>Intermediary devices direct the path of the data but do not generate or change the data content.</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Click play to see the animation.</b>]]></text>
+</component>
+    
+    
+    
+
+</textcomponents>

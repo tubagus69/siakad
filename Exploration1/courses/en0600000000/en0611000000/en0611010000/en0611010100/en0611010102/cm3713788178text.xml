@@ -1,0 +1,29 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Accessing the Cisco IOS on a Device</b>]]></text>
+</component>
+<component id="txt1">
+<text><![CDATA[<b>Telnet Access</b>]]></text>
+</component>
+<component id="txt2">
+<text><![CDATA[<b>Serial Ports</b>]]></text>
+</component>
+<component id="txt3">
+<text><![CDATA[<b>FastEthernet Ports</b>]]></text>
+</component>
+<component id="txt4">
+<text><![CDATA[<b>Telnet Access</b>]]></text>
+</component>
+<component id="txt5">
+<text><![CDATA[<b>Auxiliary Port</b>]]></text>
+</component>
+<component id="txt6">
+<text><![CDATA[<b>Modem Access</b>]]></text>
+</component>
+<component id="txt7">
+<text><![CDATA[<b>Console Port</b>]]></text>
+</component>
+<component id="txt8">
+<text><![CDATA[<b>Terminal Access</b>]]></text>
+</component>
+</textcomponents>

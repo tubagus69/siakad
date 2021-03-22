@@ -1,0 +1,174 @@
+﻿<textcomponents>
+
+<component id="ID_title1">
+<text><![CDATA[<b>Changing Format</b>]]></text>
+</component>
+
+<component id="ID_title2">
+<text><![CDATA[<b>Changing Format</b>]]></text>
+</component>
+
+<component id="ID_title3">
+<text><![CDATA[<b>Re-Addressing</b>]]></text>
+</component>
+
+<component id="ID_caption1">
+<text><![CDATA[<b>External factors will affect communication.</b>]]></text>
+</component>
+
+<component id="ID_caption2">
+<text><![CDATA[<b>Information that has to be recoded and decoded a number of times may not be transmitted successfully.</b>]]></text>
+</component>
+
+<component id="ID_caption3">
+<text><![CDATA[<b>Messages that have to be readdressed and redirected a number of times may not be delivered successfully.</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>INTRANSIT</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>INTRANSIT</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>World News</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Weather Forecast</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Traffic Conditions</b>]]></text>
+</component>
+<component id="ID_txt01_2">
+<text><![CDATA[<b>TO:</b>]]></text>
+</component>
+<component id="ID_txt02_2">
+<text><![CDATA[<b>Posted<br>02 January<br>2007</b>]]></text>
+</component>
+<component id="ID_txt03_2">
+<text><![CDATA[<b>XYZ Systems<br>High Street<br>London UK</b>]]></text>
+</component>
+<component id="ID_txt04_2">
+<text><![CDATA[<b>Industrial Park<br>Pittsburg USA</b>]]></text>
+</component>
+<component id="ID_txt05_2">
+<text><![CDATA[<b>Technology Precinct<br>Singapore</b>]]></text>
+</component>
+<component id="ID_txt06_2">
+<text><![CDATA[<b>Redirected<br/>Jan 01 07</b>]]></text>
+</component>
+<component id="ID_txt07_2">
+<text><![CDATA[<b>Redirected<br/>Jan 12 07</b>]]></text>
+</component>
+<component id="ID_txt08_2">
+<text><![CDATA[<b>Redirected<br/>Jan 20 07</b>]]></text>
+</component>
+
+<component id="ID_txt01_2b">
+<text><![CDATA[<b>TO:</b>]]></text>
+</component>
+<component id="ID_txt02_2b">
+<text><![CDATA[<b>Posted<br>02 January<br>2007</b>]]></text>
+</component>
+<component id="ID_txt03_2b">
+<text><![CDATA[<b>XYZ Systems<br>High Street<br>London UK</b>]]></text>
+</component>
+<component id="ID_txt04_2b">
+<text><![CDATA[<b>Industrial Park<br>Pittsburg USA</b>]]></text>
+</component>
+<component id="ID_txt05_2b">
+<text><![CDATA[<b>Technology Precinct<br>Singapore</b>]]></text>
+</component>
+<component id="ID_txt06_2b">
+<text><![CDATA[<b>Redirected<br/>Jan 01 07</b>]]></text>
+</component>
+<component id="ID_txt07_2b">
+<text><![CDATA[<b>Redirected<br/>Jan 12 07</b>]]></text>
+</component>
+<component id="ID_txt08_2b">
+<text><![CDATA[<b>Redirected<br/>Jan 20 07</b>]]></text>
+</component>
+
+<component id="ID_txt01_2c">
+<text><![CDATA[<b>TO:</b>]]></text>
+</component>
+<component id="ID_txt02_2c">
+<text><![CDATA[<b>Posted<br>02 January<br>2007</b>]]></text>
+</component>
+<component id="ID_txt03_2c">
+<text><![CDATA[<b>XYZ Systems<br>High Street<br>London UK</b>]]></text>
+</component>
+<component id="ID_txt04_2c">
+<text><![CDATA[<b>Industrial Park<br>Pittsburg USA</b>]]></text>
+</component>
+<component id="ID_txt05_2c">
+<text><![CDATA[<b>Technology Precinct<br>Singapore</b>]]></text>
+</component>
+<component id="ID_txt06_2">
+<text><![CDATA[<b>Redirected<br/>Jan 01 07</b>]]></text>
+</component>
+<component id="ID_txt07_2c">
+<text><![CDATA[<b>Redirected<br/>Jan 12 07</b>]]></text>
+</component>
+<component id="ID_txt08_2c">
+<text><![CDATA[<b>Redirected<br/>Jan 20 07</b>]]></text>
+</component>
+
+<component id="ID_txt01_3">
+<text><![CDATA[She will arrive in a few hours.]]></text>
+</component>
+<component id="ID_txt02_3">
+<text><![CDATA[She will arrive in two hours.]]></text>
+</component>
+<component id="ID_txt03_3">
+<text><![CDATA[He will arrive In two hours.]]></text>
+</component>
+<component id="ID_txt04_3">
+<text><![CDATA[Who is coming?<br>And when?]]></text>
+</component>
+<component id="ID_txt05_3">
+<text><![CDATA[<b>Telephone</b>]]></text>
+</component>
+<component id="ID_txt06_3">
+<text><![CDATA[<b>Message written down</b>]]></text>
+</component>
+<component id="ID_txt07_3">
+<text><![CDATA[<b>Message read out loud</b>]]></text>
+</component>
+<component id="ID_sent01">
+<text><![CDATA[<b>SENT</b>]]></text>
+</component>
+<component id="ID_sent02">
+<text><![CDATA[<b>SENT</b>]]></text>
+</component>
+<component id="ID_sent03">
+<text><![CDATA[<b>SENT</b>]]></text>
+</component>
+<component id="ID_sent04">
+<text><![CDATA[<b>SENT</b>]]></text>
+</component>
+<component id="ID_sentFrom01">
+<text><![CDATA[<b>SENT FROM:</b>]]></text>
+</component>
+<component id="ID_delivered01">
+<text><![CDATA[<b>DELIVERED</b>]]></text>
+</component>
+<component id="ID_delayed01">
+<text><![CDATA[<b>?DELAYED?</b>]]></text>
+</component>
+<component id="ID_destination01">
+<text><![CDATA[<b>DESTINATION:</b>]]></text>
+</component>
+
+<component id="button1">
+<text><![CDATA[<B>Format</B>]]></text>
+</component>
+<component id="button2">
+<text><![CDATA[<B>Re-addressing</B>]]></text>
+</component>
+<component id="ID_click">
+<text><![CDATA[<B>Click to see how an external factor affects communication.</B>]]></text>
+</component>
+
+
+</textcomponents>

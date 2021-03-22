@@ -1,0 +1,31 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Early Ethernet Media and Topology</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<font color="#009900"><b>Topology</b></font>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Physical: Bus<br>Logical: Bus</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Migration to</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<font color="#009900"><b>Topology</b></font>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Physical: Star<br> Logical: Bus</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Hub</b>]]></text>
+</component>
+
+</textcomponents>

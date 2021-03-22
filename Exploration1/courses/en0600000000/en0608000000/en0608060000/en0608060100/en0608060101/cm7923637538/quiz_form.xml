@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13240" dateexported="06/05/2007">
+		<name>Module 8 Quiz</name>
+		<form id="18837" lang="en"><form-item>
+			<ai id="55637" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="55637" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>orange</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>blue</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>green</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>brown</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>7 and 8</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>1 and 2</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>3 and 6</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>4 and 5</mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Match the colors to the numbers that represent the wiring pinouts for 568B patch cables.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-150" targetYspacing="11" yspacing="40" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="115"/><display componentIdent="3" xpos="200" ypos="155"/><display componentIdent="4" xpos="200" ypos="195"/></options><targets><display componentIdent="1" xpos="600" ypos="75"/><display componentIdent="2" xpos="600" ypos="112"/><display componentIdent="3" xpos="600" ypos="149"/><display componentIdent="4" xpos="600" ypos="186"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident></scoringzone><scoringzone ident ="2"><componentident>2</componentident></scoringzone><scoringzone ident ="3"><componentident>3</componentident></scoringzone><scoringzone ident ="4"><componentident>4</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="obs1" maxvalue ="1"><title>no title</title></decvar><interpretvar varname="obs1" view="All">no description given</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>2</componentident></scoringzonecontains></conditionvar><setvar varname="obs1" action="Set">1</setvar><scoringdescription>please enter the answer for QA here</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="55638" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="55638" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Pin 1</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Pin 2</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Pin 3</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Pin 4</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Pin 5</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Pin 6</mattext></material></textcomponent></component><component ident="7" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Pin 7</mattext></material></textcomponent></component><component ident="8" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Pin 8</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Pin 1</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Pin 2</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Pin 3</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Pin 4</mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Pin 5</mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Pin 6</mattext></material></textcomponent></component><component ident="7" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Pin 7</mattext></material></textcomponent></component><component ident="8" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Pin 8</mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Place each pin on the left onto the correct pin on the right to properly create a RJ-45 connector for a router console cable.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-144" targetYspacing="13" yspacing="42" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="115"/><display componentIdent="3" xpos="200" ypos="155"/><display componentIdent="4" xpos="200" ypos="195"/><display componentIdent="5" xpos="200" ypos="235"/><display componentIdent="6" xpos="200" ypos="275"/><display componentIdent="7" xpos="200" ypos="315"/><display componentIdent="8" xpos="200" ypos="355"/></options><targets><display componentIdent="1" xpos="600" ypos="75"/><display componentIdent="2" xpos="600" ypos="112"/><display componentIdent="3" xpos="600" ypos="149"/><display componentIdent="4" xpos="600" ypos="186"/><display componentIdent="5" xpos="600" ypos="223"/><display componentIdent="6" xpos="600" ypos="260"/><display componentIdent="7" xpos="600" ypos="297"/><display componentIdent="8" xpos="600" ypos="334"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident></scoringzone><scoringzone ident ="2"><componentident>2</componentident></scoringzone><scoringzone ident ="3"><componentident>3</componentident></scoringzone><scoringzone ident ="4"><componentident>4</componentident></scoringzone><scoringzone ident ="5"><componentident>5</componentident></scoringzone><scoringzone ident ="6"><componentident>6</componentident></scoringzone><scoringzone ident ="7"><componentident>7</componentident></scoringzone><scoringzone ident ="8"><componentident>8</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="obs1" maxvalue ="1"><title>no title</title></decvar><interpretvar varname="obs1" view="All">no description given</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>8</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>7</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>6</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="5"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="6"><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="7"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="8"><componentident>1</componentident></scoringzonecontains></conditionvar><setvar varname="obs1" action="Set">1</setvar><scoringdescription>reverse numbers 8 on 1 7 on 2 etc</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="57251" type="mc-sa"><question><![CDATA[What kind of connection is represented in the graphic?<Br><img src="4656.jpg">]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[console connection]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Ethernet connection]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[ISDN connection]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[leased line connection]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="113349" type="mc-sa"><question><![CDATA[What is the purpose of encoding?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Identification of start and stop bits in a frame.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Denotes the physical layers connectors of computers in relation to the way they connect to the network media.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Controls the way frames are placed on the media at the Data link layer.]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Represents the data bits by using different voltages, light patterns or electromagnetic waves as they are placed onto the physical media.]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="113348" type="mc-sa"><question><![CDATA[What best describes the purpose of the Physical Layer?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Ensures reliable transmission of data across a physical link.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Determines connectivity and path selection between two end systems.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Establishes the physical addressing, network topology and media access.]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Defines the functional specifications for link between end systems and the electrical, optical, and radio signals.]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="113048" type="mc-sa"><question><![CDATA[Through what process does UTP cable help to avoid crosstalk?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[shielding of cable]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[twisting of pairs]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[grounding the end points]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[cladding in cable]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="113351" type="mc-sa"><question><![CDATA[Refer to the exhibit. The network in the exhibit is wired with Cat 5e cable and Workstation &quot;C&quot; is unable to communicate with the network. What Physical Layer problem would cause the problem of Workstation &quot;C&quot; not connecting to the network?<Br><img src="14802.jpg">]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[wrong operating system]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[incorrect IP address]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[cable length]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[incorrect prefix ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[switch type]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="113356" type="mc-ma"><question><![CDATA[What are the advantages of using fiber optic cable over copper cable? (Choose three.)]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[copper is more expensive]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[immunity to electromagnetic interference]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[careful cable handling]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[longer maximum cable length]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[efficient electrical current transfer]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[greater bandwidth potential]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="113359" type="mc-sa"><question><![CDATA[What cable type would be used to connect a computer directly to another computer?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Straight-through]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Rollover]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Crossover]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Console]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="113363" type="mc-sa"><question><![CDATA[Refer to the exhibit.  What is the purpose of cladding in fiber optic cables?<Br><img src="14808.jpg">]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Cable grounding]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[noise cancellation]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[prevents light loss]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[EMI protection]]></text>
+							
+							
+						</choice></choices></ai></form-item></form></exam> 

@@ -1,0 +1,42 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>LAN Cabling Areas</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Switch</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Backbone Cabling</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>To other telecommunication rooms</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Patch Panel</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Horizontal Cabling</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Work Area</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Patch Cable</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Telecommunications Room</b>]]></text>
+</component>
+
+
+
+
+</textcomponents>

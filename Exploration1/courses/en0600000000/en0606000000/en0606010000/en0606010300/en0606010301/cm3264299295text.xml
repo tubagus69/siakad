@@ -1,0 +1,86 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[Value]]></text>
+</component>
+
+<component id="ID_activity">
+<text><![CDATA[<b>Activity</b>]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Binary To Decimal Conversion Activity</b>]]></text>
+</component>
+
+<component id="ID_scenario_txt">
+<text><![CDATA[Convert the given binary number shown in the Bit field to a decimal value.]]></text> 
+</component>
+
+<component id="ID_scenario1_txt">
+<text><![CDATA[Enter decimal answer here]]></text> 
+</component>
+
+<component id="ID_scenario2_txt">
+<text><![CDATA[Binary number]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Exponent]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Position]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Bit]]></text>
+</component>
+
+<component id="Text1">
+<text><![CDATA[2^7th]]></text>
+</component>
+
+<component id="Text2">
+<text><![CDATA[2^6th]]></text>
+</component>
+
+<component id="Text3">
+<text><![CDATA[2^5th]]></text>
+</component>
+
+<component id="Text4">
+<text><![CDATA[2^4th]]></text>
+</component>
+
+<component id="Text5">
+<text><![CDATA[2^3rd]]></text>
+</component>
+
+<component id="Text6">
+<text><![CDATA[2^2nd]]></text>
+</component>
+
+<component id="Text7">
+<text><![CDATA[2^1st]]></text>
+</component>
+
+<component id="Text8">
+<text><![CDATA[2^0]]></text>
+</component>
+
+<component id="ID_correct">
+<text><![CDATA[<b>Correct</b>]]></text>
+</component>
+
+<component id="ID_incorrect">
+<text><![CDATA[<b>Incorrect</b>]]></text>
+</component>
+
+<component id="ID_check">
+<text><![CDATA[Check]]></text>
+</component>
+
+<component id="ID_reset">
+<text><![CDATA[Reset]]></text>
+</component>
+
+</textcomponents>

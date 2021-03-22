@@ -1,0 +1,15 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>LANs separated by geographic distance are connected by a network known as a Wide Area Network (WAN).</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>LAN</b>]]></text>
+</component>
+<component id="ID_txt02a">
+<text><![CDATA[<b>LAN</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>WAN</b>]]></text>
+</component>
+
+</textcomponents>

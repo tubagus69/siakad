@@ -1,0 +1,22 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Copper Media</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Coaxial cable</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Unshielded twisted-pair cable</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>RJ-45 connections</b>]]></text> 
+  </component>
+  
+
+
+
+</textcomponents>

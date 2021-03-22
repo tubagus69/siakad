@@ -1,0 +1,19 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>WLAN Access Points and Adapters</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Wireless Access Point</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Wireless Adapters</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>Wireless Adapters</br></b>]]></text> 
+  </component>
+
+</textcomponents>

@@ -1,0 +1,44 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Common Data Network Symbols</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Desktop Computer</b>]]></text> 
+</component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Laptop</b>]]></text> 
+</component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Server</b>]]></text> 
+</component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>IP Phone</b>]]></text> 
+</component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>LAN Media</b>]]></text> 
+</component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>Wireless Media</b>]]></text> 
+</component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>LAN Switch</b>]]></text> 
+</component>
+<component id="ID_txt09">
+  <text><![CDATA[<b>Firewall</b>]]></text> 
+</component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>Router</b>]]></text> 
+</component>
+<component id="ID_txt11">
+  <text><![CDATA[<b>Wireless Router</b>]]></text> 
+</component>
+<component id="ID_txt12">
+  <text><![CDATA[<b>Cloud</b>]]></text> 
+</component>
+<component id="ID_txt13">
+  <text><![CDATA[<b>WAN Media</b>]]></text> 
+</component>
+
+
+</textcomponents>

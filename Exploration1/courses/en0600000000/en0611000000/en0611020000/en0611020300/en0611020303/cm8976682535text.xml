@@ -1,0 +1,25 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Saving to a Text File in HyperTerminal</b>]]></text>
+</component>
+
+<component id="ID_header1a">
+  <text><![CDATA[<b>In the terminal session:</b>]]></text> 
+  </component>
+  <component id="ID_txt02">
+	  <text><![CDATA[1. Start the text capture process]]></text> 
+  </component>
+  <component id="ID_txt03">
+	  <text><![CDATA[2. Issue a <b><font face="Courier New">show running-config</font></b> command]]></text> 
+  </component>
+  <component id="ID_txt04">
+	  <text><![CDATA[3. Stop the capture process]]></text> 
+  </component>
+    <component id="ID_txt05">
+		  <text><![CDATA[4. Save the text file]]></text> 
+  </component>
+   <component id="ID_header1">
+		  <text><![CDATA[<b>In the terminal session:</b>]]></text> 
+  </component>
+
+  </textcomponents>

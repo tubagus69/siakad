@@ -1,0 +1,83 @@
+﻿<textcomponents>
+
+<component id="ID_header1">
+<text><![CDATA[<b>Unit of Bandwidth</b>]]></text>
+</component>
+
+<component id="ID_header2">
+<text><![CDATA[<b>Abbreviation</b>]]></text>
+</component>
+
+<component id="ID_header3">
+<text><![CDATA[<b>Equivalence</b>]]></text>
+</component>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Bits per second</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Kilobits per second</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Megabits per second</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Gigabits per second</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Terabits per second</b>]]></text>
+</component>
+
+<component id="ID_txt01_2">
+<text><![CDATA[<b>bps</b>]]></text>
+</component>
+
+<component id="ID_txt02_2">
+<text><![CDATA[<b>kbps</b>]]></text>
+</component>
+
+<component id="ID_txt03_2">
+<text><![CDATA[<b>Mbps</b>]]></text>
+</component>
+
+<component id="ID_txt04_2">
+<text><![CDATA[<b>Gbps</b>]]></text>
+</component>
+
+<component id="ID_txt05_2">
+<text><![CDATA[<b>Tbps</b>]]></text>
+</component>
+
+<component id="ID_txt01_3">
+<text><![CDATA[<b>1 bps = fundamental unit of bandwidth</b>]]></text>
+</component>
+
+<component id="ID_txt02_3">
+<text><![CDATA[<b>1 kbps = 1,000 bps</b>]]></text>
+</component>
+
+<component id="ID_txt03_3">
+<text><![CDATA[<b>1 Mbps = 1,000,000 bps</b>]]></text>
+</component>
+
+<component id="ID_txt04_3">
+<text><![CDATA[<b>1 Gbps = 1,000,000,000 bps</b>]]></text>
+</component>
+
+<component id="ID_txt05_3">
+<text><![CDATA[<b>1 Tbps = 1,000,000,000,000 bps</b>]]></text>
+</component>
+
+
+
+<component id="ID_title01">
+<text><![CDATA[<b>Units of Bandwidth, Throughput, and Goodput</b>]]></text>
+</component>
+
+
+</textcomponents>

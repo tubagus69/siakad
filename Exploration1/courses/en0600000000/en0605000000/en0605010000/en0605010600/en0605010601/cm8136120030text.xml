@@ -1,0 +1,107 @@
+﻿<textcomponents>
+
+<component id="ID_inst01">
+<text><![CDATA[<b>Click to see the steps.</b>]]></text> 
+</component>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Generating IP Packets</b>]]></text> 
+</component>
+
+<component id="ID_inst02">
+<text><![CDATA[<b>Click to see the steps.</b>]]></text> 
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Generating IP Packets</b>]]></text> 
+</component>
+
+<component id="ID_inst03">
+<text><![CDATA[<b>Click to see the steps.</b>]]></text> 
+</component>
+
+<component id="ID_title03">
+<text><![CDATA[<b>Generating IP Packets</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Transport Layer Encapsulation</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Segment<br/>Header</b>]]></text> 
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Data</b>]]></text> 
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Transport Layer PDU</b>]]></text> 
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>The <font color="#009900">Transport layer</font> adds a header so segments can be accounted for and reordered at the destination.</b>]]></text> 
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Transport Layer Encapsulation</b>]]></text> 
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Segment Header</b>]]></text> 
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>Data</b>]]></text> 
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b><font color="#0099FF">Network Layer Encapsulation</font></b>]]></text> 
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>IP Header</b>]]></text> 
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Transport Layer PDU</b>]]></text> 
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>Network Layer PDU</b>]]></text> 
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>The <font color="#009900">Network layer</font> adds a header so packets can be routed through complex networks and reach their destination.</b>]]></text> 
+</component>
+<component id="ID_txt14">
+<text><![CDATA[<b>Transport Layer Encapsulation</b>]]></text> 
+</component>
+<component id="ID_txt15">
+  <text><![CDATA[<b>Segment Header</b>]]></text> 
+</component>
+
+<component id="ID_txt16">
+    <text><![CDATA[<b>Data</b>]]></text> 
+</component>
+
+<component id="ID_txt17">
+    <text><![CDATA[<font color="#0099FF"><b>Network Layer Encapsulation</b></font>]]></text> 
+</component>
+<component id="ID_txt18">
+      <text><![CDATA[<b>IP Header</b>]]></text> 
+</component>
+<component id="ID_txt19">
+	<text><![CDATA[<b>Transport Layer PDU</b>]]></text> 
+</component>
+
+<component id="ID_txt20">
+	  <text><![CDATA[<b>IP Packet</b>]]></text> 
+</component>
+<component id="ID_txt21">
+	    <text><![CDATA[<b>In <font color="#009900">TCP/IP based networks,</font> the Network layer PDU is the <font color="#009900">IP packet.</font></b>]]></text> 
+</component>
+<component id="ID_txt22">
+	      <text><![CDATA[<b>GO!</b>]]></text> 
+</component>
+
+<component id="btnOne">
+	      <text><![CDATA[<b>1</b>]]></text> 
+</component>
+<component id="btnTwo">
+	      <text><![CDATA[<b>2</b>]]></text> 
+</component>
+<component id="btnThree">
+	      <text><![CDATA[<b>3</b>]]></text> 
+</component>
+
+</textcomponents>

@@ -1,0 +1,61 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Testing Connectivity to Local Network</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Ping Local Gateway</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<font color="#990000"><b>ECHO REQUEST</b></font>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<font color="#6699CC"><b>ECHO REPLY</b></font>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>10.0.0.1</b></font>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>10.0.0.254</b></font>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>10.0.0.1</b><br>255.255.255.0</font>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>10.0.0.2</b><br>255.255.255.0</font>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>10.0.0.3</b><br>255.255.255.0</font>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>10.0.0.253</b><br>255.255.255.0</font>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<font color="#6699CC"><b>10.0.0.254</b></font><br>255.255.255.0</font>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<font color="#990000"><b>Host IP Address</b></font></font>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<font color="#6699CC"><b>Gateway Address</b></font></font>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>C:>ping 10.0.0.254</b></font>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>F1</b></font>]]></text>
+</component>
+</textcomponents>

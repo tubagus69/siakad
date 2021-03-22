@@ -1,0 +1,321 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Use this activity to check your understanding of the main points in this chapter.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>A series of questions will be presented. This is not a quiz and your answers are not recorded.</li><li>Click <b>Answer</b> to see the answer.</li><li>Click <b>Next Question</b> to go to the next question in the series.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Click Here<br/>to Begin</b>]]></text>
+</component>
+
+<!-- Question 1 -->
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[What defines a network in terms of an IPv4 address? ]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[<p>For each IPv4 address, some portion of the high-order bits represents the network address. At Layer 3, we define a network as a group of hosts that have identical bit patterns in the network address portion of their addresses. </p>]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[Name and state the purpose of the three types of IPv4 addresses.]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[<ul><li>Network address–The address by which we refer to the network</li><li>Broadcast address–A special address used to send data to all hosts in the network</li><li>Host addresses–The addresses assigned to the end devices in the network</li></ul>]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[What distinguishes each of the three types of IPv4 addresses?]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[<p>Within the IPv4 address range of a network, the lowest address is reserved for the network address. This address has a 0 for each host bit in the host portion of the address. 
+Host address – host bits are a unique mix of ones and zeroes within a network. The broadcast address uses the highest address in the network range. This is the address in which the bits in the host portion are all 1s. For the network 10.0.0.0 with 24 network bits, the broadcast address would be 10.0.0.255. This address is also referred to as the directed broadcast. </p>]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[2  List the three forms of IPv4 communication.]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[<ul><li>Unicast–the process of sending a packet from one host to an individual host</li><li>Broadcast–the process of sending a packet from one host to all hosts in the network</li><li>Multicast–the process of sending a packet from one host to a selected group of hosts</li></ul>]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[List the purpose of having specified ranges of IPv4 addresses for public and private use.]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[<p>Specified private addresses allows network administrators to all allocate addresses to those hosts they know never need to access the public internet.</p>]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q6_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[Where are reserved and special IPv4 addresses used?]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[Multicast Addresses – reserved for special purposes is the IPv4 multicast address range 224.0.0.0 to 239.255.255.255.
+Private Addresses The private address blocks are:
+10.0.0.0 to 10.255.255.255 (10.0.0.0 /8)
+172.16.0.0 to 172.31.255.255 (172.16.0.0 /12)
+192.168.0.0 to 192.168.255.255 (192.168.0.0 /16)
+Private space address blocks, as shown in the figure, are set aside for use in private networks. The use of these addresses need not be unique among outside networks. Hosts that do not require access to the Internet at large may make unrestricted use of private addresses. Many hosts in different networks may use the same private space addresses. Packets using these addresses as the source or destination should not appear on the public Internet. The router or firewall device at the perimeter of these private networks must block or translate these addresses.
+Default Route:
+The IPv4 default route as 0.0.0.0. The use of this address also reserves all addresses in the 0.0.0.0 – 0.255.255.255 (0.0.0.0 /8) address block.
+Loopback:
+One reserved address is the IPv4 loopback address 127.0.0.1 - addresses 127.0.0.0 to 127.255.255.255 are reserved for loopback where hosts direct traffic to themselves.
+Link-Local Link Addresses:
+IPv4 addresses in the address block 169.254.0.0 to 169.254.255.255 (169.254.0.0 /16) are designated as link-local addresses. These addresses can be automatically assigned to the local host by the operating system in environments where no IP configuration is available. These might be used in a small peer-to-peer network or for a host that could not automatically obtain an address from a Dynamic Host Configuration Protocol (DHCP) server.
+TEST-NET Addresses
+The address block 192.0.2.0 to 192.0.2.255 (192.0.2.0 /24) is set aside for teaching and learning purposes. These addresses can be used in documentation and network examples. Unlike the experimental addresses, network devices will accept these addresses in their configurations.
+]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 7 -->
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[List three reasons for planning and documenting IPv4 addresses.]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[<p>The allocation of addresses inside the networks should be planned and documented for the purpose of:</p><ul><li>Preventing duplication of addresses</li><li>Providing and controlling access</li><li>Monitoring security and performance</li></ul>]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q7_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 8 -->
+
+<component id="ID_Q8_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q8_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q8_txt03">
+<text><![CDATA[Give examples where network administrators statically and dynamically assigned IPv4 addresses.]]></text>
+</component>
+<component id="ID_Q8_txt04">
+<text><![CDATA[<p>Static assigned addresses – servers, printers, LAN gateway addresses on routers, management addresses on network devices such as switches and wireless access points.</p><br/><p>Dynamically assigned addresses – large numbers of general-purpose computers and end devices such as IP phones.</p>]]></text>
+</component>
+<component id="ID_Q8_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q8_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 9 -->
+
+<component id="ID_Q9_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q9_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q9_txt03">
+<text><![CDATA[List the features of IPv6 that distinquish it from IPv4.]]></text>
+</component>
+<component id="ID_Q9_txt04">
+<text><![CDATA[<p>IPv6 has these features compared to IPv4:</p><ul><li>Improved packet handling</li><li>Increased scalability and longevity</li><li>QoS mechanisms</li><li>Integrated security</li></ul><br/><p>To provide these features, IPv6 offers:</p><ul><li>128-bit hierarchical addressing–to expand addressing capabilities</li><li>Header format simplification–to improve packet handling</li><li>Improved support for extensions and options–for increased scalability/longevity and improved packet handling</li><li>Flow labeling capability–as QoS mechanisms</li><li>Authentication and privacy capabilities–to integrate security</li></ul>]]></text>
+</component>
+<component id="ID_Q9_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q9_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 10 -->
+
+<component id="ID_Q10_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q10_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q10_txt03">
+<text><![CDATA[State the purpose of the subnet mask in IPv4 addressing.]]></text>
+</component>
+<component id="ID_Q10_txt04">
+<text><![CDATA[<p>Network devices use the subnet mask to determine the network or subnet address of an IP address the device is processing.</p>]]></text>
+</component>
+<component id="ID_Q10_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q10_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 11 -->
+
+<component id="ID_Q11_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q11_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q11_txt03">
+<text><![CDATA[List factors that should be considered when planning an IPv4 addressing scheme. ]]></text>
+</component>
+<component id="ID_Q11_txt04">
+<text><![CDATA[<p>Network are subnetted to overcome issues with location, size, and control. In designing the addressing, consider these factors for grouping the hosts:</p><ul><li>Grouping based on common geographic location</li><li>Grouping hosts used for specific purposes</li><li>Grouping based on ownership</li></ul>]]></text>
+</component>
+<component id="ID_Q11_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q11_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 12 -->
+
+<component id="ID_Q12_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q12_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q12_txt03">
+<text><![CDATA[State three possible levels at which to use the ping utility to test and verify a host's network connectivity.]]></text>
+</component>
+<component id="ID_Q12_txt04">
+<text><![CDATA[<ul><li>Ping 127.0.0.1 Loop back test</li><li>Ping the host's gateway address or another host on the same network</li><li>Ping a host on a remote network</li></ul>]]></text>
+</component>
+<component id="ID_Q12_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q12_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 13-->
+
+<component id="ID_Q13_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q13_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q13_txt03">
+<text><![CDATA[When would using a trace route utility be more useful than ping?]]></text>
+</component>
+<component id="ID_Q13_txt04">
+<text><![CDATA[<p>When a remote address cannot be accessed and ping fails. Using traceroute would show how many hops towards the destination that the source host could successfully reach. This may then help in determining where the network is failing or where security restrictions are.</p>]]></text>
+</component>
+<component id="ID_Q13_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q13_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 14 -->
+
+<component id="ID_Q14_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q14_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q14_txt03">
+<text><![CDATA[List the reasons why ICMPv4 is an important protocol to have operating with IPv4.]]></text>
+</component>
+<component id="ID_Q14_txt04">
+<text><![CDATA[<p>IPv4 is an unreliable best-effort protocol. ICMPv4 provides a means for network problems such as dropped packets or congestion to be reported back to the source network or host. Messages include:</p><ul><li>Host conformation</li><li>Unreachable Destination or Service</li><li>Time exceeded</li><li>Route redirection</li><li>Source quench</li></ul><br/><p>Note: ICMP does not make IP reliable.</p>]]></text>
+</component>
+<component id="ID_Q14_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q14_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+</textcomponents>

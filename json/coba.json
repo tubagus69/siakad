@@ -1,0 +1,11 @@
+{
+    "nama"  :   "dika",
+    "umur"  :   32,
+    "NIP"   :   "041202002",
+    "lulus" :   true,
+    "hobby" :   ["berenang","memanah","berkuda"],
+    "pembimbing"    :   {
+        "pembimbing 1"  :   "dimas wahyu wibowo",
+        "pembimbing 2"  :   "eka larasati amalia"
+    }
+}

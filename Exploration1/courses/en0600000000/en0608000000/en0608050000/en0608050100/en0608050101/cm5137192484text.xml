@@ -1,0 +1,8 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>In this chapter, you learned to:</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<ul><li>Explain the role of Physical layer protocols and services in supporting communication across data networks.</li><li>Describe the purpose of Physical layer signaling and encoding as they are used in networks.</li><li>Describe the role of signals used to represent bits as a frame is transported across the local media.</li><li>Identify the basic characteristics of copper, fiber, and wireless network media.</li><li>Describe common uses of copper, fiber, and wireless network media.</li></ul>]]></text> 
+  </component>
+</textcomponents>

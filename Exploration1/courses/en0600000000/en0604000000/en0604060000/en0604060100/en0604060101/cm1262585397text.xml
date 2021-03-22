@@ -1,0 +1,8 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>In this chapter, you learned to:</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<ul><li>Explain the need for the Transport layer</li><li>Identify the role of the Transport layer as it provides the end-to-end transfer of data between applications</li><li>Describe the role of  two TCP/IP Transport layer protocols, TCP and UDP</li><li>Explain the key functions of the Transport layer including reliability, port addressing, and segmentation</li><li>Explain how TCP and UDP each handle these key functions</li><li>Identify when it is appropriate to use TCP or UDP and provide examples of applications that use each protocol</li></ul>]]></text> 
+  </component>
+</textcomponents>

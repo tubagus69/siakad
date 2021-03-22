@@ -1,0 +1,80 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Activity</title>
+<script type="text/javascript" src="../js/swfobject.js"></script>
+<style type="text/css">
+	/* hide from ie on mac \*/
+	html {
+		height: 100%;
+		overflow: hidden;
+	}
+	
+	#flashcontent {
+		height: 100%;
+	}
+	/* end hide */
+
+	body {
+		height: 100%;
+		padding: 0;
+		margin-left: 0px;
+		margin-top: 0px;
+		margin-right: 0px;
+		margin-bottom: 0px;
+	}
+
+
+</style>
+<script language="Javascript">
+var width=0;
+var height=0;
+function checkSize(){
+	if(document.layers) {
+		 width = window.innerWidth;
+    		height = window.innerHeight;
+	} else {
+		width = document.body.clientWidth;
+		height = document.body.clientHeight;
+	}	
+	if(height < 500){
+		setTimeout("resizeOuterTo(width,520)",200);
+	}else if(width < 740){
+		setTimeout("resizeOuterTo(760,height)",200);
+	}
+}
+//alert(window.location.search.split("=")[1])
+function resizeOuterTo(w,h) {
+ 	if (parseInt(navigator.appVersion)>3) {
+  		 if (navigator.appName=="Netscape") {
+    			top.outerWidth=w;
+				top.outerHeight=h+40;
+	      } else{
+ 				top.resizeTo((w+12),(h+30));//had to add some to account for chrome
+		 }
+	}
+}
+</script>
+</head>
+<body bgcolor="#ffffff" onresize="checkSize()" onload="checkSize()">
+	<div id="flashcontent">
+
+		<strong>You need to upgrade your Flash Player</strong>
+		This is replaced by the Flash content. 
+		Place your alternate content here and users without the Flash plugin or with 
+		Javascript turned off will see this. Content here allows you to leave out 		<code>noscript</code> 
+		tags. Include a link to <a href="quiz.html?detectflash=false">bypass the 		detection</a> if you wish.
+	</div>
+	
+	<script type="text/javascript">
+		// <![CDATA[
+		
+		var so = new SWFObject("avalon.swf", "activity", "800", "450", "8", "#FFFFFF");
+		so.addVariable("flashVarText", "this is passed in via FlashVars for example only");
+		so.addParam("base", window.location.search.split("=")[1]);
+		so.write("flashcontent");
+		
+		// ]]>
+	</script>
+</body>
+</html>

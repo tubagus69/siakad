@@ -1,0 +1,288 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>4B/5B Code Symbols</b>]]></text>
+</component>
+
+<component id="ID_txt01a">
+<text><![CDATA[<b>Data Codes</b>]]></text>
+</component>
+
+<component id="ID_txt02a">
+<text><![CDATA[<b>Control and Invalid Codes</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>4B Code</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>5B Symbol</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>0000</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>0001</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>0010</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>0011</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>0100</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>0101</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>0110</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>0111</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>1000</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>1001</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>1010</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>1011</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>1100</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>1101</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>1110</b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>1111</b>]]></text>
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[<b>11110</b>]]></text>
+</component>
+
+<component id="ID_txt20">
+<text><![CDATA[<b>01001</b>]]></text>
+</component>
+
+<component id="ID_txt21">
+<text><![CDATA[<b>10100</b>]]></text>
+</component>
+
+<component id="ID_txt22">
+<text><![CDATA[<b>10101</b>]]></text>
+</component>
+
+<component id="ID_txt23">
+<text><![CDATA[<b>01010</b>]]></text>
+</component>
+
+<component id="ID_txt24">
+<text><![CDATA[<b>01011</b>]]></text>
+</component>
+
+<component id="ID_txt25">
+<text><![CDATA[<b>01110</b>]]></text>
+</component>
+
+<component id="ID_txt26">
+<text><![CDATA[<b>01111</b>]]></text>
+</component>
+
+<component id="ID_txt27">
+<text><![CDATA[<b>10010</b>]]></text>
+</component>
+
+<component id="ID_txt28">
+<text><![CDATA[<b>10011</b>]]></text>
+</component>
+
+<component id="ID_txt29">
+<text><![CDATA[<b>10110</b>]]></text>
+</component>
+
+<component id="ID_txt30">
+<text><![CDATA[<b>10111</b>]]></text>
+</component>
+
+<component id="ID_txt31">
+<text><![CDATA[<b>11010</b>]]></text>
+</component>
+
+<component id="ID_txt32">
+<text><![CDATA[<b>11011</b>]]></text>
+</component>
+
+<component id="ID_txt33">
+<text><![CDATA[<b>11100</b>]]></text>
+</component>
+
+
+<component id="ID_txt34">
+<text><![CDATA[<b>11101</b>]]></text>
+</component>
+
+<component id="ID_txt35">
+<text><![CDATA[<b>4B Code</b>]]></text>
+</component>
+
+<component id="ID_txt36">
+<text><![CDATA[<b>5B Symbol</b>]]></text>
+</component>
+
+<component id="ID_txt37">
+<text><![CDATA[<b>idle</b>]]></text>
+</component>
+
+<component id="ID_txt38">
+<text><![CDATA[<b>start of stream</b>]]></text>
+</component>
+
+<component id="ID_txt39">
+<text><![CDATA[<b>start of stream</b>]]></text>
+</component>
+
+<component id="ID_txt40">
+<text><![CDATA[<b>end of stream</b>]]></text>
+</component>
+
+<component id="ID_txt41">
+<text><![CDATA[<b>end of stream</b>]]></text>
+</component>
+
+<component id="ID_txt42">
+<text><![CDATA[<b>transmit error</b>]]></text>
+</component>
+
+<component id="ID_txt43">
+<text><![CDATA[<b>invalid</b>]]></text>
+</component>
+
+<component id="ID_txt44">
+<text><![CDATA[<b>invalid</b>]]></text>
+</component>
+
+<component id="ID_txt45">
+<text><![CDATA[<b>invalid</b>]]></text>
+</component>
+
+<component id="ID_txt46">
+<text><![CDATA[<b>invalid</b>]]></text>
+</component>
+
+<component id="ID_txt47">
+<text><![CDATA[<b>invalid</b>]]></text>
+</component>
+
+<component id="ID_txt48">
+<text><![CDATA[<b>invalid</b>]]></text>
+</component>
+
+<component id="ID_txt49">
+<text><![CDATA[<b>invalid</b>]]></text>
+</component>
+
+<component id="ID_txt50">
+<text><![CDATA[<b>invalid</b>]]></text>
+</component>
+
+<component id="ID_txt51">
+<text><![CDATA[<b>invalid</b>]]></text>
+</component>
+
+<component id="ID_txt52">
+<text><![CDATA[<b>invalid</b>]]></text>
+</component>
+
+<component id="ID_txt53">
+<text><![CDATA[<b>11111</b>]]></text>
+</component>
+
+<component id="ID_txt54">
+<text><![CDATA[<b>11000</b>]]></text>
+</component>
+
+<component id="ID_txt55">
+<text><![CDATA[<b>10001</b>]]></text>
+</component>
+
+<component id="ID_txt56">
+<text><![CDATA[<b>01101</b>]]></text>
+</component>
+
+<component id="ID_txt57">
+<text><![CDATA[<b>00111</b>]]></text>
+</component>
+
+<component id="ID_txt58">
+<text><![CDATA[<b>00111</b>]]></text>
+</component>
+
+<component id="ID_txt59">
+<text><![CDATA[<b>00000</b>]]></text>
+</component>
+
+<component id="ID_txt60">
+<text><![CDATA[<b>00001</b>]]></text>
+</component>
+
+<component id="ID_txt61">
+<text><![CDATA[<b>00010</b>]]></text>
+</component>
+
+<component id="ID_txt62">
+<text><![CDATA[<b>00011</b>]]></text>
+</component>
+
+<component id="ID_txt63">
+<text><![CDATA[<b>00100</b>]]></text>
+</component>
+
+<component id="ID_txt64">
+<text><![CDATA[<b>00101</b>]]></text>
+</component>
+
+<component id="ID_txt65">
+<text><![CDATA[<b>00110</b>]]></text>
+</component>
+
+<component id="ID_txt66">
+<text><![CDATA[<b>01000</b>]]></text>
+</component>
+
+<component id="ID_txt67">
+<text><![CDATA[<b>10000</b>]]></text>
+</component>
+
+<component id="ID_txt68">
+<text><![CDATA[<b>11001</b>]]></text>
+</component>
+
+</textcomponents>

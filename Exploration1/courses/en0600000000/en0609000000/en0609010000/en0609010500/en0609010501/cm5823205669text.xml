@@ -1,0 +1,23 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Physical Devices Implementing Ethernet</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>UTP patch panels in a rack</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Ethernet switches</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>Ethernet fiber connectors</br></b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+    <text><![CDATA[<b>Ethernet switch</br></b>]]></text> 
+  </component>
+
+</textcomponents>

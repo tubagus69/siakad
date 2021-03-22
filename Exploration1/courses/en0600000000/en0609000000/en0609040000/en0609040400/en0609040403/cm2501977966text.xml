@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_txt01">
+    <text><![CDATA[<b>After a Jam signal is received, all stations cease transmission and each waits a random time period&#8212;set by the back off timer&#8212;before trying to send another frame.</b>]]></text> 
+  </component>
+  
+  
+<component id="ID_txt03">
+      <text><![CDATA[<b>A</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+      <text><![CDATA[<b>B</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+            <text><![CDATA[<b>C</b>]]></text> 
+  </component>
+  
+<component id="ID_txt06">
+            <text><![CDATA[<b>D</b>]]></text> 
+  </component>
+  
+<component id="ID_title">
+            <text><![CDATA[<b>Backoff Timing</b>]]></text> 
+  </component>
+</textcomponents>

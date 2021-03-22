@@ -1,0 +1,73 @@
+<textcomponents>
+  
+<component id="ID_title">
+  <text><![CDATA[<b>No Route Entry and No Default Route </b>]]></text> 
+  </component>
+  
+
+<component id="ID_txt01">
+<text><![CDATA[<b>L2</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>IP</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>DATA</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>L2</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>DATA FOR NETWORK 10.1.2.0</b>]]></text> 
+  </component>
+    
+  <component id="ID_txt06">
+    <text><![CDATA[<b>IP</b>]]></text> 
+    </component>
+    
+  <component id="ID_txt07">
+    <text><![CDATA[<b>Data</b>]]></text> 
+    </component>
+    
+  <component id="ID_txt08">
+    <text><![CDATA[<b>10.1.2.0</b>]]></text> 
+    </component>
+    
+  <component id="ID_txt09">
+    <text><![CDATA[<b>192.168.1.0<br/>10.3.5.0<br/>11.1.3.0</b>]]></text> 
+    </component>
+    
+  <component id="ID_txt10">
+    <text><![CDATA[<b>IP</b>]]></text> 
+    </component>
+    
+  <component id="ID_txt11">
+    <text><![CDATA[<b>Data</b>]]></text> 
+    </component>
+    
+  <component id="ID_txt12">
+    <text><![CDATA[<b>Interface<br/>192.168.1.2</b>]]></text> 
+    </component>
+    
+  <component id="ID_txt13">
+    <text><![CDATA[<b>IP</b>]]></text> 
+    </component>
+    
+  <component id="ID_txt14">
+    <text><![CDATA[<b>Data</b>]]></text> 
+    </component>
+    
+  <component id="ID_txt15">
+    <text><![CDATA[<b>Waste</b>]]></text> 
+    </component>
+    
+  <component id="ID_txt16">
+    <text><![CDATA[<b>If there is no matching address in the routing table and no available default address, the IP packet is dropped - it is not forwarded and not returned.</b>]]></text> 
+    </component>
+  
+  
+</textcomponents>

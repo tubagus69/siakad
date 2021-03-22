@@ -1,0 +1,41 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Routers configured with routes</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>192.168.2.1/24</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>192.168.1.1/24</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b><font color="#993333">192.168.2.2/24</font></b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b><font color="#003399">192.168.1.2/24</font></b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b><font color="#003399">Network 10.1.1.0/24</font></b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b><font color="#003399">Network 10.1.2.0/24</font></b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>A</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>B</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>C</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Router A:<BR><font color="#993333">192.168.2.2/24</font> configured manually as next hop for networks 10.1.1.0/24 and 10.1.2.0/24</b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>Router B:<BR><font color="#003399">192.168.1.2/24</font> configured manually as next hop for networks 10.1.1.0/24 and 10.1.2.0/24</b>]]></text>
+</component>
+<omponent id="ID_txt13">
+<text><![CDATA[<b>Static Routing</b>]]></text>
+</component>
+</textcomponents>

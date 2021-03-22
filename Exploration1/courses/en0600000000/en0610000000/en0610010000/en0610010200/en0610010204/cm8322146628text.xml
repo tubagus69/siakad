@@ -1,0 +1,9 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Cisco Routers</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Each series of Cisco router provides expandability, support for multiple media types, and various system features and services.</b>]]></text> 
+  </component>
+
+</textcomponents>

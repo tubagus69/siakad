@@ -1,0 +1,63 @@
+<textcomponents>
+   <component id="ID_txt01">
+      <text><![CDATA[<b>Communicating the Message</b>]]></text>
+   </component>
+   
+             <component id="segmentation">
+      <text>Segmentation</text>
+   </component>
+   
+      <component id="multiplexing">
+      <text>Multiplexing</text>
+   </component>
+
+
+   <component id="play">
+      <text>Play</text>
+   </component>
+   <component id="pause">
+      <text>Pause</text>
+   </component>
+   <component id="rewind">
+      <text>Rewind</text>
+   </component>
+   <component id="forward">
+      <text>Fast Forward</text>
+   </component>
+   <component id="mute">
+      <text>Mute</text>
+   </component>
+   
+   <component id="unmute">
+      <text>UnMute</text>
+   </component>
+   
+   <component id="previous">
+      <text>Restart</text>
+   </component>
+   <component id="next">
+      <text>End</text>
+   </component>
+   <component id="transcript">
+      <text>Transcript</text>
+   </component>
+       <component id="ID_txt02">
+           <text><![CDATA[<b>Multiple communications are interleaved, giving each user a part of the bandwidth.</b>]]></text> 
+       </component>
+
+       <component id="ID_txt02">
+         <text><![CDATA[<b>Multiple communications are interleaved, giving each user a part of the bandwidth.</b>]]></text> 
+       </component>
+       <component id="ID_txt03">
+       <text><![CDATA[<b>Click each tab. Then click Play to see the animation.</b>]]></text> 
+       </component>
+       <component id="ID_txt04">
+       <text><![CDATA[<i>Segmentation</i> - <b>breaking communication into pieces.</b>]]></text> 
+       </component>
+       <component id="ID_txt05">
+       <text><![CDATA[<i>Multiplexing</i> - <b>interleaving the pieces as they traverse the media.</b>]]></text> 
+       </component>
+       
+
+    
+</textcomponents>

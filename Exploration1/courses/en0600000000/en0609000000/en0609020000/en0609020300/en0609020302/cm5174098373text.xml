@@ -1,0 +1,35 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Gigabit Ethernet</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Gigabit Ethernet technology is applied beyond the enterprise LAN to MAN and WAN-based networks.</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Metropolitan-area Network</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>LAN</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>LAN</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>LAN</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>WAN</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>MAN</b>]]></text> 
+</component>
+
+</textcomponents>

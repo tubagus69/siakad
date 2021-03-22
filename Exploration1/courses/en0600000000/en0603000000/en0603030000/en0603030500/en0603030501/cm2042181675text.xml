@@ -1,0 +1,47 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>DHCP Servers</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>ISP 1</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>ISP 2</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>ISP 3</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>ISP DHCP Server</b>]]></text> 
+  </component>
+  <component id="ID_txt06">
+    <text><![CDATA[<b>Router DHCP Server</b>]]></text> 
+  </component>
+  <component id="ID_txt07">
+      <text><![CDATA[<b>DHCP Client</b>]]></text> 
+  </component>
+  <component id="ID_txt08">
+        <text><![CDATA[<b>DHCP Client</b>]]></text> 
+  </component>
+  <component id="ID_txt09">
+        <text><![CDATA[<b>DHCP Client</b>]]></text> 
+  </component>
+  <component id="ID_txt10">
+          <text><![CDATA[<b>ISR can be DHCP Client and Server</b>]]></text> 
+  </component>
+  <component id="ID_txt11">
+            <text><![CDATA[<b>Local DHCP Server</b>]]></text> 
+  </component>
+  <component id="ID_txt12">
+              <text><![CDATA[<b>Corporate Network</b>]]></text> 
+  </component>
+  <component id="ID_txt13">
+                <text><![CDATA[<b>Home / Small Business Network</b>]]></text> 
+  </component>
+  <component id="ID_txt14">
+                  <text><![CDATA[<b>Single Home PC</b>]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,79 @@
+<theme>
+  <languages>
+    <lang code="en">English</lang>
+  </languages>
+  <navigation>
+    <nindex>
+      <rolltext code="en">Course Index</rolltext>
+    </nindex>
+    <nsearch>
+      <rolltext code="en">Search</rolltext>
+    </nsearch>
+    <nglossary>
+      <rolltext code="en">Glossary</rolltext>
+    </nglossary>
+    <ntools>
+      <rolltext code="en">Global Tools</rolltext>
+    </ntools>
+    <ntranslate>
+      <rolltext code="en">Change language to</rolltext>
+    </ntranslate>
+    <next>
+      <rolltext code="en">Next</rolltext>
+    </next>
+    <prev>
+      <rolltext code="en">Back</rolltext>
+    </prev>
+    <copyright>
+      <text code="en">All contents copyright &#169; 2007 Cisco
+      Systems, Inc. All | Translated by the Cisco
+      Networking Academy.</text>
+    </copyright>
+    <copyrightnotrans>
+      <text code="en">All contents copyright &#169; 2007 Cisco
+      Systems, Inc. </text>
+    </copyrightnotrans>
+    <about>
+      <text code="en">About</text>
+    </about>
+    <abouttitle>
+      <text code="en">About</text>
+    </abouttitle>
+    <indextitle>
+      <text code="en">Course Index</text>
+    </indextitle>
+    <searchtitle>
+      <text code="en">Search</text>
+    </searchtitle>
+    <glossaryseealso>
+      <text code="en">See Also: </text>
+    </glossaryseealso>
+    <glossarytitle>
+      <text code="en">Glossary</text>
+    </glossarytitle>
+    <globaltitle>
+      <text code="en">Global Tools</text>
+    </globaltitle>
+    <indexoutline>
+      <text code="en">Outline</text>
+    </indexoutline>
+    <indexactivity>
+      <text code="en">Activities</text>
+    </indexactivity>
+    <indexlab>
+      <text code="en">Labs</text>
+    </indexlab>
+    <indexmainmenu>
+      <text code="en">Course Menu</text>
+    </indexmainmenu>
+    <indexcourseall>
+      <text code="en">Course All</text>
+    </indexcourseall>
+    <searchline>
+      <text code="en">Enter search term here</text>
+    </searchline>
+    <searchbtn>
+      <text code="en">Search</text>
+    </searchbtn>
+  </navigation>
+</theme>

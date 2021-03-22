@@ -1,0 +1,57 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>1000Base-X Fiber Link Support</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[Link Configuration]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[125/62.5 &#181;m multimode optical fiber1]]></text> 
+  </component>
+  
+  
+<component id="ID_txt04">
+  <text><![CDATA[125/50 &#181;m multimode optical fiber]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[125/10 &#181;m single mode optical fiber]]></text> 
+  </component>
+  
+<component id="ID_txt07">
+  <text><![CDATA[1000Base-SX (850 nm Wavelength)]]></text> 
+  </component>
+   
+  
+<component id="ID_txt08">
+  <text><![CDATA[Supported]]></text> 
+  </component>
+  
+<component id="ID_txt09">
+  <text><![CDATA[Supported]]></text> 
+  </component>
+  
+<component id="ID_txt10">
+  <text><![CDATA[Not supported]]></text> 
+  </component>
+  
+<component id="ID_txt12">
+  <text><![CDATA[1000Base-LX (1300 nm Wavelength)]]></text> 
+  </component>
+  
+<component id="ID_txt13">
+  <text><![CDATA[Supported]]></text> 
+  </component>
+  
+<component id="ID_txt14">
+  <text><![CDATA[Supported]]></text> 
+  </component>
+  
+<component id="ID_txt15">
+  <text><![CDATA[Supported]]></text> 
+  </component>
+  
+</textcomponents>

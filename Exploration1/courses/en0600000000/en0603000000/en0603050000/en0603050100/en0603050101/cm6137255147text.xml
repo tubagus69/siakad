@@ -1,0 +1,8 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>In this chapter, you learned to:</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<ul><li>Describe how the functions of the three upper OSI model layers provide network services to end user applications.</li><li>Describe how the TCP/IP Application layer protocols provide the services specified by the upper layers of the OSI model.</li><li>Define how people use the Application layer to communicate across the information network.</li><li>Describe the function of well-known TCP/IP applications, such as the World Wide Web and email, and their related services (HTTP, DNS, SMB, DHCP, STMP/POP, and Telnet).</li><li>Describe file-sharing processes that use peer-to-peer applications and the Gnutella protocol.</li><li>Explain how protocols ensure services running on one kind of device can send to and receive data from many different network devices.</li><li>Use network analysis tools to examine and explain how common user applications work.</li></ul>]]></text> 
+  </component>
+</textcomponents>

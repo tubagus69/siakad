@@ -1,0 +1,78 @@
+<textcomponents>
+   <component id="play">
+      <text>Play</text>
+   </component>
+   <component id="pause">
+      <text>Pause</text>
+   </component>
+   <component id="rewind">
+      <text>Rewind</text>
+   </component>
+   <component id="forward">
+      <text>Fast Forward</text>
+   </component>
+   <component id="mute">
+      <text>Mute</text>
+   </component>
+   <component id="unmute">
+      <text>UnMute</text>
+   </component>
+   <component id="previous">
+      <text>Restart</text>
+   </component>
+   <component id="next">
+      <text>End</text>
+   </component>
+   
+   <component id="bubble_txt01">
+         <text><![CDATA[<b>I am sending this file with FTP using TCP, to make sure you receive it!</b>]]></text>
+   </component>
+    
+    <component id="bubble_txt02">
+         <text><![CDATA[<b>I received the first three, I will send an acknowledgement.</b>]]></text>
+   </component>
+     
+      <component id="bubble_txt03">
+         <text><![CDATA[<b>I got an acknowledgement, I will send the next group.</b>]]></text>
+   </component>
+   
+    <component id="bubble_txt04">
+         <text><![CDATA[<b>I missed the second group, I will send no acknowledgment.</b>]]></text>
+   </component>
+     <component id="bubble_txt05">
+         <text><![CDATA[<b>I received no acknowledgment, I will resend the last group.</b>]]></text>
+   </component>
+     
+      <component id="bubble_txt06">
+         <text><![CDATA[<b>I received the next group. I will send an acknowledgment.</b>]]></text>
+   </component>
+   
+<component id="ID_txt02">
+  <text><![CDATA[<b>ISP 1</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>ISP 2</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Server Farm</b>]]></text> 
+  </component>
+  <component id="ID_txt05">
+  <text><![CDATA[<b>Web</b>]]></text> 
+  </component>
+  
+   <component id="ID_txt06">
+         <text><![CDATA[<b>Segment 1</b>]]></text>
+   </component>
+    <component id="ID_title">
+	   <text><![CDATA[<b>TCP Retransmission</b>]]></text> 
+  </component>
+      <component id="ID_inst">
+		   <text><![CDATA[<b>Click Play to the see the animation.</b>]]></text> 
+  </component>
+  
+
+ <component id="ID_txt07">
+            <text><![CDATA[<b>FTP File Transfer using TCP</b>]]></text>
+               </component>
+  
+</textcomponents>

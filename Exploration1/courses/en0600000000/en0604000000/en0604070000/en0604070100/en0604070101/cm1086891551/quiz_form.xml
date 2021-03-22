@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13236" dateexported="06/05/2007">
+		<name>Module 4 Quiz</name>
+		<form id="18833" lang="en"><form-item>
+			<ai id="54148" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="54148" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>20</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>23</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>25</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>27</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>63</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>80</mattext></material></textcomponent></component><component ident="7" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>110</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>HTTP</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>Telnet</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>FTP</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>SMTP</mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="760"><material><mattext>Match the TCP port numbers with the correct protocol by dragging the options on the left to the targets on the right. (Not all options are used.)</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-124" targetYspacing="11" yspacing="40" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="115"/><display componentIdent="3" xpos="200" ypos="155"/><display componentIdent="4" xpos="200" ypos="195"/><display componentIdent="5" xpos="200" ypos="235"/><display componentIdent="6" xpos="200" ypos="275"/><display componentIdent="7" xpos="200" ypos="315"/></options><targets><display componentIdent="1" xpos="600" ypos="75"/><display componentIdent="2" xpos="600" ypos="112"/><display componentIdent="3" xpos="600" ypos="149"/><display componentIdent="4" xpos="600" ypos="186"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident></scoringzone><scoringzone ident ="2"><componentident>2</componentident></scoringzone><scoringzone ident ="3"><componentident>3</componentident></scoringzone><scoringzone ident ="4"><componentident>4</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="obs1" maxvalue ="1"><title>no title</title></decvar><interpretvar varname="obs1" view="All">no description given</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>6</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>3</componentident></scoringzonecontains></conditionvar><setvar varname="obs1" action="Set">1</setvar><scoringdescription>answers from top: 80; 23, 20, 25 distractors: 27, 63, 110</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="55700" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="55700" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>reliable</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>no flow control</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>reassembles messages at destination host</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>re-sends anything not received</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>does not reassemble incoming messages</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>unreliable</mattext></material></textcomponent></component><component ident="7" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>connectionless</mattext></material></textcomponent></component><component ident="8" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>connection-oriented</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>TCP -  Transmission Control Protocol</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>UDP - User Datagram Protocol</mattext></material></textcomponent></component> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="7" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="8" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Categorize the options based on whether they describe TCP or UDP.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-150" targetYspacing="5" yspacing="45" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="115"/><display componentIdent="3" xpos="200" ypos="155"/><display componentIdent="4" xpos="200" ypos="195"/><display componentIdent="5" xpos="200" ypos="235"/><display componentIdent="6" xpos="200" ypos="275"/><display componentIdent="7" xpos="200" ypos="315"/><display componentIdent="8" xpos="200" ypos="355"/></options><labels><display componentIdent="1" xpos="600" ypos="91.5" containsTargets="4" startTarg="1" labelStyle="1"/><display componentIdent="2" xpos="600" ypos="264.5" containsTargets="4" startTarg="5" labelStyle="1"/></labels><targets><display componentIdent="1" xpos="600" ypos="100"/><display componentIdent="2" xpos="600" ypos="137"/><display componentIdent="3" xpos="600" ypos="174"/><display componentIdent="4" xpos="600" ypos="211"/><display componentIdent="5" xpos="600" ypos="273"/><display componentIdent="6" xpos="600" ypos="310"/><display componentIdent="7" xpos="600" ypos="347"/><display componentIdent="8" xpos="600" ypos="384"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident><componentident>2</componentident><componentident>3</componentident><componentident>4</componentident></scoringzone><scoringzone ident ="2"><componentident>5</componentident><componentident>6</componentident><componentident>7</componentident><componentident>8</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="obs1" maxvalue ="1"><title>no title</title></decvar><interpretvar varname="obs1" view="All">TCP and UDP</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>1</componentident><componentident>3</componentident><componentident>4</componentident><componentident>8</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident><componentident>5</componentident><componentident>6</componentident><componentident>7</componentident></scoringzonecontains></conditionvar><setvar varname="obs1" action="Set">1</setvar><scoringdescription>TCP - reliable, reassembles, re-sends, connection oriented. UDP - no flow control, doesn&apos;t reassemble, unreliable, connectionless</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="54324" type="mc-sa"><question><![CDATA[At the transport layer, which of the following controls is used to avoid a transmitting host overflowing the buffers of a receiving host?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[best effort]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[encryption]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[flow control]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[compression]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[congestion avoidance]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="54347" type="mc-sa"><question><![CDATA[End systems use port numbers to select the proper application. What is the smallest port number that can be dynamically assigned by a host system?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[1]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[64]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[128]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[256]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[512]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[1024]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="54896" type="mc-ma"><question><![CDATA[During data transfer, what are the main responsibilities of the receiving host?  (Choose two.)]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[throughput]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[encapsulation]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[acknowledgment]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[bandwidth]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[segmentation]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[reassembly]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="55019" type="mc-sa"><question><![CDATA[At which layer of the TCP/IP model does TCP operate?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[session]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[transport]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[network]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[data link]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="56156" type="mc-sa"><question><![CDATA[What determines how much data a sending station running TCP/IP can transmit before it must receive an acknowledgment?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[segment size]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[transmission rate]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[bandwidth]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[window size]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[sequence number]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="57095" type="mc-sa"><question><![CDATA[What is the purpose of the sequence number in the TCP header?]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[reassemble the segments into data]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[identify the application layer protocol]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[indicate the number of the next expected byte]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[show the maximum number of bytes allowed during a session]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="57096" type="mc-sa"><question><![CDATA[Which acknowledgement number should be sent by the receiver shown in the graphic?<Br><img src="2041.jpg">]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[3]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[4]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[6]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[7]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[9]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[12]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="57097" type="mc-sa"><question><![CDATA[What is the purpose of TCP/UDP port numbers?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[indicate the beginning of a three-way handshake]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[reassemble the segments into the correct order]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[identify the number of data packets that may be sent without acknowledgment]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[track different conversations crossing the network at the same time]]></text>
+							
+						</choice></choices></ai></form-item></form></exam> 

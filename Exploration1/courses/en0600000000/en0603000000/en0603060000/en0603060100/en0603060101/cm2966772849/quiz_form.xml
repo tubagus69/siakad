@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13235" dateexported="06/05/2007">
+		<name>Module 3 Quiz</name>
+		<form id="18832" lang="en"><form-item order="fixed">
+			<ai id="110578" type="mc-ma"><question><![CDATA[Which three Layers of the OSI model make up the Application layer of the TCP/IP model? (Choose three.)]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[data link]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[network]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[transport]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[session]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[presentation]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[application]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="111266" type="mc-sa"><question><![CDATA[What protocol is used to transfer web pages from server to client?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[HTML]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[SMTP]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[HTTP]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[SSH]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Telnet]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[POP]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="113509" type="mc-sa"><question><![CDATA[Refer to the exhibit.  Which term applies to a data transfer in the direction indicated by the arrow?<Br><img src="15122.jpg">]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[download]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[data read]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[data write]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[upload]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="111263" type="mc-ma"><question><![CDATA[Which protocols use authentication and encryption to secure data traveling between client and server? (Choose two.)]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[HTTP]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[DNS]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[HTTPS]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[SMTP]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[SSH]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="113588" type="mc-sa"><question><![CDATA[Refer to the exhibit. What is the top-level domain of the URL shown?<Br><img src="14956.jpg">]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[cisco.com]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[.com]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[www.cisco.com]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[www]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[netacad]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[http://]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="111260" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="111260" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>NS</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>CNAME</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>MX</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>A</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>end device address</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>authoritative name server</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>canonical or Fully Qualified Domain Name for an alias</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>maps a domain name to a list of mail exchange servers for that domain</mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Drag each DNS resource record type on the left and drop it onto the resource it identifies on the right.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-137.5" targetYspacing="21" yspacing="60" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="135"/><display componentIdent="3" xpos="200" ypos="195"/><display componentIdent="4" xpos="200" ypos="255"/></options><targets><display componentIdent="1" xpos="600" ypos="75"/><display componentIdent="2" xpos="600" ypos="127"/><display componentIdent="3" xpos="600" ypos="179"/><display componentIdent="4" xpos="600" ypos="231"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident></scoringzone><scoringzone ident ="2"><componentident>2</componentident></scoringzone><scoringzone ident ="3"><componentident>3</componentident></scoringzone><scoringzone ident ="4"><componentident>4</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="193812" maxvalue ="1"><title>no title</title></decvar><interpretvar varname="193812" view="All">no description given</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>3</componentident></scoringzonecontains></conditionvar><setvar varname="193812" action="Set">1</setvar><scoringdescription>Top down: A, NS, CNAME, MX</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="111269" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="111269" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>resolves final delivery issues</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>forwards mail between servers using SMTP</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>retrieves mail using POP</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>performs actual delivery to user&apos;s mailbox</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>receives mail from client</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>client used to access and read mail</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>MTA</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>MDA</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>MUA</mattext></material></textcomponent></component> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Drag the functions on the left and drop them into the appropriate email component on the right.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-150" targetYspacing="10" yspacing="62" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="115"/><display componentIdent="3" xpos="200" ypos="155"/><display componentIdent="4" xpos="200" ypos="195"/><display componentIdent="5" xpos="200" ypos="235"/><display componentIdent="6" xpos="200" ypos="275"/></options><labels><display componentIdent="1" xpos="600" ypos="91.5" containsTargets="2" startTarg="1" labelStyle="1"/><display componentIdent="2" xpos="600" ypos="190.5" containsTargets="2" startTarg="3" labelStyle="1"/><display componentIdent="3" xpos="600" ypos="289.5" containsTargets="2" startTarg="5" labelStyle="1"/></labels><targets><display componentIdent="1" xpos="600" ypos="100"/><display componentIdent="2" xpos="600" ypos="137"/><display componentIdent="3" xpos="600" ypos="199"/><display componentIdent="4" xpos="600" ypos="236"/><display componentIdent="5" xpos="600" ypos="298"/><display componentIdent="6" xpos="600" ypos="335"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident><componentident>2</componentident></scoringzone><scoringzone ident ="2"><componentident>3</componentident><componentident>4</componentident></scoringzone><scoringzone ident ="3"><componentident>5</componentident><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="193823" maxvalue ="1"><title>no title</title></decvar><interpretvar varname="193823" view="All">no description given</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>2</componentident><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>4</componentident><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>6</componentident><componentident>3</componentident></scoringzonecontains></conditionvar><setvar varname="193823" action="Set">1</setvar><scoringdescription>MTA forwards between servers and receives email from client  MDA performs actual delivery and resolves final deliver issues  MUA client for reading mail and retrieves mail using POP</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="109037" type="mc-sa"><question><![CDATA[A network administrator is troubleshooting failed access to www.cisco.com. Typing the IP address of the web server into the browser successfully brings up the web page. What application layer protocol is responsible for the failure?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[DHCP]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[DNS]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[CDP]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[HTTP]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[HTTPS]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[SSL]]></text>
+							
+							
+						</choice></choices></ai></form-item></form></exam> 

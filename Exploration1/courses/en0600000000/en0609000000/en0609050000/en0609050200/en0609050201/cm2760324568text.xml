@@ -1,0 +1,91 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>10Base-T Ethernet RJ45 Pinouts</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Pair 3</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Pair 2  Pair 1  Pair 4</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>RJ45 Connectors</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>Pin Number</b>]]></text> 
+  </component>
+  
+<component id="ID_txt06">
+  <text><![CDATA[<b>Signal</b>]]></text> 
+  </component>
+  
+<component id="ID_txt07">
+  <text><![CDATA[1]]></text> 
+  </component>
+  
+<component id="ID_txt08">
+  <text><![CDATA[2]]></text> 
+  </component>
+  
+<component id="ID_txt09">
+  <text><![CDATA[3]]></text> 
+  </component>
+  
+<component id="ID_txt18">
+  <text><![CDATA[4]]></text> 
+  </component>
+  
+<component id="ID_txt19">
+  <text><![CDATA[5]]></text> 
+  </component>
+  
+<component id="ID_txt20">
+  <text><![CDATA[6]]></text> 
+  </component>
+  
+<component id="ID_txt21">
+  <text><![CDATA[7]]></text> 
+  </component>
+  
+<component id="ID_txt22">
+  <text><![CDATA[8]]></text> 
+  </component>
+  
+<component id="ID_txt10">
+  <text><![CDATA[TD+ (Transmit Data, positive-going differential signal)]]></text> 
+  </component>
+  
+<component id="ID_txt11">
+  <text><![CDATA[TD- (Transmit Data, negative-going differential signal)]]></text> 
+  </component>
+  
+<component id="ID_txt12">
+  <text><![CDATA[RD+ (Receive Data, positive-going differential signal)]]></text> 
+  </component>
+  
+<component id="ID_txt13">
+  <text><![CDATA[Unused]]></text> 
+  </component>
+  
+<component id="ID_txt14">
+  <text><![CDATA[Unused]]></text> 
+  </component>
+  
+<component id="ID_txt15">
+  <text><![CDATA[RD- (Receive Data, negative-going differential signal)]]></text> 
+  </component>
+  
+<component id="ID_txt16">
+  <text><![CDATA[Unused]]></text> 
+  </component>
+  
+<component id="ID_txt17">
+  <text><![CDATA[Unused]]></text> 
+  </component>
+
+</textcomponents>

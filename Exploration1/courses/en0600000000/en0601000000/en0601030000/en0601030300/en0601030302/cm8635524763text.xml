@@ -1,0 +1,30 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Intelligent Networks Are Bringing the World Together</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Intelligent networks allow handheld devices to receive news and <br>e-mails, and to send text.</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Video conferencing around the globe is in the palm of your hand.</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Phones connect globally to share voice, text and images.
+</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Online gaming connects thousands of people seamlessly.
+</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>The Human Network is everywhere.</b>]]></text>
+</component>
+
+
+</textcomponents>

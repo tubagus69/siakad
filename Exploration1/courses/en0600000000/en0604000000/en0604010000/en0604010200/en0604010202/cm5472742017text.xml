@@ -1,0 +1,49 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Transport Layer Services</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[To: you@example.com<br>From: me@example.com<br>Subject: Email]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>E-MAIL</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>INSTANT MESSAGING</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>MULTIPLE WEB PAGES</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>IP TELEPHONY (VOIP)</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>STREAMING VIDEO</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Establishing a Session</b><br>ensures the application is ready to receive the data.]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Same order delivery</b><br>ensures data is delivered sequentially as it was sent.]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Reliable delivery</b> means lost segments are resent so the data is received complete.]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Flow Control</b> manages data delivery if there is congestion on the host.]]></text>
+</component>
+
+
+
+</textcomponents>

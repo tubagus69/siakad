@@ -1,0 +1,28 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Factors to Consider in Choosing a Device</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>COST</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>SPEED</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>PORTS</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>EXPANDABLE/ MODULAR</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>MANAGEABLE</b>]]></text>
+</component>
+
+
+</textcomponents>

@@ -1,0 +1,48 @@
+<textcomponents>
+	<component id="play">
+		<text><![CDATA[Play]]></text>
+	</component>
+    <component id="pause">
+		<text><![CDATA[Pause]]></text>
+	</component>
+    <component id="rewind">
+		<text><![CDATA[Rewind]]></text>
+	</component>
+	<component id="forward">
+		<text><![CDATA[Fast Forward]]></text>
+	</component>
+    <component id="mute">
+		<text><![CDATA[Mute]]></text>
+	</component>
+    <component id="unmute">
+		<text><![CDATA[UnMute]]></text>
+	</component>
+    <component id="previous">
+		<text><![CDATA[Restart]]></text>
+	</component>
+    <component id="next">
+		<text><![CDATA[End]]></text>
+	</component>
+<component id="transcript">
+		<text><![CDATA[Transcript]]></text>
+	</component>
+	<component id="ID_txt02">
+		<text><![CDATA[<b>Internetwork </b>]]></text>
+	</component>
+	<component id="ID_txt03">
+		<text><![CDATA[<b>Rule 1 Rule 2 Rule 3 </b>]]></text>
+	</component>
+	
+	<component id="ID_txt04">
+		<text><![CDATA[<b>Individual parts of the system can be designed independently, but still work together seamlessly.</b>]]></text>
+	</component>
+	<component id="ID_txt05">
+		<text><![CDATA[<b>Click Play to see the animation.</b>]]></text>
+	</component>	
+	<component id="ID_txt01">
+		<text><![CDATA[<b>Using a layered model helps in the design of complex, multi-use, multi-vendor networks. </b>]]></text>
+	</component>
+	
+	
+	
+  </textcomponents>

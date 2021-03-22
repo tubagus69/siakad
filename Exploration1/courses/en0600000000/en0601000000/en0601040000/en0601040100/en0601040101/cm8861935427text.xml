@@ -1,0 +1,71 @@
+﻿<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[Access Layer]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Distribution Layer]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Core Layer]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Redundant connections]]></text>
+</component>
+
+<component id="ID_txt01_02">
+<text><![CDATA[Access Layer]]></text>
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[Distribution Layer]]></text>
+</component>
+
+<component id="ID_txt03_02">
+<text><![CDATA[Core Layer]]></text>
+</component>
+
+<component id="ID_txt04_02">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_txt05_02">
+<text><![CDATA[Redundant connections allow for alternative paths if a device or a link fails. The user experience is unaffected.]]></text>
+</component>
+
+<component id="ID_txt01_03">
+<text><![CDATA[Access Layer]]></text>
+</component>
+
+<component id="ID_txt02_03">
+<text><![CDATA[Distribution Layer]]></text>
+</component>
+
+<component id="ID_txt03_03">
+<text><![CDATA[Core Layer]]></text>
+</component>
+
+<component id="ID_txt04_03">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_txt05_03">
+<text><![CDATA[Additional users and whole networks can be connected to the Internet without degrading performance for existing users.]]></text>
+</component>
+
+<component id="button1">
+<text><![CDATA[<b>Fault Tolerance</b>]]></text>
+</component>
+
+<component id="button2">
+<text><![CDATA[<b>Scalability]]></text>
+</component>
+
+</textcomponents>

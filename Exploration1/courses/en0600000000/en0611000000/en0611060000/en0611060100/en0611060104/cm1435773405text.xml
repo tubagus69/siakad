@@ -1,0 +1,23 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Web Browser<br />Email Client<br />File Access Client</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Web Browser <br />File Access Client</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Web Browser<br />Email Client</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>File Access Client</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Email Server<br />Web Server<br />File Server</b>]]></text> 
+  </component>
+<component id="titleText">
+	<text>Sample Text Box</text>
+</component>
+<component id="bodyText">
+	<text>The Email Server runs server software and clients use their mail client software, such as Microsoft outlook, to access Email on the server.</text>
+</component>
+</textcomponents>

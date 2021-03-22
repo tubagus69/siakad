@@ -1,0 +1,37 @@
+﻿<textcomponents>
+
+<component id="btn1">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+<component id="btn2">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+<component id="btn3">
+<text><![CDATA[<b>3</b>]]></text>
+</component>
+
+
+<component id="ID_title">
+<text><![CDATA[<b>Confirming the Gateway Settings</b>]]></text>
+</component>
+
+<component id="ID_caption">
+<text><![CDATA[<b>Sample ipconfig output showing default gateway address</b>]]></text>
+</component>
+
+
+<component id="output_text_01">
+<text><![CDATA[<b>IP address for this host computer</b>]]></text>
+</component>
+
+<component id="output_text_02">
+<text><![CDATA[<b>Local network subnet mask</b>]]></text>
+</component>
+
+<component id="output_text_03">
+<text><![CDATA[<b>Default gateway address for this host computer</b>]]></text>
+</component>
+
+
+
+</textcomponents>

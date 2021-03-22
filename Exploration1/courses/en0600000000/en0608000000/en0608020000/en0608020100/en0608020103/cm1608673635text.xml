@@ -1,0 +1,70 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Signaling Bits for Transmission <br>Manchester Encoding</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Manchester Encoding uses the <b>change in signal level</b> in the middle of the bit time to represent the bits.</text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>+V</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt02a">
+  <text><![CDATA[<b>+V</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>O</b>]]></text>
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>-V</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>+V</b>]]></text>
+  </component>
+  
+  <component id="ID_txt06">
+    <text><![CDATA[<b>O</b>]]></text> 
+  </component>
+  
+   <component id="ID_txt07">
+      <text><![CDATA[<b>-V</b>]]></text> 
+  </component>
+  
+    <component id="ID_txt08">
+        <text><![CDATA[<b>'1' bit</b>]]></text>
+  </component>
+  
+   <component id="ID_txt09">
+          <text><![CDATA[<b>'0' bit</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt10">
+           <text><![CDATA[<b>bit time</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt11">
+            <text><![CDATA[<b>1</b>]]></text> 
+ </component>
+ 
+  <component id="ID_txt12">
+            <text><![CDATA[<b>0</b>]]></text>
+ </component>
+ 
+  <component id="ID_txt13">
+            <text><![CDATA[<b>1</b>]]></text>
+ </component>
+ 
+  <component id="ID_txt14">
+            <text><![CDATA[<b>1</b>]]></text>
+ </component>
+ 
+  <component id="ID_txt15">
+            <text><![CDATA[<b>0</b>]]></text>
+  
+ </textcomponents>

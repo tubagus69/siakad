@@ -1,0 +1,15 @@
+﻿<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Different Layers of Addressing</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>IP Addresses used to communicate between networks</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>MAC Addresses used within networks across the local media</b>]]></text>
+</component>
+
+</textcomponents>

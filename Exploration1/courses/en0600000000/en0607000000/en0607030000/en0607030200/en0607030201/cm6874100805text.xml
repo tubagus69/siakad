@@ -1,0 +1,43 @@
+<textcomponents>
+
+<component id="webServerTitle">
+	<text><![CDATA[FCS]]></text>
+</component>
+<component id="Bodytxt01">
+		<text><![CDATA[The <b>Start Frame</b> field tells other devices on the network that a frame is coming along the medium.]]></text>
+</component>
+<component id="Bodytxt02">
+	<text><![CDATA[The <b>Address</b> field stores the source and destination Data Link addresses
+]]></text>
+</component>
+<component id="Bodytxt03">
+		<text><![CDATA[The <b>Type/Length</b> field is an optional field used by some protocols to state either what type of data is coming or possibly the length of the frame.]]></text>
+</component>
+    <component id="ID_txt01">
+		<text><![CDATA[<b>Start Frame</b>]]></text>
+	</component>
+    <component id="ID_txt02">
+		<text><![CDATA[<b>Address</b>]]></text>
+	</component>
+    <component id="ID_txt03">
+		<text><![CDATA[<b>Type/ Length</b>]]></text>
+	</component>
+    <component id="ID_txt04">
+		<text><![CDATA[<b>Data</b>]]></text>
+	</component>
+    <component id="ID_txt05">
+		<text><![CDATA[<b>FCS</b>]]></text>
+	</component>
+    <component id="ID_txt06">
+		<text><![CDATA[<b>STOP FRAME</b>]]></text>
+	</component>
+    <component id="ID_txt07">
+		<text><![CDATA[<b>Header</b>]]></text>
+	</component>
+    <component id="ID_title">
+		<text><![CDATA[<b>The Role of the Header</b>]]></text>
+	</component>
+    <component id="ID_inst">
+		<text><![CDATA[<b>Roll over to learn more.</b>]]></text>
+	</component>
+</textcomponents>

@@ -1,0 +1,23 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>A simple data transfer between two hosts across an internetwork.</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Receiving host</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Requesting host</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Server</b>]]></text> 
+  </component>
+  <component id="ID_txt05">
+    <text><![CDATA[<b>Router A</b>]]></text> 
+  </component>
+  <component id="ID_txt06">
+      <text><![CDATA[<b>Router B</b>]]></text> 
+  </component>
+   <component id="ID_txt07">
+        <text><![CDATA[<b>Client</b>]]></text> 
+  </component>
+</textcomponents>

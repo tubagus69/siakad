@@ -1,0 +1,25 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>The Device Management Connection</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Device with Console</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>RJ-45-to-RJ-45<br/>Rollover Cable</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>RJ-45-to-DB-9 Adapter<br/>labeled TERMINAL</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<li>PCs require an RJ-45 to DB-9 or RJ-45 to DB-25 adapter.</li><li>COM port settings are 9600 bps, 8 data bits, no parity, 1 stop bit, no flow control.<br/>This provides out-of-band console access.</li><li>AUX switch port may be used for a modem-connected console.</li>]]></text>
+</component>
+
+
+
+</textcomponents>

@@ -1,0 +1,54 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Data Link Sublayers </b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>3 Network Layer</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>HEADER</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Packet</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>TRAILER</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>2 Data Link Layer</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt06">
+    <text><![CDATA[<b>1 Physical Layer</b>]]></text> 
+  </component>
+   <component id="ID_txt11">
+      <text><![CDATA[<b>A packet is encapsulated into a frame.</b>]]></text> 
+  </component>
+            <component id="ID_header2">
+    <text><![CDATA[<b>LOGICAL LINK CONTROL</b>]]></text> 
+  </component>
+     <component id="ID_txt07">
+        <text><![CDATA[<li>Frames the Network layer packet<li>Identifies the Network layer protocol]]></text> 
+        </component>
+          <component id="ID_header1">
+    <text><![CDATA[<b>MEDIA ACCESS CONTROL</b>]]></text> 
+  </component>
+          <component id="ID_txt08">
+	        <text><![CDATA[<li>Addresses the frame <li>Marks the beginning and ending of the frame]]></text> 
+        </component>
+           <component id="ID_txt09">
+	      <text><![CDATA[<b>1    0    1    0    0    1     1    1    0    0    1   </b>]]></text> 
+  </component>
+            <component id="ID_txt12">
+  	      <text><![CDATA[<b>A frame is addressed and delimited.</b>]]></text> 
+  </component>
+              <component id="ID_txt10">
+    	      <text><![CDATA[<b>The frame is encoded into a signal at the Physical layer.</b>]]></text> 
+  </component>
+ </textcomponents>

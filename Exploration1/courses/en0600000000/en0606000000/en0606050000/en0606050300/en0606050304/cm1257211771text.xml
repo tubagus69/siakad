@@ -1,0 +1,49 @@
+﻿<textcomponents>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Network Requirements<br>Using VLSM is more efficient.</b>]]></text>
+</component>
+
+<component id="ID_txt01_01">
+<text><![CDATA[<b>AtlantaHQ</b>]]></text>
+</component>
+
+<component id="ID_txt02_01">
+<text><![CDATA[<b>SydneyHQ</b>]]></text>
+</component>
+
+<component id="ID_txt03_01">
+<text><![CDATA[<b>PerthHQ</b>]]></text>
+</component>
+
+<component id="ID_txt04_01">
+<text><![CDATA[<b>CorpusHQ</b>]]></text>
+</component>
+
+
+<component id="ID_header01_08">
+<text><![CDATA[<b>Name -required addresses</b>]]></text>
+</component>
+
+<component id="ID_header02_08">
+<text><![CDATA[<b>Subnet address</b>]]></text>
+</component>
+
+<component id="ID_header03_08">
+<text><![CDATA[<b>Address range</b>]]></text>
+</component>
+
+<component id="ID_header04_08">
+<text><![CDATA[<b>Broadcast Address</b>]]></text>
+</component>
+
+<component id="ID_header05_08">
+<text><![CDATA[<b>Network /prefix</b>]]></text>
+</component>
+
+<component id="ID_caption08">
+<text><![CDATA[<b>Addressing using VLSM</b>]]></text>
+</component>
+
+
+</textcomponents>

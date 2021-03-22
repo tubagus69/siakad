@@ -1,0 +1,55 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Signaling Bits for Transmission <br>Non Return to Zero (NRZ)</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>T = Bit-Time</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>A = Amplitude (height of pulses)</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>T</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>+ Volts</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>0 Volts</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt06">
+    <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+   <component id="ID_txt07">
+      <text><![CDATA[<b>0</b>]]></text> 
+  </component>
+    <component id="ID_txt08">
+        <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+   <component id="ID_txt09">
+          <text><![CDATA[<b>0</b>]]></text> 
+  </component>
+  <component id="ID_txt10">
+            <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+  <component id="ID_txt11">
+            <text><![CDATA[<b>A</b>]]></text> 
+  </component>
+    <component id="ID_txt12">
+              <text><![CDATA[<b><li>Discrete pulses (not continuous)</li><li>Can only have one of two states (1/0, on/off)</li><li>Voltage jumps between levels</li></b>]]></text> 
+  </component>
+  
+      <component id="ID_table01">
+              <text><![CDATA[<table><tr><th></th></tr><tr><td><ul><li>Discrete pulses (not continuous)</li><li>Can only have one of two states (1/0, on/off)</li><li>Voltage jumps between levels </li></ul></table>]]></text> 
+  </component>
+  
+  
+  
+ </textcomponents>

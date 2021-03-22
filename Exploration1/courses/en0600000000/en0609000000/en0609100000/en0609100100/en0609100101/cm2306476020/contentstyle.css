@@ -1,0 +1,47 @@
+p {
+	color: #000000;
+	font-family: Helvetica, Arial,sans-serif;
+	font-size: 12px;
+	margin-right: 5px;
+	leading:4;
+}
+
+head {
+	color: #000000;
+	font-family: Helvetica, Arial,sans-serif;
+	font-size: 16px;
+	margin-right: 5px;
+	leading:8;
+}
+
+a:link {
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.externallink {
+	color: #0000FF
+}
+
+.glossarylink {
+	color: #00CC00;
+}
+
+.cmd {
+	font-family: Courier New;
+	font-weight: bold;
+}
+
+.blue {
+	color: #0000FF;
+}
+
+li {
+	color: #000000;
+	font-family: Helvetica, Arial,sans-serif;
+	font-size: 12px;
+    margin-left: 15px;
+}

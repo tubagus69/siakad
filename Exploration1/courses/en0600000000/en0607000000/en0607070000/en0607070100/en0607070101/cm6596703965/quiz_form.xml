@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13239" dateexported="06/05/2007">
+		<name>Module 7 Quiz</name>
+		<form id="18836" lang="en"><form-item order="fixed">
+			<ai id="112989" type="mc-sa"><question><![CDATA[Which frame field is created by a source node and used by a destination node to ensure that a transmitted data signal has not been altered by interference, distortion, or signal loss?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[transport layer error check field]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[frame check sequence field]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[User Datagram Protocol field]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[error correction process field]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[flow control field]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="112988" type="mc-sa"><question><![CDATA[Which data link layer addressing scheme is used in a point-to-point logical topology?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[IPv4 addressing]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[IPv6 addressing]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[ring addressing]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[multi-access addressing]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Layer 2 addressing not required for this topology]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="112987" type="mc-sa"><question><![CDATA[What do network hosts use data link layer addresses for?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[remote delivery]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[local and remote delivery]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[local delivery]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[remote delivery using routers]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="112986" type="mc-ma"><question><![CDATA[Which three basic parts are common to all frame types supported by the data link layer? (Choose three.)]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[header]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[type field]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[MTU size]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[data]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[trailer]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[CRC value]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="112847" type="mc-ma"><question><![CDATA[What are two characteristics of the controlled media access method?  (Choose two.)]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[It is known as a deterministic access method.]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[There are no collisions when this type of method is in use.]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Any station can transmit at any time.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Bandwidth is more efficiently utilized than in a contention-based access method.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Stations must determine if the media is carrying a signal before they can transmit.]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="14646" type="mc-sa"><question><![CDATA[Which of the following are sublayers of the Data Link layer?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[ACL, LMC]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[MAC, LAC]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[MAC, LLC]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[OSI, LLC]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="95832" type="mc-ma"><question><![CDATA[Which of the following are data link layer encapsulation details? (Choose two.)]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[A header and trailer are added.]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Data is converted into packets.]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Packets are packaged into frames.]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Frames are divided into segments.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Packets are changed into bits for Internet travel.]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="82948" type="mc-sa"><question><![CDATA[What is achieved by the encapsulation process at the data link layer?]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[Packets are put into frames.]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Data is packaged into a packet.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Packets are divided into segments.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Data is converted for Internet transmission.]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="112859" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="112859" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>deterministic</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Ethernet</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>physical ring topology</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>no collisions</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>non-deterministic</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Only one station can transmit at a time.</mattext></material></textcomponent></component><component ident="7" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>Stations can transmit at any time.</mattext></material></textcomponent></component><component ident="8" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>token passing</mattext></material></textcomponent></component><component ident="9" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>more efficient use of bandwidth</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>controlled access</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>contention-based access</mattext></material></textcomponent></component> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="7" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="8" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Drag the characteristics on the left to the associated media access control methods on the right. (Not all options are used.)</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-144" targetYspacing="10" yspacing="45" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="115"/><display componentIdent="3" xpos="200" ypos="155"/><display componentIdent="4" xpos="200" ypos="195"/><display componentIdent="5" xpos="200" ypos="235"/><display componentIdent="6" xpos="200" ypos="275"/><display componentIdent="7" xpos="200" ypos="315"/><display componentIdent="8" xpos="200" ypos="355"/><display componentIdent="9" xpos="200" ypos="395"/></options><labels><display componentIdent="1" xpos="600" ypos="91.5" containsTargets="4" startTarg="1" labelStyle="1"/><display componentIdent="2" xpos="600" ypos="264.5" containsTargets="4" startTarg="5" labelStyle="1"/></labels><targets><display componentIdent="1" xpos="600" ypos="100"/><display componentIdent="2" xpos="600" ypos="137"/><display componentIdent="3" xpos="600" ypos="174"/><display componentIdent="4" xpos="600" ypos="211"/><display componentIdent="5" xpos="600" ypos="273"/><display componentIdent="6" xpos="600" ypos="310"/><display componentIdent="7" xpos="600" ypos="347"/><display componentIdent="8" xpos="600" ypos="384"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident><componentident>2</componentident><componentident>3</componentident><componentident>4</componentident></scoringzone><scoringzone ident ="2"><componentident>5</componentident><componentident>6</componentident><componentident>7</componentident><componentident>8</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="197949" maxvalue ="1"><title>no title</title></decvar><interpretvar varname="197949" view="All">no description given</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>4</componentident><componentident>6</componentident><componentident>8</componentident><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>9</componentident><componentident>7</componentident><componentident>2</componentident><componentident>5</componentident></scoringzonecontains></conditionvar><setvar varname="197949" action="Set">1</setvar><scoringdescription>controlled = determinstic, no collisions, Only one station can transmit at a time, token passing. contention-based = Ethernet, non-deterministic, Stations can transmit at any time., more efficient use of bandwidth. distrator = physical ring topology</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item><form-item>
+			<ai id="112961" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="112961" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>connects two nodes directly</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>CSMA/CD</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>deterministic</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>logical virtual circuit</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>frame header not required</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>token passing</mattext></material></textcomponent></component><component ident="7" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>shared media </mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --><component ident="1" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Point-to-point</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Multi-access</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="340"><material><mattext>Ring</mattext></material></textcomponent></component> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext></mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Drag the characteristics on the left to the associated topology type on the right. (Not all options are used.)</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-150" targetYspacing="10" yspacing="53" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="115"/><display componentIdent="3" xpos="200" ypos="155"/><display componentIdent="4" xpos="200" ypos="195"/><display componentIdent="5" xpos="200" ypos="235"/><display componentIdent="6" xpos="200" ypos="275"/><display componentIdent="7" xpos="200" ypos="315"/></options><labels><display componentIdent="1" xpos="600" ypos="91.5" containsTargets="2" startTarg="1" labelStyle="1"/><display componentIdent="2" xpos="600" ypos="190.5" containsTargets="2" startTarg="3" labelStyle="1"/><display componentIdent="3" xpos="600" ypos="289.5" containsTargets="2" startTarg="5" labelStyle="1"/></labels><targets><display componentIdent="1" xpos="600" ypos="100"/><display componentIdent="2" xpos="600" ypos="137"/><display componentIdent="3" xpos="600" ypos="199"/><display componentIdent="4" xpos="600" ypos="236"/><display componentIdent="5" xpos="600" ypos="298"/><display componentIdent="6" xpos="600" ypos="335"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident><componentident>2</componentident></scoringzone><scoringzone ident ="2"><componentident>3</componentident><componentident>4</componentident></scoringzone><scoringzone ident ="3"><componentident>5</componentident><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="198148" maxvalue ="1"><title>no title</title></decvar><interpretvar varname="198148" view="All">no description given</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>1</componentident><componentident>4</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>2</componentident><componentident>7</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>3</componentident><componentident>6</componentident></scoringzonecontains></conditionvar><setvar varname="198148" action="Set">1</setvar><scoringdescription>point-to-point = connects two nodes directly, logical virtual circuit; multi-access = CSMA/CD, shared media; ring = deterministic, token passing. distractor = no frame header</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item></form></exam> 

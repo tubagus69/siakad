@@ -1,0 +1,133 @@
+<textcomponents>
+<component id="ID_title1">
+<text><![CDATA[<b>The ARP Process &#8212; Mapping Addresses</b>]]></text>
+</component>
+
+<component id="ID_title2a">
+<text><![CDATA[<b>The ARP Process &#8212; No ARP Entry</b>]]></text>
+</component>
+
+<component id="ID_title3">
+<text><![CDATA[<b>The ARP Process &#8212; Broadcast ARP Request to Devices</b>]]></text>
+</component>
+
+<component id="ID_title4">
+<text><![CDATA[<b>The ARP Process &#8212; Unicast ARP Reply with MAC Address</b>]]></text>
+</component>
+
+<component id="ID_title5">
+<text><![CDATA[<b>The ARP Process &#8212; IP and MAC Addresses Stored in ARP Cache</b>]]></text>
+</component>
+
+<component id="ID_title6">
+<text><![CDATA[<b>The ARP Process &#8212; ARP Entry Enables Frame to be Sent</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Click to see the steps.</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>10.10.0.1<br><font color = "#003399"><b>00-0d-88-c7-9a-24</b></font><br><font color = "#990000">FFFF.FFFF.FFFF</b></font>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>10.10.0.2<br><font color = "#003399"><b>00-08-a3-b6-ce-04</b></font><br><font color = "#990000">FFFF.FFFF.FFFF</b></font>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>10.10.0.3<br><font color = "#003399"><b>00-0d-56-09-fb-d1</b></font><br><font color = "#990000">FFFF.FFFF.FFFF</b></font>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>10.10.0.4<br><font color = "#003399"><b> 00-12-3f-d4-6d-1b</b></font><br><font color = "#990000">FFFF.FFFF.FFFF</b></font>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>10.10.0.254<br><font color = "#003399"><b>00-10-7b-e7-fa-ef</b></font><br><font color = "#990000">FFFF.FFFF.FFFF</b></font>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>A</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>B</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>C</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>D</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>A's ARP CACHE</b>]]></text>
+</component>
+
+<component id="ID_txt10a">
+<text><![CDATA[<b>A's ARP CACHE</b>]]></text>
+</component>
+
+<component id="ID_txt10b">
+<text><![CDATA[<b>A's ARP CACHE</b>]]></text>
+</component>
+
+<component id="ID_txt10c">
+<text><![CDATA[<b>A's ARP CACHE</b>]]></text>
+</component>
+
+<component id="ID_txt10d">
+<text><![CDATA[<b>A's ARP CACHE<br/>10.10.0.3 = 00-0d-56-09-fb-d1</b>]]></text>
+</component>
+
+<component id="ID_txt10e">
+<text><![CDATA[<b>A's ARP CACHE<br>10.10.0.3 = 00-0d-56-09-fb-d1</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Follow the steps for generating a new pair in the ARP table when the destination is on the local network.</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>I need to send a frame to 172.16.0.10 but it outside my network and don't know the MAC address of my gateway (10.10.0.254).</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>If your IP address is 10.10.0.254 please tell 10.10.0.1(00-0d-88-c7-9a).</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>I am 10.10.0.254. So I respond with my MAC address 0060.273A.07BC</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>I need to send a frame to 10.10.0.3 but I don't know the MAC address.</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>If your IP address is 10.10.0.3, please tell 10.10.0.1 (00-0d-88-c7-9a-24).</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>I am 10.10.0.3.<br/>My MAC address is 00-0d-56-09-fb-d1.</b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>I will store 10.10.0.3 and 00-0d-56-09-fb-d1 in my ARP Cache.</b>]]></text>
+</component>  
+
+<component id="ID_txt19">
+<text><![CDATA[<b>I can now send the frame to 10.10.0.3 with the MAC address 00-0d-56-09-fb-d1.</b>]]></text>
+</component>  
+
+<component id="ID_txt20">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>  
+</textcomponents>
+
+

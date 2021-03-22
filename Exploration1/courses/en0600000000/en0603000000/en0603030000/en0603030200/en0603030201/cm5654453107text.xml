@@ -1,0 +1,110 @@
+﻿<textcomponents>
+
+
+<component id="ID_title">
+  <text><![CDATA[<b>HTTP Protocol</b>]]></text> 
+</component>
+
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click to see the steps used by HTTP.</b>]]></text> 
+</component>
+
+
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>HTTP Server</b>]]></text> 
+</component>
+
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Network</b>]]></text> 
+</component>
+
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Client</b>]]></text> 
+</component>
+
+<component id="ID_txt01a">
+  <text><![CDATA[<b>HTTP Server</b>]]></text> 
+</component>
+
+
+<component id="ID_txt02a">
+  <text><![CDATA[<b>Network</b>]]></text> 
+</component>
+
+
+<component id="ID_txt03a">
+  <text><![CDATA[<b>Client</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>Request a page</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<b>HTTP Response</b>]]></text> 
+</component>
+
+<component id="ID_txt05_1">
+  <text><![CDATA[<b>HTTP Response</b>]]></text> 
+</component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>HTML code for web page</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+  <text><![CDATA[<b>In response to the request,  the HTTP server returns code for a web page.</b>]]></text> 
+</component>
+
+<component id="ID_txt08">
+  <text><![CDATA[<b>The browser interprets the HTML code and displays a web page.</b>]]></text> 
+</component>
+
+
+<component id="ID_txt09">
+  <text><![CDATA[<b>Web page</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01b">
+  <text><![CDATA[<b>HTTP Server</b>]]></text> 
+</component>
+
+
+<component id="ID_txt02b">
+  <text><![CDATA[<b>Network</b>]]></text> 
+</component>
+
+
+<component id="ID_txt03b">
+  <text><![CDATA[<b>Client</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01c">
+  <text><![CDATA[<b>HTTP Server</b>]]></text> 
+</component>
+
+
+<component id="ID_txt02c">
+  <text><![CDATA[<b>Network</b>]]></text> 
+</component>
+
+
+<component id="ID_txt03c">
+  <text><![CDATA[<b>Client</b>]]></text> 
+</component>
+
+
+
+
+
+
+
+
+
+
+</textcomponents>

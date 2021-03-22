@@ -1,0 +1,29 @@
+﻿<textcomponents>
+<component id="t0">
+<text><![CDATA[<b>Converged Networks</b>]]></text>
+</component>
+<component id="t1">
+  <text><![CDATA[<b>Real-time traffic<BR>• Voice over IP (VoIP)<BR>• Videoconferencing</b>]]></text> 
+  </component>
+<component id="t2">
+  <text><![CDATA[<b>Web content<BR>• Browsing<BR>• Shopping</b>]]></text> 
+  </component>
+<component id="t3">
+  <text><![CDATA[<b>Transactional traffic<BR>• Order processing & billing<BR>• Inventory & reporting<BR>• Accounting & reporting</b>]]></text> 
+  </component>
+<component id="t4">
+  <text><![CDATA[<b>Streamng traffic<BR>• Video on Demand (VoD)<BR>• Movies</b>]]></text> 
+  </component>
+<component id="t5">
+	<text><![CDATA[<b>Bulk traffic<BR>• E-mail<BR>• Data backups<BR>• Print files</b>]]></text>
+</component>
+<component id="t6">
+	<text><![CDATA[<B>Convergence</B>]]></text>
+</component>
+<component id="t7">
+	<text><![CDATA[<B>Network</B>]]></text>
+</component>
+<component id="t8">
+	<text><![CDATA[<B>All traffic is NOT alike</B>]]></text>
+</component>
+</textcomponents>

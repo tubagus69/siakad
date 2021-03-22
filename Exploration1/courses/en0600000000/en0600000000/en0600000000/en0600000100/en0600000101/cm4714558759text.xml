@@ -1,0 +1,96 @@
+﻿<textcomponents>
+
+<component id="ID_title">
+         <text><![CDATA[<b>Message to Students</b>]]></text>
+</component>
+   
+<component id="ID_page1">
+         <text><![CDATA[page 1 of 9]]></text>
+</component>
+<component id="ID_page2">
+         <text><![CDATA[page 2 of 9]]></text>
+</component>
+<component id="ID_page3">
+         <text><![CDATA[page 3 of 9]]></text>
+</component>
+<component id="ID_page4">
+         <text><![CDATA[page 4 of 9]]></text>
+</component>
+<component id="ID_page5">
+         <text><![CDATA[page 5 of 9]]></text>
+</component>
+<component id="ID_page6">
+         <text><![CDATA[page 6 of 9]]></text>
+</component>
+<component id="ID_page7">
+         <text><![CDATA[page 7 of 9]]></text>
+</component>
+<component id="ID_page8">
+         <text><![CDATA[page 8 of 9]]></text>
+</component>
+<component id="ID_page9">
+         <text><![CDATA[page 9 of 9]]></text>
+</component>
+   
+
+<component id="ID_txt01">
+         <text><![CDATA[<b>Welcome</b><br/>Welcome to the CCNA Exploration Network Fundamentals course. The goal of this course is to introduce you to fundamental networking concepts and technologies. These online course materials will assist you in developing the skills necessary to plan and implement small networks across a range of applications. The specific skills covered in each chapter are described at the start of each chapter. ]]></text>
+</component>
+   
+<component id="ID_txt02">
+         <text><![CDATA[<b>More than just information</b><br/>This computer-based learning environment is an important part of the overall course experience for students and instructors in the Networking Academy. These online course materials are designed to be used along with several other instructional tools and activities. These include:<br/><br/><ul><li>Class presentation, discussion, and practice with your instructor </li><li>Hands-on labs that use networking equipment within the Networking Academy classroom</li><li>Online scored assessments and a matching grade book</li><li>Packet Tracer 4.1 simulation tool</li><li>Additional software for classroom activities</li></ul>]]></text>
+</component>
+
+<component id="ID_txt03">
+         <text><![CDATA[<b>A global community</b><br/>When you participate in the Networking Academy, you are joining a global community linked by common goals and technologies. Schools, colleges, universities and other entities in over 160 participate in the program. A visualization of the global Networking Academy community at <a href="javascript:openExternal('http://www.academynetspace.com');"><font color="#0000FF">http://www.academynetspace.com</font></a>. <br/><br/>The material in this course encompasses a broad range of technologies that facilitate how people work, live, play, and learn by communicating with voice, video, and other data. Networking and the Internet affect people differently in different parts of the world. Although we have worked with instructors from around the world to create these materials, it is important that you work with your instructor and fellow students to make the material in this course applicable to your local situation.<br/><br/><b>Keep in Touch</b><br/>These online instructional materials, as well as the rest of the course tools, are part of the larger Networking Academy. The student, instructor, and administrator portal for the program is located at <a href="javascript:openExternal('http://www.cisco.com/web/learning/netacad/index.html');"><font color="#0000FF">http://www.cisco.com/web/learning/netacad/index.html</font></a>. There you will obtain access to the other tools in the program such as the assessment server and student grade book), as well as informational updates and other relevant links.]]></text>
+</component>
+
+<component id="ID_txt04">
+         <text><![CDATA[<b>Mind Wide Open™</b><br/>An important goal in education is to enrich you, the student, by expanding what you know and can do. It is important to realize, however, that the instructional materials and the instructor can only <i>facilitate</i> the process. <i>You</i> must make the commitment yourself to learn new skills. Below are a few suggestions to help you learn and grow.<br/><br/>1.<TEXTFORMAT BLOCKINDENT='15'><b> Take notes.</b> Professionals in the networking field often keep Engineering Journals in which they write down the things they observe and learn. Taking notes is an important way to help your understanding grow over time.</textformat><br/><br/>2.<TEXTFORMAT BLOCKINDENT='15'><b> Think about it.</b> The course provides information both to change what you know and what you can do. As you go through the course, ask yourself what makes sense and what doesn’t. Stop and ask questions when you are confused. Try to find out more about topics that interest you. If you are not sure why something is being taught, consider asking your instructor or a friend. Think about how the different parts of the course fit together.</textformat>]]></text>
+</component>
+
+<component id="ID_txt05">
+         <text><![CDATA[3.<TEXTFORMAT BLOCKINDENT='15'><b> Practice.</b> Learning new skills requires practice. We believe this is so important to e-learning that we have a special name for it. We call it e-Doing. It is very important that you complete the activities in the online instructional materials and that you also complete the hands-on labs and Packet Tracer activities. </textformat><br/><br/>4.<TEXTFORMAT BLOCKINDENT='15'><b> Practice again.</b> Have you ever thought that you knew how to do something and then, when it was time to show it on a test or at work, you discovered that you really hadn’t mastered it? Just like learning any new skill like a sport, game, or language, learning a professional skill requires patience and repeated practice before you can say you have truly learned it. The online instructional materials in this course provide opportunities for repeated practice for many skills. Take full advantage of them. You can also work with your instructor to extend Packet Tracer, and other tools, for additional practice as needed.</textformat>]]></text>
+</component>
+
+<component id="ID_txt06">
+         <text><![CDATA[5.<TEXTFORMAT BLOCKINDENT='15'><b> Teach it.</b> Teaching a friend or colleague is often a good way to reinforce your own learning. To teach well, you will have to work through details that you may have overlooked on your first reading. Conversations about the course material with fellow students, colleagues, and the instructor can help solidify your understanding of networking concepts.</textformat><br/><br/>6.<TEXTFORMAT BLOCKINDENT='15'><b> Make changes as you go.</b> The course is designed to provide feedback through interactive activities and quizzes, the online assessment system, and through structured interactions with your instructor. You can use this feedback to better understand where your strengths and weaknesses are. If there is an area that you are having trouble with, focus on studying or practicing more in that area. Seek additional feedback from your instructor and other students.</textformat>]]></text>
+</component>
+
+<component id="ID_txt07">
+         <text><![CDATA[<b>Explore the world of networking</b><br/>This version of the course includes a special tool called Packet Tracer 4.1. Packet Tracer is a networking learning tool that supports a wide range of physical and logical simulations. It also provides visualization tools to help you to understand the internal workings of a network.<br/><br/>The pre-made Packet Tracer activities consist of network simulations, games, activities, and challenges that provide a broad range of learning experiences. <br/><br/><b>Create your own worlds</b><br/>You can also use Packet Tracer to create your own experiments and networking scenarios. We hope that, over time, you consider using Packet Tracer – not only for experiencing the pre-built activities, but also to become an author, explorer, and experimenter.<br/><br/>The online course materials have embedded Packet Tracer activities that will launch on computers running Windows® operating systems, if Packet Tracer is installed. This integration may also work on other operating systems using Windows emulation.]]></text>
+</component>
+ 
+<component id="ID_txt08">
+         <text><![CDATA[<b>Course Overview</b><br/><br/>As the course title states, the focus of this course is on learning the fundamentals of networking. In this course, you will learn both the practical and conceptual skills that build the foundation for understanding basic networking. First, you will examine human versus network communication and see the parallels between them. Next, you will be introduced to the two major models used to plan and implement networks: OSI and TCP/IP. You will gain an understanding of the “layered” approach to networks and examine the OSI and TCP/IP layers in detail to understand their functions and services. You will become familiar with the various network devices, network addressing schemes and, finally, the types of media used to carry data across the network.<br/><br/>In this course, you will gain experience using networking utilities and tools, such as Packet Tracer and Wireshark®, to explore networking protocols and concepts. These tools will help you to develop an understanding of how data flows in a network. A special “model Internet” is also used to provide a test environment where a range of network services and data can be observed and analyzed.
+
+<br/><br/><b>Chapter 1</b> - Chapter 1 presents the basics of communication and how networks have changed our lives. You will be introduced to the concepts of networks, data, local area networks (LANs), wide area networks (WANs), quality of service (QoS), security issues, network collaboration services, and Packet Tracer activities. In the labs, you will learn how to set up a wiki and establish an instant messaging session.<br/><br/><b>Chapter 2</b> - Chapter 2 focuses on how networks are modeled and used. You will be introduced to the OSI and TCP/IP models and to the process of data encapsulation. You will learn about the network tool Wireshark®, which is used for analyzing network traffic, and will explore the differences between a real network and a simulated network. In the lab, you will build your first network – a small peer-to-peer network.<br/><br/><b>Chapter 3</b> - Using a top-down approach to teaching networking, Chapter 3 introduces you to the top network model layer, the Application layer. In this context, you will explore the interaction of protocols, services, and applications, with a focus on HTTP, DNS, DHCP, SMTP/POP, Telnet and FTP. In the labs, you will practice installing a web server/client and use Wireshark® to analyze network traffic. The Packet Tracer activities let you explore how protocols operate at the Application layer.<br/><br/><b>Chapter 4</b> – Chapter 4 introduces the Transport layer and focuses on how the TCP and UDP protocols apply to the common applications. In the labs and activities, you will incorporate the use of Wireshark®, the Windows utilities command <font face='_typewriter'>netstat</font>, and Packet Tracer to investigate these two protocols.<br/><br/><b>Chapter 5</b> – Chapter 5 introduces the OSI Network layer. You will examine concepts of addressing and routing and learn about path determination, data packets, and the IP protocol. By the end of this chapter, you will configure hosts to access the local network and explore routing tables.]]></text>
+</component>
+
+<component id="ID_txt09">
+         <text><![CDATA[<b>Course Overview Continued</b><br/><br/><b>Chapter 6</b> - In Chapter 6, you will focus on network addressing in detail and learn how to use the address mask, or prefix length, to determine the number of subnetworks and hosts in a network. You will also be introduced to ICMP (Internet Control Message Protocol) tools, such as ping and trace.<br/><br/><b>Chapter 7</b> – Chapter 7 discusses the services provided by Data Link layer. An emphasis is placed on the encapsulation processes that occur as data travels across the LAN and the WAN.<br/><br/><b>Chapter 8</b> – Chapter 8 introduces the Physical layer. You will discover how data sends signals and is encoded for travel across the network. You’ll learn about bandwidth and also about the types of media and their associated connectors. <br/><br/><b>Chapter 9</b> – In Chapter 9, you will examine the technologies and operation of Ethernet. You will use Wireshark®, Packet Tracer activities, and lab exercises to explore Ethernet.<br/><br/><b>Chapter 10</b> – Chapter 10 focuses on designing and cabling a network. You will apply the knowledge and skills developed in the previous chapters to determine the appropriate cables to use, how to connect devices, and develop an addressing and testing scheme.<br/><br/><b>Chapter 11</b> –In Chapter 11, you will connect and configure a small network using basic Cisco IOS commands for routers and switches. Upon completion of this final chapter, you will be prepared you to go on to either CCNA Exploration Routing or CCNA Exploration Switching courses.<br/><br/>Wireshark®, is a registered trademark of Gerald Combs.]]></text>
+</component>
+
+<component id="ID_page1_text">
+         <text><![CDATA[<b>Welcome to CCNA Exploration Network Fundamentals</b>]]></text>
+</component>
+
+<component id="ID_page2_text">
+         <text><![CDATA[<b>Mind Wide Open™<br/><br/>Use the course material and then use it again. Talk about the concepts to deepen your understanding.</b>]]></text>
+</component>
+
+<component id="ID_page3_text">
+         <text><![CDATA[<b>Mind Wide Open®</b><br/><br/>Welcome to CCNA Exploration Routing Protocols and Concepts</b>]]></text>
+</component>
+
+<component id="ID_page4_text">
+         <text><![CDATA[<b>Welcome to CCNA Exploration Network Fundamentals</b>]]></text>
+</component>
+
+<component id="ID_page5_text">
+         <text><![CDATA[<b>Welcome to CCNA Exploration Network Fundamentals</b>]]></text>
+</component>
+
+</textcomponents>
+
+

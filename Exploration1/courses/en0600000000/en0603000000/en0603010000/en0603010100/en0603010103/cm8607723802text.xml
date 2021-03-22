@@ -1,0 +1,77 @@
+﻿<textcomponents>
+
+<component id="ID_txtTitle1">
+	<text>Domain Name Server (DNS)</text>
+</component>
+<component id="ID_txtBody1">
+	<text><![CDATA[<li>Service that provides the IP address of a web site or domain name so a host can connect to it</li>]]></text>
+</component>
+
+<component id="ID_txtTitle2">
+	<text>Telnet Server</text>
+</component>
+<component id="ID_txtBody2">
+	<text><![CDATA[<li>Service that allows administrators to login to a host from a remote location and control the host as though they were logged in locally</li>]]></text>
+</component>
+
+<component id="ID_txtTitle3">
+	<text>E-mail Server</text>
+</component>
+<component id="ID_txtBody3">
+	<text><![CDATA[<li>Uses Simple Mail Transfer Protocol (SMTP) Post Office Protocol (POP3) or Internet Message Access Protocol (IMAP)</li><li>Used to send e-mail messages from clients to servers over the Internet</li><li>Recipients are specified using the user@xyz format</li>]]></text>
+</component>
+
+
+<component id="ID_txtTitle4">
+	<text>Dynamic Host Configuration Protocol (DHCP) Server</text>
+</component>
+<component id="ID_txtBody4">
+	<text><![CDATA[<li>Service that assigns the IP address subnet mask default gateway and other information to clients</li>]]></text>
+</component>
+
+<component id="ID_txtTitle5">
+	<text>Web Server</text>
+</component>
+<component id="ID_txtBody5">
+	<text><![CDATA[<li>Hypertext Transfer Protocol (HTTP)</li><li>Used to transfer information between web clients and web servers</li><li>Most web pages are accessed using HTTP</li>]]></text>
+</component>
+
+<component id="ID_txtTitle6">
+	<text>File Transfer Protocol (FTP) Server</text>
+</component>
+<component id="ID_txtBody6">
+	<text><![CDATA[<li>Service that allows for the download and upload of files between a client and server</li>]]></text>
+</component>
+
+
+
+
+    <component id="ID_txt01">
+		<text><![CDATA[<b>Server Farm</b>]]></text>
+	</component>
+    <component id="ID_txt02">
+		<text><![CDATA[<b>DNS Server</b>]]></text>
+	</component>
+    <component id="ID_txt03">
+		<text><![CDATA[<b>Telnet Server</b>]]></text>
+	</component>
+    <component id="ID_txt04">
+		<text><![CDATA[<b>E-mail Server</b>]]></text>
+	</component>
+    <component id="ID_txt05">
+		<text><![CDATA[<b>DHCP Server</b>]]></text>
+	</component>
+    <component id="ID_txt06">
+		<text><![CDATA[<b>Web Server</b>]]></text>
+	</component>
+    <component id="ID_txt07">
+		<text><![CDATA[<b>FTP Server</b>]]></text>
+	</component>
+	    <component id="ID_inst">
+		<text><![CDATA[<b>Roll over each server for a brief description of network services provided.</b>]]></text>
+	</component>
+<component id="ID_txt08">
+		<text><![CDATA[<b>Client Server Relationship</b>]]></text>
+	</component>
+
+</textcomponents>

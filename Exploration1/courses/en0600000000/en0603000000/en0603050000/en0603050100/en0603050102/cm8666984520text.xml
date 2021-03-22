@@ -1,0 +1,159 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Use this activity to check your understanding of the main points in this chapter.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>A series of questions will be presented. This is not a quiz and your answers are not recorded.</li><li>Click <b>Answer</b> to see the answer.</li><li>Click <b>Next Question</b> to go to the next question in the series.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Click Here<br/>to Begin</b>]]></text>
+</component>
+
+<!-- Question 1 -->
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[List the seven step process for converting human communications to data.]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[<ol><li>The user inputs data using a hardware interface.</li><li>Software and hardware convert data to a digital format.</li><li>Application services initiate the data transfer.</li><li>OSI layers encapsulate data down the stack.</li><li>Encapsulated data travels across the media to the destination.</li><li>OSI layers at the destination decapsulate the data up the stack.</li><li>Data is ready to be processed by the end device.</li></ul>]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[Describe the two forms of Application layer software and the purpose of each.]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[<p>Application software has two forms: applications and services.</p><br/><p>Applications are designed to interact with us. Application is software for the user. If the device is a computer, the application is typically initiated by the user. Although there may be many layers of support underneath, application software provides an interface between humans and the hardware. The application will initiate the data transfer process when the user presses the Send button, or a similar action.</p><br/><p>Services are background programs that perform a particular function in the data network. Services are invoked by a device connecting to the network or by an application. For example, a network service can provide functions that transmit data or provide conversion of data in a network. In general, services are not directly accessible or seen by the end user. They provide the connection between an application and the network.</p>]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[Elaborate on the meaning of the terms Server and Client in the context of data networks.]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[<p>The source end of data communication is referred to as the “server” and the receiving end is called the “client.” The client and server processes are application layer services provide the foundation for data network connectivity.</p><br/><p>In some cases the "servers" and "clients" are devices that perform that role specifically and exclusively. For example:</p><ul><li>A central file server may contain an organization's business data files that employees access using their client only workstations</li><li>Internet based examples include web servers and mail servers where many users access a centrally provided service.</li><li>In other situations, such as file sharing over a home network, individual devices may perform both server and client roles at different times.</li></ul><br/><p>Servers are both a repository and a source of information such as, text files, databases, pictures, video, or audio files that have been previously recorded.</p><br/><p>The role of the server may be to manage communications as it occurs. This is referred to as "real-time" communication. Examples include a college student enrolment server where many users may be accessing the same database at the same time but everyone requires the same up to date information; or, a communications server setting up an IP telephone call where device network addresses have to be matched with the dialed telephone number.</p><br/><p>The server process maybe called the "server daemon" and typically run in the background rather than under the direct control of an end user. These server processes make the data of the communication available to the data network. Server processes are said to be "listening" for a request from a client. When a server "hears" a request from a client, it exchanges appropriate messages with client as required by the protocol being used and then sends the requested data.</p><br/><p><b>Client</b> processes at the other end of the communication across the data network allow the user to make requests to obtain the data from a server. The client software typically uses a program initiated by a user. The client in initiates communication data flow from the server by sending requests for the data to the server. The server responds by starting to send one or more streams of data to the client. In addition to the actual data transfer, this exchange may include user authentication and identification of the data file to be transferred.</p><br/><p>Although the data is typically considered as flowing from the server to the client, there is always some flow from the client to the server. A data transfer from a client <b>to a server</b> is referred to as upload and the data <b>from a server</b> is download.</p><br/><p>Examples of common client/server services include:</p><ul><li>DNS Domain Name Service)</li><li>FTP (File Transfer Service)</li><li>HTTP (Hypertext transport Protocol)</li><li>Telnet. (TELetype NETwork Service)</li></ul><br/><p>It is through the application layer client services most users experience the data network, hence the importance of understanding this area of networking.</p>]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[Compare and contrast client/server with peer-to-peer data transfer over networks.]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[<p><b>Client/server</b> data transfer specifically refers to the centralized source end of data communication as the server and the receiving end as the client.</p><br/><p>With peer-to-peer data transfer both client and server services are used within the same conversation. Either end of the communication can initiate the exchange and both devices are considered equal in the communication process. The devices on either end of the communication are called peers.</p><br/><p>In contrast to a client/server model, where a server is typically a centralized repository and responds to requests from many clients; peer-to-peer networking has distributed data. Further once the communication is established the peers communicated directly - the data is not processed at the Application layer by a third device on the network.</p>]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[List five general functions that Application layer protocols specify.]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[<p>Functions specified by Application layer protocols include:</p><ul><li>The processes that are to occur at either end of the communication: This includes what has to happen to the data and how the Protocol Data Unit is to be structured. The application layer PDU used in this course is called "data".</li><li>The types of messages: these can include requests, acknowledgements, data messages, status messages and error messages.</li><li>The syntax of the message: this gives the expected order of information (fields) in a message.</li><li>The meaning of the fields within specific message types has to constant so the services can correctly act in accordance with the information.</li><li>The message dialogs: this determines which messages elicit which responses so the correct services are invoked so the data transfer occurs.</li></ul>]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q6_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[Give the specific purposes of the DNS, HTTP, SMB, and SMTP/POP Application layer protocols.]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[<p>All these protocols use a client/server process.</p><br/><p><b>Domain Name System (DNS)</b> provides users with an automated service that matches or resolves resource names and email domains with the required numeric device network address. This service is available to any user connected to the Internet and running an application layer application such as a web browser or email client program.</p><br/><p><b>Hypertext Transfer Protocol (HTTP)</b> was originally developed to publish and retrieve Hypertext Markup Language (HTML) pages and is now used for distributed, collaborative, hypermedia information systems. HTTP is used by the World Wide Web (WWW) to transfer data from web servers to web clients.</p><br/><p><b>Server Message Block (SMB)</b> describes the structure of sharing network resources, such as directories, files, printers, and serial ports between computers.</p><br/><p><b>Simple Mail Transport Protocol (SMTP)</b> transfers outbound e-mails from the e-mail client to the e-mail server and transports e-mail between e-mail servers and so enables-mail to be exchanged over the Internet.</p><br/><p><b>POP</b>, or <b>POP3 (Post Office Protocol version 3)</b>, delivers e-mail from the e-mail server to the client.</p>]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 7 -->
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[Compare and contrast the messages that Application layer protocols such as DNS, HTTP, SMB, and SMTP/POP exchange between devices to enable data transfer to occur.]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[<p><b>DNS</b> includes standard queries, responses, and data formats. DNS protocol communications are carried in a single format called a message. This message format is used for all types of client queries and server responses, error messages and for the transfer of resource record information between servers.</p><br/><p><b>HTTP</b> is a request/response protocol:</p><ul><li>A client application layer application, typically a web browser, sends a request message to the server.</li><li>The server responds with the appropriate message.</li></ul><br/><p>The protocol also includes messages to upload data to the server, as when completing an online form.</p><br/><p><b>SMB</b> messages use a common format to:</p><ul><li>start, authenticate, and terminate sessions</li><li>control file and printer access</li><li>allow an application to send or receive messages to or from another device</li></ul><br/><p><b>SMTP</b> specifies commands and replies that relate to session initiation, mail transaction, forwarding mail, verifying mailbox names, expanding mailing lists, and the opening and closing exchanges.</p><br/><p><b>POP</b> is a typical client/server protocol with the server listening for client connections and the client initiating the connection to the server. The server can then transfer the e-mail.</p><br/><p>All above protocols use server/client request/response messages. Whereas users see the applications that use HTTP (a web browser), SMB (file manager) and SMTP/POP (email client), DNS operation underlies these applications and is truly transparent to the user.</p>]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q7_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,53 @@
+﻿<textcomponents>
+<component id="ID_caption01">
+<text><![CDATA[<b>SMTP is used to forward e-mail.<br>POP is used to deliver e-mail.</b>]]></text>
+</component>
+<component id="ID_txt16">
+<text><![CDATA[<b>E-mail Server - MDA</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Mail User Agent<br>(MUA)</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[Client]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Sender</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[Send E-mail]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>SMTP</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[Forward E-mail]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Mail Transfer Agent<br>(MTA)</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>SMTP</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Mail Transfer Agent<br>(MTA)</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Mail Delivery Agent<br>(MDA)</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[Deliver E-mail]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>POP</b>]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>Recipient</b>]]></text>
+</component>
+<component id="ID_txt14">
+<text><![CDATA[Client]]></text>
+</component>
+<component id="ID_txt15">
+<text><![CDATA[<b>Mail User Agent<br>(MUA)</b>]]></text>
+</component>
+</textcomponents>

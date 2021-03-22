@@ -1,0 +1,35 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Configuring Router Interfaces</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>All interfaces are accessed by issuing the <font face="Courier New">interface</font> command at the global configuration prompt.</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>In the following commands, the </b><font face="Courier New"><i>type</i></font><b> argument includes serial, ethernet, fastethernet, and others:</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<font face="Courier New">Router(config)#<b>interface</b><i> type port</i><br/>Router(config)#<b>interface</b><i> type slot/port<br/>Router(config)#<b>interface</b><i> type slot/subslot/port</i></i>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>The following command is used to administratively turn off the interface:</b>]]></text> 
+  </component>  
+<component id="ID_txt05">
+  <text><![CDATA[<font face="Courier New">Router(config-if)#<b>shutdown</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>The following command is used to turn on an interface that has been shutdown:</b>]]></text> 
+  </component>  
+ <component id="ID_txt07">
+  <text><![CDATA[<font face="Courier New">Router(config-if)#<b>no shutdown</b>]]></text> 
+  </component> 
+<component id="ID_txt08">
+  <text><![CDATA[<b>The following command is used to quit the current interface configuration mode:</b>]]></text> 
+  </component>  
+ <component id="ID_txt09">
+  <text><![CDATA[<font face="Courier New">Router(config-if)#<b>exit</b>]]></text> 
+  </component> 
+ <component id="ID_txt10">
+  <text><![CDATA[<b>When the configuration is complete, the interface is enabled and interface configuration mode is exited.</b>]]></text> 
+  </component>  
+</textcomponents>

@@ -1,0 +1,50 @@
+<textcomponents>
+   <component id="ID_txt01">
+      <text><![CDATA[<b>Examples of Layer 2 Protocols  </b>]]></text>
+   </component>
+   <component id="ID_txt02">
+      <text><![CDATA[<b>Click Play to the see the animation.</b>]]></text>
+   </component>
+   <component id="ID_txt03">
+      <text><![CDATA[<b>802.11 Wireless Frame</b>]]></text>
+   </component>
+   <component id="ID_txt04">
+      <text><![CDATA[<b>PPP Frame</b>]]></text>
+   </component>
+   <component id="ID_txt05">
+      <text><![CDATA[<b>HDLC</b>]]></text>
+   </component>
+   <component id="ID_txt06">
+      <text><![CDATA[<b>Frame Relay</b>]]></text>
+   </component>
+   <component id="ID_txt07">
+      <text><![CDATA[<b>Ethernet Frame</b>]]></text>
+   </component>
+   <component id="play">
+      <text>Play</text>
+   </component>
+   <component id="pause">
+      <text>Pause</text>
+   </component>
+   <component id="rewind">
+      <text>Rewind</text>
+   </component>
+   <component id="forward">
+      <text>Fast Forward</text>
+   </component>
+   <component id="mute">
+      <text>Mute</text>
+   </component>
+   <component id="unmute">
+      <text>UnMute</text>
+   </component>
+   <component id="previous">
+      <text>Restart</text>
+   </component>
+   <component id="next">
+      <text>End</text>
+   </component>
+   <component id="transcript">
+      <text>Transcript</text>
+   </component>
+</textcomponents>

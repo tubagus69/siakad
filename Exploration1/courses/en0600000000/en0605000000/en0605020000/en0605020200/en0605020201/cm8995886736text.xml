@@ -1,0 +1,21 @@
+﻿<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>All devices in this network are connected in one broadcast domain when the switch is set to the factory default settings. Since switches forward broadcasts by default, broadcasts are processed by all devices in this network.</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Replacing the middle switch with a router creates 2 IP subnets, hence, 2 distinct broadcast domains. All devices are connected but local broadcasts are contained. </b>]]></text>
+</component>
+
+
+<component id="btnZero">
+<text><![CDATA[<b>BEGIN</b>]]></text>
+</component>
+
+<component id="btnOne">
+<text><![CDATA[<b>OPTIMIZE GROUPING</b>]]></text>
+</component>
+
+
+</textcomponents>

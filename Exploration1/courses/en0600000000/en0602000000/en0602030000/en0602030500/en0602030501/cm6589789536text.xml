@@ -1,0 +1,17 @@
+﻿<textcomponents>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>To: 38.3.202.102</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Many diverse types of devices can communicate using the same sets of protocols. This is because protocols specify network functionality, not the underlying technology to support this functionality.</b>]]></text>
+</component>
+
+
+<component id="ID_network">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+
+
+</textcomponents>

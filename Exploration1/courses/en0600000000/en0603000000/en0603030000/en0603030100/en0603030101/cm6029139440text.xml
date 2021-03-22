@@ -1,0 +1,52 @@
+﻿<textcomponents>
+
+
+<component id="ID_title">
+  <text><![CDATA[<b>Resolving DNS Addresses</b>]]></text> 
+</component>
+<component id="ID_inst">
+  <text><![CDATA[<b>Click to see the steps.</b>]]></text> 
+</component>
+<component id="ID_label1">
+  <text><![CDATA[<b>DNS Server</b>]]></text> 
+</component>
+<component id="ID_label2">
+  <text><![CDATA[<b>Network</b>]]></text> 
+</component>
+<component id="ID_label3">
+  <text><![CDATA[<b>Client</b>]]></text> 
+</component>
+<component id="ID_label4">
+  <text><![CDATA[<b>The name is easy for people to use.</b>]]></text> 
+</component>
+<component id="ID_label5">
+  <text><![CDATA[<b>www.cisco.com</b>]]></text> 
+</component>
+<component id="ID_label6">
+  <text><![CDATA[<b>Name</b>]]></text> 
+</component>
+<component id="ID_label7">
+  <text><![CDATA[<b>Address</b>]]></text> 
+</component>
+<component id="ID_label8">
+  <text><![CDATA[<b>198.133.219.25 </b>]]></text> 
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>The DNS server matches the human address with the numeric address.</b>]]></text> 
+</component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>The devices use numbers.</b>]]></text> 
+</component>
+<component id="ID_label9">
+  <text><![CDATA[<b>198.133.219.25</b>]]></text> 
+</component>
+<component id="ID_label10">
+  <text><![CDATA[<b>The number is returned back to the client for use in making requests of the server.</b>]]></text> 
+</component>
+<component id="ID_label11">
+  <text><![CDATA[<b>A human legible name is resolved to its numeric network device address by the DNS protocol.</b>]]></text> 
+</component>
+<component id="ID_label12">
+  <text><![CDATA[<b>198.133.219.25</b>]]></text> 
+</component>
+</textcomponents>

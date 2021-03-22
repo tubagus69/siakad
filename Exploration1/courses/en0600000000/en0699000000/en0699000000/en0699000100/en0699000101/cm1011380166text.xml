@@ -1,0 +1,156 @@
+<textcomponents>
+
+<component id="ID_title">
+         <text><![CDATA[<b>CCNA Exploration 1</b><br/>Message to Students]]></text>
+</component>
+   
+<component id="ID_page1">
+         <text><![CDATA[page 1 of 9]]></text>
+</component>
+<component id="ID_page2">
+         <text><![CDATA[page 2 of 9]]></text>
+</component>
+<component id="ID_page3">
+         <text><![CDATA[page 3 of 9]]></text>
+</component>
+<component id="ID_page4">
+         <text><![CDATA[page 4 of 9]]></text>
+</component>
+<component id="ID_page5">
+         <text><![CDATA[page 5 of 9]]></text>
+</component>
+<component id="ID_page6">
+         <text><![CDATA[page 6 of 9]]></text>
+</component>
+<component id="ID_page7">
+         <text><![CDATA[page 7 of 9]]></text>
+</component>
+<component id="ID_page8">
+         <text><![CDATA[page 8 of 9]]></text>
+</component>
+<component id="ID_page9">
+         <text><![CDATA[page 9 of 9]]></text>
+</component>
+
+<component id="ID_tourTitle">
+         <text><![CDATA[<b>Discovery and Exploration User Interface Overview</b>]]></text>
+</component>
+
+<component id="ID_txtIntro1">
+         <text><![CDATA[<b>The purpose of this tour is to:</b>]]></text>
+</component>
+
+<component id="ID_txtIntro2">
+         <text><![CDATA[<ul><li>Give an overview of the new Graphical User Interface</li><li>Highlight some new features</li><li>Point out some features that are built, but not useable in the current test</li></ul>]]></text>
+</component>
+
+<component id="ID_txt01">
+         <text><![CDATA[    ]]></text>
+</component>
+   
+<component id="ID_txt02">
+         <text><![CDATA[    ]]></text>
+</component>
+
+<component id="ID_txt03">
+         <text><![CDATA[    ]]></text>
+</component>
+
+<component id="ID_txt04">
+         <text><![CDATA[    ]]></text>
+</component>
+
+<component id="ID_txt05">
+         <text><![CDATA[The course and curriculum are named in the top-right area.]]></text>
+</component>
+
+<component id="ID_txt06">
+         <text><![CDATA[The top-left area indicates your location in the course.]]></text>
+</component>
+
+<component id="ID_txt07a">
+         <text><![CDATA[Chapter]]></text>
+</component>
+<component id="ID_txt07b">
+         <text><![CDATA[Section]]></text>
+</component>
+<component id="ID_txt07c">
+         <text><![CDATA[Topic]]></text>
+</component>
+<component id="ID_txt07d">
+         <text><![CDATA[Pages within a topic have numbers, but no names. The green circle indicates the current page.]]></text>
+</component>
+
+<component id="ID_txt08">
+         <text><![CDATA[The bottom-right area supports navigation.]]></text>
+</component>
+
+<component id="ID_txt09">
+         <text><![CDATA[The detailed location box combines all the location information provided at the top of the screen using a chapter.section.topic.page notation.<br/><br/>You can type a location you wish to jump-to in the location box.]]></text>
+</component>
+
+<component id="ID_txt10">
+         <text><![CDATA[Then, click on the jump-to icon to jump to the specified page.]]></text>
+</component>
+
+<component id="ID_txt11">
+         <text><![CDATA[The Section Status/Navigation bar displays segments to represent each section in the chapter. Your current location within the chapter is highlighted in green. Placing the cursor over a section displays the title of that section.<br/><br/>You may click on any section of that chapter to quickly jump to that section.]]></text>
+</component>
+
+<component id="ID_txt12">
+         <text><![CDATA[Introduction and summary sections are indicated in yellow. The dark blue section at the end indicates a quiz.]]></text>
+</component>
+
+<component id="ID_txt13">
+         <text><![CDATA[The Next and Back buttons take you to the next or previous page.]]></text>
+</component>
+
+<component id="ID_txt14">
+         <text><![CDATA[The lower-left portion of the interface contains functions for index, search, glossary and tools.]]></text>
+</component>
+
+<component id="ID_txt15">
+         <text><![CDATA[The translation button allows immediate text toggle to another language, if available. No second language is available before the English version.]]></text>
+</component>
+
+<component id="ID_txt16">
+         <text><![CDATA[If there is text on a page, it is displayed on the left side.]]></text>
+</component>
+
+<component id="ID_txt17">
+         <text><![CDATA[A scroll bar will appear if there is text that cannot be seen.]]></text>
+</component>
+
+
+
+
+	<component id="play">
+		<text><![CDATA[Play]]></text>
+	</component>
+    <component id="pause">
+		<text><![CDATA[Pause]]></text>
+	</component>
+    <component id="rewind">
+		<text><![CDATA[Rewind]]></text>
+	</component>
+	<component id="forward">
+		<text><![CDATA[Fast Forward]]></text>
+	</component>
+    <component id="mute">
+		<text><![CDATA[Mute]]></text>
+	</component>
+    <component id="unmute">
+		<text><![CDATA[UnMute]]></text>
+	</component>
+    <component id="previous">
+		<text><![CDATA[Restart]]></text>
+	</component>
+    <component id="next">
+		<text><![CDATA[End]]></text>
+	</component>
+<component id="transcript">
+		<text><![CDATA[Transcript]]></text>
+	</component>
+</textcomponents>
+
+

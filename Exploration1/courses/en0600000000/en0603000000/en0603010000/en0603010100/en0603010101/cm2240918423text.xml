@@ -1,0 +1,61 @@
+﻿<textcomponents>
+<component id="ID_txt01a">
+<text><![CDATA[<b>People</b>]]></text>
+</component>
+<component id="ID_txt01b">
+<text><![CDATA[<b>Software and hardware</b>]]></text>
+</component>
+<component id="ID_txt01c">
+<text><![CDATA[<b>Application layer services</b>]]></text>
+</component>
+<component id="ID_txt01d">
+<text><![CDATA[<b>Software and hardware convert communication to a digital format.</b>]]></text>
+</component>
+<component id="ID_txt01e">
+<text><![CDATA[<b>People create the communication.</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>7 Application</b>]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>7 Application</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>6 Presentation</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>5 	Session</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>4	Transport</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>3 	Network</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>2 	Data Link</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>1 	Physical</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>And, the Application layer receives data from the network and prepares it for human use.</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Each layer plays its role.</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>The Application layer prepares human communication for transmission over the data network.</b>]]></text>
+</component>
+<component id="ID_txt12">	<text><![CDATA[<b>Application layer services initiate the data transfer.</b>]]></text>
+</component>
+<component id="ID_inst">
+<text><![CDATA[<b>Click the steps.</b>]]></text>
+</component>
+<component id="ID_title">
+<text><![CDATA[<b>The Human Network Generates Data</b>]]></text>
+</component>
+</textcomponents>

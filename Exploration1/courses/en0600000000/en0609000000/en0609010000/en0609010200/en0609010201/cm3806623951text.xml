@@ -1,0 +1,50 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Layer 2 Addresses Layer 1 Limitations</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Layer 1 Limitations</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Layer 2 Functions</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>Cannot communicate with upper layers</br></b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+    <text><![CDATA[<b>Connects to upper layers via Logical Link Control (LLC)</br></b>]]></text> 
+  </component>
+
+
+<component id="ID_txt06">
+    <text><![CDATA[<b>Cannot identify devices</br></b>]]></text> 
+  </component>
+  
+<component id="ID_txt07">
+      <text><![CDATA[<b>Uses addressing schemes to identify devices</br></b>]]></text> 
+  </component>
+  
+<component id="ID_txt08">
+      <text><![CDATA[<b>Only recognizes streams of bits</br></b>]]></text> 
+  </component>
+  
+<component id="ID_txt09">
+      <text><![CDATA[<b>Uses frames to organize bits into groups</br></b>]]></text> 
+  </component>
+  
+<component id="ID_txt10">
+        <text><![CDATA[<b>Cannot determine the source of a transmission when multiple devices are transmitting
+</br></b>]]></text> 
+  </component>
+  
+<component id="ID_txt11">
+        <text><![CDATA[<b>Uses Media Access Control (MAC) to identify transmission sources</br></b>]]></text> 
+  </component>
+  
+
+</textcomponents>

@@ -1,0 +1,50 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Routers sharing routes</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>192.168.2.1</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>192.168.1.1</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b><font color="#663300">192.168.2.2</font></b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b><font color="#003399">192.168.1.2</font></b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b><font color="#3333CC">Network 10.1.1.0</font></b>]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[<b><font color="#3333CC">Network 10.1.2.0</font></b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b><font color="#006600">Routing Protocol</font></b>]]></text> 
+  </component>
+<component id="ID_txt09">
+  <text><![CDATA[<b>B: "I have a path to networks 10.1.1.0 and 10.1.2.0"</b>]]></text> 
+  </component>
+<component id="ID_txt10">
+  <text><![CDATA[<b><font color="#006600">Routing Protocol</font></b>]]></text> 
+  </component>
+<component id="ID_txt11">
+  <text><![CDATA[<b>C: "I have networks 10.1.1.0 and 10.1.2.0"</b>]]></text> 
+  </component>
+<component id="ID_txt12">
+  <text><![CDATA[<b>Router B learns about Router C's networks dynamically. <br/>Router B's next hop to 10.1.1.0 and 10.1.2.0 is <font color="#003399">192.168.1.2</font> (Router C).<br/>Router A learns about Router C's networks dynamically from Router B. <br/>Router A's next hop to 10.1.1.0 and 10.1.2.0 is <font color="#663300">192.168.2.2</font> (Router B).</b>]]></text> 
+  </component>
+<component id="ID_txt13">
+  <text><![CDATA[<b>Dynamic Routing</b>]]></text> 
+  </component>
+<component id="ID_txt14">
+  <text><![CDATA[<b>A</b>]]></text> 
+  </component>
+<component id="ID_txt15">
+  <text><![CDATA[<b>B</b>]]></text> 
+  </component>
+<component id="ID_txt16">
+  <text><![CDATA[<b>C</b>]]></text> 
+  </component>
+</textcomponents>

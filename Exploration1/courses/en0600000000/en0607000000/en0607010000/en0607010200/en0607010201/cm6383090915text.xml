@@ -1,0 +1,67 @@
+<textcomponents>
+   <component id="ID_title">
+      <text><![CDATA[<b>Transfer of Frames</b>]]></text>
+   </component>
+   <component id="ID_txt01">
+         <text><![CDATA[<b>LAN Trailer</b>]]></text>
+   </component>
+   
+   <component id="ID_txt01a">
+            <text><![CDATA[<b>Packet</b>]]></text>
+   </component>
+   
+   <component id="ID_txt02">
+      <text><![CDATA[<b>LAN Header</b>]]></text>
+   </component>
+   <component id="ID_txt03">
+      <text><![CDATA[<b>WAN Trailer</b>]]></text>
+   </component>
+   <component id="ID_txt04">
+      <text><![CDATA[<b>WAN Header</b>]]></text>
+   </component>
+   <component id="ID_txt05">
+      <text><![CDATA[<b>Serial Connection</b>]]></text>
+   </component>
+   <component id="ID_txt06">
+       <text><![CDATA[<b>Ethernet Connection</b>]]></text>
+   </component>
+   <component id="ID_txt07">
+       <text><![CDATA[<b>The Data Link layer is responsible for controlling the transfer of frames across the media.</b>]]></text>
+   </component>
+    <component id="ID_txt08">
+       <text><![CDATA[<b>A</b>]]></text>
+   </component>
+    <component id="ID_txt09">
+        <text><![CDATA[<b>B</b>]]></text>
+   </component>
+   <component id="ID_instruct">
+      <text><![CDATA[<b>Click Play to see attenuation occur on a cable.</b>]]></text>
+   </component>
+   <component id="play">
+      <text>Play</text>
+   </component>
+   <component id="pause">
+      <text>Pause</text>
+   </component>
+   <component id="rewind">
+      <text>Rewind</text>
+   </component>
+   <component id="forward">
+      <text>Fast Forward</text>
+   </component>
+   <component id="mute">
+      <text>Mute</text>
+   </component>
+   <component id="unmute">
+      <text>UnMute</text>
+   </component>
+   <component id="previous">
+      <text>Restart</text>
+   </component>
+   <component id="next">
+      <text>End</text>
+   </component>
+   <component id="transcript">
+      <text>Transcript</text>
+   </component>
+</textcomponents>

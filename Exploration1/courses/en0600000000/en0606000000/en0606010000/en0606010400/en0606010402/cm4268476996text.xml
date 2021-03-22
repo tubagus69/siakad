@@ -1,0 +1,85 @@
+<textcomponents>
+   <component id="play">
+      <text>Play</text>
+   </component>
+   <component id="pause">
+      <text>Pause</text>
+   </component>
+   <component id="rewind">
+      <text>Rewind</text>
+   </component>
+   <component id="forward">
+      <text>Fast Forward</text>
+   </component>
+   <component id="mute">
+      <text>Mute</text>
+   </component>
+   <component id="unmute">
+      <text>UnMute</text>
+   </component>
+   <component id="previous">
+      <text>Restart</text>
+   </component>
+   <component id="next">
+      <text>End</text>
+   </component>
+   <component id="transcript">
+      <text>Transcript</text>
+   </component>
+   
+<component id="ID_title">
+   <text><![CDATA[<b>Convert Decimal to Binary</b>]]></text>
+</component>
+
+<component id="ID_inst">
+   <text><![CDATA[<b>Click buttons for more information.</b>]]></text>
+</component>
+
+<component id="ID_txt01a">
+   <text><![CDATA[<b>172.16.4.20</b>]]></text>
+</component>
+
+<component id="ID_txt01b">
+   <text><![CDATA[<b>Separate and convert each decimal number separately</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+   <text><![CDATA[<b>172</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+   <text><![CDATA[<b>10101100</b>]]></text>
+</component>
+
+<component id="ID_txt02a">
+   <text><![CDATA[<b>16</b>]]></text>
+</component>
+
+<component id="ID_txt02b">
+   <text><![CDATA[<b>00010000</b>]]></text>
+</component>
+
+<component id="ID_txt03a">
+   <text><![CDATA[<b>4</b>]]></text>
+</component>
+
+<component id="ID_txt03b">
+   <text><![CDATA[<b>00000100</b>]]></text>
+</component>
+
+<component id="ID_txt04a">
+   <text><![CDATA[<b>20</b>]]></text>
+</component>
+
+<component id="ID_txt04b">
+   <text><![CDATA[<b>00010100</b>]]></text>
+</component>
+
+<component id="ID_txt04c">
+   <text><![CDATA[<b>10101100 000100000000010000010100</b>]]></text>
+</component>
+
+<component id="ID_txt04d">
+   <text><![CDATA[<b>Binary IPv4 address </b>]]></text>
+</component>
+</textcomponents>

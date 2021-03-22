@@ -1,0 +1,51 @@
+<course id="en0600000000">
+<title>
+<content-text>CCNA Exploration</content-text>
+</title>
+<subtitle>
+<content-text>Network Fundamentals</content-text>
+</subtitle>
+    <courseversion>
+        <content-text>4.0.0.0</content-text>
+    </courseversion>
+<chapter id="en0699000000">
+<file>chapter99.xml</file>
+</chapter>
+<chapter id="en0600000000">
+<file>chapter0.xml</file>
+</chapter>
+<chapter id="en0601000000">
+<file>chapter1.xml</file>
+</chapter>
+<chapter id="en0602000000">
+<file>chapter2.xml</file>
+</chapter>
+<chapter id="en0603000000">
+<file>chapter3.xml</file>
+</chapter>
+<chapter id="en0604000000">
+<file>chapter4.xml</file>
+</chapter>
+<chapter id="en0605000000">
+<file>chapter5.xml</file>
+</chapter>
+<chapter id="en0606000000">
+<file>chapter6.xml</file>
+</chapter>
+<chapter id="en0607000000">
+<file>chapter7.xml</file>
+</chapter>
+<chapter id="en0608000000">
+<file>chapter8.xml</file>
+</chapter>
+<chapter id="en0609000000">
+<file>chapter9.xml</file>
+</chapter>
+<chapter id="en0610000000">
+<file>chapter10.xml</file>
+</chapter>
+<chapter id="en0611000000">
+<file>chapter11.xml</file>
+</chapter>
+<glossary><file>glossary.xml</file></glossary>
+</course>

@@ -1,0 +1,20 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Testing Local TCP/IP Stack</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Pinging the local host confirms that TCP/IP is installed and working on the local network adapter.</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt02">
+    <text><![CDATA[<b>Pinging <font color="#003399">127.0.0.1</font> causes a device to ping itself.</b>]]></text> 
+  </component>
+
+<component id="ID_txt03">
+    <text><![CDATA[<b>C:\&gt;ping 127.0.0.1</b>]]></text> 
+  </component>
+
+
+</textcomponents>

@@ -1,0 +1,80 @@
+<textcomponents>
+<component id="HEADER">
+<text><![CDATA[HEADER]]></text>
+</component>
+<component id="ADDRESSES">
+<text><![CDATA[ADDRESSES]]></text>
+</component>	
+	
+	
+<component id="ID_title">
+	<text><![CDATA[<b>IPv6 Header</b>]]></text>
+	</component>
+	
+<component id="ID_txt01">
+		<text><![CDATA[<b>Source Address</b>]]></text>
+	</component>
+	
+<component id="ID_txt02">
+		<text><![CDATA[<b>Destination Address</b>]]></text>
+	</component>
+	
+<component id="ID_txt03">
+		<text><![CDATA[<b>Version 6</b>]]></text>
+	</component>
+	
+<component id="ID_txt04">
+		<text><![CDATA[<b>Traffic Class 8 bits</b>]]></text>
+	</component>
+	
+<component id="ID_txt05">
+    		<text><![CDATA[<b>Flow Label 20 bits</b>]]></text>
+	</component>
+	
+<component id="ID_txt06">
+    		<text><![CDATA[<b>2001:0db8:0000:0000:0000:0000:1428:57ab  </b>]]></text>
+	</component>
+	
+<component id="ID_txt07">
+	    	<text><![CDATA[<b>Payload Length 16 bits</b>]]></text>
+		</component>
+		
+<component id="ID_txt08">
+	        <text><![CDATA[<b>Next Hdr 8 bits</b>]]></text>
+		</component>
+		
+<component id="ID_txt09">
+	        <text><![CDATA[<b>3ffe:6a88:85a3:08d3:1319:8a2e:0370:7344</b>]]></text>
+		</component>
+
+<component id="ID_txt10">
+	        <text><![CDATA[<b>HopLimit 8 bits</b>]]></text>
+		</component>
+<component id="ID_txt13">
+		<text><![CDATA[<b>Simplified header structure allows for faster processing</b>]]></text>
+	</component>
+	
+<component id="ID_txt15">
+		<text><![CDATA[<b>Addresses are 128 bits</b>]]></text>
+	</component>
+	
+<component id="ID_inst">
+		<text><![CDATA[<b>Roll over to learn more.</b>]]></text>
+	</component>
+	
+<component id="ID_txt16">
+		<text><![CDATA[<b>Optional header strategy allows for customization and future development</b>]]></text>
+	</component>
+	
+<component id="ID_txt17">
+		<text><![CDATA[<b>Addresses are expressed as 8 hexadecimal values, separated by colons</b>]]></text>
+	</component>
+	
+<component id="ID_txt18">
+	        <text><![CDATA[<b>Each field is 16 bits long.  8 X 16 = 128</b>]]></text>
+	</component>
+
+<component id="ID_txt19">
+	        <text><![CDATA[<b>1       2        3       4       5       6       7       8</b>]]></text>
+	</component>
+</textcomponents>

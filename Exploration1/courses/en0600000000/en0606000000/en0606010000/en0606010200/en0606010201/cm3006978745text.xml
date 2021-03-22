@@ -1,0 +1,48 @@
+<textcomponents>
+
+<component id="ID_title">
+	<text><![CDATA[<b>Binary To Decimal Conversion</b>]]></text>
+</component>
+<component id="ID_txt04">
+	<text><![CDATA[<b>1 BYTE / 1 Octet</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+	<text><![CDATA[<b>245</b>]]></text> 
+  </component>
+  
+<component id="ID_txt07">
+	<text><![CDATA[<b>Exponent</b>]]></text> 
+  </component>
+<component id="ID_txt08">
+	<text><![CDATA[<b>Position</b>]]></text> 
+  </component>  
+<component id="ID_txt09">
+	<text><![CDATA[<b>Bits</b>]]></text> 
+  </component>    
+<component id="ID_txt10">
+	<text><![CDATA[<b>Add these numbers<br>together</b>]]></text> 
+  </component>
+  
+<component id="ID_txt11">
+	<text><![CDATA[<b>Decimal</b>]]></text> 
+  </component>  
+  
+<component id="ID_txt12">
+	<text><![CDATA[<b>A 1 in this position means 64 is added to the total.</b>]]></text> 
+  </component>  
+  
+<component id="ID_txt13">
+	<text><![CDATA[<b>A 1 in this position means 64 is added to the total.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt14">
+	<text><![CDATA[<b>A 0 in any position means that 0 is added to the total.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt15">
+	<text><![CDATA[<b>11110101 in Binary = Decimal Number 245</b>]]></text> 
+  </component>  
+  
+</textcomponents>
+
+

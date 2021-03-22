@@ -1,0 +1,35 @@
+﻿<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Network Layer Protocols</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Benefits of OSL model:</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<li>Reduces complexity</li><li>Standardizes interfaces</li><li>Facilitates modular engineering</li><li>Ensures interoperable technology</li><li>Accelerates evolution</li><li>Simplifies teaching and learning</li>]]></text>
+</component>
+<component id="ID_txt04"><text><![CDATA[<b>Application</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Presentation</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Session</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Transport</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Data Link</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Physical</b>]]></text>
+</component>
+<component id="ID_txt1_new">
+<text><![CDATA[<ul><li>Internet Protocol version 4 (IPv4)</li><li>Internet Protocol version 6 (IPv6)</li><li>Novell Internetwork Packet Exchange (IPX)</li><li>AppleTalk</li><li>Connectionless Network Service (CLNS/DECNet)</li></ul>]]></text>
+</component>
+</textcomponents>

@@ -1,0 +1,10 @@
+<textcomponents>
+<component id="ID_caption01">
+<text><![CDATA[<b>The Data Link layer prepares network data for the physical network.</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+
+</textcomponents>

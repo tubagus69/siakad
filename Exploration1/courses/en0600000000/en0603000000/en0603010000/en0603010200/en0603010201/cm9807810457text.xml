@@ -1,0 +1,67 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Software Processes</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Processes are individual software programs running concurrently.</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Processes can be </b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Applications</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Services</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>System operations</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>One program may be running several times, each in its own process.</b>]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>Examples of processes running in the Windows operating system</b>]]></text> 
+  </component>
+
+
+<component id="ID_instruct">
+  <text><![CDATA[<b>Roll over an item.</b>]]></text> 
+  </component>
+<component id="hosts">
+	<text>Hosts</text>
+</component> 
+<component id="media">
+	<text>Media</text>
+</component> 
+<component id="networkDevices">
+	<text>Network Devices</text>
+</component> 
+<component id="peripherals">
+	<text>Peripherals</text>
+</component>   
+<component id="peripheralsTitle">
+	<text>Peripherals</text>
+</component>
+<component id="peripheralsBody">
+	<text>Peripheral devices do not communicate directly on the network.</text>
+</component>
+<component id="hostsTitle">
+	<text>Hosts</text>
+</component>
+<component id="hostsBody">
+	<text>Hosts send and receive user traffic. A host is a generic name for most end-user devices. A host has an IP network address.</text>
+</component>
+<component id="networkTitle">
+	<text>Network Devices</text>
+</component>
+<component id="networkBody">
+	<text>Networking devices connect other devices, mainly hosts – They move and control network traffic</text>
+</component>
+<component id="mediaTitle">
+	<text>Media</text>
+</component>
+<component id="mediaBody">
+	<text>Media provides connections between hosts and network devices. Media can be wired, such as copper  and fiber optic or use wireless technologies.”  Also label wire between switches as “Fiber Optic cable” and the wires between all other devices and the hubs as “Copper cable” when this hot spot is clicked.</text>
+</component>
+</textcomponents>

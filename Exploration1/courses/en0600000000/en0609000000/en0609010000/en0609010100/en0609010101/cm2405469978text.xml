@@ -1,0 +1,62 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Ethernet</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Ethernet is defined by Data Link layer and Physical layer protocols.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[Medium]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>Application</br></b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+    <text><![CDATA[<b>Presentation</br></b>]]></text> 
+  </component>
+
+
+<component id="ID_txt06">
+    <text><![CDATA[<b>Session</br></b>]]></text> 
+  </component>
+  
+<component id="ID_txt07">
+      <text><![CDATA[<b>Transport</br></b>]]></text> 
+  </component>
+  
+<component id="ID_txt08">
+      <text><![CDATA[<b>Network</br></b>]]></text> 
+  </component>
+  
+<component id="ID_txt09">
+      <text><![CDATA[<b>Data Link</br></b>]]></text> 
+  </component>
+  
+<component id="ID_txt09a">
+        <text><![CDATA[<b>LLC</br></b>]]></text> 
+  </component>
+  
+<component id="ID_txt09b">
+        <text><![CDATA[<b>MAC</br></b>]]></text> 
+  </component>
+  
+<component id="ID_txt10">
+      <text><![CDATA[<b>Physical</br></b>]]></text> 
+  </component>
+  
+<component id="ID_txt11">
+      <text><![CDATA[<b>802.2</br></b>]]></text> 
+  </component>
+  
+<component id="ID_txt12">
+        <text><![CDATA[<b>802.3</b>]]></text> 
+  </component>
+  <component id="ID_txt13">
+        <text><![CDATA[<b>Ethernet</b>]]></text> 
+  </component>
+</textcomponents>

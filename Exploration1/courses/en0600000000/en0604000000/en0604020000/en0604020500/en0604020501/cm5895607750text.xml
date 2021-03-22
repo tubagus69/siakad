@@ -1,0 +1,44 @@
+<textcomponents>
+
+
+<component id="ID_inst">
+<text><![CDATA[<b>Click to see the details.</b>]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>TCP Session Termination (FIN)</b>]]></text>
+</component>
+
+<component id="ID_title_02">
+<text><![CDATA[<b>TCP Session Termination (ACK)</b>]]></text>
+</component>
+
+
+<component id="Button_01">
+<text><![CDATA[<b>FIN</b>]]></text>
+</component>
+
+<component id="Button_02">
+<text><![CDATA[<b>ACK</b>]]></text>
+</component>
+
+
+
+<component id="myTable_01">
+<text><![CDATA[<table><tr><th></th></tr><tr><td><ul><li>A protocol analyzer shows details of frame 20, TCP FIN request.</li></ul></table>]]></text> 
+</component>
+
+<component id="myTable_02">
+<text><![CDATA[<table><tr><th></th></tr><tr><td><ul><li>The destination and source ports </li><li>The header field contents and values</li></ul></table>]]></text> 
+</component>
+
+<component id="myTable_03">
+<text><![CDATA[<table><tr><th></th></tr><tr><td><ul><li>A protocol analyzer shows details of frame 21, TCP ACK response.</li></ul></table>]]></text> 
+</component>
+
+<component id="myTable_04">
+<text><![CDATA[<table><tr><th></th></tr><tr><td><ul><li>The destination and source ports</li><li>The header field contents and values</li></ul></table>]]></text> 
+</component>
+
+
+</textcomponents>

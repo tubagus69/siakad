@@ -1,0 +1,103 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>The common Ethernet frame can be applied to different network types</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Headquarters</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Customer Premises</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>Customer Premises</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>Branch Office</b>]]></text> 
+  </component>
+  
+<component id="ID_txt06">
+  <text><![CDATA[<b>WAN</b>]]></text> 
+  </component>
+  
+<component id="ID_txt07">
+  <text><![CDATA[<b>Metropolitan Area Network</b>]]></text> 
+  </component>
+  
+<component id="ID_txt08">
+  <text><![CDATA[<b>Access Network</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt09">
+  <text><![CDATA[<b>Branch Office</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt10">
+  <text><![CDATA[<b>Branch Office</b>]]></text> 
+  </component>
+  
+
+ 
+  
+<component id="ID_txt11">
+  <text><![CDATA[<b>Ethernet</b>]]></text> 
+  </component>
+  
+<component id="ID_txt12">
+  <text><![CDATA[8]]></text> 
+  </component>
+  
+<component id="ID_txt13">
+  <text><![CDATA[6]]></text> 
+  </component>
+  
+<component id="ID_txt14">
+  <text><![CDATA[6]]></text> 
+  </component>
+  
+<component id="ID_txt15">
+  <text><![CDATA[2]]></text> 
+  </component>
+  
+<component id="ID_txt16">
+  <text><![CDATA[46 to 1500]]></text> 
+  </component>
+  
+<component id="ID_txt17">
+  <text><![CDATA[4]]></text> 
+  </component>
+  
+  <component id="ID_txt18">
+    <text><![CDATA[Preamble]]></text> 
+  </component>
+  
+  <component id="ID_txt19">
+    <text><![CDATA[Destination Address]]></text> 
+  </component>
+  
+  <component id="ID_txt20">
+    <text><![CDATA[Source Address]]></text> 
+  </component>
+  
+  <component id="ID_txt21">
+    <text><![CDATA[Type]]></text> 
+  </component>
+  
+   <component id="ID_txt22">
+      <text><![CDATA[Data]]></text> 
+  </component>
+  
+   <component id="ID_txt23">
+      <text><![CDATA[Frame Check Sequence]]></text> 
+  </component>
+  
+  
+<component id="ID_txt24">
+   <text><![CDATA[<b>The common Ethernet frame can be applied to different network types.</b>]]></text> 
+  </component>
+
+</textcomponents>

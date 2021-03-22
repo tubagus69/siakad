@@ -1,0 +1,26 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Configuration Files</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>NVRAM</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b><font face="Courier New">startup-configuration</font></b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>At start up, startup-configuration is copied from NVRAM to RAM and executed as running-configuration.</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Configuration edits change running-configuration</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b><font face="Courier New">running-configuration</font></b>]]></text> 
+  </component>
+<component id="ID_txt06">
+    <text><![CDATA[<b>RAM</b>]]></text> 
+  </component>
+  <component id="ID_txt07">
+      <text><![CDATA[<b>Running-configuration directs device operation</b>]]></text> 
+  </component>
+  </textcomponents>

@@ -1,0 +1,326 @@
+<textcomponents>
+
+<component id="ID_title">
+	<text><![CDATA[<b>Convert Decimal to Binary</b>]]></text>
+</component>
+
+<component id="ID_titlea">
+	<text><![CDATA[<b>Decimal IPv4 address 172.16.4.20<br/></b>Separate and convert each decimal number separately]]></text>
+</component>
+
+
+
+<component id="ID_txt01">
+<text><![CDATA[<font color="#6699CC"><b>172 - 128 = 44</b></font>]]></text>
+</component>
+
+
+<component id="ID_txt02">
+  <text><![CDATA[<font color="#6699CC"><b>44 &#60; 64 = 0</b></font>]]></text> 
+  </component>
+  
+  <component id="ID_txt03">
+  	<text><![CDATA[<font color="#6699CC"><b>44 - 32 = 12</b></font>]]></text> 
+</component>
+
+
+<component id="ID_txt04">
+  <text><![CDATA[<font color="#6699CC"><b>12 &#60; 16  = 0</b></font>]]></text> 
+  </component>  
+
+
+<component id="ID_txt05">
+  <text><![CDATA[<font color="#6699CC"><b>12 - 8 = 4</b></font>]]></text> 
+  </component>
+  
+  <component id="ID_txt06">
+    <text><![CDATA[<font color="#6699CC"><b>4 - 4 = 0</b></font>]]></text> 
+  </component>
+  
+  <component id="ID_txt07">
+      <text><![CDATA[<font color="#6699CC"><b>0 &#60; 2 = 0</b></font>]]></text> 
+  </component>
+  
+  <component id="ID_txt08">
+        <text><![CDATA[<font color="#6699CC"><b>0 &#60; 1 = 0</b></font>]]></text> 
+  </component>
+
+
+<component id="ID_txt01a">
+  <text><![CDATA[<b>1 <font color="#6699CC">x 128</b></font>]]></text>
+</component>
+  
+  
+  <component id="ID_txt02a">
+    <text><![CDATA[<b>0 <font color="#6699CC">x 64</b></font>]]></text> 
+  </component>  
+  
+  <component id="ID_txt03a">
+  	<text><![CDATA[<b>1 <font color="#6699CC">x 32</b></font>]]></text> 
+</component>
+  
+<component id="ID_txt04a">
+  <text><![CDATA[<b>0 <font color="#6699CC">x 16</b></font>]]></text> 
+  </component> 
+  
+<component id="ID_txt05a">
+  <text><![CDATA[<b>1 <font color="#6699CC">x 8</b></font>]]></text> 
+  </component>  
+  
+<component id="ID_txt06a">
+  <text><![CDATA[<b>1 <font color="#6699CC">x 4</b></font>]]></text> 
+  </component>  
+
+
+<component id="ID_txt07a">
+  <text><![CDATA[<b>0 <font color="#6699CC">x 2</b></font>]]></text> 
+  </component>  
+  
+<component id="ID_txt08a">
+  <text><![CDATA[<b>0 <font color="#6699CC">x 1</b></font>]]></text> 
+  </component>
+
+
+
+<component id="ID_txt01b">
+  <text><![CDATA[<b><font color="#666633">16 &#60; 128</b></font>]]></text>
+    </component>
+  
+  
+  <component id="ID_txt02b">
+  <text><![CDATA[<b><font color="#666633">16 &#60; 64</b></font>]]></text> 
+    </component>
+  
+  <component id="ID_txt03b">
+  	<text><![CDATA[<b><font color="#666633">16 &#60; 32</b></font>]]></text> 
+    </component>
+  
+  <component id="ID_txt04b">
+    <text><![CDATA[<b><font color="#666633">16 - 16 = 0</b></font>]]></text> 
+    </component> 
+    
+  <component id="ID_txt05b">
+    <text><![CDATA[<b><font color="#666633">0 &#60; 8</b></font>]]></text> 
+    </component>  
+    
+  <component id="ID_txt06b">
+    <text><![CDATA[<b><font color="#666633">0 &#60; 4</b></font>]]></text> 
+    </component>  
+  
+  
+  <component id="ID_txt07b">
+    <text><![CDATA[<b><font color="#666633">0 &#60; 2</b></font>]]></text> 
+    </component>  
+    
+  <component id="ID_txt08b">
+    <text><![CDATA[<b><font color="#666633">0 &#60; 1</b></font>]]></text> 
+  </component>  
+
+  
+  
+  <component id="ID_txt01c">
+  <text><![CDATA[<b>0 <font color="#666633">x 128</font></b>]]></text>
+  </component>
+  
+  
+  <component id="ID_txt02c">
+  <text><![CDATA[<b>0 <font color="#666633">x 64</font></b>]]></text> 
+</component>
+
+<component id="ID_txt03c">
+	<text><![CDATA[<b>0 <font color="#666633">x 32</font></b>]]></text> 
+</component>
+
+<component id="ID_txt04c">
+	<text><![CDATA[<b>1 <font color="#666633">x 16</font></b>]]></text> 
+</component>
+
+<component id="ID_txt05c">
+	<text><![CDATA[<b>0 <font color="#666633">x 8</font></b>]]></text> 
+</component>
+
+<component id="ID_txt06c">
+	<text><![CDATA[<b>0 <font color="#666633">x 4</font></b>]]></text> 
+</component>
+
+<component id="ID_txt07c">
+	<text><![CDATA[<b>0 <font color="#666633">x 2</font></b>]]></text> 
+</component>
+
+<component id="ID_txt08c">
+	<text><![CDATA[<b>0 <font color="#666633">x 1</font></b>]]></text> 
+</component>
+  
+
+
+<component id="ID_txt01d">
+<text><![CDATA[<font color="#009900"><b>4 &#60; 128</b></font>]]></text>
+</component>
+
+<component id="ID_txt02d">
+<text><![CDATA[<font color="#009900"><b>4 &#60; 64</b></font>]]></text> 
+</component>
+
+<component id="ID_txt03d">
+<text><![CDATA[<font color="#009900"><b>4 &#60; 32</b></font>]]></text> 
+</component>
+
+<component id="ID_txt04d">
+<text><![CDATA[<font color="#009900"><b>4 &#60; 16</b></font>]]></text> 
+</component>
+
+<component id="ID_txt05d">
+<text><![CDATA[<font color="#009900"><b>4 &#60; 8</b></font>]]></text> 
+</component>
+
+<component id="ID_txt06d">
+<text><![CDATA[<font color="#009900"><b>4 - 4 = 0</b></font>]]></text> 
+</component>
+
+<component id="ID_txt07d">
+<text><![CDATA[<font color="#009900"><b>0 &#60; 2</b></font>]]></text> 
+</component>
+
+<component id="ID_txt08d">
+<text><![CDATA[<font color="#009900"><b>0 &#60; 1</b></font>]]></text> 
+</component>
+
+
+
+<component id="ID_txt01e">
+<text><![CDATA[<b>0 <font color="#009900">x 128</font></b>]]></text>
+</component>
+
+<component id="ID_txt02e">
+<text><![CDATA[<b>0 <font color="#009900">x 64</font></b>]]></text> 
+</component>
+
+<component id="ID_txt03e">
+<text><![CDATA[<b>0 <font color="#009900">x 32</font></b>]]></text> 
+</component>
+
+<component id="ID_txt04e">
+<text><![CDATA[<b>0 <font color="#009900">x 16</font></b>]]></text> 
+</component>
+
+<component id="ID_txt05e">
+<text><![CDATA[<b>0 <font color="#009900">x 8</font></b>]]></text> 
+</component>
+
+<component id="ID_txt06e">
+<text><![CDATA[<b>1 <font color="#009900">x 4</font></b>]]></text> 
+</component>
+
+<component id="ID_txt07e">
+<text><![CDATA[<b>0 <font color="#009900">x 2</font></b>]]></text> 
+</component>
+
+<component id="ID_txt08e">
+<text><![CDATA[<b>0 <font color="#009900">x 1</font></b>]]></text> 
+</component>
+
+
+
+<component id="ID_txt01f">
+<text><![CDATA[<font color="#990000"><b>20 &#60; 128</b></font>]]></text>
+</component>
+
+<component id="ID_txt02f">
+<text><![CDATA[<font color="#990000"><b>20 &#60; 64</b></font>]]></text> 
+</component>
+
+<component id="ID_txt03f">
+<text><![CDATA[<font color="#990000"><b>20 &#60; 32</b></font>]]></text> 
+</component>
+
+<component id="ID_txt04f">
+<text><![CDATA[<font color="#990000"><b>20 - 16 = 4</b></font>]]></text> 
+</component>
+
+<component id="ID_txt05f">
+<text><![CDATA[<font color="#990000"><b>4 &#60; 8</b></font>]]></text> 
+</component>
+
+<component id="ID_txt06f">
+<text><![CDATA[<font color="#990000"><b>4 - 4 = 0</b></font>]]></text> 
+</component>
+
+<component id="ID_txt07f">
+<text><![CDATA[<font color="#990000"><b>0 &#60; 2</b></font>]]></text> 
+</component>
+
+<component id="ID_txt08f">
+<text><![CDATA[<font color="#990000"><b>0 &#60; 1</b></font>]]></text> 
+</component>
+
+
+
+<component id="ID_txt01g">
+<text><![CDATA[<b>0 <font color="#990000">x 128</font></b>]]></text>
+</component>
+
+<component id="ID_txt02g">
+<text><![CDATA[<b>0 <font color="#990000">x 64</font></b>]]></text> 
+</component>
+
+<component id="ID_txt03g">
+<text><![CDATA[<b>0 <font color="#990000">x 32</font></b>]]></text> 
+</component>
+
+<component id="ID_txt04g">
+<text><![CDATA[<b>1 <font color="#990000">x 16</font></b>]]></text> 
+</component>
+
+<component id="ID_txt05g">
+<text><![CDATA[<b>0 <font color="#990000">x 8</font></b>]]></text> 
+</component>
+
+<component id="ID_txt06g">
+<text><![CDATA[<b>1 <font color="#990000">x 4</font></b>]]></text> 
+</component>
+
+<component id="ID_txt07g">
+<text><![CDATA[<b>0 <font color="#990000">x 2</font></b>]]></text> 
+</component>
+
+<component id="ID_txt08g">
+<text><![CDATA[<b>0 <font color="#990000">x 1</font></b>]]></text> 
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Convert <font color="#6699CC">172</font></b>]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Convert <font color="#666633">16</font></b>]]></text> 
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Convert <font color="#009900">4</font></b>]]></text> 
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Convert <font color="#990000">20</font></b>]]></text> 
+</component>
+ 
+<component id="ID_txt13">
+<text><![CDATA[<b>10101100</b>]]></text> 
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>00010000</b>]]></text> 
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>00000100</b>]]></text> 
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>00010100</b>]]></text> 
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[Binary IPv4 address <b>10101100 000100000000010000010100</b>]]></text> 
+</component>
+  
+</textcomponents>

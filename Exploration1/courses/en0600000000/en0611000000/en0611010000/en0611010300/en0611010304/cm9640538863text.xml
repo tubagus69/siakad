@@ -1,0 +1,41 @@
+﻿<textcomponents>
+
+<component id="btn1">
+<text><![CDATA[<b>Router</b>]]></text>
+</component>
+<component id="btn2">
+<text><![CDATA[<b>Switch</b>]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>IOS Modes</b>]]></text>
+</component>
+
+<component id="ID_caption">
+<text><![CDATA[<b>Click to see output from different devices.</b>]]></text>
+</component>
+
+
+<component id="output_text_01">
+<text><![CDATA[<b>Router</b>]]></text>
+</component>
+
+<component id="output_text_02">
+<text><![CDATA[<b>Switch</b>]]></text>
+</component>
+
+<component id="output_text_03">
+<text><![CDATA[<b>User-Mode Prompt</b>]]></text>
+</component>
+
+<component id="output_text_04">
+<text><![CDATA[<b>Privileged-Mode</b>]]></text>
+</component>
+
+<component id="output_text_05">
+<text><![CDATA[<b>User-Mode Prompt</b>]]></text>
+</component>
+
+
+
+</textcomponents>

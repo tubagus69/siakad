@@ -1,0 +1,227 @@
+<textcomponents>
+<component id="ID_txt00">
+<text><![CDATA[<b>A large network is simply too complex to operate and manage efficiently.</b>]]></text>
+</component>
+
+<component id="ID_txt00a">
+<text><![CDATA[<b>Network designers have to ask: on what basis should the network be divided?</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Network designers have to ask: on what basis should the network be divided?</b>]]></text>
+</component>
+
+<component id="ID_txt01a">
+<text><![CDATA[<b>Network designers have to ask: on what basis should the network be divided?</b>]]></text>
+</component>
+
+<component id="ID_txt01b">
+<text><![CDATA[<b>Network designers have to ask: on what basis should the network be divided?</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b><font color="#003399">West Office</font></b>]]></text>
+</component>
+
+<component id="ID_txt02a">
+<text><![CDATA[<b>Sales</b>]]></text> 
+</component>
+
+<component id="ID_txt02b">
+<text><![CDATA[<b>HR</b>]]></text> 
+</component>
+
+<component id="ID_txt02c">
+<text><![CDATA[<b>Legal</b>]]></text> 
+</component>
+
+<component id="ID_txt02d">
+<text><![CDATA[<b>Sales</b>]]></text> 
+</component>
+
+<component id="ID_txt02e">
+<text><![CDATA[<b><font color="#003399">HR Office</font></b>]]></text> 
+</component>
+
+<component id="ID_txt02f">
+<text><![CDATA[<b>HR</b>]]></text> 
+</component>
+
+<component id="ID_txt02g">
+<text><![CDATA[<b>HR</b>]]></text> 
+</component>
+
+<component id="ID_txt02h">
+<text><![CDATA[<b>HR</b>]]></text> 
+</component>
+
+<component id="ID_txt02i">
+<text><![CDATA[<b>HR</b>]]></text> 
+</component>
+
+<component id="ID_txt02j">
+<text><![CDATA[<b><font color="#0000ff">Public Floor</font></b>]]></text> 
+</component>
+
+<component id="ID_txt02k">
+<text><![CDATA[<b>Legal</b>]]></text> 
+</component>
+
+<component id="ID_txt02l">
+<text><![CDATA[<b>HR</b>]]></text> 
+</component>
+
+<component id="ID_txt02m">
+<text><![CDATA[<b>Admin</b>]]></text> 
+</component>
+
+<component id="ID_txt02n">
+<text><![CDATA[<b>Legal</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b><font color="#003399">North Office</font></b>]]></text> 
+</component>
+
+<component id="ID_txt03a">
+<text><![CDATA[<b>HR</b>]]></text> 
+</component>
+
+<component id="ID_txt03b">
+<text><![CDATA[<b>Admin</b>]]></text> 
+</component>
+
+<component id="ID_txt03c">
+<text><![CDATA[<b><font color="#003399">Legal Office</font></b>]]></text> 
+</component>
+
+<component id="ID_txt03d">
+<text><![CDATA[<b>Legal</b>]]></text> 
+</component>
+
+<component id="ID_txt03e">
+<text><![CDATA[<b>Legal</b>]]></text> 
+</component>
+
+<component id="ID_txt03f">
+<text><![CDATA[<b><font color="#0000ff">Private Floor</font></b>]]></text> 
+</component>
+
+<component id="ID_txt03g">
+<text><![CDATA[<b>Admin</b>]]></text> 
+</component>
+
+<component id="ID_txt03h">
+<text><![CDATA[<b>HR</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b><font color="#003399">East Office</font></b>]]></text> 
+</component>
+
+<component id="ID_txt04a">
+<text><![CDATA[<b>HR</b>]]></text> 
+</component>
+
+<component id="ID_txt04b">
+<text><![CDATA[<b>Admin</b>]]></text> 
+</component>
+
+<component id="ID_txt04c">
+<text><![CDATA[<b>Sales</b>]]></text> 
+</component>
+
+<component id="ID_txt04d">
+<text><![CDATA[<b>Legal</b>]]></text> 
+</component>
+
+<component id="ID_txt04e">
+<text><![CDATA[<b><font color="#003399">Sales Office</font></b>]]></text> 
+</component>
+
+<component id="ID_txt04f">
+<text><![CDATA[<b>Sales</b>]]></text> 
+</component>
+
+<component id="ID_txt04g">
+<text><![CDATA[<b>Sales</b>]]></text> 
+</component>
+
+<component id="ID_txt04h">
+<text><![CDATA[<b>Sales</b>]]></text> 
+</component>
+
+<component id="ID_txt04i">
+<text><![CDATA[<b>Sales</b>]]></text> 
+</component>
+
+<component id="ID_txt04j">
+<text><![CDATA[<b><font color="#0000ff">Mobile</font></b>]]></text> 
+</component>
+
+<component id="ID_txt04k">
+<text><![CDATA[<b>Sales</b>]]></text> 
+</component>
+
+<component id="ID_txt04l">
+<text><![CDATA[<b>Sales</b>]]></text> 
+</component>
+
+<component id="ID_txt04m">
+<text><![CDATA[<b>HR</b>]]></text> 
+</component>
+
+<component id="ID_txt04n">
+<text><![CDATA[<b>Sales</b>]]></text> 
+</component>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click to see the various router outputs</b>]]></text> 
+</component>
+
+<component id="ID_inst1">
+  <text><![CDATA[<b>Click to see a factor.</b>]]></text> 
+</component>
+
+<component id="ID_inst2">
+  <text><![CDATA[<b>Click to see a factor.</b>]]></text> 
+</component>
+
+<component id="ID_inst3">
+  <text><![CDATA[<b>Click to see a factor.</b>]]></text> 
+</component>
+
+<component id="ID_inst4">
+  <text><![CDATA[<b>Click to see a factor.</b>]]></text> 
+</component>
+
+<component id="ID_txt5">
+  <text><![CDATA[<b>Networks - Separating Hosts into Common Groups</b>]]></text> 
+</component>
+
+<component id="ID_txt5a">
+  <text><![CDATA[<b>Networks - Separating Hosts into Common Groups</b>]]></text> 
+</component>
+
+<component id="ID_txt5b">
+  <text><![CDATA[<b>Networks - Separating Hosts into Common Groups</b>]]></text> 
+</component>
+
+<component id="ID_txt5c">
+  <text><![CDATA[<b>Networks - Separating Hosts into Common Groups</b>]]></text> 
+</component>
+
+<component id="btnOne">
+  <text><![CDATA[<b>GEOGRAPHIC</b>]]></text> 
+</component>
+<component id="btnTwo">
+  <text><![CDATA[<b>PURPOSE</b>]]></text> 
+</component>
+<component id="btnThree">
+  <text><![CDATA[<b>OWNERSHIP</b>]]></text> 
+</component>
+<component id="btnFour">
+  <text><![CDATA[<b>BEGIN</b>]]></text> 
+</component>
+
+</textcomponents>

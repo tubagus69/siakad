@@ -1,0 +1,336 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Types of Ethernet</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Ethernet Type</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Bandwidth</b>]]></text> 
+  </component>
+  
+<component id="ID_txt82">
+  <text><![CDATA[<b>Cable Type</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>Duplex</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>Maximum Distance</b>]]></text> 
+  </component>
+  
+<component id="ID_txt06">
+  <text><![CDATA[10Base-5]]></text> 
+  </component>
+  
+<component id="ID_txt07">
+  <text><![CDATA[10Base-2]]></text> 
+  </component>
+   
+<component id="ID_txt83">
+  <text><![CDATA[10Base-T]]></text> 
+  </component>
+  
+<component id="ID_txt08">
+  <text><![CDATA[100Base-TX]]></text> 
+  </component>
+  
+<component id="ID_txt09">
+  <text><![CDATA[100Base-TX]]></text> 
+  </component>
+  
+<component id="ID_txt10">
+  <text><![CDATA[100Base-FX]]></text> 
+  </component>
+  
+<component id="ID_txt11">
+  <text><![CDATA[100Base-FX]]></text> 
+  </component>
+  
+<component id="ID_txt12">
+  <text><![CDATA[1000Base-T]]></text> 
+  </component>
+  
+<component id="ID_txt13">
+  <text><![CDATA[1000Base-TX]]></text> 
+  </component>
+  
+<component id="ID_txt14">
+  <text><![CDATA[1000Base-SX]]></text> 
+  </component>
+  
+<component id="ID_txt15">
+  <text><![CDATA[1000Base-LX]]></text> 
+  </component>
+  
+<component id="ID_txt16">
+  <text><![CDATA[10GBase-CX4]]></text> 
+  </component>
+  
+<component id="ID_txt17">
+  <text><![CDATA[10GBase-T]]></text> 
+  </component>
+  
+<component id="ID_txt18">
+  <text><![CDATA[10GBase-LX4]]></text> 
+  </component>
+  
+<component id="ID_txt19">
+  <text><![CDATA[10GBase-LX4]]></text> 
+  </component>
+  
+<component id="ID_txt20">
+  <text><![CDATA[10 Mbps]]></text> 
+  </component>
+  
+<component id="ID_txt21">
+  <text><![CDATA[10 Mbps]]></text> 
+  </component>
+  
+<component id="ID_txt22">
+  <text><![CDATA[10 Mbps]]></text> 
+  </component>
+  
+<component id="ID_txt23">
+  <text><![CDATA[100 Mbps]]></text> 
+  </component>
+  
+  <component id="ID_txt24">
+    <text><![CDATA[200 Mbps]]></text> 
+  </component>
+  
+  <component id="ID_txt25">
+    <text><![CDATA[100 Mbps]]></text> 
+  </component>
+  
+  <component id="ID_txt26">
+    <text><![CDATA[200 Mbps]]></text> 
+  </component>
+  
+  <component id="ID_txt27">
+    <text><![CDATA[1 Gbps]]></text> 
+  </component>
+  
+  <component id="ID_txt28">
+    <text><![CDATA[1 Gbps]]></text> 
+  </component>
+  
+  <component id="ID_txt29">
+    <text><![CDATA[1 Gbps]]></text> 
+  </component>
+  
+  <component id="ID_txt30">
+    <text><![CDATA[1 Gbps]]></text> 
+  </component>
+  
+  <component id="ID_txt31">
+    <text><![CDATA[10 Gbps]]></text> 
+  </component>
+  
+  <component id="ID_txt32">
+    <text><![CDATA[10 Gbps]]></text> 
+  </component>
+  
+  <component id="ID_txt33">
+    <text><![CDATA[10 Gbps]]></text> 
+  </component>
+  
+  <component id="ID_txt34">
+    <text><![CDATA[10 Gbps]]></text> 
+  </component>
+  
+  <component id="ID_txt35">
+    <text><![CDATA[10 Gbps]]></text> 
+  </component>
+  
+  <component id="ID_txt36">
+    <text><![CDATA[10 Gbps]]></text> 
+  </component>
+  
+    <component id="ID_txt37">
+      <text><![CDATA[Thicknet Coaxial]]></text> 
+  </component>
+  
+    <component id="ID_txt38">
+      <text><![CDATA[Thinnet Coaxial]]></text> 
+  </component>
+  
+    <component id="ID_txt39">
+      <text><![CDATA[Cat3/Cat5 UTP]]></text> 
+  </component>
+  
+      <component id="ID_txt40">
+        <text><![CDATA[Cat5 UTP]]></text> 
+  </component>
+  
+      <component id="ID_txt41">
+        <text><![CDATA[Cat5 UTP]]></text> 
+  </component>
+  
+      <component id="ID_txt42">
+        <text><![CDATA[Multimode Fiber]]></text> 
+  </component>
+  
+      <component id="ID_txt43">
+        <text><![CDATA[Multimode Fiber]]></text> 
+  </component>
+  
+      <component id="ID_txt44">
+        <text><![CDATA[Cat5e UTP]]></text> 
+  </component>
+  
+      <component id="ID_txt45">
+        <text><![CDATA[Cat6 UTP]]></text> 
+  </component>
+  
+      <component id="ID_txt46">
+        <text><![CDATA[Multimode Fiber]]></text> 
+  </component>
+  
+      <component id="ID_txt47">
+        <text><![CDATA[Single-Mode Fiber]]></text> 
+  </component>
+  
+      <component id="ID_txt48">
+        <text><![CDATA[Twin-axial]]></text> 
+  </component>
+  
+      <component id="ID_txt49">
+        <text><![CDATA[Cat6a/Cat7 UTP]]></text> 
+  </component>
+  
+<component id="ID_txt50">
+  <text><![CDATA[Multimode Fiber]]></text> 
+  </component>
+  
+<component id="ID_txt51">
+  <text><![CDATA[Single-Mode Fiber]]></text> 
+  </component>
+  
+<component id="ID_txt52">
+    <text><![CDATA[Half]]></text> 
+    </component>
+  
+<component id="ID_txt53">
+    <text><![CDATA[Half]]></text> 
+    </component>
+    
+<component id="ID_txt54">
+    <text><![CDATA[Half]]></text> 
+    </component>
+    
+<component id="ID_txt55">
+    <text><![CDATA[Half]]></text> 
+    </component>
+    
+<component id="ID_txt56">
+    <text><![CDATA[Full]]></text> 
+    </component>
+    
+<component id="ID_txt57">
+    <text><![CDATA[Half]]></text> 
+    </component>
+    
+<component id="ID_txt58">
+    <text><![CDATA[Full]]></text> 
+    </component>
+    
+<component id="ID_txt59">
+    <text><![CDATA[Full]]></text> 
+    </component>
+    
+<component id="ID_txt60">
+    <text><![CDATA[Full]]></text> 
+    </component>
+    
+<component id="ID_txt61">
+    <text><![CDATA[Full]]></text> 
+    </component>
+    
+<component id="ID_txt62">
+    <text><![CDATA[Full]]></text> 
+    </component>
+    
+<component id="ID_txt63">
+    <text><![CDATA[Full]]></text> 
+    </component>
+    
+<component id="ID_txt64">
+    <text><![CDATA[Full]]></text> 
+    </component>
+    
+<component id="ID_txt65">
+    <text><![CDATA[Full]]></text> 
+    </component>
+    
+<component id="ID_txt66">
+    <text><![CDATA[Full]]></text> 
+    </component>
+    
+<component id="ID_txt67">
+    <text><![CDATA[500 m]]></text> 
+    </component>
+    
+<component id="ID_txt68">
+    <text><![CDATA[185 m]]></text> 
+    </component>
+    
+    
+<component id="ID_txt69">
+    <text><![CDATA[100 m]]></text> 
+    </component>
+    
+<component id="ID_txt70">
+    <text><![CDATA[100 m]]></text> 
+    </component>
+    
+<component id="ID_txt71">
+    <text><![CDATA[100 m]]></text> 
+    </component>
+    
+<component id="ID_txt72">
+    <text><![CDATA[400 m]]></text> 
+    </component>
+    
+<component id="ID_txt73">
+    <text><![CDATA[2 km]]></text> 
+    </component>
+    
+<component id="ID_txt74">
+    <text><![CDATA[100 m]]></text> 
+    </component>
+    
+<component id="ID_txt75">
+    <text><![CDATA[100 m]]></text> 
+    </component>
+    
+<component id="ID_txt76">
+    <text><![CDATA[550 m]]></text> 
+    </component>
+ 
+<component id="ID_txt77">
+    <text><![CDATA[2 km]]></text> 
+    </component>
+    
+<component id="ID_txt78">
+    <text><![CDATA[100 m]]></text> 
+    </component>
+    
+<component id="ID_txt79">
+    <text><![CDATA[100 m]]></text> 
+    </component>
+  
+<component id="ID_txt80">
+    <text><![CDATA[300 m]]></text> 
+    </component>
+    
+<component id="ID_txt81">
+     <text><![CDATA[10 km]]></text> 
+    </component>
+
+</textcomponents>

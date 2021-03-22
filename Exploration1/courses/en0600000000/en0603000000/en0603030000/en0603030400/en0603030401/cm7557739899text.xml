@@ -1,0 +1,28 @@
+﻿<textcomponents>
+
+<component id="ID_txt01">
+  	<text><![CDATA[<b>Server</b>]]></text> 
+</component>
+<component id="ID_txt02">
+  	<text><![CDATA[<b>FTP Process</b>]]></text> 
+</component>
+<component id="ID_txt03">
+  	<text><![CDATA[<b>Network</b>]]></text> 
+</component>
+<component id="ID_txt04">
+  	<text><![CDATA[<b>Client</b>]]></text> 
+</component>
+<component id="ID_txt05">
+  	<text><![CDATA[<b>Control Connection:<br>Client opens first connection to the server for control traffic.</b>]]></text> 
+</component>
+<component id="ID_txt06">
+  	<text><![CDATA[<b>Data Connection:<br>Client opens second connection for data traffic.</b>]]></text> 
+</component>
+<component id="ID_txt07">
+  	<text><![CDATA[<b>Get Data</b>]]></text> 
+</component>
+<component id="ID_txt08">
+  	<text><![CDATA[<b>Based on command sent across control connection, data can be downloaded from server or uploaded from client.</b>]]></text> 
+</component>
+
+</textcomponents>

@@ -1,0 +1,22 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>IOS Primary Modes</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b><font color="#003399">User EXEC Mode</font><br/>Limited examination of router. Remote access.<br/><br/><font face="Courier New">Switch><br>Router></font></b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b><font color="#003399">Global Configuration Mode</font><br/>Global configuration commands.<br/><br/><font face="Courier New">Switch(config)#<br>Router(config)#</font></b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b><font color="#003399">Privileged EXEC Mode</font><br/>Detailed examination of router, Debugging and testing. File manipulation. Remote access.<br/><font face="Courier New">Switch#<br>Router#</font></b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b><font color="#003399">Other Configuration Modes</font><br/>Specific service or interface configurations.<br/><br/><font face="Courier New">Switch(config-<i>mode</i>)#<br>Router(config-<i>mode</l>)#</font></b>]]></text>
+</component>
+
+</textcomponents>

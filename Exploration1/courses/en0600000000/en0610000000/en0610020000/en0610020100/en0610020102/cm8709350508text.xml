@@ -1,0 +1,20 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Types of  Device Interconnection</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>UTP</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Wireless</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Fiber</b>]]></text>
+</component>
+
+
+</textcomponents>

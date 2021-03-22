@@ -1,0 +1,27 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Cisco IOS</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Internetwork Operating System for Cisco networking devices</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>SECURITY</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>MANAGING RESOURCES</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>ROUTING</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>QoS</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+    <text><![CDATA[<b>ADDRESSING</b>]]></text> 
+  </component>
+  <component id="ID_txt07">
+      <text><![CDATA[<b>INTERFACES</b>]]></text> 
+  </component>
+
+</textcomponents>

@@ -1,0 +1,50 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Comparing the OSI and TCP/IP models</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>OSI Model</b>]]></text> 
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>TCP/IP Model</b>]]></text> 
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>7. Application</b>]]></text> 
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>6. Presentation</b>]]></text> 
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>5. Session</b>]]></text> 
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>4. Transport</b>]]></text> 
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>3. Network</b>]]></text> 
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>2. Data Link</b>]]></text> 
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>1. Physical</b>]]></text> 
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Application</b>]]></text> 
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>Transport</b>]]></text> 
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+<component id="ID_txt14">
+<text><![CDATA[<b>Network<br/>Access</b>]]></text> 
+</component>
+<component id="ID_txt15">
+<text><![CDATA[<b>The key parallels are in the Transport and Network layers.</b>]]></text> 
+</component>
+
+
+
+</textcomponents>

@@ -1,0 +1,14 @@
+<textcomponents>
+	<component id="toomany">
+		<text><![CDATA[Too many options selected.]]></text>
+	</component>
+<component id="toofew">
+		<text><![CDATA[Too few options selected.]]></text>
+	</component>
+<component id="percentlabel">
+		<text><![CDATA[Percent Correct %3%%]]></text>
+	</component>
+<component id="check">
+		<text><![CDATA[Check]]></text>
+	</component>
+</textcomponents>

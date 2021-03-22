@@ -1,0 +1,22 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Saving to a Text File in TeraTerm</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[In the terminal session:]]></text> 
+  </component>
+  <component id="ID_txt02">
+	  <text><![CDATA[1. Start the log process]]></text> 
+  </component>
+  <component id="ID_txt03">
+	  <text><![CDATA[2. Issue a <b><font face="Courier New">show running-config</font></b> command]]></text> 
+  </component>
+  <component id="ID_txt04">
+	  <text><![CDATA[3. Close the log]]></text> 
+  </component>
+   <component id="ID_header1">
+		  <text><![CDATA[<b>In the terminal session:</b>]]></text> 
+  </component>
+
+  </textcomponents>

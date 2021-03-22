@@ -1,0 +1,14 @@
+<textcomponents>
+
+
+<component id="ID_title">
+<text><![CDATA[<b>TCP 3-way Handshake (SYN, ACK)</b>]]></text>
+</component>
+
+<component id="myTable">
+<text><![CDATA[<table><tr><th>A protocol analyzer shows server response in frame 15</th></tr><tr><td><ul><li>ACK flag set to indicate a valid Acknowledgement number</li><li>Acknowledgement number response to initial sequence number as relative value of 1</li><li>SYN flag set to indicate the Initial sequence number for the server to client session</li><li>Destination port number of 1069 to corresponding to the clients source port</li><li>Source port number of 80 (HTTP) indicating the web server service (httpd)</li></ul></table>]]></text> 
+</component>
+
+
+
+</textcomponents>

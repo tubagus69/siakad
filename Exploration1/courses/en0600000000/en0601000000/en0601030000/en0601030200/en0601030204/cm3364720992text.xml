@@ -1,0 +1,45 @@
+<textcomponents>
+
+<component id="ID_header1">
+<text><![CDATA[<b>Service</b>]]></text>
+</component>
+
+
+<component id="ID_header2">
+<text><![CDATA[<b>Protocol ("Rule")</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>World Wide Web (WWW)</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>HTTP<br>(Hypertext Transport Protocol)</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>E-mail</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>SMTP<br>(Simple Mail Transport Protocol)<br>POP<br>(Post Office Protocol)</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Instant Message (Jabber; AIM)</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>XMPP<br>(Extensible Messaging and Presence Protocol)<br>OSCAR<br>(Open System for Communication in Realtime)</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>IP Telephony</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>SIP<br>(Session Initiation Protocol)
+</b>]]></text>
+</component>
+
+</textcomponents>

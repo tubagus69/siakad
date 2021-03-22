@@ -1,0 +1,34 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Unshielded Twisted-Pair (UTP) Cable</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Outer Jacket</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Twisted-Pair</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>Color-Coded<br>Plastic</br><br>Insulation</br></b>]]></text> 
+  </component>
+    
+<component id="ID_txt05">
+    <text><![CDATA[<b>Protects the copper wire from physical damage</b>]]></text> 
+    </component>
+    
+<component id="ID_txt06">
+    <text><![CDATA[<b>Protects the signal from interference</b>]]></text> 
+    </component>
+    
+<component id="ID_txt07">
+    <text><![CDATA[<b>Electrically isolates wires from each other and identifies each pair</b>]]></text> 
+    </component>
+  
+
+
+
+</textcomponents>

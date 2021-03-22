@@ -1,0 +1,41 @@
+﻿<textcomponents>
+<component id="ID_caption">
+<text><![CDATA[<b>The communication and information that we would like to be private is protected from those who would make unauthorized use of it.</b>]]></text>
+</component>
+<component id="ID_txt1">
+<text><![CDATA[<b>The way we learn</b>]]></text>
+</component>
+<component id="ID_txt2">
+<text><![CDATA[<b>The way we live</b>]]></text>
+</component>
+<component id="ID_txt3">
+<text><![CDATA[<b>The way we work</b>]]></text>
+</component>
+<component id="ID_txt4">
+<text><![CDATA[<b>The way we play</b>]]></text>
+</component>
+<component id="ID_txt5">
+<text><![CDATA[<b>Access Policy</b>]]></text>
+</component>
+<component id="ID_txt6">
+<text><![CDATA[<b>Firewall</b>]]></text>
+</component>
+<component id="ID_txt7">
+<text><![CDATA[<b>Data<br>Encryption</b>]]></text>
+</component>
+<component id="ID_txt8">
+<text><![CDATA[<b>Identity Thief</b>]]></text>
+</component>
+<component id="ID_txt9">
+<text><![CDATA[<b>Criminal</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Cheat</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Competitor</b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>Fraudster</b>]]></text>
+</component>
+</textcomponents>

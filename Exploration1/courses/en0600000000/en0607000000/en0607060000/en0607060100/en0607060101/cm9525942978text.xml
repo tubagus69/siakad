@@ -1,0 +1,8 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>In this chapter, you learned to:</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<ul><li>Explain the role of Data Link layer protocols in data transmission.</li><li>Describe how the Data Link layer prepares data for transmission on network media.</li><li>Describe the different types of media access control methods.</li><li>Identify several common logical network topologies and describe how the logical topology determines the media access control method for that network.</li><li>Explain the purpose of encapsulating packets into frames to facilitate media access.</li><li> Describe the Layer 2 frame structure and identify generic fields.</li><li>Explain the role of key frame header and trailer fields, including addressing, QoS, type of protocol, and Frame Check Sequence.</li></ul>]]></text> 
+  </component>
+</textcomponents>

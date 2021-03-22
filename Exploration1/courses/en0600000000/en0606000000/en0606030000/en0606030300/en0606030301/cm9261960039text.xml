@@ -1,0 +1,129 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Devices IP Address Ranges</b>]]></text>
+</component>
+
+<component id="ID_header1d">
+  <text><![CDATA[<b>Use</b>]]></text> 
+  </component>
+  
+  <component id="ID_header2d">
+    <text><![CDATA[<b>First Address</b>]]></text> 
+  </component>
+  
+  <component id="ID_header3d">
+    <text><![CDATA[<b>Last Address</b>]]></text> 
+  </component>
+  
+  <component id="ID_header4d">
+    <text><![CDATA[<b>Summary Address</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt01">
+    <text><![CDATA[<b>Network Address</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt02">
+    <text><![CDATA[<b>User hosts (DHCP pool)</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt03">
+    <text><![CDATA[<b>Servers</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt04">
+    <text><![CDATA[<b>Peripherals</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt05">
+    <text><![CDATA[<b>Networking devices</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt06">
+    <text><![CDATA[<b>Router (gateway)</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt07">
+    <text><![CDATA[<b>Broadcast</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt08">
+    <text><![CDATA[<b>172.16.x.0</b>]]></text> 
+  </component>
+  
+   <component id="ID_txt09">
+    <text><![CDATA[<b>172.16.x.1</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt10">
+    <text><![CDATA[<b>172.16.x.128</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt11">
+    <text><![CDATA[<b>172.16.x.192</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt12">
+    <text><![CDATA[<b>172.16.x.224</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt13">
+    <text><![CDATA[<b>172.16.x.254</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt14">
+    <text><![CDATA[<b>172.16.x.255</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt15">
+    <text><![CDATA[<b>.....</b>]]></text> 
+  </component>
+  
+   <component id="ID_txt16">
+    <text><![CDATA[<b>172.16.x.127</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt17">
+    <text><![CDATA[<b>172.16.x.191</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt18">
+    <text><![CDATA[<b>172.16.x.223</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt19">
+    <text><![CDATA[<b>172.16.x.253</b>]]></text> 
+  </component>
+  
+   <component id="ID_txt20">
+    <text><![CDATA[<b>.....</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt21">
+    <text><![CDATA[<b>.....</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt22">
+    <text><![CDATA[<b>172.16.x.0 /25</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt23">
+    <text><![CDATA[<b>172.16.x.128 /26</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt24">
+    <text><![CDATA[<b>172.16.x.192 /27</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt25">
+    <text><![CDATA[<b>172.16.x.224 /27</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt26">
+    <text><![CDATA[<b>172.16.1.0 /24</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt27">
+    <text><![CDATA[<b>172.16.2.0 /24</b>]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,48 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Connecting Upper Layer Services to the Media </b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>7 Application</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>6 Presentation</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>5 Session</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>4 Transport</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>3 Network</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt06">
+    <text><![CDATA[<b>2 Data Link</b>]]></text> 
+  </component>
+   <component id="ID_txt07">
+      <text><![CDATA[<b>1 Physical</b>]]></text> 
+  </component>
+    <component id="ID_txt08">
+        <text><![CDATA[<b>Implemented in software</b>]]></text> 
+  </component>
+   <component id="ID_txt09">
+          <text><![CDATA[<b>Implemented in hardware</b>]]></text> 
+  </component>
+  <component id="ID_txt10">
+            <text><![CDATA[<b>Physical devices devoted to the Data Link layer have both hardware and software components.</b>]]></text> 
+  </component>
+  <component id="ID_txt11">
+            <text><![CDATA[<b>The Data Link layer links the software and hardware layers.</b>]]></text> 
+  </component>
+    <component id="ID_txt12">
+              <text><![CDATA[<b>PC NIC</b>]]></text> 
+  </component>
+ </textcomponents>

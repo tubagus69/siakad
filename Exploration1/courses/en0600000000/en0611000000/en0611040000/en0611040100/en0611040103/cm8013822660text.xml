@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Router Ping Capture - Saving to a text file</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>In the terminal session:</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>1. Start the text capture process.</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>2. Issue a</b> <font face = "courier new">ping &lt;ip address&gt;</font> <b>command.</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>3. Stop the capture process.</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>4. Save the text file.</b>]]></text>
+</component>
+
+</textcomponents>

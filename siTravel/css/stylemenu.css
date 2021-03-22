@@ -1,0 +1,172 @@
+#atas{
+	background:#0A7EEA;
+	width: 100%;
+	height: 90px;
+	margin-left:0;
+	margin-bottom:50px;
+	font: 100% "arial", arial;
+	color:white;
+}
+
+
+
+#atas{
+	background:#0A7EEA;
+	width: 100%;
+	height: 90px;
+	margin-left:0;
+	margin-bottom:50px;
+	font: 100% "arial", arial;
+	color:white;
+}
+
+#logo{
+	width: 220px;
+	height: 52px;
+	background-color:none;
+	padding-top:10px;
+	padding-left:0px;
+	text-align:left;
+	color:white;
+	margin-left:7%;
+	border:0px solid blue;
+	float:left;
+	}
+	
+	
+	.logo2{
+	width:55px;
+	height: 52px;
+	background-color:none;
+	font: 100% "courier new", Gloucester MT Extra Condensed;
+	padding-top:10px;
+	padding-left:0px;
+	text-align:center;
+	color:white;
+	margin-left:0px;
+	font-weight: bold;
+	border:0px solid black;
+	float:left;
+	}
+	
+	
+	.logo3{
+	width:148px;
+	height: 52px;
+	background-color:none;
+	font: 160% "Rockwell Condensed", Gloucester MT Extra Condensed;
+	padding-top:20px;
+	padding-left:10px;
+	text-align:left;
+	color: white;
+	margin-left:0px;
+	border:0px solid black;
+	float:left;
+	}
+#menu{
+	width:850px;
+	height:70px;
+	padding-right:10px;
+	float:right;
+	border:0px solid black;
+	padding-top:25px;
+	margin-right:4%;
+	font-weight: bold;
+	color:NONE;
+	text-align:right;
+	font: 102% "Rockwell Condensed", Gloucester MT Extra Condensed;
+	}
+#menu ul{
+	background:NONE;
+	padding-top:8px;
+	width:845px;
+	BORDER:0PX SOLID BLACK;
+	padding-left:12px;
+	font: 92% "Rockwell Condensed", Gloucester MT Extra Condensed;
+}
+#menu ul li{
+	display: inline-block;
+	list-style-type: none;
+	margin-right: 20px;
+	padding-left:5px;
+	}
+#menu ul li a{
+	text-decoration:none;
+	text-transform: uppercase;
+	font-family: Rockwell Condensed;
+	font-size: 18px;
+	color:white;
+	position: relative;
+	transition: all 0.3s;
+	cursor:pointer;
+	}
+#menu ul li a:hover{
+	color:#B8860B;
+}
+
+
+#bawah{
+	background:#0A7EEA;
+	float:left;
+	width:100%;
+	height:310px;
+	z-index:2;
+	border: 0px solid rgba(128, 128, 128,0.4);
+	-webkit-box-shadow: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 0px 0px 0px 0px;
+	padding-top:30px;
+	padding-left:0px ;
+	padding-right:0px;
+	display:-webkit-box;
+	margin-top:-100px;
+	margin-left:0;
+	margin-bottom:0px;
+	font: 100% "Arial", sans-serif;
+	color:white;
+	text-align:center;}	
+	
+
+/*LOGIN CONFIGURATION PAGE*/
+#login{
+	width:100%;
+	height:785px;
+	background:#0A7EEA;
+	}
+.form-login {
+	max-width: 330px;
+	margin: 180px auto 0;
+	background: #fff;
+	border-radius: 5px;
+	font:125% "Arial",Gloucester MT Extra Condensed;
+	-webkit-border-radius: 5px;
+}
+
+.form-login h2.form-login-heading {
+	margin: 0;
+	padding: 25px 20px;
+	text-align: center;
+	background: #B8860B;
+	font:155% "Arial",Gloucester MT Extra Condensed;
+	border-radius: 5px 5px 0 0;
+	-webkit-border-radius: 5px 5px 0 0;
+	color: #fff;
+	font-size: 30px;
+	text-transform: uppercase;
+	font-weight: 300;
+}
+.login-wrap {
+	padding: 20px;
+	font:90% "Arial",Gloucester MT Extra Condensed;
+}
+.login-wrap .registration {
+	text-align: center;
+}
+.login-social-link {
+	display: block;
+	margin-top: 20px;
+	font:95% "Arial",Gloucester MT Extra Condensed;
+	margin-bottom: 15px;
+}
+
+

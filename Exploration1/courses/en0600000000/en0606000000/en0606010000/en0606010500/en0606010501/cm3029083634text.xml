@@ -1,0 +1,53 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Decimal to Binary Conversion Activity</b>]]></text>
+</component>
+
+<component id="ID_titlea">
+<text><![CDATA[Given a decimal value, enter the correct binary values for each positon.]]></text>
+</component>
+
+
+<component id="ID_scenario2_txt">
+<text><![CDATA[Enter numbers for these 8 positions.]]></text> 
+</component>
+
+
+<component id="ID_txt01">
+<text><![CDATA[Decimal Value]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Exponent]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Position]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Bit]]></text>
+</component>
+
+<component id="ID_Correct">
+<text><![CDATA[Correct]]></text>
+</component>
+
+<component id="ID_Incorrect">
+<text><![CDATA[Incorrect]]></text>
+</component>
+
+<component id="ID_check">
+<text><![CDATA[Check]]></text>
+</component>
+
+<component id="ID_reset">
+<text><![CDATA[Reset]]></text>
+</component>
+
+<component id="ID_newnumber">
+<text><![CDATA[New Number]]></text>
+</component>
+
+</textcomponents>

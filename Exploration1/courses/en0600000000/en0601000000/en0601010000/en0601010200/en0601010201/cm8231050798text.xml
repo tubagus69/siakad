@@ -1,0 +1,25 @@
+﻿<textcomponents>
+<component id="ID_caption1">
+<text><![CDATA[<b>Four elements of a network:<br><br>- Devices<br>- Medium<br>- Messages<br>- Rules</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[You can listen to your favorite radio show on your portable audio player whenever you have the time  and wherever you are. Every time a new show becomes available, it can be automatically downloaded.
+]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[You can express your thoughts online, share your photos, and join a community of fellow thinkers.
+]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[Instant messaging is everywhere and can include audio and video conversations. IM can send text messages to mobile phones.]]></text>
+</component>
+<component id="title1">
+<text><![CDATA[<b>Podcasting</b>]]></text>
+</component>
+<component id="title2">
+<text><![CDATA[<b>Instant Messaging</b>]]></text>
+</component>
+<component id="title3">
+<text><![CDATA[<b>Weblog</b>]]></text>
+</component>
+</textcomponents>

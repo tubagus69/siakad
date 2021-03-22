@@ -1,0 +1,203 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Use this activity to check your understanding of the main points in this chapter.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>A series of questions will be presented. This is not a quiz and your answers are not recorded.</li><li>Click <b>Answer</b> to see the answer.</li><li>Click <b>Next Question</b> to go to the next question in the series.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Click Here<br/>to Begin</b>]]></text>
+</component>
+
+<!-- Question 1 -->
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[List the five factors to consider when selecting the type of physical media to deploy in the LAN.]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[<ul><li>Cable length—Does the cable need to span across a room or from building to building?</li><li>Cost—Does the budget allow for using a more expensive media type?</li><li>Bandwidth—Does the technology used with the media provide adequate bandwidth?</li><li>Ease of installation—Does the implementation team have the ability to install the cable or is a vendor required?</li><li>Susceptible to EMI/RFI—Is the environment we are installing the cable going to interfere with the signal?</li></ul>]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[List where a straight-through UTP cable would be used in connecting network devices.]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[<ul><li>Switch to router </li><li>PC to Switch</li><li>PC to Hub (if used)</li></ul>]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[List where a crossover UTP cable would be used in connecting network devices.]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[<ul><li>Switch to switch</li><li>Switch to hub (if used)</li><li>Hub to hub (if used)</li><li>Router to router</li><li>PC to PC </li><li>PC to router</li></ul>]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[Describe the purposes of and differences between DCE and DTE WAN serial cables.]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[<p>Data Communications Equipment (DCE)—A device that supplies the clocking to another device. Typically a device at the WAN access provider end of the link.</p><br/><p>Data Terminal Equipment (DTE)—A device that receives clocking from another device and adjusts accordingly. Typically this device is at the WAN customer or user end of the link.</p><br/><p>In a lab environment, generally connect two routers with a serial cable providing a point-to-point WAN link. In this case, decide which router is going to be the one in control of the clocking. Cisco routers are DTE devices by default but can be configured to act as DCE devices.</p>]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[List criteria that should be considered when selecting a switch for a LAN.]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[<ul><li>Cost</li><li>Cable/Wireless</li><li>Speed</li><li>Ports</li><li>Expandability</li><li>Manageability</li><li>Features</li></ul>]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q6_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[Give examples of the different types of hosts and network devices that require IP addresses.]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[<p><b>End devices requiring IP addresses include: </b></p><ul><li>User Computers</li><li>Administrator Computers</li><li>Servers</li><li>Other end devices such as printers, IP phones, and IP cameras</li></ul><br/><p><b>Network devices requiring IP addresses include:</b></p><ul><li>Router LAN gateway interfaces</li><li>Router WAN (serial) interfaces</li></ul>
+<p><b>Network devices requiring IP addresses for management:</b></p><ul><li>Switches</li><li>Wireless Access Points</li></ul>]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 7 -->
+
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[List three reasons for subnetting a network.]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[<p><b>Manage Broadcast Traffic</b></p><p>Broadcasts are controlled because one large broadcast domain is divided into a number of smaller domains. This means that every host in the system does not receive every broadcast.</p><br/><p><b>Similar Network Requirements</b></p><p>If different groups of users require specific network and computing facilities or features, it is easier to manage these requirements if those users are all together on one subnet.</p><br/><p><b>Security</b></p><p>Network security features can be implemented based on network addresses. This enables control and management of access to different network and data services.</p>]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q7_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 8 -->
+
+<component id="ID_Q8_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q8_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q8_txt03">
+<text><![CDATA[Describe five attributes of an effective network addressing scheme.]]></text>
+</component>
+<component id="ID_Q8_txt04">
+<text><![CDATA[<ul><li>Scalability—Supports growth as more devices are attached to the network.</li><li>Reliability—Handles messages across short or long distances.</li><li>Flexibility—Allows for future technologies.</li><li>Dynamic—Adjusts to changes on the network.</li><li>Availability—Provides communications any time and anywhere.</li></ul>]]></text>
+</component>
+<component id="ID_Q8_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q8_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 9 -->
+
+<component id="ID_Q9_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q9_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q9_txt03">
+<text><![CDATA[List four types of interfaces found on Cisco routers and switches, and give the function of each.]]></text>
+</component>
+<component id="ID_Q9_txt04">
+<text><![CDATA[<p><b>Ethernet Interfaces</b> This interface is used for connection of the LAN devices, which include computers and switches. This interface can also be used to connect routers together.</p><br/><p><b>Serial Interfaces </b> This interface is used for connection of the WAN devices to the CSU/DSU. Clock rate and addressing are assigned to these interfaces.</p><br/><p><b>Console Interface</b> This is the primary interface for gaining initial access to and configuration of a Cisco router or switch and is the primary means of troubleshooting. It is important to note that through physical access to the router's console interface, an unauthorized person can interrupt or compromise network traffic. Physical security is extremely important!</p><br/><p><b>Auxiliary (AUX) Interface</b> This interface is used for remote, out-of-band management of the router. Typically a modem is connected to the AUX interface for dial-in access. From a security standpoint, having the ability to remotely dial in to a network device also requires vigilant management.</p>]]></text>
+</component>
+<component id="ID_Q9_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q9_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+</textcomponents>

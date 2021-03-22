@@ -1,0 +1,44 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>The Network Layer </b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Application</b>]]></text>
+</component>
+<component id="ID_data">
+<text><![CDATA[<b>Data</b>]]></text>
+</component>
+<component id="ID_data2">
+<text><![CDATA[<b>Data</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Presentation</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Session</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Transport</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Data Link</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Physical</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>As we communicate our data...</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Our devices use the Transport layer to connect processes...</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>And the Network layer enables devices to reach each other!</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Routers connected to each other</b>]]></text>
+</component>
+</textcomponents>

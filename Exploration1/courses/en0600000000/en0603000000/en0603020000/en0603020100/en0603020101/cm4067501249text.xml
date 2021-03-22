@@ -1,0 +1,46 @@
+﻿<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<b>Client/Server Model</b>]]></text> 
+</component>
+<component id="ID_inst">
+  <text><![CDATA[<b>Rollover an action.</b>]]></text> 
+</component>
+
+<component id="DOWNLOAD">
+  <text><![CDATA[DOWNLOAD]]></text> 
+</component>
+
+<component id="UPLOAD">
+  <text><![CDATA[UPLOAD]]></text> 
+</component>
+
+
+<component id="ID_label1">
+  <text><![CDATA[<b>SERVER</b>]]></text> 
+</component>
+<component id="ID_label2">
+  <text><![CDATA[<b>Network</b>]]></text> 
+</component>
+<component id="ID_label3">
+  <text><![CDATA[<b>CLIENT</b>]]></text> 
+</component>
+<component id="ID_label4">
+  <text><![CDATA[<b>Resources are stored on the server.</b>]]></text> 
+</component>
+<component id="ID_label5">
+  <text><![CDATA[<b>A client is a hardware/software combination that people use directly.</b>]]></text> 
+</component>
+<component id="ID_label6">
+  <text><![CDATA[<b>Files are downloaded from the server to the client.</b>]]></text> 
+</component>
+<component id="ID_label7">
+  <text><![CDATA[<b>Download</b>]]></text> 
+</component>
+<component id="ID_label8">
+  <text><![CDATA[<b>Upload</b>]]></text> 
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Files are uploaded from the client to the server.</b>]]></text> 
+</component>
+</textcomponents>

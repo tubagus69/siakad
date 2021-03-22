@@ -1,0 +1,53 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Media Access Control Methods </b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>No control</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>FRAME</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>FRAME</b>]]></text> 
+  </component>
+  <component id="ID_txt05">
+    <text><![CDATA[<b>FRAME</b>]]></text> 
+  </component>
+    <component id="ID_txt06">
+      <text><![CDATA[<b>Take turns</b>]]></text> 
+  </component>
+    <component id="ID_txt07">
+        <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+      <component id="ID_txt08">
+    <text><![CDATA[<b>3</b>]]></text> 
+  </component>
+        <component id="ID_txt09">
+          <text><![CDATA[<b>2</b>]]></text> 
+  </component>
+   <component id="ID_txt10">
+          <text><![CDATA[<b>FRAME</b>]]></text> 
+  </component>
+   <component id="ID_txt11">
+          <text><![CDATA[<b>FRAME</b>]]></text> 
+  </component>
+  <component id="ID_txt12">
+          <text><![CDATA[<b>FRAME</b>]]></text> 
+  </component>
+          <component id="ID_txt13">
+          <text><![CDATA[<b>Shared Media</b>]]></text> 
+  </component>
+  <component id="ID_txt14">
+          <text><![CDATA[<b>No control at all would result in many collisions.<br>Collisions cause corrupted frames that must be resent.</b>]]></text> 
+  </component>
+              <component id="ID_txt15">
+                        <text><![CDATA[<b>Methods that enforce a high degree of control prevent collisions, but the process has high overhead.</b>]]></text> 
+  </component>
+               <component id="ID_txt16">
+                          <text><![CDATA[<b>Methods that enforce a low degree of control have low overhead, but there are more frequent collisions.</b>]]></text> 
+  </component>
+                 <component id="ID_txt17">
+                            <text><![CDATA[<b>Shared Media</b>]]></text> 
+  </component>
+</textcomponents>

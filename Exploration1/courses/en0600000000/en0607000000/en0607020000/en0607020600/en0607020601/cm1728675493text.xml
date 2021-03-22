@@ -1,0 +1,95 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Logical Multi-Access Topology</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Play the animation to see how nodes access the media in a multi-access topology.</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>A</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>C</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>E</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>B</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>D</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>I need to transmit to E.</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>I check for other transmissions.</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>No other transmissions are detected.</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Transmitting...</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>I need to transmit to D.</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>I check for other transmissions.</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Transmission detected. I'll wait...</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>No other transmissions are detected.</b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>Transmitting...</b>]]></text>
+</component>
+
+   
+<component id="play">
+<text>Play</text>
+</component>
+<component id="pause">
+<text>Pause</text>
+</component>
+<component id="rewind">
+<text>Rewind</text>
+</component>
+<component id="forward">
+<text>Fast Forward</text>
+</component>
+<component id="mute">
+<text>Mute</text>
+</component>
+<component id="unmute">
+<text>UnMute</text>
+</component>
+<component id="previous">
+<text>Restart</text>
+</component>
+<component id="next">
+<text>End</text>
+</component>
+<component id="transcript">
+<text>Transcript</text>
+</component>
+</textcomponents>

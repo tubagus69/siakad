@@ -1,0 +1,283 @@
+	label.error {
+				font:75% "arial",Gloucester MT Extra Condensed;
+				color: red;
+				position:pixed;
+				padding-left: .1em;
+				
+			
+			}
+tr{
+	margin-left:50px;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="number"],
+input[type="password"],
+input[type="email"],
+select{
+	   background:white;
+	border:1px solid rgba(128, 128, 128,0.2);
+	-webkit-box-shadow: 2px;
+	-moz-border-radius: 2px;
+		 border-radius: 2px;
+	line-height:1em;
+	margin-left:0px;
+	margin-top:5px;
+	margin-bottom:10px;
+	padding-left:10px;
+	width:400px;
+	height:38px;
+	color:rgb(41,41,43);
+	font-family:arial;
+	font-size:100%;
+	}
+input[type="radio"]
+{
+	  
+	margin-left:10px;
+	margin-bottom:20px;
+	padding-left:5px;
+	
+	}
+
+textarea{
+	    background:white;
+	border: 1px solid rgba(128, 128, 128,0.2);
+	-webkit-box-shadow: 2px;
+	-moz-border-radius: 2px;
+		 border-radius: 2px;
+	line-height:1em;
+	margin-bottom:10px;
+	margin-left:0px;
+	padding:6px 5px;
+	width:400px;
+	margin-top:5px;
+	color:rgb(41,41,43);
+	font-family:arial;
+	font-size:90%;
+	}
+	
+
+textarea:focus
+{
+	border: 1px solid rgba(128, 128, 128,0.4);
+	-webkit-box-shadow: 2px;
+	-moz-border-radius: 2px;
+		 border-radius: 2px;
+	font-family:arial;
+		
+	color:rgb(41,41,43);
+	font-size:100%;
+	}
+	
+input[type="file"]{
+	margin-left:0px;
+	color:#1D495D;
+	font-family:arial;
+	font-size:90%;
+	margin-top:2px;
+	margin-top:5px;
+	}
+
+input[type="text"]:active,input[type="text"]:focus,
+input[type="number"]:active,input[type="number"]:focus,
+input[type="date"]:active,input[type="date"]:focus,
+input[type="email"]:active,input[type="email"]:focus
+{	
+	background: white;
+	border: 1px solid rgba(220, 220, 220,0.4);
+	font-family:arial;
+	font-size:100%;
+	
+	color:rgb(41,41,43);
+	}
+	
+.box{
+
+width:580px;
+background:white;
+height:auto;
+border: 0px solid rgba(128, 128, 128,0.4);
+margin-left:20px;
+margin-top:40px;
+
+color:#808080;
+font:95% "arial",Gloucester MT Extra Condensed;
+}
+.tutupbox{
+width:558px;
+background:rgba(49, 27, 4, 0.85);
+height:40px;
+color:white;
+-webkit-box-shadow: 3px;
+	-moz-border-radius: 3px;
+		 border-radius: 3px 3px 0px 0px;
+	display:-webkit-box;
+font:125% "Gloucester MT Extra Condensed",Gloucester MT Extra Condensed;
+border: 0px solid rgba(128, 128, 128,0.4);
+padding-top:10px;
+padding-left:15px;
+padding-right:7px;
+margin-bottom:20px;
+}
+
+.boxadmin{
+
+width:500px;
+
+	color:rgb(41,41,43);
+background:#efefef;
+height:auto;
+border: 0px solid rgba(128, 128, 128,0.4);
+margin-left:5px;
+margin-top:30px;
+padding-bottom:30px;
+font: 105% "arial", Gloucester MT Extra Condensed;
+	}
+.tutupboxadmin{
+width:94%;
+height:10px;
+background:rgb(90,90,94);
+position:pixed;
+padding-top:13px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-bottom:15px;
+	border: 0px solid rgba(128, 128, 128,0.4);
+	-webkit-box-shadow: 4px;
+	-moz-border-radius: 4px;
+		 border-radius: 4px 4px 0px 0px;
+	-webkit-box-shadow: 2px 2px 4px 4px #00034C inset;
+	box-shadow: 0px 0px 12px 0px #E2E2DF inset;	
+	display:-webkit-box;
+	margin-top:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	font:95% "Arial", times new roman;
+	text-align:left;
+	color:white;}
+.tutupboxadminlistrik{
+width:340px;
+background:#1D495D;
+height:35px;
+color:white;
+-webkit-box-shadow: 3px;
+	-moz-border-radius: 3px;
+		 border-radius: 3px 3px 0px 0px;
+	display:-webkit-box;
+font: 135% "Rockwell Condensed", Gloucester MT Extra Condensed;
+	border: 0px solid rgba(128, 128, 128,0.4);
+padding-top:15px;
+padding-left:30%;
+padding-right:7px;
+margin-bottom:20px;
+text-align:center;
+}
+
+.boxlaporan{
+
+width:500px;
+color:rgba(49, 27, 4, 0.85);
+background:#f5f5dc;
+height:auto;
+text-align:center;
+border: 0px solid rgba(128, 128, 128,0.4);
+margin-left:80px;
+margin-top:30px;
+padding-bottom:30px;
+font: 90% "arial", Gloucester MT Extra Condensed;
+	}
+.tutupboxlaporan{
+width:500px;
+background:rgba(49, 27, 4, 0.85);
+height:50px;
+color:white;
+-webkit-box-shadow: 3px;
+	-moz-border-radius: 3px;
+		 border-radius: 3px 3px 0px 0px;
+	display:-webkit-box;
+font: 105% "Rockwell Condensed", Gloucester MT Extra Condensed;
+	border: 0px solid rgba(128, 128, 128,0.4);
+padding-top:15px;
+padding-left:33%;
+padding-right:7px;
+margin-bottom:20px;
+text-align:center;
+}
+
+.laporan {
+    padding-left:60px;
+	text-align:left;
+	color:black;
+	font: 95% "arial",Gloucester MT Extra Condensed;
+}
+.laporan2 {
+    padding-left:50px;
+	text-align:left;
+	color:black;
+	font: 95% "arial",Gloucester MT Extra Condensed;
+}
+.laporan3 {
+    padding-left:200px;
+	text-align:left;
+	color:black;
+	font: 95% "arial",Gloucester MT Extra Condensed;
+}
+.laporan4 {
+    padding-left:100px;
+	text-align:left;
+	color:black;
+	font: 95% "arial",Gloucester MT Extra Condensed;
+}
+
+.box2{
+
+width:300px;
+height:auto;
+
+border: 0px solid rgba(128, 128, 128,0.4);
+padding-left:15px;
+padding-right:7px;
+margin-left:20px;
+}
+
+input[type="submit"],input[type="reset"],input[type="button"]{
+	width: 24%;
+	height:40px;
+	cursor: pointer;	
+	background:#B8860B;
+	padding: 6px 4px;
+	border-radius:2px 2px 2px 2px;
+	font-family: 'times new roman';
+	color: #fff;
+	font-size: 15px;	
+	border: 0px solid black;	
+	margin-bottom: 10px;
+	margin-top:20px;
+	margin-left:15px;
+	}
+input[type="submit"]:hover,
+input[type="reset"]:hover
+{
+background:#da9f5b;
+color:white;
+border:1px solid #da9f5b;
+}
+h2
+{
+text-shadow: 5px 5px 5px rgba(105,105,105,0.3);
+}
+		
+#wrappermostbuku2 {
+	
+	height:auto;
+	width:95%;
+	float:left;
+	color:#808080;
+	margin-left:25px;
+	border:0px solid black;
+	margin-bottom:40px;
+	}
+	

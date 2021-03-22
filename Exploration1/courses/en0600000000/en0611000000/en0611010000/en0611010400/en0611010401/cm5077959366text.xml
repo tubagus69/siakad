@@ -1,0 +1,26 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Basic IOS Command Structure</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b><font face="Courier New"> <font color="#990000">Router></font>ping <font color="#003399">192.168.10.5</font></font></b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>PROMPT</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>COMMAND</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>SPACE</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Keyword or Argument</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+<text><![CDATA[<b><font face="Courier New"> <font color="#990000">Router></font>show <font color="#003399">ip protocols</font></font></b>]]></text>
+</component>
+  <component id="ID_txt07">
+      <text><![CDATA[<b>Prompt commands are followed by a space and then the keyword or arguments.</b>]]></text> 
+  </component>
+  </textcomponents>

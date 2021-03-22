@@ -1,0 +1,9 @@
+<textcomponents>
+   <component id="ID_caption01">
+<text><![CDATA[<b>IP version 4 (IPv4) is the current form of addressing used on the Internet.</b>]]></text>
+   </component>
+
+   <component id="ID_txt01">
+<text><![CDATA[<b>I see I have been assigned IP address 192.168.1.5. <br>Now other hosts can find me.</b>]]></text>
+   </component>
+</textcomponents>

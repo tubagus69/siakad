@@ -1,0 +1,95 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>IEEE 802.3</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>7</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>6</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>6</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>46 to 1500</b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>4</b>]]></text> 
+  </component>
+<component id="ID_txt09">
+  <text><![CDATA[<b>Preamble</b>]]></text> 
+  </component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>Start of Frame Delimiter</b>]]></text> 
+  </component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Destination Address</b>]]></text>
+</component>
+<component id="ID_txt12">
+  <text><![CDATA[<b>Source Address</b>]]></text> 
+  </component>
+<component id="ID_txt13">
+  <text><![CDATA[<b>Length/ Type</b>]]></text> 
+  </component>
+<component id="ID_txt14">
+  <text><![CDATA[<b>802.2 Header and Data</b>]]></text> 
+  </component>
+<component id="ID_txt15">
+  <text><![CDATA[<b>Frame Check Sequence</b>]]></text> 
+  </component>
+<component id="ID_txtTitle">
+<text><![CDATA[Preamble]]></text>
+</component>
+<component id="ID_txtBody">
+<text><![CDATA[7 byte Frame Preamble]]></text>
+</component>
+<component id="ID_txtTitle2">
+<text><![CDATA[Start of Frame Delimiter]]></text>
+</component>
+<component id="ID_txtBody2">
+<text><![CDATA[1 byte Start of Frame Delimiter]]></text>
+</component>
+<component id="ID_txtTitle3">
+<text><![CDATA[Destination Address]]></text>
+</component>
+<component id="ID_txtBody3">
+<text><![CDATA[6 byte Destination MAC Address]]></text>
+</component>
+<component id="ID_txtTitle4">
+<text><![CDATA[Source Address]]></text>
+</component>
+<component id="ID_txtBody4">
+<text><![CDATA[6 byte Source MAC Address]]></text>
+</component>
+<component id="ID_txtTitle5">
+<text><![CDATA[Length/ Type]]></text>
+</component>
+<component id="ID_txtBody5">
+<text><![CDATA[2 byte Frame Length or Encapsulated Protocol Type]]></text>
+</component>
+<component id="ID_txtTitle6">
+<text><![CDATA[802.2 Header and Data]]></text>
+</component>
+<component id="ID_txtBody6">
+<text><![CDATA[46 to 1500 byte Data (Encapsulated Packet) plus Padding if required]]></text>
+</component>
+<component id="ID_txtTitle7">
+<text><![CDATA[Frame Check Sequence]]></text>
+</component>
+<component id="ID_txtBody7">
+<text><![CDATA[4 byte Frame Check Sequence(CRC Checksum)]]></text>
+</component>
+<component id="ID_title">
+  <text><![CDATA[<b>Ethernet Frame Fields</b>]]></text> 
+  </component>
+<component id="ID_inst">
+  <text><![CDATA[<b>Rollover each field name to see description.</b>]]></text> 
+  </component>
+</textcomponents>

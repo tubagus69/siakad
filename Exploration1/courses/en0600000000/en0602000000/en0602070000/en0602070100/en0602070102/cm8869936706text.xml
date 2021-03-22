@@ -1,0 +1,159 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Use this activity to check your understanding of the main points in this chapter.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>A series of questions will be presented. This is not a quiz and your answers are not recorded.</li><li>Click <b>Answer</b> to see the answer.</li><li>Click <b>Next Question</b> to go to the next question in the series.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Click Here<br/>to Begin</b>]]></text>
+</component>
+
+<!-- Question 1 -->
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[List 5 end devices, 6 intermediate devices, and 3 forms of networking media. ]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[<ul><li>End devices: desktop computer, laptop computer, server, PDA, cellular mobile phone, printer, security camera, IP phone, electronic point of sale device, automatic teller machine</li><li>Intermediate device: repeater, hub, wireless access point, switch, router, modem, and firewall</li><li>Networking media: copper cable, fiber cable, radio (wireless)</li></ul>]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[Compare and contrast the following terms: network, LAN, WAN, internetwork, and the Internet. ]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[<ul><li><b>Network</b> – a group of interconnected devices capable of carrying many different types of communications, including traditional computer data, interactive voice, video, and entertainment products.</li><li><b>LAN</b> – a local network, or group of interconnected local networks that are under the same administrative control.  In the past, LANs were thought of only as small networks that existed in a single physical location.  While LANs can be as small as a single local network installed in a home or small office, LANs now include interconnected local networks consisting of many hundreds of hosts, installed in multiple buildings and locations.  All of the local networks within a LAN are under one administrative control group that governs the security and access control policies that are in force on the network</il><li><b>WAN</b> – Telecommunications service providers (TSP) operate large regional networks spanning long distances. Individual organizations usually lease connections through a telecommunications service provider network.  These networks that connect LANs in geographically separated locations are Wide Area Networks (WANs).  Although the organization maintains all of the policies and administration of the LANs at both ends of the connection, the policies within the communications service provider network are controlled by the TSP. WANs use specifically designed network devices to make the interconnections between LANs.</il><li><b>Internetwork</b> - Al mesh of interconnected networks is used. Some of these interconnected networks are owned by large public and private organizations, such as government agencies or industrial enterprises, and are reserved for their exclusive use. The most well-known and widely used publicly accessible internetwork is the Internet.</li><li><b>Internet</b> - The most well-known and widely used publicly accessible internetwork. The Internet is created by the interconnection of networks belonging to Internet Service Providers (ISPs).   These ISP networks connect to each other to provide access for users all over the world.  Ensuring effective communication across this diverse infrastructure requires the application of consistent and commonly recognized technologies and protocols as well as the cooperation of many network administration agencies.</li></ul>]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[Compare and contrast the layers of the OSI model with the TCP/IP protocol stack.]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[<p>There are two basic types of networking models: protocol models and reference models.</p><br/><p>A protocol model closely matches the structure of a particular protocol suite. The hierarchical set of related protocols in a suite t represents all the functionality required to interface the human network with the data network. The 4-layer TCP/IP model is a protocol model because it describes the functions that occur at each layer of protocols within the TCP/IP suite.</p><br/><p>A reference model provides a common reference for maintaining consistency within all types of network protocols and services. A reference model is not intended to be an implementation specification or to provide a sufficient level of detail to define precisely the services of the network architecture. The primary purpose of a reference model is to aid in clearer understanding of the functions and process involved. The 7-layer Open Systems Interconnection (OSI) model is the most widely known internetwork reference model.  It is used for data network design, operation specifications, and troubleshooting. </p><br/><p>The protocols that make up the TCP/IP protocol suite can be described in terms of the OSI reference model.  In the OSI model, the Network Access layer and the Application layer of the TCP/IP model are further divided to describe discreet functions that need to occur at these layers.</p><br/><p>At the Network Access Layer, the TCP/IP protocol suite does not specify which protocols to use when transmitting over a physical medium; it only describes the handoff from the Internet Layer to the physical network protocols. The OSI Layers 1 and 2 discuss the necessary procedures to access the media and the physical means to send data over a network.</p><br/><p>The key parallels between the two network models occur at the OSI model Layers 3 and 4.  OSI Model Layer 3, the Network layer, almost universally is used to discuss and document the range of processes that occur in all data networks to address and route messages through an internetwork. The Internet Protocol (IP) is the TCP/IP suite protocol that includes the functionality described at Layer 3.</p><br/><p>Layer 4, the Transport layer of the OSI model, is often used to describe general services or functions that manage individual conversations between source and destination hosts. These functions include acknowledgement, error recovery, and sequencing. At this layer, the TCP/IP protocols Transmission Control Protocol (TCP) and User Datagram Protocol (UDP) provide the necessary functionality.</p><br/><p>The TCP/IP Application layer includes a number of protocols that provide specific functionality to a variety of end user applications.  The OSI model Layers 5, 6 and 7 are used as references for application software developers and vendors to produce products that need to access networks for communications.</p>]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[Explain why networking models are used.]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[<p>Although the TCP/IP and OSI models are the primary models used when discussing network functionality, designers of network protocols, services, or devices can create their own models to represent their products. Ultimately, designers are required to communicate to the industry by relating their product or service to either the OSI model or the TCP/IP model, or to both.</p><br/><p>As a reference model, the OSI model provides an extensive list of functions and services that can occur at each layer.  It also describes the interaction of each layer with the layers directly above and below it.  Whereas TCP/IP model layers are referred to by name, the seven OSI model layers are usually referred to by number.</p><br/><p>There are benefits to using a layered model to describe network protocols and operations:</p><ul><li>Assists in protocol design, because protocols that operate at a specific layer have defined information that they act upon and a defined interface to the layers above and below</li><li>Fosters competition because products from different vendors can work together</li><li>Prevents technology or capability changes in one layer from affecting other layers above and below</li><li>Provides a common language to describe networking functions and capabilities</li></ul>]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[Elaborate on the following terms: protocol, PDUs, and encapsulation.]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[<p><b>Protocol:</b></p><p>All communication, whether face-to-face or over a network, is governed by predetermined rules called protocols.  These protocols are specific to the characteristics of the conversation.  In our day-to-day personal communication, the rules we use to communicate over one medium, like a telephone call, are not necessarily the same as the protocols for using another medium, such as a sending a letter.</p><br/><p>Successful communication between hosts on a network requires the interaction of many different protocols.  A group of interrelated protocols that are necessary to perform a communication function is called a protocol suite.  These protocols are implemented in software and hardware that is on each host and network device.</p><br/><p><b>PDU & Encapsulation:</b></p><p>As application data is passed down the protocol stack on its way to be transmitted across the network media, various protocols add information to it at each level.  This is commonly known as the encapsulation process.</p><br/><p>The form that a piece of data takes at any layer is called a Protocol Data Unit (PDU). During encapsulation, each succeeding layer encapsulates the PDU that it receives from the layer above in accordance with the protocol being used. At each stage of the process, a PDU has a different name to reflect its new appearance.  PDUs within the protocols of the TCP/IP suite are:</p><ul><li>Data – The general term for the PDU used at the Application layer</li><li>Segment – Transport Layer PDU</li><li>Packet – Internetwork Layer PDU</li><li>Frame – Network Access Layer PDU</li></ul>]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q6_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[Explain the postal metaphor for encapsulation.]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[<p>Individual pages of a letter are written and numbered sequentially. Each page is sealed in a separate envelope that is then addressed to the recipient. The letters are posted and put in a mailbag (labelled with the destination) with many other envelops each containing a page of different letters and addressed to recipients. Many mailbags are loaded into a van and transported towards the destination. Along the way the mailbags may be transferred to other vans or different modes of transport – trucks, trains, aircraft, ships. At the destination the mailbags are unloaded and emptied. The envelopes are delivered to the destination addresses. At one address all the envelopes received are opened, the page removed from each one, and the pages re-assembled into the letter.</p><br/><p>The envelope, and then the mailbag and the vans/trucks/aircraft, each do not care what is in the "container" that they carry. The letter itself is not used to provide information to assist in its delivery. The address on the envelope, the label on the mailbag or the delivery instructions to the van driver are what direct the letter towards its destination.</p><br/><p>Data encapsulation follows the same principle – it is the addresses used in each layer of encapsulation that direct the data towards its destination not the data itself.</p>]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 7 -->
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[What are the unique roles of Layer 2, Layer 3, and Layer 4 addresses?]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[<ul><li>Layer 4 addresses (ports) identify the individual applications sending or receiving data.</li><li>Layer 3 (logical) addresses identify devices and their networks.</li><li>Layer 2 (physical) addresses identify devices on a local network.</li></ul>]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q7_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+</textcomponents>

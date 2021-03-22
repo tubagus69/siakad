@@ -1,0 +1,23 @@
+<textcomponents>
+	<component id="text1">
+		<text><![CDATA[Where is: <b>mysong.mp3</b>]]></text>
+	</component>
+	<component id="text2">
+		<text><![CDATA[I've got it.]]></text>
+	</component>
+	<component id="text3">
+		<text><![CDATA[I've got it.]]></text>
+	</component>
+	<component id="text4">
+		<text><![CDATA[I've got it.]]></text>
+	</component>
+	<component id="text5">
+		<text><![CDATA[<b>Gnutella allows P2P applications to search for shared resources on peers.</b>]]></text>
+	</component>
+	<component id="text6">
+		<text><![CDATA[<B>Network</b>]]></text>
+	</component>
+	<component id="text7">
+		<text><![CDATA[<B>Gnutella Suports P2P Applications</B>]]></text>
+	</component>
+</textcomponents>

@@ -1,0 +1,72 @@
+﻿<textcomponents>
+<component id="ID_title">
+	<text><![CDATA[<b>Address Types</b>]]></text>
+	</component>
+<component id="ID_txt01">
+		<text><![CDATA[<b>Network</b>]]></text>
+	</component>
+<component id="ID_txt02">
+		<text><![CDATA[<b>Host</b>]]></text>
+	</component>
+<component id="ID_txt03">
+		<text><![CDATA[<b>10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;0</b>]]></text>
+	</component>
+<component id="ID_txt04">
+		<text><![CDATA[<b>00001010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0000000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0000000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0000000</b>]]></text>
+	</component>
+<component id="ID_txt05">
+    		<text><![CDATA[<b>10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;255</b>]]></text>
+	</component>
+<component id="ID_txt06">
+    		<text><![CDATA[<b>11111111&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0000000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0000000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11111111</b>]]></text>
+	</component>
+<component id="ID_txt07">
+	    	<text><![CDATA[<b>10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;1</b>]]></text>
+		</component>
+<component id="ID_txt08">
+	    	<text><![CDATA[<b>00001010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0000000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0000000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0000001</b>]]></text>
+	</component>
+	
+<component id="ID_txt09">
+		<text><![CDATA[<b>10.0.0.1</b>]]></text>
+	</component>
+	
+<component id="ID_txt10">
+		<text><![CDATA[<b>10.0.0.2</b>]]></text>
+	</component>
+	
+<component id="ID_txt11">
+		<text><![CDATA[<b>10.0.0.3</b>]]></text>
+	</component>
+	
+<component id="ID_txt12">
+		<text><![CDATA[<b>10.0.0.253</b>]]></text>
+	</component>
+	
+<component id="ID_txt13">
+		<text><![CDATA[<b>10.0.0.0 is used to refer to the network as a whole.  All devices in this network have the same network address bits.</b>]]></text>
+	</component>
+	
+<component id="ID_txt14">
+		<text><![CDATA[<b>Each host in this network has a unique address.</b>]]></text>
+	</component>
+	
+<component id="ID_txt15">
+		<text><![CDATA[<b>The Broadcast Address is used to send packets to every host in the network that shares the same network portion of the address.</b>]]></text>
+	</component>
+	
+<component id="ID_inst">
+		<text><![CDATA[<b>Roll over to learn more.</b>]]></text>
+	</component>
+
+<component id="btn1">
+		<text><![CDATA[<b>Network Address</b>]]></text>
+	</component>
+<component id="btn2">
+		<text><![CDATA[<b>Broadcast Address</b>]]></text>
+	</component>
+<component id="btn3">
+		<text><![CDATA[<b>Host Address</b>]]></text>
+	</component>
+
+</textcomponents>

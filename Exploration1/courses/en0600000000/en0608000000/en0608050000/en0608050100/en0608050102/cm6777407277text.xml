@@ -1,0 +1,123 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Use this activity to check your understanding of the main points in this chapter.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>A series of questions will be presented. This is not a quiz and your answers are not recorded.</li><li>Click <b>Answer</b> to see the answer.</li><li>Click <b>Next Question</b> to go to the next question in the series.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Click Here<br/>to Begin</b>]]></text>
+</component>
+
+<!-- Question 1 -->
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[Name two ways in which bits are encoded as voltages. How do they differ?]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[<p><b>NRZ (Non-Return to Zero)</b> encoding, a “0” may be represented by one voltage level on the media during the bit time and a “1” might be represented by a different voltage on the media during the bit time.</p>
+<p><b>Manchester Encoding</b> uses transitions, or the absence of transitions, to indicate a logic level. For example, a “0” is indicated by a high to low transition in the middle of the bit time. For a “1” there is a low to high transition in the middle of the bit time.</p>]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[Why may bits be encoded as symbols before transmission?]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[<p>One encoding technique is the use of symbols. The Physical layer may use a set of encoded symbols to represent encoded data or control information called code groups.  A code-group is a consecutive sequence of code-bits interpreted and mapped as data bit patterns.  For example, code bits 10101 may represent the data bits 0011.</p> 
+<p>While code groups introduce overhead in the form of extra bits to transmit, they improve the robustness of a communications link. This is particularly true for higher speed data transmission.</p>
+<p>By transmitting symbols, the error detection capabilities and timing synchronization between transmitting and receiving devices are enhanced. These are important considerations in supporting high-speed transmission over the media.</p>
+<p>Some of these advantages are: </p><ul><li>Reduced bit level error</li><li>Limiting the effective energy transmitted into the media</li><li>Help distinguish data bits from control bits</li><li>Better media error detection</li></ul> ]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[What safety issues must be considered when using copper cabling?]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[<p>Electrical hazards</p><p>Copper wires may conduct electricity in undesirable ways.  This may subject personnel and equipment to a range of electrical hazards. A defective network device may conduct currents to the chassis of other network device. Additionally, network cabling could present undesirable voltage levels when used to connect devices that have power sources with different ground potentials. Also copper cabling may conduct voltages caused by lightning strikes to network devices. The result of undesirable voltages and currents can include damage to network devices and connected computers, or injury to personnel.</p>
+<p>Fire hazards</p><p>Cable insulation and sheaths may be flammable or produce toxic fumes when heated or burned. Building authorities or organizations may also stipulate related safety standards for cabling and hardware installations.</p>]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[In what situations is fiber optic cabling preferred over copper cabling?]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[<p>Given that the glass fibers used in fiber optic media are not electrical conductors, the media is immune to electromagnetic interference and will not conduct unwanted electrical currents due to grounding issues.  Because optical fibers are thin and have relatively low signal loss, they can be operated at much greater lengths than copper media, without the need for signal regeneration.</p>]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[Name several copper and fiber optic connector types.]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[<p>Copper: RJ-45, RJ-11</p>
+<p>Fiber: Straight-Tip (ST), Subscriber Connector (SC), Lucent Connector (LC)</p>]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,10 @@
+<textcomponents>
+<component id="ID_activity">
+<text><![CDATA[<b>Click Play to view human and computer encoding examples.</b>]]></text> 
+</component>
+
+<component id="ID_instructions">
+<text><![CDATA[<b>Click Play to view human and computer encoding examples.</b>]]></text> 
+</component>
+
+</textcomponents>

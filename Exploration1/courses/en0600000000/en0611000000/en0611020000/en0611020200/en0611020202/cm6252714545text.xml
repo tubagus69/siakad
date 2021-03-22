@@ -1,0 +1,34 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Limiting Device Access<br/>Configuring Telnet and Password Encryption</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Virtual Terminal Password</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Enable Password</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Enable Secret Password</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[ ]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[ ]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[ ]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Strongly encrypted password</b>]]></text> 
+</component>
+
+</textcomponents>

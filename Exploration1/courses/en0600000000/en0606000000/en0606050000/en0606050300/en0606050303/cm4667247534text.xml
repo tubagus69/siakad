@@ -1,0 +1,201 @@
+﻿<textcomponents>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Starting Configuration</b>]]></text>
+</component>
+
+
+<component id="ID_header01_01">
+<text><![CDATA[<b>Name -required addresses</b>]]></text>
+</component>
+
+<component id="ID_header02_01">
+<text><![CDATA[<b>Subnet address</b>]]></text>
+</component>
+
+<component id="ID_header03_01">
+<text><![CDATA[<b>Address range</b>]]></text>
+</component>
+
+<component id="ID_header04_01">
+<text><![CDATA[<b>Broadcast Address</b>]]></text>
+</component>
+
+<component id="ID_header05_01">
+<text><![CDATA[<b>Network /prefix</b>]]></text>
+</component>
+
+<component id="ID_caption01">
+<text><![CDATA[<b>On your documentation list your requirements in descending order.</b>]]></text>
+</component>
+
+<component id="ID_header01_02">
+<text><![CDATA[<b>Name -required addresses</b>]]></text>
+</component>
+
+<component id="ID_header02_02">
+<text><![CDATA[<b>Subnet address</b>]]></text>
+</component>
+
+<component id="ID_header03_02">
+<text><![CDATA[<b>Address range</b>]]></text>
+</component>
+
+<component id="ID_header04_02">
+<text><![CDATA[<b>Broadcast Address</b>]]></text>
+</component>
+
+<component id="ID_header05_02">
+<text><![CDATA[<b>Network /prefix</b>]]></text>
+</component>
+
+<component id="ID_caption02">
+<text><![CDATA[<b>Calculate the subnet mask to meet largest requirement - AtlantaHQ</b>]]></text>
+</component>
+
+<component id="ID_header01_03">
+<text><![CDATA[<b>Name -required addresses</b>]]></text>
+</component>
+
+<component id="ID_header02_03">
+<text><![CDATA[<b>Subnet address</b>]]></text>
+</component>
+
+<component id="ID_header03_03">
+<text><![CDATA[<b>Address range</b>]]></text>
+</component>
+
+<component id="ID_header04_03">
+<text><![CDATA[<b>Broadcast Address</b>]]></text>
+</component>
+
+<component id="ID_header05_03">
+<text><![CDATA[<b>Network /prefix</b>]]></text>
+</component>
+
+<component id="ID_caption03">
+<text><![CDATA[<b>Use the next available Address .64  to calculate  a subnet mask for the next largest requirement - PerthHQ.</b>]]></text>
+</component>
+
+<component id="ID_header01_04">
+<text><![CDATA[<b>Name -required addresses</b>]]></text>
+</component>
+
+<component id="ID_header02_04">
+<text><![CDATA[<b>Subnet address</b>]]></text>
+</component>
+
+<component id="ID_header03_04">
+<text><![CDATA[<b>Address range</b>]]></text>
+</component>
+
+<component id="ID_header04_04">
+<text><![CDATA[<b>Broadcast Address</b>]]></text>
+</component>
+
+<component id="ID_header05_04">
+<text><![CDATA[<b>Network /prefix</b>]]></text>
+</component>
+
+<component id="ID_caption04">
+<text><![CDATA[<b>Sydney needs 12 addresses.  Use the next available address .96 to calculate a subnet for SydneyHQ requirement of 10 hosts.</b>]]></text>
+</component>
+
+<component id="ID_header01_05">
+<text><![CDATA[<b>Name -required addresses</b>]]></text>
+</component>
+
+<component id="ID_header02_05">
+<text><![CDATA[<b>Subnet address</b>]]></text>
+</component>
+
+<component id="ID_header03_05">
+<text><![CDATA[<b>Address range</b>]]></text>
+</component>
+
+<component id="ID_header04_05">
+<text><![CDATA[<b>Broadcast Address</b>]]></text>
+</component>
+
+<component id="ID_header05_05">
+<text><![CDATA[<b>Network /prefix</b>]]></text>
+</component>
+
+<component id="ID_caption05">
+<text><![CDATA[<b>Use the next available address .112 to calculate a subnet for CorpusHQ which also requires 10 hosts.</b>]]></text>
+</component>
+
+<component id="ID_header01_06">
+<text><![CDATA[<b>Name -required addresses</b>]]></text>
+</component>
+
+<component id="ID_header02_06">
+<text><![CDATA[<b>Subnet address</b>]]></text>
+</component>
+
+<component id="ID_header03_06">
+<text><![CDATA[<b>Address range</b>]]></text>
+</component>
+
+<component id="ID_header04_06">
+<text><![CDATA[<b>Broadcast Address</b>]]></text>
+</component>
+
+<component id="ID_header05_06">
+<text><![CDATA[<b>Network /prefix</b>]]></text>
+</component>
+
+<component id="ID_caption06">
+<text><![CDATA[<b>WAN links require 2 addresses each</b>]]></text>
+</component>
+
+<component id="ID_header01_07">
+<text><![CDATA[<b>Name -required addresses</b>]]></text>
+</component>
+
+<component id="ID_header02_07">
+<text><![CDATA[<b>Subnet address</b>]]></text>
+</component>
+
+<component id="ID_header03_07">
+<text><![CDATA[<b>Address range</b>]]></text>
+</component>
+
+<component id="ID_header04_07">
+<text><![CDATA[<b>Broadcast Address</b>]]></text>
+</component>
+
+<component id="ID_header05_07">
+<text><![CDATA[<b>Network /prefix</b>]]></text>
+</component>
+
+<component id="ID_caption07">
+<text><![CDATA[<b></b>]]></text>
+</component>
+
+<component id="ID_header01_08">
+<text><![CDATA[<b>Name -required addresses</b>]]></text>
+</component>
+
+<component id="ID_header02_08">
+<text><![CDATA[<b>Subnet address</b>]]></text>
+</component>
+
+<component id="ID_header03_08">
+<text><![CDATA[<b>Address range</b>]]></text>
+</component>
+
+<component id="ID_header04_08">
+<text><![CDATA[<b>Broadcast Address</b>]]></text>
+</component>
+
+<component id="ID_header05_08">
+<text><![CDATA[<b>Network /prefix</b>]]></text>
+</component>
+
+<component id="ID_caption08">
+<text><![CDATA[<b>The networking problem is solved</b>]]></text>
+</component>
+
+
+</textcomponents>

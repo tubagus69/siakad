@@ -1,0 +1,45 @@
+<textcomponents>
+<component id="ID_txt01a">
+<text><![CDATA[<b>Polymeric Coating</b>]]></text>
+</component>
+<component id="ID_txt02a">
+  <text><![CDATA[<b>Glass Cladding 125 microns dia</b>]]></text> 
+  </component>
+<component id="ID_txt03a">
+  <text><![CDATA[<b>Glass Core=8-10 microns</b>]]></text> 
+  </component>
+<component id="ID_txt04a">
+  <text><![CDATA[<b>Produces single straight path for light</b>]]></text> 
+  </component>
+<component id="ID_txt05b">
+<text><![CDATA[<b>Polymeric Coating</b>]]></text>
+</component>
+<component id="ID_txt06b">
+  <text><![CDATA[<b>Glass Cladding 125 microns dia</b>]]></text> 
+  </component>
+<component id="ID_txt07b">
+  <text><![CDATA[<b>Glass Core=50/62.5 microns</b>]]></text> 
+  </component>
+<component id="ID_txt08b">
+  <text><![CDATA[<b>Allows multiple paths for light</b>]]></text> 
+  </component>
+<component id="ID_txt09a">
+  <text><![CDATA[<b>Single-Mode</b>]]></text> 
+  </component>  
+<component id="ID_txt10b">
+  <text><![CDATA[<b>Multimode</b>]]></text> 
+  </component>
+<component id="ID_title">
+  <text><![CDATA[<b>Fiber Media Modes</b>]]></text> 
+  </component>
+  <component id="ID_table01">
+    <text><![CDATA[<table><tr><th></th></tr><tr><td><ul><li>Small Core</li><li>Less Despersion</li><li>Suited for long distance applications (up to 100 km, 62,14 mi.) </li><li>Uses lasers as the light source often within campus backbones for distance of several thousand meters<br/><br/><br/></li></ul></table>]]></text> 
+  </component>
+   <component id="ID_table02">
+     <text><![CDATA[<table><tr><th></th></tr><tr><td><ul><li>Larger core than single-mode cable &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(50 microns or greater)</li><li>Allows greater dipersion and therefore, loss of signal</li><li>Used for long distance appllication, but shorter than single-mode &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(up to ~2km, 6560 ft)</li><li>Uses LEDs as the light source often within LANs or distances of couple hundred meters within a campus network</li></ul></table>]]></text> 
+  </component>
+  
+
+  
+  
+</textcomponents>

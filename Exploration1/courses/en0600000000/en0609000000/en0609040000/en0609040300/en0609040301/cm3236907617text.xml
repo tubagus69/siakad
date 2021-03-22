@@ -1,0 +1,19 @@
+<textcomponents>
+
+<component id="ID_txt01">
+    <text><![CDATA[<b>Sending Device</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt02">
+      <text><![CDATA[<b>An Ethernet frame takes a measurable time to travel from the sending device to the receiver. Each intermediary device contributes to the overall latency.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+      <text><![CDATA[<b>Receiving Device</b>]]></text> 
+  </component>
+  
+ 
+<component id="ID_title">
+      <text><![CDATA[<b>Ethernet Delay (Latency)</b>]]></text> 
+  </component>
+</textcomponents>

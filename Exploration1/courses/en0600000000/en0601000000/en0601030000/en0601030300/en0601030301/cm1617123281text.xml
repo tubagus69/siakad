@@ -1,0 +1,118 @@
+﻿<textcomponents>
+<component id="ID_caption1">
+<text><![CDATA[<b>Four elements of a network:<br><br>- Devices<br>- Medium<br>- Messages<br>- Rules</b>]]></text>
+</component>
+<component id="ID_caption2">
+<text><![CDATA[<b>Multiple services are running on multiple networks.</b>]]></text>
+</component>
+<component id="ID_caption3">
+<text><![CDATA[<b>Converged data networks carry multiple services on one network.
+</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Devices</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Medium</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Rules:<br><br>Rule<br>Agreement<br>Standard</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Message</b>]]></text>
+</component>
+
+<component id="ID_message">
+<text><![CDATA[<b>Message</b>]]></text>
+</component>
+<component id="ID_message2">
+<text><![CDATA[<b>Message</b>]]></text>
+</component>
+<component id="ID_message3">
+<text><![CDATA[<b>Message</b>]]></text>
+</component>
+<component id="ID_message4">
+<text><![CDATA[<b>Message</b>]]></text>
+</component>
+<component id="ID_message5">
+<text><![CDATA[<b>Message</b>]]></text>
+</component>
+<component id="ID_message6">
+<text><![CDATA[<b>Message</b>]]></text>
+</component>
+<component id="ID_txt01_2">
+<text><![CDATA[<b>Devices</b>]]></text>
+</component>
+<component id="ID_txt02_2">
+<text><![CDATA[<b>Devices</b>]]></text>
+</component>
+<component id="ID_txt03_2">
+<text><![CDATA[<b>Devices</b>]]></text>
+</component>
+<component id="ID_txt04_2">
+<text><![CDATA[<b>Medium</b>]]></text>
+</component>
+<component id="ID_txt05_2">
+<text><![CDATA[<b>Medium</b>]]></text>
+</component>
+<component id="ID_txt06_2">
+<text><![CDATA[<b>Medium</b>]]></text>
+</component>
+<component id="ID_txt07_2">
+<text><![CDATA[<b>Computer Networks</b>]]></text>
+</component>
+<component id="ID_txt08_2">
+<text><![CDATA[<b>Telephone Networks</b>]]></text>
+</component>
+<component id="ID_txt09_2">
+<text><![CDATA[<b>Broadcast Networks</b>]]></text>
+</component>
+<component id="ID_txt10_2">
+<text><![CDATA[<b>Rule<br>Agreement<br>Standard</b>]]></text>
+</component>
+<component id="ID_txt11_2">
+<text><![CDATA[<b>Rule<br>Agreement<br>Standard</b>]]></text>
+</component>
+<component id="ID_txt12_2">
+<text><![CDATA[<b>Rule<br>Agreement<br>Standard</b>]]></text>
+</component>
+<component id="ID_txt01_3">
+<text><![CDATA[<b>Devices</b>]]></text>
+</component>
+<component id="ID_txt02_3">
+<text><![CDATA[<b>Devices</b>]]></text>
+</component>
+<component id="ID_txt03_3">
+<text><![CDATA[<b>Devices</b>]]></text>
+</component>
+<component id="ID_txt04_3">
+<text><![CDATA[<b>Medium</b>]]></text>
+</component>
+<component id="ID_txt05_3">
+<text><![CDATA[<b>Rule<br>Agreement<br>Standard<br></b>]]></text>
+</component>
+<component id="ID_txt06_3">
+<text><![CDATA[<b>Converged Network</b>]]></text>
+</component>
+<component id="ID_txt07_3">
+<text><![CDATA[<b>One Network-<br>Multiple Devices</b>]]></text>
+</component>
+<component id="ID_txt08_3">
+<text><![CDATA[<b>Medium</b>]]></text>
+</component>
+<component id="ID_txt09_3">
+<text><![CDATA[<b>Medium</b>]]></text>
+</component>
+<component id="button1">
+<text><![CDATA[<b>Network Elements</b>]]></text>
+</component>
+<component id="button2">
+<text><![CDATA[<b>Multiple Networks</b>]]></text>
+</component>
+<component id="button3">
+<text><![CDATA[<b>Converged Networks</b>]]></text>
+</component>
+</textcomponents>

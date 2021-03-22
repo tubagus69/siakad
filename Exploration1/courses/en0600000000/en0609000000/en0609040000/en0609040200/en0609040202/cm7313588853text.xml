@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_txt01">
+    <text><![CDATA[<b>This network with 35 hosts and 5 hubs is a single collision/broadcast domain. When one host or server transmits a message, all other devices in the domain receive the message.</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt02">
+      <text><![CDATA[<b>More importantly, only one device in the entire network can send data at any one time.</b>]]></text> 
+  </component>
+  
+  
+<component id="ID_title">
+            <text><![CDATA[<b>Using hubs in extended star topologies can create large collision domains</b>]]></text> 
+  </component>
+</textcomponents>

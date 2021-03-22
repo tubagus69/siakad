@@ -1,0 +1,44 @@
+﻿<textcomponents>
+
+<component id="btn1">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+<component id="btn2">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+<component id="btn3">
+<text><![CDATA[<b>3</b>]]></text>
+</component>
+<component id="btn4">
+<text><![CDATA[<b>4</b>]]></text>
+</component>
+<component id="btn5">
+<text><![CDATA[<b>5</b>]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Netstat Output</b>]]></text>
+</component>
+
+<component id="output_text_01">
+<text><![CDATA[<b>Protocol used</b>]]></text>
+</component>
+
+<component id="output_text_02">
+<text><![CDATA[<b>Source Port</b>]]></text>
+</component>
+
+<component id="output_text_03">
+<text><![CDATA[<b>Address or name of remote host</b>]]></text>
+</component>
+
+<component id="output_text_04">
+<text><![CDATA[<b>Destination Port</b>]]></text>
+</component>
+
+<component id="output_text_05">
+<text><![CDATA[<b>Connection State</b>]]></text>
+</component>
+
+
+</textcomponents>

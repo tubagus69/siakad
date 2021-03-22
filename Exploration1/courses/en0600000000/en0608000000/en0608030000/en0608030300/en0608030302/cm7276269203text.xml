@@ -1,0 +1,149 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Straight-through, Crossover, and Rollover Cable Types </b>]]></text>
+</component>
+
+<component id="ID_header1">
+<text><![CDATA[<b>Cable Type</b>]]></text>
+</component>
+
+<component id="ID_header2">
+<text><![CDATA[<b>Standard</b>]]></text>
+</component>
+
+<component id="ID_header3">
+<text><![CDATA[<b>Application</b>]]></text>
+</component>
+
+
+
+
+
+<component id="ID_txt01">
+<text><![CDATA[Ethernet Straight-through]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Ethernet Crossover]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Rollover]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[One end T568A,<br/>other end T568B]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Both end T568A<br/>or both end T568B]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Cisco proprietary]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Connecting a network host to a network device such as a switch or hub.]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[Connecting two network hosts.<br>Connecting two network intermediary devices (switch to switch, or router to router).]]></text>
+</component>
+
+
+<component id="ID_txt09">
+<text><![CDATA[Connect a workstation serial port to a router console port, using an adapter.]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Pair 2</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Pair 3</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Pair 3</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Pair 1</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>Pair 4</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Pair 2</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Pair 1</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>Pair 4</b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>T568A</b>]]></text>
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[<b>T568B</b>]]></text>
+</component>
+
+<component id="ID_txt20">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+<component id="ID_txt21">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+<component id="ID_txt22">
+<text><![CDATA[<b>3</b>]]></text>
+</component>
+<component id="ID_txt23">
+<text><![CDATA[<b>4</b>]]></text>
+</component>
+<component id="ID_txt24">
+<text><![CDATA[<b>5</b>]]></text>
+</component>
+<component id="ID_txt25">
+<text><![CDATA[<b>6</b>]]></text>
+</component>
+<component id="ID_txt26">
+<text><![CDATA[<b>7</b>]]></text>
+</component>
+<component id="ID_txt27">
+<text><![CDATA[<b>8</b>]]></text>
+</component>
+
+<component id="ID_txt20a">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+<component id="ID_txt21a">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+<component id="ID_txt22a">
+<text><![CDATA[<b>3</b>]]></text>
+</component>
+<component id="ID_txt23a">
+<text><![CDATA[<b>4</b>]]></text>
+</component>
+<component id="ID_txt24a">
+<text><![CDATA[<b>5</b>]]></text>
+</component>
+<component id="ID_txt25a">
+<text><![CDATA[<b>6</b>]]></text>
+</component>
+<component id="ID_txt26a">
+<text><![CDATA[<b>7</b>]]></text>
+</component>
+<component id="ID_txt27a">
+<text><![CDATA[<b>8</b>]]></text>
+</component>
+</textcomponents>

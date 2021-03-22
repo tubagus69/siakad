@@ -1,0 +1,20 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Configuring Device Names</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>CorpusHQ</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>PhoenixHQ</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>AtlantaHQ</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Name network devices to identify them for configuration purposes.</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Flour_Bluff</b>]]></text>
+</component>
+</textcomponents>

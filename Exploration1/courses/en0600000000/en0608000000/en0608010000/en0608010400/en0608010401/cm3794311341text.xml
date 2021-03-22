@@ -1,0 +1,28 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Physical Layer Fundamental Principles</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Layer 2 Frame</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Encoding</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Signaling</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Media</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Physical Layer</b>]]></text>
+</component>
+
+
+</textcomponents>

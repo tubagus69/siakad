@@ -1,0 +1,71 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Ethernet Protocol</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>A Common Data Link Layer Protocol for LANs</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Frame</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Field name</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Size</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>Preamble</b> - used for synchronization; also contains a delimiter to mark the end of the timing information. ]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>Destination Address</b> - 48 bit MAC address for the destination node.]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>Source Address</b> - 48 bit MAC address for the source node.]]></text> 
+  </component>
+<component id="ID_txt09">
+  <text><![CDATA[<b>Type</b> - value to indicate which upper layer protocol will receive the data after the Ethernet process is complete.]]></text> 
+  </component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>Data</b> or payload - this is the PDU, typically an IPv4 packet, that is to be transported over the media.]]></text> 
+  </component>
+<component id="ID_txt11">
+  <text><![CDATA[<b>Frame Check Sequence</b> (FCS) - A value used to check for damaged frames.]]></text> 
+  </component>
+<component id="ID_txt12">
+  <text><![CDATA[<b>Preamble</b>]]></text> 
+  </component>
+<component id="ID_txt13">
+  <text><![CDATA[<b>Destination</b>]]></text> 
+  </component>
+<component id="ID_txt14">
+  <text><![CDATA[<b>Source</b>]]></text> 
+  </component>
+<component id="ID_txt15">
+  <text><![CDATA[<b>Type</b>]]></text> 
+  </component>
+<component id="ID_txt16">
+  <text><![CDATA[<b>Data</b>]]></text> 
+  </component>
+<component id="ID_txt17">
+  <text><![CDATA[<b>Frame Check Sequence</b>]]></text> 
+  </component>
+<component id="ID_txt18">
+  <text><![CDATA[<b>8 bytes</b>]]></text> 
+  </component>
+<component id="ID_txt19">
+  <text><![CDATA[<b>6 bytes</b>]]></text> 
+  </component>
+<component id="ID_txt20">
+  <text><![CDATA[<b>6 bytes</b>]]></text> 
+  </component>
+<component id="ID_txt21">
+  <text><![CDATA[<b>2 bytes</b>]]></text> 
+  </component>
+<component id="ID_txt22">
+  <text><![CDATA[<b>46 - 1500 bytes</b>]]></text> 
+  </component>
+<component id="ID_txt23">
+  <text><![CDATA[<b>4 bytes</b>]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,32 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>TCP/IP model</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>TCP/IP Model</b>]]></text> 
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Application</b>]]></text> 
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Transport</b>]]></text> 
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Network<br/>Access</b>]]></text> 
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Represents data to the user plus encoding and dialog control.</b>]]></text> 
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>Supports communication between diverse devices across diverse networks.</b>]]></text> 
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Determines the best path through the network.</b>]]></text> 
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Controls the hardware devices and media that make up the network.</b>]]></text> 
+</component>
+</textcomponents>

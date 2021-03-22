@@ -1,0 +1,8 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>In this chapter, you learned to:</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<ul><li>Identify the basic network media required to make a LAN connection.</li><li>Identify the types of connections for intermediate and end device connections in a LAN.</li><li>Identify the pinout configurations for straight-through and crossover cables.</li><li>Identify the different cabling types, standards, and ports used for WAN connections.</li><li>Define the role of device management connections when using Cisco equipment.</li><li>Design an addressing scheme for an internetwork and assign ranges for hosts, network devices, and the router interface.</li><li>Compare and contrast the importance of network designs.</li></ul>]]></text> 
+  </component>
+</textcomponents>

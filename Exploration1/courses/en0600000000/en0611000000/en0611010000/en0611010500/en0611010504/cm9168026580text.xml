@@ -1,0 +1,184 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>CLI Hot Keys and Shortcuts</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Tab</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Backspace</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Ctrl-D</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Ctrl-K</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Esc D</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Ctrl-U or Ctrl-X</b>]]></text>
+</component>
+<component id="ID_txt06a">
+<text><![CDATA[<b>Ctrl-W</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[(NOTE:<b>"Delete"</b>, the key to erase to the right of the cursor, is not recognized by terminal emulation programs.)]]></text>
+</component>
+
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Ctrl-A</b>]]></text>
+</component>
+<component id="ID_txt27">
+<text><![CDATA[Moves the cursor to the beginning of the line.]]></text>
+</component> 
+
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Left Arrow or Ctrl-B</b>]]></text>
+</component>  
+<component id="ID_txt28">
+<text><![CDATA[Moves the cursor one character to the left.]]></text>
+</component> 
+
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Esc B</b>]]></text>
+</component>
+<component id="ID_txt10a">
+<text><![CDATA[Moves the cursor back one word to the left.]]></text>
+</component> 
+
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Esc F</b>]]></text>
+</component>
+<component id="ID_txt29">
+<text><![CDATA[Moves the cursor forward one word to the right.]]></text>
+</component> 
+
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Right Arrow or Ctrl-F</b>]]></text>
+</component>  
+<component id="ID_txt30">
+<text><![CDATA[Moves the cursor one character to the right.]]></text>
+</component> 
+
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Ctrl-E</b>]]></text>
+</component>  
+<component id="ID_txt31">
+<text><![CDATA[Moves the cursor to the end of command line.]]></text>
+</component> 
+
+
+<component id="ID_txt14">
+<text><![CDATA[<b>Up Arrow or Ctrl-P</b>]]></text>
+</component>  
+<component id="ID_txt32">
+<text><![CDATA[Recalls command in the history buffer, beginning with the most recent commands.]]></text>
+</component> 
+
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Ctrl-R or Ctrl-I or Ctrl-L</b>]]></text>
+</component>  
+<component id="ID_txt33">
+<text><![CDATA[Redisplays the system prompt and command line after a console message is received.]]></text>
+</component> 
+
+
+
+<component id="ID_txt16">
+<text><![CDATA[<b>The Enter Key</b>]]></text>
+</component> 
+
+
+
+
+<component id="ID_txt17">
+<text><![CDATA[<b>Space Bar</b>]]></text>
+</component>  
+
+
+
+
+<component id="ID_txt18">
+<text><![CDATA[<b>Any other alphanumeric key</b>]]></text>
+</component>  
+<component id="ID_txt19">
+<text><![CDATA[<b>Ctrl-C</b>]]></text>
+</component>  
+<component id="ID_txt20">
+<text><![CDATA[<b>Ctrl-Z</b>]]></text>
+</component>  
+<component id="ID_txt21">
+<text><![CDATA[<b>Ctrl-Shift-6</b>]]></text>
+</component> 
+<component id="ID_txt22">
+<text><![CDATA[Completes a partial command name entry.]]></text>
+</component>  
+<component id="ID_txt23">
+<text><![CDATA[Erases the character to the left of the cursor.]]></text>
+</component>  
+<component id="ID_txt24">
+<text><![CDATA[Erases the character at the cursor.]]></text>
+</component>  
+<component id="ID_txt25">
+<text><![CDATA[Erases all characters from the cursor to the end of the command line.]]></text>
+</component>  
+<component id="ID_txt26">
+<text><![CDATA[Erases all characters from the cursor to the end of the word.]]></text>
+</component> 
+<component id="ID_txt26a">
+<text><![CDATA[Erases all characters from the cursor back to the beginning of the command line.]]></text>
+</component> 
+<component id="ID_txt27a">
+<text><![CDATA[Erases the word to the left of the cursor.]]></text>
+</component> 
+
+
+
+
+
+
+
+<component id="ID_txt34">
+<text><![CDATA[Displays the next line.]]></text>
+</component> 
+<component id="ID_txt35">
+<text><![CDATA[Displays the next screen.]]></text>
+</component> 
+<component id="ID_txt36">
+<text><![CDATA[Returns to the EXEC prompt.]]></text>
+</component> 
+<component id="ID_txt37">
+<text><![CDATA[When in any configuration mode, ends the configuration mode and returns to privileged EXEC mode. When in setup mode, aborts back to the command prompt.]]></text>
+</component> 
+<component id="ID_txt38">
+<text><![CDATA[When in any configuration mode, ends the configuration mode and returns to privileged EXEC mode.]]></text>
+</component> 
+<component id="ID_txt39">
+<text><![CDATA[All-purpose break sequence. Use to abort DNS lookups, traceroutes, pings.]]></text>
+</component> 
+<component id="ID_txt40">
+<text><![CDATA[Note:&nbsp;&nbsp;Control keys - Press and hold the &lt;Ctrl&gt; key and then press the specified letter key .<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Escape sequences - Press and release the &lt;Esc&gt; key, and then press the letter key.
+]]></text>
+</component> 
+
+
+  <component id="ID_header1">
+      <text><![CDATA[<b>CLI Line Editing</b>]]></text> 
+  </component>
+  <component id="ID_header2">
+      <text><![CDATA[<b>At the <font face="Courier New">"-----More-----" prompt</b>]]></text> 
+  </component>
+    <component id="ID_header3">
+	      <text><![CDATA[<b>Break Keys</b>]]></text> 
+  </component>
+
+  </textcomponents>

@@ -1,0 +1,293 @@
+﻿<textcomponents>
+
+
+<component id="ID_title01">
+  <text><![CDATA[<b>Routing IP Packets</b>]]></text> 
+</component>
+
+<component id="ID_title01_a">
+  <text><![CDATA[<b>Click to see the steps.</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Network<br>192.168.2.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_a">
+  <text><![CDATA[<b>192.168.2.30/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_a1">
+  <text><![CDATA[<b>192.168.2.30/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_a2">
+  <text><![CDATA[<b>192.168.2.30/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_a22">
+  <text><![CDATA[<b>192.168.5.6/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_a23">
+  <text><![CDATA[<b>192.168.2.1/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_a33">
+  <text><![CDATA[<b>192.168.5.6/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_a44">
+  <text><![CDATA[<b>192.168.5.6/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_a55">
+  <text><![CDATA[<b>192.168.5.6/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_a5">
+  <text><![CDATA[<b>192.168.2.30/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_a3">
+  <text><![CDATA[<b>192.168.2.30/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_a4">
+  <text><![CDATA[<b>192.168.2.30/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_a6">
+  <text><![CDATA[<b>192.168.2.30/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_b">
+  <text><![CDATA[<b>192.168.5.6/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_b1">
+  <text><![CDATA[<b>192.168.5.6/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_b2">
+  <text><![CDATA[<b>192.168.5.6/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_b3">
+  <text><![CDATA[<b>192.168.5.6/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_b4">
+  <text><![CDATA[<b>192.168.5.6/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_b5">
+  <text><![CDATA[<b>192.168.5.6/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_b6">
+  <text><![CDATA[<b>192.168.5.6/24</b>]]></text> 
+</component>
+
+<component id="ID_txt01_c">
+  <text><![CDATA[<b>IP Packet</b>]]></text> 
+</component>
+
+<component id="ID_txt01_c1">
+  <text><![CDATA[<b>IP Packet</b>]]></text> 
+</component>
+
+<component id="ID_txt01_c2">
+  <text><![CDATA[<b>IP Packet</b>]]></text> 
+</component>
+
+<component id="ID_txt01_c3">
+  <text><![CDATA[<b>IP Packet</b>]]></text> 
+</component>
+
+<component id="ID_txt01_c4">
+  <text><![CDATA[<b>IP Packet</b>]]></text> 
+</component>
+
+<component id="ID_txt01_c5">
+  <text><![CDATA[<b>IP Packet</b>]]></text> 
+</component>
+
+<component id="ID_txt01_c5a">
+  <text><![CDATA[<b>IP Packet</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Network<br>192.168.3.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Network<br>192.168.4.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>Network<br>192.168.5.0/24</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01_2">
+  <text><![CDATA[<b>Network<br>192.168.2.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt02_2">
+  <text><![CDATA[<b>Network<br>192.168.3.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt03_2">
+  <text><![CDATA[<b>Network<br>192.168.4.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt04_2">
+  <text><![CDATA[<b>Network<br>192.168.5.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt05_2">
+  <text><![CDATA[<b>Is this packet destined for a device on this network?  No.  It is destined for device 192.168.5.6/24, a device on another  network.</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01_3">
+  <text><![CDATA[<b>Network<br>192.168.2.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt02_3">
+  <text><![CDATA[<b>Network<br>192.168.3.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt03_3">
+  <text><![CDATA[<b>Network<br>192.168.4.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt04_3">
+  <text><![CDATA[<b>Network<br>192.168.5.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt05_3">
+  <text><![CDATA[<b>The packet is sent to the gateway.</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01_4">
+  <text><![CDATA[<b>Network<br>192.168.2.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt02_4">
+  <text><![CDATA[<b>Network<br>192.168.3.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt03_4">
+  <text><![CDATA[<b>Network<br>192.168.4.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt04_4">
+  <text><![CDATA[<b>Network<br>192.168.5.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt05_4">
+  <text><![CDATA[<b>Is this Packet destined for a directly connected device? No. Forward the packet to the next router.</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01_5">
+  <text><![CDATA[<b>Network<br>192.168.2.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt02_5">
+  <text><![CDATA[<b>Network<br>192.168.3.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt03_5">
+  <text><![CDATA[<b>Network<br>192.168.4.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt04_5">
+  <text><![CDATA[<b>Network<br>192.168.5.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt05_5">
+  <text><![CDATA[<b>Is this Packet destined for a directly connected device? No. Forward the packet to the next router.</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01_6">
+  <text><![CDATA[<b>Network<br>192.168.2.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt02_6">
+  <text><![CDATA[<b>Network<br>192.168.3.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt03_6">
+  <text><![CDATA[<b>Network<br>192.168.4.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt04_6">
+  <text><![CDATA[<b>Network<br>192.168.5.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt05_6">
+  <text><![CDATA[<b>Is this Packet destined for a directly connected device? Yes. Forward the packet to this device.</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01_7">
+  <text><![CDATA[<b>Network<br>192.168.2.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt02_7">
+  <text><![CDATA[<b>Network<br>192.168.3.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt03_7">
+  <text><![CDATA[<b>Network<br>192.168.4.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt04_7">
+  <text><![CDATA[<b>Network<br>192.168.5.0/24</b>]]></text> 
+</component>
+
+<component id="ID_txt05_7">
+  <text><![CDATA[<b>The IP packet arrives at its destination.  The IP header is removed and the TCP Segment is passed to Layer 4 on the device.</b>]]></text> 
+</component>
+
+<component id="ID_txt06_7">
+  <text><![CDATA[<b>TCP Segment</b>]]></text> 
+</component>
+
+<component id="ID_txt07_7">
+  <text><![CDATA[<b>TCP Segment</b>]]></text> 
+</component>
+
+
+
+<component id="btnOne">
+  <text><![CDATA[<b>BEGIN</b>]]></text> 
+</component>
+<component id="btnTwo">
+  <text><![CDATA[<b>1</b>]]></text> 
+</component>
+<component id="btnThree">
+  <text><![CDATA[<b>2</b>]]></text> 
+</component>
+<component id="btnFour">
+  <text><![CDATA[<b>3</b>]]></text> 
+</component>
+<component id="btnFive">
+  <text><![CDATA[<b>4</b>]]></text> 
+</component>
+<component id="btnSix">
+  <text><![CDATA[<b>5</b>]]></text> 
+</component>
+<component id="btnSeven">
+  <text><![CDATA[<b>6</b>]]></text> 
+</component>
+
+
+
+</textcomponents>

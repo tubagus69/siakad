@@ -1,0 +1,29 @@
+﻿<textcomponents>
+
+<component id="btn1">
+<text><![CDATA[<b>Switch 1</b>]]></text>
+</component>
+<component id="btn2">
+<text><![CDATA[<b>Switch 2</b>]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Switch Configuration</b>]]></text>
+</component>
+
+<component id="ID_caption">
+<text><![CDATA[<b>Click to see output from different devices.</b>]]></text>
+</component>
+
+
+<component id="output_text_01">
+<text><![CDATA[<b>Interface configuration.</b>]]></text>
+</component>
+
+<component id="output_text_02">
+<text><![CDATA[<b>Note the prompt changes denoting the current IOS mode.</b>]]></text>
+</component>
+
+
+
+</textcomponents>

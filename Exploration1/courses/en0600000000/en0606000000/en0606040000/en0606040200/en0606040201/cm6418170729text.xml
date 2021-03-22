@@ -1,0 +1,79 @@
+<textcomponents>
+
+<component id="ID_inst">
+		<text><![CDATA[<b>Roll over to see the AND operation.</b>]]></text>
+	</component>
+	
+	
+<component id="ID_title">
+	<text><![CDATA[<b>Applying the Subnet Mask</b>]]></text>
+	</component>
+<component id="ID_txt01">
+		<text><![CDATA[<b>A device with address 192.0.0.1 belongs to network 192.0.0.0</b>]]></text>
+	</component>
+<component id="ID_txt02">
+		<text><![CDATA[<b>High order bits<br/>Prefix /16</b>]]></text>
+	</component>
+
+
+<component id="ID_txt09">
+		<text><![CDATA[<b>Low order bits</b>]]></text>
+	</component>
+	
+<component id="ID_txt10">
+		<text><![CDATA[<b>Host<br/>Address</b>]]></text>
+	</component>
+	
+<component id="ID_txt11">
+		<text><![CDATA[<b>Subnet<br/>Mask</b>]]></text>
+	</component>
+	
+<component id="ID_txt12">
+		<text><![CDATA[<b>Network<br/>Address</b>]]></text>
+	</component>
+	
+<component id="ID_txt13">
+		<text><![CDATA[<b>1 in the host AND 1 in the mask puts 1 in the network address.</b>]]></text>
+	</component>
+	
+<component id="ID_txt14">
+		<text><![CDATA[<b>0 in the host AND 1 in the mask puts 0 in the network address.</b>]]></text>
+	</component>
+	
+<component id="ID_txt15">
+		<text><![CDATA[<b>0 in the host AND 0 in the mask puts  0 in the network address. </b>]]></text>
+	</component>
+	
+
+
+	
+<component id="ID_txt17">
+		<text><![CDATA[<b>Network</b>]]></text>
+	</component>
+	
+<component id="ID_txt18">
+		<text><![CDATA[<b>AND</b>]]></text>
+	</component>
+	
+<component id="ID_txt18a">
+		<text><![CDATA[<b>AND</b>]]></text>
+	</component>
+	
+<component id="ID_txt18b">
+		<text><![CDATA[<b>AND</b>]]></text>
+	</component>
+	
+<component id="ID_txt18c">
+		<text><![CDATA[<b>AND</b>]]></text>
+	</component>
+	
+<component id="ID_txt19">
+	        <text><![CDATA[<b>AND</b>]]></text>
+	</component>
+	
+<component id="ID_txt20">
+	        <text><![CDATA[<b>1 in the host AND 0 in the mask puts 0 in the network address.</b>]]></text>
+	</component>
+
+
+</textcomponents>

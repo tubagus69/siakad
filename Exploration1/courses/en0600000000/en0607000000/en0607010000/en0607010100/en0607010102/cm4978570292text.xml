@@ -1,0 +1,77 @@
+<textcomponents>
+
+
+
+   <component id="play">
+      <text>Play</text>
+   </component>
+   
+   <component id="pause">
+      <text>Pause</text>
+   </component>
+   
+   <component id="rewind">
+      <text>Rewind</text>
+   </component>
+   
+   <component id="forward">
+      <text>Fast Forward</text>
+   </component>
+   
+   <component id="mute">
+      <text>Mute</text>
+   </component>
+   
+   <component id="unmute">
+      <text>UnMute</text>
+   </component>
+   
+   <component id="previous">
+      <text>Restart</text>
+   </component>
+   
+   <component id="next">
+      <text>End</text>
+   </component>
+   
+   <component id="transcript">
+      <text>Transcript</text>
+   </component>
+   
+   <component id="ID_txt01">
+      <text><![CDATA[<b>The Data Link Layer</b>]]></text>
+   </component>
+      
+   <component id="ID_txt02">
+      <text><![CDATA[<b>Data link layer protocols govern how to format a frame for use on different media.</b>]]></text>
+   </component>
+   
+   <component id="ID_txt03">
+      <text><![CDATA[<b>Different protocols may be in use for different media.<b/>]]></text>
+   </component>
+      
+   <component id="ID_txt04">
+      <text><![CDATA[<b>At each hop along the path, an intermediary device accepts frames from one medium, decapsulates the frame and then forwards the packets in a new frame. The headers of each frame are formatted for the specific medium that it will cross.<b/>]]></text>
+   </component>
+   
+   <component id="ID_txt05">
+         <text><![CDATA[<b>Click Play to the see the animation.<b/>]]></text>
+   </component>
+   
+     <component id="ID_txt06">
+            <text><![CDATA[<b>Frame<b/>]]></text>
+   </component>
+   
+   <component id="tipTitle">		
+   <text><![CDATA[More Information]]></text>	
+   </component>
+   
+   <component id="tipBody">		
+   <text><![CDATA[It is important to understand the meaning of the words "medium" and "media" within the context of this chapter. Here, these words refer to material that actually carries the signals representing the transmitted data. Media is the physical copper cable, optical fiber, or atmosphere through which the signals travel. In this chapter media does not refer to content programming such as audio, animation, television and video as used when referring to digital content and "multimedia".<br>A physical network has a separate connotation than a logical network. Logical networks are structures defined at the Network layer by the arrangement of the hierarchical addressing scheme. Physical networks represent the interconnection of devices on a common media. Sometimes, a physical network is also referred to as a network segment.]]></text>
+   </component>
+   
+   <component id="TipText">
+   <text><![CDATA[More Information]]></text>
+</component>
+   
+</textcomponents>

@@ -1,0 +1,29 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Confirming the Gateway and Route</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Local Router</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>192.168.2.1/24</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b><font color="#0033FF">192.168.2.2/24</font></b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Network <font color="#CC00FF">10.1.1.0/24</b></font>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Remote Router</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Network <font color="#CC00FF">10.1.2.0/24</b></font>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>&nbsp;&nbsp;&nbsp;10.0.0.0/24 is subnetted, 2 subnets<br/>R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#CC00FF">10.1.1.0</font> [120/1] <font color="#0033FF">via 192.168.2.2,</font> 00:00:08, FastEthernet0/0<br/>R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#CC00FF">10.1.2.0</font> [120/1] <font color="#0033FF">via 192.168.2.2,</font> 00:00:08, FastEthernet0/0<br/>C&nbsp;&nbsp;192.168.1.0/24 is directly connected, FastEthernet0/0</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>This is the routing table output of Local Router when the <font color="#FF3300">"show ip route"</font> is issued.<br/><br/>The next hop for networks 10.1.1.0/24 and 10.1.2.0/24 from Local Router is 192.168.2.2.</b>]]></text>
+</component>
+</textcomponents>

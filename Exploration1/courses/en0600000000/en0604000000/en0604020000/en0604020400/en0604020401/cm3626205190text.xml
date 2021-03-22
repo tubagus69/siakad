@@ -1,0 +1,14 @@
+<textcomponents>
+
+
+<component id="ID_title">
+<text><![CDATA[<b>TCP 3-way Handshake (SYN)</b>]]></text>
+</component>
+
+<component id="myTable">
+<text><![CDATA[<table><tr><th>Protocol Analyzer shows initial client request for session in frame 14</th></tr><tr><td><ul>TCP segment in this frame shows:<li>SYN flag set to validate an initial Sequence number</li><li>Randomized sequence number valid (relative value is 0)</li><li>Random source port 1069</li><li>Well known destination port is 80 (HTTP port) indicates web server (httpd)</li></ul></table>]]></text> 
+</component>
+
+
+
+</textcomponents>

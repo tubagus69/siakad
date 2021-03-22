@@ -1,0 +1,19 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Wireless Media Signals and Security</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Data Signals</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Security Risk</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>Interference</br></b>]]></text> 
+  </component>
+
+</textcomponents>

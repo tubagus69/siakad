@@ -1,0 +1,43 @@
+<textcomponents>
+
+<component id="webServerTitle">
+	<text><![CDATA[FCS]]></text>
+</component>
+<component id="webServerBody">
+		<text><![CDATA[The Frame Check Sequence field is used for error checking. The source calculates a number based on the frame's data and places that number in the FCS field. The destination then recalculates the data to see if the FCS matches. If they don't match, the destination deletes the frame.]]></text>
+</component>
+<component id="fileServerTitle">
+	<text><![CDATA[Stop Frame]]></text>
+</component>
+<component id="fileServerBody">
+		<text><![CDATA[The <b>Stop Frame</b> field, also called the Frame Trailer, is an optional field that is used when the length of the frame is not specified in the Type/Length field. It indicates the end of the frame when transmitted.]]></text>
+</component>
+    <component id="ID_txt01">
+		<text><![CDATA[<b>START FRAME</b>]]></text>
+	</component>
+    <component id="ID_txt02">
+		<text><![CDATA[<b>ADDRESS</b>]]></text>
+	</component>
+    <component id="ID_txt03">
+		<text><![CDATA[<b>TYPE/ LENGTH</b>]]></text>
+	</component>
+    <component id="ID_txt04">
+		<text><![CDATA[<b>Data</b>]]></text>
+	</component>
+    <component id="ID_txt05">
+		<text><![CDATA[<b>FCS</b>]]></text>
+	</component>
+    <component id="ID_txt06">
+		<text><![CDATA[<b>Stop Frame</b>]]></text>
+	</component>
+    <component id="ID_txt07">
+		<text><![CDATA[<b>Trailer</b>]]></text>
+	</component>
+    <component id="ID_title">
+		<text><![CDATA[<b>The Role of the Trailer</b>]]></text>
+	</component>
+    <component id="ID_inst">
+		<text><![CDATA[<b>Roll over to learn more.</b>]]></text>
+	</component>
+	
+</textcomponents>

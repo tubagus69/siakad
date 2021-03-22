@@ -1,0 +1,93 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>IEEE 802.3</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>7</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>6</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>6</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>46 to 1500</b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>4</b>]]></text> 
+  </component>
+<component id="ID_txt09">
+  <text><![CDATA[<b>Preamble</b>]]></text> 
+  </component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>Start of Frame delimiter</b>]]></text> 
+  </component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Destination Address</b>]]></text>
+</component>
+<component id="ID_txt12">
+  <text><![CDATA[<b>Source Address</b>]]></text> 
+  </component>
+<component id="ID_txt13">
+  <text><![CDATA[<b>Length/ Type</b>]]></text> 
+  </component>
+<component id="ID_txt14">
+  <text><![CDATA[<b>802.2 Header and Data</b>]]></text> 
+  </component>
+<component id="ID_txt15">
+  <text><![CDATA[<b>Frame Check Sequence</b>]]></text> 
+  </component>
+<component id="ID_txt01a">
+<text><![CDATA[<b>Ethernet</b>]]></text>
+</component>
+<component id="ID_txt02a">
+  <text><![CDATA[<b>8</b>]]></text> 
+  </component>
+<component id="ID_txt03a">
+  <text><![CDATA[<b>6</b>]]></text> 
+  </component>
+<component id="ID_txt04a">
+  <text><![CDATA[<b>6</b>]]></text> 
+  </component>
+<component id="ID_txt05a">
+  <text><![CDATA[<b>2</b>]]></text> 
+  </component>
+<component id="ID_txt06a">
+<text><![CDATA[<b>46 to 1500</b>]]></text>
+</component>
+<component id="ID_txt07a">
+  <text><![CDATA[<b>4</b>]]></text> 
+  </component>
+<component id="ID_txt08a">
+  <text><![CDATA[<b>Preamble</b>]]></text> 
+  </component>
+<component id="ID_txt09a">
+  <text><![CDATA[<b>Destination Address</b>]]></text> 
+  </component>
+<component id="ID_txt10a">
+  <text><![CDATA[<b>Source Address</b>]]></text> 
+  </component>
+<component id="ID_txt11a">
+<text><![CDATA[<b>Type</b>]]></text>
+</component>
+<component id="ID_txt12a">
+  <text><![CDATA[<b>Data</b>]]></text> 
+  </component>
+<component id="ID_txt13a">
+  <text><![CDATA[<b>Frame Check Sequence</b>]]></text> 
+  </component>
+<component id="ID_txt16">
+  <text><![CDATA[<b>Field size in bytes</b>]]></text> 
+  </component>
+<component id="ID_title">
+  <text><![CDATA[<b>Comparison of 802.3 and Ethernet Frame Structures and Field Size</b>]]></text> 
+  </component>
+
+</textcomponents>

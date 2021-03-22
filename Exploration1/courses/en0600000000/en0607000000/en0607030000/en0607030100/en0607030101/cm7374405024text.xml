@@ -1,0 +1,37 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Data Link Layer Protocols - The Frame</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Greater effort needed to ensure delivery = higher overhead = slower transmission rates</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>FRAME</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Less effort needed to ensure delivery = lower overhead = faster transmission rates</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<font color="#990000"><b>In a protected environment,</b></font><b> we can count on the frame arriving at its destination. Fewer controls are needed, resulting in smaller fields and smaller frames.</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+<text><![CDATA[<font color="#990000"><b>In a fragile environment,</b></font><b> more controls are needed to ensure delivery. The header and trailer fields are larger as more control information is needed.</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>FRAME</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>FRAME</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>FRAME</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>FRAME</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>FRAME</b>]]></text>
+</component>
+
+
+</textcomponents>

@@ -1,0 +1,14 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Network Connections</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Wired</b> networks used physical cables to connect devices.]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Wireless</b> networks use radio waves to communicate between devices.]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[Wireless networks are also connected to wired networks, at some point.]]></text> 
+  </component>
+</textcomponents>

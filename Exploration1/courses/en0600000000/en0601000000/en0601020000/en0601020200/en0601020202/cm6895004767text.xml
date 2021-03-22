@@ -1,0 +1,32 @@
+﻿<textcomponents>
+<component id="ID_caption1">
+<text><![CDATA[<b>It is more difficult to deliver a large bulky package, quickly and without damage, than it is to deliver a number of smaller, less complex packages.</b>]]></text>
+</component>
+
+<component id="ID_sent01">
+<text><![CDATA[<b>SENT</b>]]></text>
+</component>
+<component id="ID_sent02">
+<text><![CDATA[<b>SENT</b>]]></text>
+</component>
+<component id="ID_sent03">
+<text><![CDATA[<b>SENT</b>]]></text>
+</component>
+<component id="ID_sent04">
+<text><![CDATA[<b>SENT</b>]]></text>
+</component>
+<component id="ID_sentFrom01">
+<text><![CDATA[<b>Sent From:</b>]]></text>
+</component>
+<component id="ID_destination01">
+<text><![CDATA[<b>Destination:</b>]]></text>
+</component>
+<component id="ID_delayed01">
+<text><![CDATA[<b>ARRIVED LATE</b>]]></text>
+</component>
+<component id="ID_delivered01">
+<text><![CDATA[<b>DELIVERED</b>]]></text>
+</component>
+
+
+</textcomponents>

@@ -1,0 +1,18 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>192.168.1.2</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b><font color="#993333">192.168.1.254</font></b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>This is an example of a routing table on an end device after the netstat -r command is issued.<br/>Note that it has a route to its network (192.168.1.0) and a default route (0.0.0.0) to the router gateway for all other networks.</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>A Route - The Path to a Network</b>]]></text>
+</component>
+</textcomponents>

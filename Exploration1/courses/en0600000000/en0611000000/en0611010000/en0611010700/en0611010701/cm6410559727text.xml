@@ -1,0 +1,52 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b> IOS Configuration Modes</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Interface</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Line</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Routers</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Router(config-if)#</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Router(config-line)#</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Router(config-router)#</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>User EXEC mode</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>Privileged EXEC mode</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Global configuration mode</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Specific configuration mode</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Router></b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>Router#</b>]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>Router(config)#</b>]]></text>
+</component>
+  <component id="ID_header1">
+      <text><![CDATA[<b>Configuration Mode</b>]]></text> 
+  </component>
+  <component id="ID_header2">
+      <text><![CDATA[<b>Prompt</b>]]></text> 
+  </component>
+
+
+  </textcomponents>

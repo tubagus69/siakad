@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13237" dateexported="06/05/2007">
+		<name>Module 5 Quiz</name>
+		<form id="18834" lang="en"><form-item order="fixed">
+			<ai id="16139" type="mc-sa"><question><![CDATA[Which protocol provides connectionless network layer services?]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[IP]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[TCP]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[UDP]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[OSI]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="15026" type="mc-sa"><question><![CDATA[Which protocol is connectionless?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[TCP]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[UDP]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[FTP]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[SMTP]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="593" type="mc-sa"><question><![CDATA[Which part of a network layer address does the router use during path determination?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[The host address]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[The router address]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[The server address]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[The network address]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="45492" type="mc-sa"><question><![CDATA[Which network layer device can separate a network into different broadcast domains?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[hub]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[bridge]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[switch]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[router]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="3517" type="mc-sa"><question><![CDATA[What network layer problem is avoided or reduced by using consistent end-to-end addressing?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Reduces chance of infinite loops.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Avoids split horizons.]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Reduces unnecessary broadcasts.]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Reduces count to infinity problems.]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="112393" type="mc-ma"><question><![CDATA[What commands can be used to view a hosts routing table? (Choose two.)]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[ipconfig /all]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[netstat -r]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[ping]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[route PRINT]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[telnet]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="112392" type="mc-ma"><question><![CDATA[What are three pieces of information about a route are contained in a routing table? (Choose three.)]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[next-hop]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[source host address]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[metric]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[destination network address]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[last-hop]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[default gateway]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="111561" type="mc-ma"><question><![CDATA[What kinds of problems are caused by excessive broadcasts traffic on a network segment? (Choose three.)]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[consumes network bandwidth]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[increases overhead on network]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[requires complex address schemes]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[interrupts other host functions]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[divides networks based on ownership]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[advanced hardware required]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="111543" type="mc-ma"><question><![CDATA[What are the key factors to consider when grouping hosts into a common network? (Choose three.)]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[gateways]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[purpose]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[physical addressing]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[software version]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[geographic location]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[ownership]]></text>
+							
+						</choice></choices></ai></form-item></form></exam> 

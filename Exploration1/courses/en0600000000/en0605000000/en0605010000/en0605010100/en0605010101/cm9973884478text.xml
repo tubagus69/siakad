@@ -1,0 +1,154 @@
+﻿<textcomponents>
+   <component id="play">
+      <text>Play</text>
+   </component>
+   <component id="pause">
+      <text>Pause</text>
+   </component>
+   <component id="rewind">
+      <text>Rewind</text>
+   </component>
+   <component id="forward">
+      <text>Fast Forward</text>
+   </component>
+   <component id="mute">
+      <text>Mute</text>
+   </component>
+   <component id="unmute">
+      <text>UnMute</text>
+   </component>
+   <component id="previous">
+      <text>Restart</text>
+   </component>
+   <component id="next">
+      <text>End</text>
+   </component>
+   <component id="transcript">
+      <text>Transcript</text>
+   </component>
+<component id="ID_title">
+       <text><![CDATA[<b>Network layer protocols forward encapsulated Transport Layer PDUs between hosts</b>]]></text> 
+       </component>
+       
+         <component id="ID_inst">
+          <text><![CDATA[<b>Click Play to the see the animation.</b>]]></text> 
+       </component>
+       <component id="ID_data">
+       <text><![CDATA[<b>Data</b>]]></text> 
+       </component>
+
+       <component id="ID_Frame">
+              <text><![CDATA[<b>Frame</b>]]></text> 
+       </component>
+	   
+	   <component id="ID_frame2">
+			<text><![CDATA[<b>Frame</b>]]></text> 
+		</component>
+       
+       <component id="ID_segment">
+                     <text><![CDATA[<b>Segment</b>]]></text> 
+       </component>
+
+       <component id="ID_segment2">
+                     <text><![CDATA[<b>Segment</b>]]></text> 
+       </component>
+       
+        <component id="ID_encapsulation">
+                     <text><![CDATA[<b>Encapsulation</b>]]></text> 
+       </component>
+       
+        <component id="ID_dencapsulation">
+                     <text><![CDATA[<b>Decapsulation</b>]]></text> 
+       </component>
+       
+       <component id="ID_packet">
+                     <text><![CDATA[<b>Packet</b>]]></text> 
+       </component>
+
+       <component id="ID_packet2">
+                     <text><![CDATA[<b>Packet</b>]]></text> 
+       </component>
+       
+       <component id="ID_routing">
+                     <text><![CDATA[<b>Routing</b>]]></text> 
+       </component>
+      
+   
+       <component id="ID_txt04">
+       <text><![CDATA[<b>Application</b>]]></text> 
+       </component>
+       
+       <component id="ID_txt05">
+       <text><![CDATA[<b>Presentation</b>]]></text> 
+       </component>
+       
+       <component id="ID_txt06">
+       <text><![CDATA[<b>Session</b>]]></text> 
+       </component>
+       
+       <component id="ID_txt07">
+       <text><![CDATA[<b>Transport</b>]]></text> 
+       </component>
+       
+       <component id="ID_txt08">
+       <text><![CDATA[<b>Network</b>]]></text> 
+       </component>
+       
+       <component id="ID_txt09">
+       <text><![CDATA[<b>Data Link</b>]]></text> 
+       </component>
+       
+       <component id="ID_txt10">
+       <text><![CDATA[<b>Physical</b>]]></text> 
+       </component>
+       
+       <component id="ID_txt04a">
+        <text><![CDATA[<b>Application</b>]]></text> 
+        </component>
+              
+        <component id="ID_txt05a">
+        <text><![CDATA[<b>Presentation</b>]]></text> 
+        </component>
+              
+        <component id="ID_txt06a">
+        <text><![CDATA[<b>Session</b>]]></text> 
+        </component>
+              
+        <component id="ID_txt07a">
+        <text><![CDATA[<b>Transport</b>]]></text> 
+        </component>
+              
+        <component id="ID_txt08a">
+        <text><![CDATA[<b>Network</b>]]></text> 
+        </component>
+              
+        <component id="ID_txt09a">
+        <text><![CDATA[<b>Data Link</b>]]></text> 
+        </component>
+              
+        <component id="ID_txt10a">
+        <text><![CDATA[<b>Physical</b>]]></text> 
+        </component>
+        
+        <component id="ID_txt11">
+	<text><![CDATA[<b>Host</b>]]></text> 
+        </component>
+        
+	<component id="ID_txt12">
+        <text><![CDATA[<b>Host</b>]]></text> 
+	</component>
+	
+	<component id="ID_txt13">
+	<text><![CDATA[<b>192.168.32.11</b>]]></text> 
+	</component>
+	        
+        <component id="ID_txt14">
+        <text><![CDATA[<b>192.168.36.5</b>]]></text> 
+        </component>
+        
+         <component id="ID_txt16">
+        <text><![CDATA[<b>Addressing</b>]]></text> 
+        </component>
+
+
+		</textcomponents>

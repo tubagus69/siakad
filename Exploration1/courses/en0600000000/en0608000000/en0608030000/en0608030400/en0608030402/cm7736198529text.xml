@@ -1,0 +1,26 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Shielded Twisted-Pair (STP) Cable</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Jacket</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Braided Shield</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>Foil Shield</b>]]></text> 
+  </component>
+    
+  <component id="ID_txt05">
+    <text><![CDATA[<b>Twisted Pairs</b>]]></text> 
+    </component>
+  
+
+
+
+</textcomponents>

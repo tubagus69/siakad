@@ -1,0 +1,47 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Hierarchical IPv4 Address</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>32 bits</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Network Portion</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Host Portion</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>8 bits<br>(Octet)</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>8 bits<br>(Octet)</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>8 bits<br>(Octet)</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>8 bits<br>(Octet)</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Host</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Complete IPv4 Address</b>]]></text>
+</component>
+
+</textcomponents>

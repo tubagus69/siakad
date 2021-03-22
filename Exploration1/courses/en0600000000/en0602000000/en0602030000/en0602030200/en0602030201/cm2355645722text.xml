@@ -1,0 +1,168 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>The Role of Protocols</b>]]></text>
+</component>
+<component id="ID_link1a">
+  <text><![CDATA[The format or structure of the message]]></text> 
+  </component>
+<component id="ID_link1b">
+  <text><![CDATA[<b>The format or structure of the message</b>]]></text> 
+  </component>
+  
+<component id="ID_link2a">
+  <text><![CDATA[The process by which networking devices share information about pathways to other networks]]></text> 
+  </component>
+  
+<component id="ID_link2b">
+  <text><![CDATA[<b>The process by which networking devices share information about pathways to other networks</b>]]></text> 
+  </component>
+  
+<component id="ID_link3a">
+  <text><![CDATA[How and when error and system messages are passed between devices]]></text> 
+  </component>
+  
+<component id="ID_link3b">
+  <text><![CDATA[<b>How and when error and system messages are passed between devices</b>]]></text> 
+  </component>
+  
+<component id="ID_link4a">
+  <text><![CDATA[The setting up and termination of data transfer sessions]]></text> 
+  </component>
+  
+<component id="ID_link4b">
+  <text><![CDATA[<b>The setting up and termination of data transfer sessions</b>]]></text> 
+  </component>
+  
+<component id="ID_txt11">
+  <text><![CDATA[<b>Let’s all agree that pieces will be 10 letters long.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt12">
+  <text><![CDATA[<b>OK</b>]]></text> 
+  </component>
+  
+<component id="ID_txt13">
+<text><![CDATA[<b>OK</b>]]></text>
+</component> 
+
+<component id="ID_txt14">
+	<text><![CDATA[<b>In any communication process, there are rules </b>]]></text>
+</component> 
+<component id="ID_txt15">
+	<text><![CDATA[<b><font color="#009900">In any commu</font><font color="#0066FF"> nication pr</font><font color="#FF0000"> ocess, ther</font><font color="#663300"> e are rules</font> </b>]]></text>
+</component> 
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Let’s all agree that if one of our pathways is down, we’ll notify all connected devices.
+</b>]]></text>
+</component>   
+
+<component id="ID_txt17">
+	<text><![CDATA[<b>OK</b>]]></text>
+</component>
+<component id="ID_txt18">
+	<text><![CDATA[<b>OK</b>]]></text>
+</component>
+<component id="ID_txt19">
+	<text><![CDATA[<b>OK</b>]]></text>
+</component>
+<component id="ID_txt20">
+	<text><![CDATA[<b>Path A is down.</b>]]></text>
+</component>
+
+<component id="ID_txt25">
+	<text><![CDATA[A]]></text>
+</component>
+
+<component id="ID_txt26">
+	<text><![CDATA[B]]></text>
+</component>
+
+<component id="ID_txt27">
+	<text><![CDATA[1]]></text>
+</component>
+
+<component id="ID_txt28">
+	<text><![CDATA[2]]></text>
+</component>
+
+<component id="ID_txt29">
+	<text><![CDATA[3]]></text>
+</component>
+
+<component id="ID_txt30">
+	<text><![CDATA[4]]></text>
+</component>
+
+<component id="ID_txt20a">
+	<text><![CDATA[<b>Let’s all agree that error messages will have a unique ID number.</b>]]></text>
+</component>
+
+<component id="ID_txt20b">
+	<text><![CDATA[<b>Error 1002: Path B is slow.</b>]]></text>
+</component>
+
+<component id="ID_txt20c">
+	<text><![CDATA[<b>Error 1001: Path A is down.</b>]]></text>
+</component>
+
+<component id="ID_txt20d">
+	<text><![CDATA[A]]></text>
+</component>
+
+<component id="ID_txt20e">
+	<text><![CDATA[B]]></text>
+</component>
+
+<component id="ID_txt31">
+	<text><![CDATA[<b>Let’s all agree that sessions will end after 60 seconds of inactivity.</b>]]></text>
+</component>
+
+<component id="ID_txt32">
+	<text><![CDATA[<b>It’s been 60 seconds since the last piece arrived.  Closing this session.</b>]]></text>
+</component>
+
+<component id="ID_txt33">
+	<text><![CDATA[A]]></text>
+</component>
+
+<component id="ID_txt34">
+	<text><![CDATA[B]]></text>
+</component>
+
+<component id="ID_txt35">
+	<text><![CDATA[OK]]></text>
+</component>
+
+<component id="ID_protocolprovide">
+	<text><![CDATA[Protocols provide:]]></text>
+</component>
+
+<component id="ID_click to">
+	<text><![CDATA[<b>Click to learn more.</b>]]></text>
+</component>
+<component id="ID_btn1">
+	<text><![CDATA[The format or structure of the message]]></text>
+</component>
+<component id="ID_btn1b">
+	<text><![CDATA[The format or structure of the message]]></text>
+</component>
+<component id="ID_btn2">
+	<text><![CDATA[The process by which networking devices share information about pathways to other networks]]></text>
+</component>
+<component id="ID_btn2b">
+	<text><![CDATA[The process by which networking devices share information about pathways to other networks]]></text>
+</component>
+<component id="ID_btn3">
+	<text><![CDATA[How and when error and system messages are passed between devices]]></text>
+</component>
+<component id="ID_btn3b">
+	<text><![CDATA[How and when error and system messages are passed between devices]]></text>
+</component>
+<component id="ID_btn4">
+	<text><![CDATA[The setting up and termination of data transfer sessions]]></text>
+</component>
+<component id="ID_btn4b">
+	<text><![CDATA[The setting up and termination of data transfer sessions]]></text>
+</component>
+</textcomponents>

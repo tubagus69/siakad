@@ -1,0 +1,16 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Testing the Local NIC Assignment</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>C:\>ping 10.0.0.5</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Verify the host NIC address is bound and ready for transmitting signals across the media by pinging its own IP address.</b>]]></text>
+</component>
+
+
+</textcomponents>

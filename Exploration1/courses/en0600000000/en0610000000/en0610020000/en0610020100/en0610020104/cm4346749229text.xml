@@ -1,0 +1,20 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Ease of Installation</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>UTP and fiber have different installation requirements.</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>UTP Cable Raceway</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Fiber Cable Raceway</b>]]></text>
+</component>
+
+
+</textcomponents>

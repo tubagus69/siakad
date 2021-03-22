@@ -1,0 +1,44 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>IOS Mode Hierarchical Structure</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>User EXEC Command-Router><br/>ping<br/>show (limited)<br/>enable<br/>etc...</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Privilleged EXEC Commands-Router#<br/>all User EXEC Commands<br/>debug commands<br/>reload<br/>confihure<br/>etc..</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Global Configuration Commands-Router(config)#<br/>hostname<br/>enable secret<br/>ip route</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>interface</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>router</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+    <text><![CDATA[<b>line</b>]]></text> 
+  </component>
+  <component id="ID_txt07">
+      <text><![CDATA[<b>ethernet<br/>serial<br/>bri<br/>etc..</b>]]></text> 
+  </component>
+    <component id="ID_txt08">
+	      <text><![CDATA[<b>rip<br/>ospf<br/>eig rp<br/>etc..</b>]]></text> 
+  </component>
+    <component id="ID_txt09">
+	      <text><![CDATA[<b>vty<br/>console<br/>etc..</b>]]></text> 
+  </component>
+    <component id="ID_txt10">
+	      <text><![CDATA[<b>Interface Commands-Router(config-if)#<br/>ipaddress<br/>ipx address1<br/>encapsulation<br/>shutdown/ no shutdown<br/>etc..</b>]]></text> 
+  </component>
+  <component id="ID_txt11">
+      <text><![CDATA[<b>Routing Engine Commands-Router(config-router)#<br/>network <br/>version<br/>auto summary<br/>etc...</b>]]></text> 
+  </component>
+    <component id="ID_txt12">
+	      <text><![CDATA[<b>Line Commands-Router(config-line)#<br/>password<br/>login<br/>modem Commands<br/>etc..</b>]]></text> 
+  </component>
+</textcomponents>
+
+
+</textcomponents>

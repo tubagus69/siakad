@@ -1,0 +1,41 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Hierarchical Addressing</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>TO: Jane Doe 170 West Tasman Drive, San Jose, CA 95134, USA </b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Letter</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>From Japan</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Which country?</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Which zip code?</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Which address?</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Which person?</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>US</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Zip Code</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Street Address</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Employee</b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>At each step of delivery, the post office need only examine the next hierarchical level.</b>]]></text>
+</component>
+</textcomponents>

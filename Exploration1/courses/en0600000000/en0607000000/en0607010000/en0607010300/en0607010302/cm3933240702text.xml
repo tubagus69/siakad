@@ -1,0 +1,52 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Formatting Data for Transmission</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Frame Start</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>HEADER</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Packet<br>(Data)</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>TRAILER</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>Addressing</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt06">
+    <text><![CDATA[<b>Type</b>]]></text> 
+  </component>
+    <component id="ID_txt07">
+      <text><![CDATA[<b>Quality Control</b>]]></text> 
+  </component>
+     <component id="ID_txt08">
+        <text><![CDATA[<b>Error Detection</b>]]></text> 
+  </component>
+   <component id="ID_txt09">
+          <text><![CDATA[<b>Frame Stop</b>]]></text> 
+    </component>
+     <component id="ID_txt10">
+              <text><![CDATA[<b> 1    0     1    0     0     1     1     1     0     0     1     1     0     0     1     1     1     0     0     1     0     0     1</b>]]></text> 
+    </component>
+     <component id="ID_txt11">
+              <text><![CDATA[<b>A specific bit pattern denotes the start of the frame.</b>]]></text> 
+    </component>
+     <component id="ID_txt12">
+                  <text><![CDATA[<b>Another specific bit pattern denotes the end of the frame.</b>]]></text> 
+        </component>
+  <component id="ID_txt13">
+                    <text><![CDATA[<b>DATA</b>]]></text> 
+        </component>
+  
+ </textcomponents>

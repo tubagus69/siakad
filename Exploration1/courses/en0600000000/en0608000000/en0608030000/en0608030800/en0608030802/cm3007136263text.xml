@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_txt03">
+      <text><![CDATA[<b>Good connector - Wires are untwisted to the extent necessary to attach the connector.</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+      <text><![CDATA[<b>Bad connector - Wires are untwisted for too great a length.</b>]]></text> 
+  </component>
+  <component id="ID_txt05">
+            <text><![CDATA[<b>Improper cable termination can impact transmission performance.</b>]]></text> 
+  </component>
+   <component id="ID_title">
+              <text><![CDATA[<b>Copper Media Connectors <br>RJ45 Termination</b>]]></text> 
+  </component>
+</textcomponents>

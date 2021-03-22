@@ -1,0 +1,68 @@
+﻿<textcomponents>
+
+<component id="ID_header1">
+<text><![CDATA[<b>Addressing Scheme: Example of 6 networks</b>]]></text>
+</component>
+
+<component id="ID_header2">
+<text><![CDATA[<b>Subnet</b>]]></text>
+</component>
+
+<component id="ID_header3">
+<text><![CDATA[<b>Network address</b>]]></text>
+</component>
+
+<component id="ID_header4">
+<text><![CDATA[<b>Host range</b>]]></text>
+</component>
+
+<component id="ID_header5">
+<text><![CDATA[<b>Broadcast address</b>]]></text>
+</component>
+
+
+
+<component id="ID_title01">
+<text><![CDATA[<b>Borrowing Bits for Subnets</b>]]></text>
+</component>
+
+<component id="ID_title02">
+<text><![CDATA[<b>Borrowing Bits for Subnets</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Start with this address</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Make 8 subnets</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>RouterA</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>RouterB</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Three bits are borrowed to provide eight subnets.</b>]]></text>
+</component>
+
+<component id="ID_buttonOne">
+<text><![CDATA[<b>Subnetting</b>]]></text>
+</component>
+
+<component id="ID_buttonTwo">
+<text><![CDATA[<b>Addressing Scheme</b>]]></text>
+</component>
+
+
+<component id="ID_inst">
+<text><![CDATA[<b>Click to see the addressing scheme.
+</b>]]></text>
+</component>
+
+
+</textcomponents>

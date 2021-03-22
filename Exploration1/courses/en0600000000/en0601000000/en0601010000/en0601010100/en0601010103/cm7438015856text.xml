@@ -1,0 +1,20 @@
+﻿<textcomponents>
+<component id="ID_caption1">
+<text><![CDATA[<b>The way we live is supported by services delivered by the data network.</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Sharing Personal Webpages</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Online Banking</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>World News</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Weather Forecast</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Traffic Conditions</b>]]></text>
+</component>
+</textcomponents>

@@ -1,0 +1,8 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>In this chapter, you learned to:</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<ul><li>Describe the structure of a network, including the devices and media that are necessary for successful communications.</li><li>Explain the function of protocols in network communications.</li><li>Explain the advantages of using a layered model to describe network functionality.</li><li>Describe the role of each layer in two recognized network models:  The TCP/IP model and the OSI model.</li><li>Describe the importance of addressing and naming schemes in network communications.</li></ul>]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,23 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Limiting Device Access &#8211; Login Banner</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[ ]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Delimiting characters not included in message</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>This configuration results in this message of the day banner</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[ ]]></text> 
+</component>
+
+
+</textcomponents>

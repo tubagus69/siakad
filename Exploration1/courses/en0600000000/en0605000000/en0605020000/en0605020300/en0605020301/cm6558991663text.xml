@@ -1,0 +1,70 @@
+<textcomponents>
+   <component id="ID_title">
+   <text><![CDATA[<b>Increase Security</b>]]></text>
+   </component>
+   
+      <component id="ID_txtnew">
+   <text><![CDATA[<b>Internet</b>]]></text>
+   </component>
+   
+   <component id="ID_txt01">
+   <text><![CDATA[<b>Internet</b>]]></text>
+   </component>
+
+   <component id="ID_txt02">
+   <text><![CDATA[<b>All users have access to the Internet.</b>]]></text>
+   </component>
+
+   <component id="ID_txt02a">
+   <text><![CDATA[<b>Each user can reach servers in its own department.</b>]]></text>
+   </component>
+   
+   <component id="ID_txt02b">
+   <text><![CDATA[<b>Each user is blocked from reaching servers in other departments.</b>]]></text>
+   </component> 
+   
+   <component id="ID_txt03">
+   <text><![CDATA[<b>Administrator</b>]]></text>
+   </component> 
+   
+   <component id="ID_txt04">
+   <text><![CDATA[<b>Student records</b>]]></text>
+   </component> 
+   
+   <component id="ID_txt05">
+   <text><![CDATA[<b>Researcher</b>]]></text>
+   </component>   
+
+   <component id="ID_txt06">
+   <text><![CDATA[<b>Research</b>]]></text>
+   </component> 
+
+   <component id="ID_txt07">
+   <text><![CDATA[<b>Accepted</b>]]></text>
+   </component>    
+   
+   <component id="ID_txt08">
+   <text><![CDATA[<b>Accepted</b>]]></text>
+   </component>   
+   
+   <component id="ID_txt09">
+   <text><![CDATA[<b>Rejected</b>]]></text>
+   </component>
+   
+   <component id="ID_txt10">
+   <text><![CDATA[<b>Rejected</b>]]></text>
+   </component>  
+
+   <component id="accessgranted">
+   <text><![CDATA[<b>Access Granted</b>]]></text>
+   </component>  
+
+   <component id="accessdenied">
+   <text><![CDATA[<b>Access Denied</b>]]></text>
+   </component>   
+   
+   <component id="ID_inst">
+   <text><![CDATA[<b>Roll over to compare department access.</b>]]></text>
+   </component>
+
+</textcomponents>

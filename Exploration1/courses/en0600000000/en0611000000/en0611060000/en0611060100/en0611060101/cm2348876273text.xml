@@ -1,0 +1,8 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>In this chapter, you learned to:</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<ul><li>Define the role of the Internetwork Operating System (IOS).</li><li>Define the purpose of a configuration file.</li><li>Identify several classes of devices that have the IOS embedded.</li><li>Identify the factors contributing to the set of IOS commands available to a device.</li><li>Identify the IOS modes of operation.</li><li>Identify the basic IOS commands.</li><li>Compare and contrast the basic show commands.</li></ul>]]></text> 
+  </component>
+</textcomponents>

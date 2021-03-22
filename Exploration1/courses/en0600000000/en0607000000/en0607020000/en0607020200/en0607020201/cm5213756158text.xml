@@ -1,0 +1,154 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Media Access Control for Shared Media</b>]]></text>
+</component>
+<component id="ID_title1">
+<text><![CDATA[<b>Controlled Access</b>]]></text>
+</component>
+<component id="ID_title2">
+<text><![CDATA[<b>Contention-Based Access</b>]]></text>
+</component>
+	
+	
+<component id="ID_txt01">
+<text><![CDATA[<b>Shared Media</b>]]></text>
+</component>
+	
+	
+<component id="ID_txt02">
+<text><![CDATA[<b>FRAME</b>]]></text>
+</component>
+	
+<component id="ID_inst">
+<text><![CDATA[<b>Click to see an access control method.</b>]]></text>
+</component>
+	
+<component id="ID_txt03">
+<text><![CDATA[<b>FRAME</b>]]></text>
+</component>
+	
+<component id="ID_txt04">
+<text><![CDATA[<b>Shared Media</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Method</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Characteristics</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Example</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Controlled Access</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b><li>Only one station transmits at a time
+<li>Devices wishing to transmit must wait their turn
+<li>No collisions
+<li>Some deterministic networks use token passing</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b><li>Token Ring<br><li>FDDI</b>]]></text>
+</component>
+		
+<component id="ID_txt11">
+<text><![CDATA[<b>Shared Media</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Method</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Contention Based Access</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b><ul><li>Stations can transmit at any time</li><li>Collisions exist</li><li>Mechanisms exist to resolve contention:</li></ul>         &#8226; CSMA/CD for Ethernet networks<br>         &#8226; CSMA/CA for 802.11 wireless networks</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b><li>Ethernet<br><li>Wireless</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Characteristics</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>Example</b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>FRAME</b>]]></text>
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[<b>FRAME</b>]]></text>
+</component>
+
+<component id="ID_txt20">
+<text><![CDATA[<b>FRAME</b>]]></text>
+</component>
+
+<component id="ID_txt21">
+<text><![CDATA[<b>FRAME</b>]]></text>
+</component>
+
+<component id="bubble_01">
+<text><![CDATA[<b>We need rules for how to share the media.</b>]]></text>
+</component>
+
+<component id="bubble_02">
+<text><![CDATA[<b>We need rules for how to share the media.</b>]]></text>
+</component>
+
+<component id="bubble_03">
+<text><![CDATA[<b>We need rules for how to share the media.</b>]]></text>
+</component>
+
+<component id="bubble_04">
+<text><![CDATA[<b>I try to send when I am ready.</b>]]></text>
+</component>
+
+<component id="bubble_05">
+<text><![CDATA[<b>I try to send when I am ready.</b>]]></text>
+</component>
+
+<component id="bubble_06">
+<text><![CDATA[<b>I try to send when I am ready.</b>]]></text>
+</component>
+
+<component id="bubble_07">
+<text><![CDATA[<b>I have a packet to send, but its not my turn.. I'll wait.</b>]]></text>
+</component>
+
+<component id="bubble_08">
+<text><![CDATA[<b>I have nothing to send.</b>]]></text>
+</component>
+
+<component id="bubble_09">
+<text><![CDATA[<b>My turn to send... I will send now.</b>]]></text>
+</component>
+
+<component id="CONTROLLED">
+<text><![CDATA[CONTROLLED]]></text>
+</component>
+
+<component id="CONTENTION-BASED">
+<text><![CDATA[CONTENTION-BASED]]></text>
+</component>
+
+<component id="reset">
+<text><![CDATA[RESET]]></text>
+</component>
+
+
+</textcomponents>

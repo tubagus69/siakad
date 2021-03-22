@@ -1,0 +1,22 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>UDP Server Listening for Requests</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Server</b>]]></text> 
+  </component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Client 1</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Client 2</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Server Applications<br/><br/>Client DNS requests will be received on Port 53.<br/><br/>Client RADIUS requests will be received on Port 1812.</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Client requests to servers have well known ports numbers as the destination port.</b>]]></text> 
+  </component>
+
+</textcomponents>

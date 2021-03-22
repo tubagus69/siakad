@@ -1,0 +1,161 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Use this activity to check your understanding of the main points in this chapter.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>A series of questions will be presented. This is not a quiz and your answers are not recorded.</li><li>Click <b>Answer</b> to see the answer.</li><li>Click <b>Next Question</b> to go to the next question in the series.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Click Here<br/>to Begin</b>]]></text>
+</component>
+
+<!-- Question 1 -->
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[Describe the internal factors that impact network communication.]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[<p>Internal factors that interfere with communication are related to the nature of the communication itself. The communication may vary in complexity and importance. Clear and concise messages are usually easier to understand than complex messages. Important communications require more care to ensure that the meaning is received properly.</p><br/><p>Internal factors affecting the quality of communication include:</p><ul><li>The size of the message</li><li>The complexity of the message</li><li>The importance of the message</li></ul>]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[Describe the external factors that impact network communication.]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[<p>External factors affecting the quality of communication are related to the processes that devices use to talk to each other and include:</p><ul><li>Whether a confirmation of the message was returned to the sender</li><li>The quality of the pathway between the sender and the recipient</li><li>The number of times the message has to change form</li><li>The number of other messages in the communication network</li><li>The number of times the message is reformatted</li><li>The amount of time allotted for successful communication</li></ul>]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[Describe network-supported technologies that impact how people learn, work, and play. ]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[Includes instant messaging, weblogs, podcasting, collaboration tools using text, graphic, audio and video technologies over both fixed and mobile data networks.]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[What is data? What is a data network? What is a converged network?]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[<p><b>Data:</b></p><p>Data is the pieces of information, such as files, audio, phone calls and video shared across the network.</p><br/><p><b>A data network consists of:</b></p><ul><li>Devices that communicate with each other</li><li>A means of connecting these devices together—a medium that can transport messages from one device to another</li><li>The digital messages or units of information that will travel from one device to another</li><li>Rules or agreements to govern how the messages are sent, directed, and received</li></ul><br/><p><b>Converged networks:</b></p><p>Traditionally telephone, data communications between computers, radio, and television each had separate networks and each required a different technology to carry its particular communication signal. Additionally, each service had its own set of rules and standards to ensure the successful communication of its service across a specific medium.</p><br/><p>Technology can now consolidate these disparate networks into one platform—a platform we define as the converged network. The flow of voice, radio, video, and data traveling over the same network eliminates the need to create and maintain separate networks. As converged networks become more common, businesses and individual users can use a single network for its services, instead of managing and using separate physical networks for each type of service. We will still have many points of contact and many devices—for example, personal computers, phones, TVs, personal assistants, and retail point-of-sale registers—but one common network. One network now carries multiple types of messages and information.</p>]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[Why does Quality of Service matter on a data network?]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[<p>Converged data networks carry multiple types of communication. Data network resources, however, are always constrained by budgets, physical limitations, and technology. The existence of these limitations means that decisions must be made regarding the priority of different types of communication.</p><br/><p>The management of different types of communication involves balancing both the traffic's importance and its characteristics. Both of these factors are considered when developing a Quality of Service (QoS) strategy for managing data in a given data network.</p>]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q6_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[What happens without a properly designed and implemented QoS mechanism?]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[<p>Without properly designed and implemented QoS mechanisms, data packets will be dropped without consideration of the application characteristics or priority.</p>
+]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 7 -->
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[What does security mean in the context of data networks?]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[<p>Data network security has two aspects:</p><ul><li>Interception of data communications - data encryption can negate such interceptions.</li><li>Unauthorized access to the network and its data - user authentication (usernames, passwords and classifications are tools to prevent this - in addition to physical security)</li></ul><br/><p>Intruders may desire to gain access to information for monetary gain. They steal financial records or sell trade secrets to competitors. For others, stealing data is merely a game about which they can brag. They just want to gain access "because they can.” They often boast about their latest online conquests. Many have limited computer and networking skills and are just doing this activity for fun. Some people change, destroy data or disrupt network processes. Some are disgruntled employees who decide to wreak havoc with corporate data.</p>]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q7_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+</textcomponents>

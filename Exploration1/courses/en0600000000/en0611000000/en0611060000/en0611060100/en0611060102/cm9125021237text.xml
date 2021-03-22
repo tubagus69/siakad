@@ -1,0 +1,307 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Use this activity to check your understanding of the main points in this chapter.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>A series of questions will be presented. This is not a quiz and your answers are not recorded.</li><li>Click <b>Answer</b> to see the answer.</li><li>Click <b>Next Question</b> to go to the next question in the series.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Click Here<br/>to Begin</b>]]></text>
+</component>
+
+<!-- Question 1 -->
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[List the network services provided by the Cisco IOS.]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[<ul><li>Basic routing and switching functions</li><li>Reliable and secure access to networked resources</li><li>Network scalability </li></ul>]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[Describe three methods of accessing a Cisco device for CLI management and configuration.]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[<ul><li>Console</li><li>Telnet or SSH</li><li>AUX port</li></ul>]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[Compare the function and use of the running-configuration and startup-configuration files]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[<ul><li>The running configuration file–used during the current operation of the device </li><li>The startup configuration file--stored in NVRAM and loaded to provide the device configuration when the device is started or restarted.</li></ul>]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[Distinguish the features of the Cisco IOS user EXEC mode and privileged EXEC mode.]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[<p><b>User Executive Mode</b></p><p>The user executive mode, or user EXEC for short, has limited capabilities but is useful for some basic operations. The user EXEC mode is at the top of the modal hierarchical structure. This mode is the first entrance into the CLI of an IOS router.</p><br/><p>The user EXEC mode allows only a limited number of basic monitoring commands. This is often referred to as view-only mode. The user EXEC level does not allow the execution of any commands that might change the configuration of the device.</p><br/><p>The user EXEC mode can be identified by the prompt ending with the > symbol.</p><br/><p>Switch></p><br/><p><b>Privileged EXEC Mode</b></p><p>The execution of configuration and management commands requires that the network administrator use the privileged EXEC mode, or a specific mode further down the hierarchy. </p><br/><p>The privileged EXEC mode can be identified by the prompt ending with the # symbol.</p><br/><p>Switch#</p>]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[Give the difference between entering a "?" and "<space>? " directly after a partial command at the appropriate prompt, For example, "cl?" and "clock ?".]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[<p>When using the ? without a space, as with “cl?”, a display of all available commands that begin with the characters “cl” will be listed. </p><br/><p>When using the “?” with a space, as with clock ?” a display of all available sub-commands that begin with clock will be listed. </p>]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q6_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[What mode does a prompt of <b>Router#</b> denote? How is this mode invoked?]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[The prompt displayed shows <b>privileged EXEC</b> mode. It is invoked from the user EXEC mode by using the <b>enable</b> command.
+]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 7 -->
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[State the purpose and difference of the configuration commands <b>service password-encryption </b>and <b>enable secret class.</b> ]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[<p>The <b>service password-encryption</b> command applies weak encryption to all unencrypted passwords. This encryption does not apply to passwords as they are sent over media. The purpose of this command is to keep unauthorized individuals from viewing passwords in the configuration file.</p><br/><p>The <b>enable secret</b> command provides security to privileged EXEC mode by encrypting the password.</p>]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q7_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 8 -->
+
+<component id="ID_Q8_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q8_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q8_txt03">
+<text><![CDATA[Why are delimiting characters required when setting a message of the day banner?]]></text>
+</component>
+<component id="ID_Q8_txt04">
+<text><![CDATA[The <b>banner motd</b> command requires the use of delimiters to identify the content of the banner message.]]></text>
+</component>
+<component id="ID_Q8_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q8_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 9 -->
+
+<component id="ID_Q9_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q9_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q9_txt03">
+<text><![CDATA[What information should be included in a message of the day log in banner on a Cisco device?]]></text>
+</component>
+<component id="ID_Q9_txt04">
+<text><![CDATA[<p>The exact content or wording of a banner depends on the local laws and corporate policies. Here are some examples of information to include in a banner:</p><ul><li>”Use of the device is specifically for authorized personnel.”</li><li>”Activity may be monitored.” </li><li>”Legal action will be pursued for any unauthorized use.”</li></ul]]></text>
+</component>
+<component id="ID_Q9_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q9_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 10 -->
+
+<component id="ID_Q10_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q10_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q10_txt03">
+<text><![CDATA[Give three methods of saving or backing up the active configuration of a Cisco device.]]></text>
+</component>
+<component id="ID_Q10_txt04">
+<text><![CDATA[<p>Configuration files can be stored on a Trivial File Transfer Protocol (TFTP) server, a CD, a USB memory stick, or a floppy disk stored in a safe place. A configuration file should also be included in the network documentation.</p>]]></text>
+</component>
+<component id="ID_Q10_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q10_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 11 -->
+
+<component id="ID_Q11_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q11_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q11_txt03">
+<text><![CDATA[What is the purpose of the no shutdown command when configuring interfaces on a router?]]></text>
+</component>
+<component id="ID_Q11_txt04">
+<text><![CDATA[<p>By default, interfaces are disabled. To enable an interface, enter the no shutdown command from the interface configuration mode.</p>]]></text>
+</component>
+<component id="ID_Q11_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q11_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 12 -->
+
+<component id="ID_Q12_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q12_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q12_txt03">
+<text><![CDATA[What information should be included in an interface description on a Cisco router?]]></text>
+</component>
+<component id="ID_Q12_txt04">
+<text><![CDATA[<p>As the hostname helps to identify the device on a network, an interface description indicates the purpose of the interface. A description of what an interface does or where it is connected should be part of the configuration of each interface. This description can be useful for troubleshooting.</p>]]></text>
+</component>
+<component id="ID_Q12_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q12_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 13-->
+
+<component id="ID_Q13_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q13_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q13_txt03">
+<text><![CDATA[List the steps to follow to verify that a host can successfully connect to and access a network.]]></text>
+</component>
+<component id="ID_Q13_txt04">
+<text><![CDATA[<p>Steps to verify host connection by testing the following:</p><ul><li>Test the stack</li><li>Test the NIC</li><li>Test another local host </li><li>Test the gateway</li><li>Test access to a remote host</li></ul>]]></text>
+</component>
+<component id="ID_Q13_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q13_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 14 -->
+
+<component id="ID_Q14_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q14_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q14_txt03">
+<text><![CDATA[What is the purpose of capturing the results of network tests such as ping, trace and arp? ]]></text>
+</component>
+<component id="ID_Q14_txt04">
+<text><![CDATA[It is used to create a record of network traffic for troubleshooting and network performance analysis.]]></text>
+</component>
+<component id="ID_Q14_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q14_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+</textcomponents>

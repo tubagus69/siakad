@@ -1,0 +1,91 @@
+﻿<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[Access Layer]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Distribution Layer]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Core Layer]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Security</b> measures protect the network from unauthorized access.]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Quality of Service</b>, managed by the router, ensures that priorities are matched with the type of communication and its importance to the organization.]]></text>
+</component>
+
+<component id="ID_txt01_02">
+<text><![CDATA[Access Layer]]></text>
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[Distribution Layer]]></text>
+</component>
+
+<component id="ID_txt03_02">
+<text><![CDATA[Core Layer]]></text>
+</component>
+
+<component id="ID_txt04_02">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_txt05_02">
+<text><![CDATA[Web pages can usually receive a lower priority.]]></text>
+</component>
+
+<component id="ID_txt06_02">
+<text><![CDATA[<b>Quality of Service</b>, managed by the router, ensures that priorities are matched with the type of communication and its importance to the organization.]]></text>
+</component>
+
+<component id="ID_txt07_02">
+<text><![CDATA[Streaming media will need priority to maintain a smooth, uninterrupted user experience.]]></text>
+</component>
+
+<component id="ID_txt01_03">
+<text><![CDATA[Access Layer]]></text>
+</component>
+
+<component id="ID_txt02_03">
+<text><![CDATA[Distribution Layer]]></text>
+</component>
+
+<component id="ID_txt03_03">
+<text><![CDATA[Core Layer]]></text>
+</component>
+
+<component id="ID_txt04_03">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_txt05_03">
+<text><![CDATA[Administrators can protect the network with software and hardware security and by preventing physical access to network devices.]]></text>
+</component>
+
+<component id="ID_txt06_03">
+<text><![CDATA[<b>Security</b> measures protect the network from unauthorized access.]]></text>
+</component>
+
+<component id="ID_txt07_03">
+<text><![CDATA[<b>Log In:</b> ?<br><b>Password:</b> ?]]></text>
+</component>
+
+<component id="button1">
+<text><![CDATA[<b>Quality of Service</b>]]></text>
+</component>
+
+<component id="button2">
+<text><![CDATA[<B>Security</b>]]></text>
+</component>
+
+</textcomponents>

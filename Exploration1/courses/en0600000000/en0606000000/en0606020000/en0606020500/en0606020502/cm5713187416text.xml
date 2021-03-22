@@ -1,0 +1,84 @@
+﻿
+
+<textcomponents>
+
+<component id="ID_body">
+<text><![CDATA[You have succesfully completed this activity.]]></text>
+</component>
+<component id="ID_title">
+<text><![CDATA[Correct]]></text>
+</component>
+<component id="one">
+<text><![CDATA[1.]]></text>
+</component>
+<component id="two">
+<text><![CDATA[2.]]></text>
+</component>
+<component id="three">
+<text><![CDATA[3.]]></text>
+</component>
+<component id="four">
+<text><![CDATA[4.]]></text>
+</component>
+
+<component id="ID_q01">
+<text><![CDATA[Fred went to an auction and the auctioneer was talking so fast that Fred was unable to understand her.]]></text>
+</component>
+
+<component id="ID_q02">
+<text><![CDATA[Andrea writes a letter and mails it to a friend. Unfortunately Andrea misaddressed the letter and it never arrived.]]></text>
+</component>
+
+<component id="ID_q03">
+<text><![CDATA[Mark is writing an English term paper at college. His instructor grades the paper and comments that his grade was reduced due to the excessive use of run-on sentences and poor punctuation.]]></text>
+</component>
+
+<component id="ID_q04">
+<text><![CDATA[An English only speaking individual on vacation in Germany, could not order dinner with a German only speaking waiter.]]></text>
+</component>
+<component id="ID_check">
+<text><![CDATA[<b>Check</b>]]></text>
+</component>
+<component id="ID_reset">
+<text><![CDATA[<b>Reset</b>]]></text>
+</component>
+<component id="ID_drag0">
+<text><![CDATA[<b>172.16.35.2</b>]]></text>
+</component>
+<component id="ID_drag1">
+<text><![CDATA[<b>192.168.3.5</b>]]></text>
+</component>
+<component id="ID_drag2">
+<text><![CDATA[<b>192.0.2.15 </b>]]></text>
+</component>
+<component id="ID_drag3">
+<text><![CDATA[<b>64.104.0.22</b>]]></text>
+</component>
+<component id="ID_drag4">
+<text><![CDATA[<b>209.165.201.30</b>]]></text>
+</component>
+<component id="ID_drag5">
+<text><![CDATA[<b>192.168.11.5</b>]]></text>
+</component>
+<component id="ID_drag6">
+<text><![CDATA[<b>172.16.30.30</b>]]></text>
+</component>
+<component id="ID_drag7">
+<text><![CDATA[<b>10.55.3.168</b>]]></text>
+</component>
+
+<component id="ID_bottom">
+<text><![CDATA[In this activity in the figure, drag the IP addresses and drop them into the correct category, either <b>Public</b> or <b>Private</b>.]]></text>
+</component>
+
+<component id="ID_activity">
+<text><![CDATA[<b>Activity</b>]]></text>
+</component>
+<component id="msgBody">
+  <text><![CDATA[You have correctly identified all the IP Addresses. <br/><br/><b>Click Next to continue.</b>]]></text> 
+</component>
+<component id="msgTitle">
+  <text><![CDATA[ ]]></text> 
+</component>
+</textcomponents>
+

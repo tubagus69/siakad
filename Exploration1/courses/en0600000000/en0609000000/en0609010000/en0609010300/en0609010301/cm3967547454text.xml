@@ -1,0 +1,62 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Logical Link Control (LLC)</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Logical Link Control Sublayer</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>802.3 Media Access Control</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>Physical Signaling Sublayer</br></b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+    <text><![CDATA[<b>Physical Medium</br></b>]]></text> 
+  </component>
+
+
+<component id="ID_txt06">
+    <text><![CDATA[<b>10BASE5 500m) 50 Ohm Coax N-Style</b>]]></text> 
+  </component>
+  
+<component id="ID_txt07">
+      <text><![CDATA[<b>10BASE2 (185m) 50 Ohm Coax BNC</b>]]></text> 
+  </component>
+  
+<component id="ID_txt08">
+      <text><![CDATA[<b>10BASE-T (100m) 100 Ohm UTP RJ-45</b>]]></text> 
+  </component>
+  
+<component id="ID_txt09">
+      <text><![CDATA[<b>100BASE-TX (100m) 100 Ohm UTP RJ-45</b>]]></text> 
+  </component>
+  
+<component id="ID_txt10">
+        <text><![CDATA[<b>1000BASE-CX (25m) 150 Ohm STP mini-DB-9</b>]]></text> 
+  </component>
+  
+<component id="ID_txt11">
+        <text><![CDATA[<b>1000BASE-T (100m) 100 Ohm UTP RJ-45</b>]]></text> 
+  </component>
+  
+  
+<component id="ID_txt12">
+          <text><![CDATA[<b>1000BASE-ST (220-550m) MM Fiber SC</b>]]></text> 
+  </component>
+  
+<component id="ID_txt13">
+          <text><![CDATA[<b>1000BASE-LX (550-5000m) MM or SM Fiber SC</b>]]></text> 
+  </component>
+
+<component id="myTable">
+<text><![CDATA[<table><tr><td><ul><li>Makes the connection with the upper layers</li><li>Frames the Network layer packet</li><li>Identifies the Network layer protocol</li><li>Remains relatively independent of the physical equipment</li></ul></table>]]></text> 
+  
+  
+
+</textcomponents>

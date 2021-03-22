@@ -1,0 +1,133 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Decimal to Binary Conversion Steps</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>172>=128?</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>No</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Yes</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>10000000</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>172-128=44</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>44>=64?</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Yes</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>No</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>44>=32?</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>No</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Yes</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>10100000</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>44-32=12</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>12>=16</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Yes</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>No</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>12>=8?</b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>No</b>]]></text>
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[<b>Yes</b>]]></text>
+</component>
+
+<component id="ID_txt20">
+<text><![CDATA[<b>10101000</b>]]></text>
+</component>
+
+<component id="ID_txt21">
+<text><![CDATA[<b>12-8=4</b>]]></text>
+</component>
+
+<component id="ID_txt22">
+<text><![CDATA[<b>4>=4?</b>]]></text>
+</component>
+
+<component id="ID_txt23">
+<text><![CDATA[<b>No</b>]]></text>
+</component>
+
+<component id="ID_txt24">
+<text><![CDATA[<b>Yes</b>]]></text>
+</component>
+
+<component id="ID_txt25">
+<text><![CDATA[<b>10101100</b>]]></text>
+</component>
+
+<component id="ID_txt26">
+<text><![CDATA[<b>4-4=0</b>]]></text>
+</component>
+
+<component id="ID_txt27">
+<text><![CDATA[<b>STOP</b>]]></text>
+</component>
+
+<component id="ID_txt28">
+<text><![CDATA[<b>put 1 in position 128</b>]]></text>
+</component>
+
+<component id="ID_txt29">
+<text><![CDATA[<b>put 1 in position 32</b>]]></text>
+</component>
+
+<component id="ID_txt30">
+<text><![CDATA[<b>put 1 in position 8</b>]]></text>
+</component>
+
+<component id="ID_txt31">
+<text><![CDATA[<b>put 1 in position 4</b>]]></text>
+</component>
+
+<component id="ID_txt32">
+<text><![CDATA[<b>Convert decimal&nbsp;<font color="#990000">&nbsp;<b>172</b></font>&nbsp;&nbsp;to binary&nbsp;<font color="#990000"><b>10101100</b></font>]]></text>
+</component>
+</textcomponents>

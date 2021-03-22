@@ -1,0 +1,115 @@
+<textcomponents>
+
+<component id="ID_header01">
+<text><![CDATA[<b>Given address/prefix of ]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[For each row, enter the values for that type of address.]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Type of Address</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Enter LAST octet in binary</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Enter LAST octet in decimal</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Enter full address in decimal
+</b>]]></text>
+</component>
+
+<component id="ID_txtHeading01">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+
+<component id="ID_txtHeading02">
+<text><![CDATA[<b>Broadcast</b>]]></text>
+</component>
+
+<component id="ID_txtHeading03">
+<text><![CDATA[<b>First Usable Host Address </b>]]></text>
+</component>
+
+<component id="ID_txtHeading04">
+<text><![CDATA[<b>Last Usable Host Address </b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Input area 1A</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Input area 1B</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Input area 1C</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Input area 2A</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Input area 2B</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Input area 2C</b>]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>Input area 3A</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>Input area 3B</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Input area 4C</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Input area 4A</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>Input area 4B</b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>Input area 4C</b>]]></text>
+</component>
+<component id="ID_check">
+<text><![CDATA[<b>Check</b>]]></text>
+</component>
+
+<component id="ID_reset">
+<text><![CDATA[<b>Reset</b>]]></text>
+</component>
+
+<component id="ID_newvalue">
+<text><![CDATA[<b>New Values</b>]]></text>
+</component>
+
+<component id="ID_ShowMe">
+<text><![CDATA[<b>Show Me</b>]]></text>
+</component>
+
+<component id="ID_correctTitle">
+<text><![CDATA[Correct]]></text>
+</component>
+
+<component id="ID_correctText">
+<text><![CDATA[Correct]]></text>
+</component>
+</textcomponents>

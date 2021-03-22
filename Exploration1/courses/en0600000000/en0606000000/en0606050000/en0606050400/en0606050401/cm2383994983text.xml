@@ -1,0 +1,47 @@
+<textcomponents>
+	<component id="txt_activity">
+		<text><![CDATA[<font size="14" face="_sans"><b>Activity</b></font>]]></text>
+	</component>
+	<component id="txt_instructions">
+		<text><![CDATA[<font size="12" face="_sans">Given the host IP address and the subnet mask, enter the network address in binary and decimal.</font>]]></text>
+	</component>
+	<component id="txt_correct">
+		<text><![CDATA[<font size="14" face="_sans"><b>Correct</b></font>]]></text>
+	</component>
+	<component id="txt_incorrect_binary">
+		<text><![CDATA[<font size="14" face="_sans"><b>The binary network address is incorrect or incomplete.</b></font>]]></text>
+	</component>
+	<component id="txt_incorrect_decimal">
+		<text><![CDATA[<font size="14" face="_sans"><b>The decimal network address is incorrect or incomplete.</b></font>]]></text>
+	</component>
+	<component id="txt_incorrect_all">
+		<text><![CDATA[<font size="14" face="_sans"><b>The binary and decimal network addresses are incorrect or incomplete.</b></font>]]></text>
+	</component>
+	<component id="txt_hostaddress">
+		<text><![CDATA[<font size="12" face="_sans"><b>Host Address</b></font>]]></text>
+	</component>
+	<component id="txt_subnetmask">
+		<text><![CDATA[<font size="12" face="_sans"><b>Subnet Mask</b></font>]]></text>
+	</component>
+	<component id="txt_hostaddrbin">
+		<text><![CDATA[<font size="12" face="_sans"><b>Host Address in binary</b></font>]]></text>
+	</component>
+	<component id="txt_subnetbin">
+		<text><![CDATA[<font size="12" face="_sans"><b>Subnet Mask in binary</b></font>]]></text>
+	</component>
+	<component id="txt_netbin">
+		<text><![CDATA[<font size="12" face="_sans"><b>Network Address in binary</b></font>]]></text>
+	</component>
+	<component id="txt_netdec">
+		<text><![CDATA[<font size="12" face="_sans"><b>Network Address in decimal</b></font>]]></text>
+	</component>
+	<component id="txt_check">
+		<text><![CDATA[<font size="12" face="_sans">Check</font>]]></text>
+	</component>
+	<component id="txt_reset">
+		<text><![CDATA[<font size="12" face="_sans">Reset</font>]]></text>
+	</component>
+	<component id="txt_newnumber">
+		<text><![CDATA[<font size="12" face="_sans">New Number</font>]]></text>
+	</component>
+</textcomponents>

@@ -1,0 +1,31 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Data Link Layer Services</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>3 Network Layer</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>HEADER</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Packet<br>(Data)</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>TRAILER</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>Frame</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt06">
+    <text><![CDATA[<b>1 Physical Layer</b>]]></text> 
+  </component>
+  
+ </textcomponents>

@@ -1,0 +1,25 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>MAC&#8212;Getting Data to the Media </b>]]></text>
+</component>
+
+<component id="ID_table01">
+<text><![CDATA[<b>MEDIA ACCESS CONTROL</b>]]></text> 
+  </component>
+  <component id="ID_table02">
+<text><![CDATA[<b><li>Data Encapsulation</li></b>]]></text> 
+  </component>
+    <component id="ID_table03">
+<text><![CDATA[<b><li>Frame delimiting</li><li>Addressing</li><li>Error detection</li></b> ]]></text> 
+  </component>
+    <component id="ID_table04">
+<text><![CDATA[<b><li>Media Access Control</li></b>]]></text> 
+  </component>
+    <component id="ID_table05">
+<text><![CDATA[<b><li>Control of frame placement on and off the media</li><li>Media recovery</li></b>]]></text> 
+  </component>
+
+
+</textcomponents>
+

@@ -1,0 +1,33 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Packet Switching in a Data Network</b>]]></text>
+</component>
+<component id="ID_txt01">
+  <text><![CDATA[<b>Many paths may be used for a single communication as individual packets are routed to a destination.</b>]]></text> 
+  </component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>No fixed path is established. Packets are routed according to the best path available at the time.</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Prior to transmission, each communication is broken into packets which are addressed and numbered.</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>During peak periods, communication may be delayed, but not denied.</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>At the destination, packets may be reassembled into order according to their sequence number.</b>]]></text> 
+  </component>
+<component id="ID_box1">
+  <text><![CDATA[<b>Source address</b>]]></text> 
+  </component>
+<component id="ID_box2">
+  <text><![CDATA[<b>Destination address</b>]]></text> 
+  </component>
+<component id="ID_box3">
+  <text><![CDATA[<b>Sequence number</b>]]></text>
+  </component>
+</textcomponents>
+

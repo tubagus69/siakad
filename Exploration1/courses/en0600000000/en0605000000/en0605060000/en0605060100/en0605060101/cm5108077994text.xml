@@ -1,0 +1,8 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>In this chapter, you learned to:</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<ul><li>Identify the role of the Network layer as it describes communication from one end device to another end device.</li><li>Examine the most common Network layer protocol, Internet Protocol (IP), and its features for providing connectionless and best-effort service.</li><li>Describe the principles used to guide the division, or grouping, of devices into networks.</li><li>Explain the purpose of the hierarchical addressing of devices and how this allows communication between networks.</li><li>Describe the fundamentals of routes, next-hop addresses, and packet forwarding to a destination network.</li></ul>]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,30 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>HTTP Protocol using GET</b>]]></text>
+</component>
+<component id="ID_inst">
+<text><![CDATA[<b>Click to see the steps used by HTTP</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>HTTP Server</b>]]></text>
+</component>
+<component id="ID_txt02"><text><![CDATA[<b>Client</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Entering 'http://www.cisco.com' in the address bar of a web browser generates the HTTP 'GET' Message.</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>HTTP Request</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Universal Resource Locator (URL)</b>]]></text>
+</component>
+<component id="ID_txt06"><text><![CDATA[<b>File requested</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Fully qualified domain name</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>Host: www.cisco.com<br>GET /index.html HTTP/1.1 </b>]]></text>
+</component>
+</textcomponents>

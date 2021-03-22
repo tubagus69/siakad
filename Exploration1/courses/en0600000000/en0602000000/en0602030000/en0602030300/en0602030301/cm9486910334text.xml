@@ -1,0 +1,24 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Standards are protocols and agreements that are widely used and accepted.</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Content layer</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Conversation Protocol Suite<br/><font color="#FF0000">1. Use a Common Language<br/>2. Wait Your Turn<br/>3. Signal When Finished</font></b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Rules layer</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Physical layer</b>]]></text> 
+</component>
+<component id="ID_txt06">
+    <text><![CDATA[<b><font color="#3333CC">Standard</font><br/>Wait 2 full seconds to signal stopped</b>]]></text> 
+</component>
+<component id="ID_txt07">
+    <text><![CDATA[<b>Where is the Café?</b>]]></text> 
+</component>
+
+</textcomponents>

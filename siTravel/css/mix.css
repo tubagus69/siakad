@@ -1,0 +1,242 @@
+.centerkotak {
+	width:100%;
+	height:auto;
+	margin-left:0;
+	margin-right:63px;
+	margin-top:-20px;
+	margin-bottom:20px;
+	padding-top:30px;
+	padding-bottom:0px;
+	padding-left:100px;
+	border:0px solid #e6e3e3;
+	border-radius:0.1em;
+	background:yellow;
+	font: 95% "Arial", times new roman;
+	float:left;
+	text-align:justify;
+	}
+.mostnew2 {
+	width:55%;
+	height:auto;
+	margin-left:5px;
+	margin-top:18px;
+	margin-right:44px;
+	padding-top:0px;
+	margin-bottom:20px;
+	border:0px solid #e6e3e3;
+	border-radius:0.1em;
+	background:none;
+	font: 95% "Arial", times new roman;
+	float:right;
+	text-align:justify;
+	}
+.mostnew {
+	width:250px;
+	height:auto;
+	margin-left:40px;
+	margin-top:0px;
+	padding-top:0px;
+	margin-bottom:20px;
+	border:0px solid #e6e3e3;
+	border-radius:0.1em;
+	background:none;
+	font: 75% "Arial", times new roman;
+
+	text-align:justify;
+	}
+
+.mostnew2tk {
+	width:35%;
+	height:auto;
+	margin-left:5px;
+	padding-left:50px;
+	margin-top:0px;
+	margin-right:44px;
+	padding-top:0px;
+	margin-bottom:20px;
+	border:0px solid #e6e3e3;
+	border-radius:0.1em;
+	background:none;
+	font: 95% "Arial", times new roman;
+	float:right;
+	text-align:justify;
+	}
+.mostnewtk {
+	width:500px;
+	height:auto;
+	margin-left:40px;
+	margin-top:0px;
+	padding-top:0px;
+	margin-bottom:20px;
+	border:0px solid #e6e3e3;
+	border-radius:0.1em;
+	background:none;
+	font:100% "Arial", times new roman;
+
+	text-align:justify;
+	}
+
+#center2 {
+	width:1300px;
+	height:auto;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	margin-bottom:40px;
+	padding-top:0px;
+	padding-left:0px;
+	border:0px solid #e6e3e3;
+	border-radius:0.1em;
+	background:white;
+	font: 95% "Arial", times new roman;
+	float:left;
+	text-align:justify;
+	}
+#body {
+	width:1300px;
+	height:1300px;
+	border:2px solid #e6e3e3;
+	background:yellow;
+	}
+
+.quicknew {
+	width:90%;
+	height:auto;
+	margin-left:0px;
+	margin-right:25px;
+	margin-top:0px;
+	border:0px solid black;
+	font: 70% "rockwell",Gloucester MT Extra Condensed;
+	text-align:right;
+	float:right;
+	}
+.kotak {
+	width:1255px;
+	height:auto;
+	margin-left:60px;
+	margin-right:63px;
+	margin-top:10px;
+	margin-bottom:160px;
+	padding-top:30px;
+	padding-bottom:10px;
+	padding-left:30px;
+	border:2px solid #e6e3e3;
+	border-radius:0.1em;
+	background:none;
+	font: 97% "Arial", times new roman;
+	float:left;
+	text-align:justify;
+	}
+
+.center2 {
+	width:100%;
+	height:auto;
+	margin-left:83px;
+	margin-right:63px;
+	margin-top:-20px;
+	margin-bottom:40px;
+	padding-top:30px;
+	padding-bottom:30px;
+	padding-left:30px;
+	border:2px solid #e6e3e3;
+	border-radius:0.1em;
+	background-color:none;
+	font: 95% "Arial", times new roman;
+	float:left;
+	text-align:justify;
+	}
+
+.center3 {
+	width:1205px;
+	height:auto;
+	margin-left:10px;
+	margin-right:73px;
+	margin-top:0px;
+	margin-bottom:40px;
+	padding-top:0px;
+	padding-left:30px;
+	border:0px solid none;
+	border-radius:0.1em;
+	background:none;
+	font: 95% "Arial", times new roman;
+	float:left;
+	text-align:justify;
+	}
+.centerdaftar {
+	width:1005px;
+	height:auto;
+	margin-left:50px;
+	margin-right:73px;
+	margin-top:0px;
+	margin-bottom:40px;
+	padding-top:0px;
+	padding-left:30px;
+	border:0px solid yellow;
+	border-radius:0.1em;
+	background:white;
+	font: 95% "Arial", times new roman;
+	float:left;
+	text-align:justify;
+	}
+
+
+.centerkuota {
+	width:805px;
+	height:auto;
+	margin-left:110px;
+	margin-right:73px;
+	margin-top:0px;
+	margin-bottom:20px;
+	padding-top:0px;
+	padding-left:30px;
+	border:0px solid yellow;
+	border-radius:0.1em;
+	background:white;
+	font: 95% "Arial", times new roman;
+	float:left;
+	text-align:justify;
+	}	
+
+input[type="submit"],input[type="reset"],input[type="button"]{
+	width: 28%;
+	height:45px;
+	cursor: pointer;	
+	background:#B8860B;
+	padding-left: 8px 5px;
+	font-family:Rockwell Condensed;
+	color: white;
+	font-size: 14px;	
+	border: 0px solid rgb(28, 108, 122);
+	margin-left:5px;
+	margin-bottom: 10px;	
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+	-webkit-border-radius: 3px;
+	   -moz-border-radius: 3px;
+	        border-radius: 3px;	
+	-webkit-box-shadow: 0px 1px 6px 4px rgba(0, 0, 0, 0.07) inset,
+	        0px 0px 0px 3px rgb(254, 254, 254),
+	        0px 5px 3px 3px rgb(210, 210, 210);
+	   -moz-box-shadow:0px 1px 6px 4px rgba(0, 0, 0, 0.07) inset,
+	        0px 0px 0px 3px rgb(254, 254, 254),
+	        0px 5px 3px 3px rgb(210, 210, 210);
+	        box-shadow:0px 1px 6px 4px rgba(0, 0, 0, 0.07) inset,
+	        0px 0px 0px 3px rgb(254, 254, 254),
+	        0px 5px 3px 3px rgb(210, 210, 210);
+	-webkit-transition: all 0.2s linear;
+	   -moz-transition: all 0.2s linear;
+	     -o-transition: all 0.2s linear;
+	        transition: all 0.2s linear;}
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+input[type="button"]:hover
+{
+background-image:url(1.jpg);}
+
+input[type="submit"]:active,input[type="text"]:focus,
+input[type="reset"]:active,input[type="text"]:focus,
+input[type="button"]:active,input[type="text"]:focus
+{
+	background-image:url(../1.jpg);
+	position: relative;
+	top: 1px;
+	border: 0px solid rgb(12, 76, 87);}

@@ -1,0 +1,51 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>IOS Command Conventions</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b><font face="Courier New">boldface</font></b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<i>italics</i>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[[X]]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[I]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[[X I Y]]]></text> 
+  </component>
+<component id="ID_txt06">
+<text><![CDATA[{X I Y}]]></text>
+</component>
+  <component id="ID_txt07">
+      <text><![CDATA[<b>Boldface text indicates commands and keywords that are entered literally as shown.</b>]]></text> 
+  </component>
+  <component id="ID_txt08">
+      <text><![CDATA[<b>Italic text indicates arguments where the user supplies values.</b>]]></text> 
+  </component>
+  <component id="ID_txt09">
+      <text><![CDATA[<b>Square brackets enclose an optional element (keyword or argument).</b>]]></text> 
+  </component>
+  <component id="ID_txt10">
+      <text><![CDATA[<b>A vertical line indicates a choice within an optional or required set of keywords or arguments.</b>]]></text> 
+  </component>
+  <component id="ID_txt11">
+      <text><![CDATA[<b>Square brackets enclosing keywords or arguments separated by a vertical line indicate an optional choice.</b>]]></text> 
+  </component>
+  <component id="ID_txt12">
+      <text><![CDATA[<b>Braces enclosing keywords or arguments separated by a vertical line indicate a required choice.</b>]]></text> 
+  </component>
+
+  <component id="ID_txt13">
+      <text><![CDATA[<b>When describing the use of commands, we generally use these conventions.</b>]]></text> 
+  </component>
+  <component id="ID_header1">
+      <text><![CDATA[<b>Convention</b>]]></text> 
+  </component>
+  <component id="ID_header2">
+      <text><![CDATA[<b>Description</b>]]></text> 
+  </component>
+  </textcomponents>

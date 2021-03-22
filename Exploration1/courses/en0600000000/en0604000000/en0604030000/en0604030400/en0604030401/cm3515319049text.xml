@@ -1,0 +1,87 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>TCP Segment Acknowledgement and Window Size</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Sender</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Sequence number 1</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Sequence number 1501</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>Receive Acknowledge</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>Sequence number 3001</b>]]></text> 
+  </component>
+  
+<component id="ID_txt06">
+    <text><![CDATA[<b>Sequence number 4501</b>]]></text> 
+  </component>
+  
+<component id="ID_txt07">
+<text><![CDATA[<b>Receive Acknowledge</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+  <text><![CDATA[<b>Window size = 3000</b>]]></text> 
+  </component>
+  
+<component id="ID_txt09">
+  <text><![CDATA[<b>1500 bytes</b>]]></text> 
+  </component>
+  
+<component id="ID_txt10">
+  <text><![CDATA[<b>1500 bytes</b>]]></text> 
+  </component>
+  
+<component id="ID_txt11">
+  <text><![CDATA[<b>1500 bytes</b>]]></text> 
+  </component>
+  
+<component id="ID_txt12">
+    <text><![CDATA[<b>1500 bytes</b>]]></text> 
+  </component>
+  
+<component id="ID_txt13">
+<text><![CDATA[<b>Receiver</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+  <text><![CDATA[<b>Receive 1 - 1500</b>]]></text> 
+  </component>
+  
+<component id="ID_txt15">
+  <text><![CDATA[<b>Receive 1501 - 3000</b>]]></text> 
+  </component>
+  
+<component id="ID_txt16">
+  <text><![CDATA[<b>Acknowledgement number 3001</b>]]></text> 
+  </component>
+  
+<component id="ID_txt17">
+  <text><![CDATA[<b>Receive 3001 - 4500</b>]]></text> 
+  </component>
+  
+<component id="ID_txt18">
+    <text><![CDATA[<b>Receive 4501 - 6000</b>]]></text> 
+  </component>
+  
+<component id="ID_txt19">
+  <text><![CDATA[<b>Acknowledgement number 6001</b>]]></text> 
+  </component>
+  
+<component id="ID_txt20">
+    <text><![CDATA[<b><br>The<font color="#993333"> window size </font>determines the number of bytes sent before an acknowledgment is expected.</br><br>The <font color="#993333">acknowledgement </font>number is the number of the next expected byte.</b></br>]]></text> 
+  </component>
+  
+</textcomponents> 

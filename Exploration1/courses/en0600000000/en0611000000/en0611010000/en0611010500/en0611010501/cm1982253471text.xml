@@ -1,0 +1,21 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Context Sensitive Help</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[ ]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[ ]]></text> </component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b><font color="#009900">Command explanations</font><br/><font color="#FF6600">Incomplete command messages</font><br/><font color="#990000">Invalid input messages</font><br/>Variable formats</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Example of a sequence of commands using the CLI context sensitive help</b>]]></text> 
+</component>
+
+</textcomponents>

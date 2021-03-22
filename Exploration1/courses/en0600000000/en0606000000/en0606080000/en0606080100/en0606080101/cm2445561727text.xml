@@ -1,0 +1,8 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>In this chapter, you learned to:</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<ul><li>Explain the structure IP addressing and demonstrate the ability to convert between 8-bit binary and decimal numbers.</li><li>Given an IPv4 address, classify by type and describe how it is used in the network.</li><li>Explain how addresses are assigned to networks by ISPs and within networks by administrators.</li><li>Determine the network portion of the host address and explain the role of the subnet mask in dividing networks.</li><li>Given IPv4 addressing information and design criteria, calculate the appropriate addressing components.</li><li>Use common testing utilities to verify and test network connectivity and operational status of the IP protocol stack on a host.</li></ul>]]></text> 
+  </component>
+</textcomponents>

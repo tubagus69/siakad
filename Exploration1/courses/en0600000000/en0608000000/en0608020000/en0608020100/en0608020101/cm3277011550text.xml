@@ -1,0 +1,74 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Web Browser<br />Email Client<br />File Access Client</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Web Browser <br />File Access Client</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Web Browser<br />Email Client</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>File Access Client</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Email Server<br />Web Server<br />File Server</b>]]></text> 
+  </component>
+  
+<component id="ID_title">
+    <text><![CDATA[<b>Ways to Represent a Signal on the Medium</b>]]></text> 
+  </component>
+  
+<component id="ID_txt01">
+    <text><![CDATA[<b>Varying Amplitude</b>]]></text> 
+  </component>
+  
+<component id="ID_txt01a">
+    <text><![CDATA[<b>0</b>]]></text> 
+  </component>
+  
+<component id="ID_txt01b">
+    <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+  
+<component id="ID_txt01c">
+    <text><![CDATA[<b>0</b>]]></text> 
+  </component>
+  
+<component id="ID_txt01d">
+    <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+  
+<component id="ID_txt01e">
+    <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+  
+<component id="ID_txt01f">
+    <text><![CDATA[<b>0</b>]]></text> 
+  </component>
+  
+<component id="ID_txt01g">
+    <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+  
+<component id="ID_txt01h">
+    <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt02">
+      <text><![CDATA[<b>Varying Frequency</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+      <text><![CDATA[<b>Varying Phase</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+      <text><![CDATA[<b>Clock</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt05">
+            <text><![CDATA[<b>- bit time -</b>]]></text> 
+  </component>
+
+</textcomponents>

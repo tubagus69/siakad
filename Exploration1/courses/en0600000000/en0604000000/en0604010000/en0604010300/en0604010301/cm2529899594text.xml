@@ -1,0 +1,83 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Transport Layer Protocols</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Application</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Transport</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Network Access</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>TCP/IP Model</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Application</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Presentation</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Session</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Transport</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Data Link</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Physical</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Application developers choose the appropriate Transport Layer protocol based on the nature of the application.</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b><li>IP Telephony<br><li>Streaming Video</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b><li>SMTP/POP (Email)<br><li>HTTP</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Required Protocol Properties<br><li>Fast<br><li>Low overhead<li>Does not require acknowledgements<li>Does not resend lost data<li>Delivers data as it arrives</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>Required Protocol Properties<br><li>Reliable<br><li>Acknowledge data<li>Resend lost data<li>Delivers data in order sent<li></b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>OSL Model</b>]]></text>
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[<b>Email</b>]]></text>
+</component>
+
+</textcomponents>

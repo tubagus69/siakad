@@ -1,0 +1,58 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>UDP: Connectionless and Unreliable</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Different datagrams may take different routes.</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Data</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Data is divided into datagrams.</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Datagram 1</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Datagram 2</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>Datagram 3</b>]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>Datagram 4</b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>Datagram 5</b>]]></text> 
+  </component>
+<component id="ID_txt09">
+  <text><![CDATA[<b>Datagram 6</b>]]></text> 
+  </component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>Having taken different routes to the destination, datagrams arrive out of order.</b>]]></text> 
+  </component>
+<component id="ID_txt11">
+  <text><![CDATA[<b>Datagram 1</b>]]></text> 
+  </component>
+<component id="ID_txt12">
+  <text><![CDATA[<b>Datagram 2</b>]]></text> 
+  </component>
+<component id="ID_txt13">
+  <text><![CDATA[<b>Datagram 6</b>]]></text> 
+  </component>
+<component id="ID_txt14">
+  <text><![CDATA[<b>Datagram 5</b>]]></text> 
+  </component>
+<component id="ID_txt15">
+  <text><![CDATA[<b>Datagram 4</b>]]></text> 
+  </component>
+<component id="ID_txt16">
+  <text><![CDATA[<b>Out of order datagrams are not re-ordered.</b>]]></text> 
+  </component>  
+<component id="ID_txt17">
+  <text><![CDATA[<b>Lost datagrams are not re-sent.</b>]]></text> 
+  </component>    
+</textcomponents> 

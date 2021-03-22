@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13238" dateexported="06/05/2007">
+		<name>Module 6 Quiz</name>
+		<form id="18835" lang="en"><form-item order="fixed">
+			<ai id="90798" type="mc-ma"><question><![CDATA[What are the differences between binary and decimal numbers? (Choose two.)]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Decimal numbers are based on powers of 1 and binary numbers are based on powers of 2.]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Binary numbers are based on powers of 2 and decimal numbers are based on powers of 10.]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Computers use binary numbers and people normally use decimal numbers.]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Numbers typed on a keyboard are entered as binary and converted to decimal by the computer.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Binary numbers consist of three states: on, off, null. Decimal numbers do not have states.]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="59172" type="mc-sa"><question><![CDATA[Examine the graphic with current configurations. Host A in the Clerical offices failed and was replaced. Although a ping to 127.0.0.1 was successful, the replacement computer can not access the company network. What is the likely cause of the problem?<Br><img src="4745.jpg">]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[IP address incorrectly entered]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[network cables unplugged]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[subnet mask incorrectly entered]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[network card failure]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="112815" type="mc-sa"><question><![CDATA[Refer to the exhibit.  A network administrator is testing the configuration on a host computer. What type of address is 127.0.0.1?<Br><img src="14778.jpg">]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[link-local]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[loopback]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[public]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[default route]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="112797" type="mc-sa"><question><![CDATA[What portion of the IP address does the prefix represent?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[broadcast]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[host]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[network]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[unicast]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="112796" type="mc-sa"><question><![CDATA[Which is true regarding IP network addresses?]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[all host bits are set to 0]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[all host bits are set to 1]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[assigned the highest address in a range]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[all network bits are set to 1]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="112795" type="mc-sa"><question><![CDATA[Which address type has all host bits set to 1?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[network]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[broadcast]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[host]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[unicast]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="112403" type="mc-sa"><question><![CDATA[How many binary digits (bits) are in an IPv6 address?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[64 bits]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[48 bits]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[128 bits]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[32 bits]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="112401" type="mc-sa"><question><![CDATA[What is the primary reason for development of IPv6?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[security]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[header format simplification]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[expanded addressing capabilities]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[addressing simplification]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="113037" type="mc-ma"><question><![CDATA[Refer to the exhibit. The numbers in the exhibit are part of a single subnet. Which statements are true regarding these numbers? (Choose three.)<Br><img src="14736.jpg">]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Their final octet has 4 of the most significant bits in common.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[They have 5 low-order bits in common.]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[They have 27 high-order bits in common.]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[192.168.223.99 is a feasible network number for their range.]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[255.255.255.224 is an appropriate mask for their range.]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[192.168.223.127 is the broadcast address for their range.]]></text>
+							
+						</choice></choices></ai></form-item><form-item>
+			<ai id="58025" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="58025" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>192.168.16.192/30</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>172.27.64.98/23</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>172.18.125.6/20</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>10.1.167.36/13</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>192.168.87.212/24</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="332"><material><mattext>172.31.16.128/19</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>four bits borrowed to create subnets</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>six usable subnets</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>two usable hosts per subnet</mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>the network is not subnetted</mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="1" textwidth="300"><material><mattext>512 addresses per subnet</mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Drop the options on the left to the correct target on the right.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-150" targetYspacing="11" yspacing="40" targetH="27"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="115"/><display componentIdent="3" xpos="200" ypos="155"/><display componentIdent="4" xpos="200" ypos="195"/><display componentIdent="5" xpos="200" ypos="235"/><display componentIdent="6" xpos="200" ypos="275"/></options><targets><display componentIdent="1" xpos="600" ypos="75"/><display componentIdent="2" xpos="600" ypos="112"/><display componentIdent="3" xpos="600" ypos="149"/><display componentIdent="4" xpos="600" ypos="186"/><display componentIdent="5" xpos="600" ypos="223"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident></scoringzone><scoringzone ident ="2"><componentident>2</componentident></scoringzone><scoringzone ident ="3"><componentident>3</componentident></scoringzone><scoringzone ident ="4"><componentident>4</componentident></scoringzone><scoringzone ident ="5"><componentident>5</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="49993" maxvalue ="1"><title>no title</title></decvar><interpretvar varname="49993" view="All">no description given</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>6</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="5"><componentident>2</componentident></scoringzonecontains></conditionvar><setvar varname="49993" action="Set">1</setvar><scoringdescription>four bits borrowed to create subnets = 172.18.125.6/20 six usable subnets = 172.31.16.128/19 two usable hosts per subnet = 192.168.16.192/30 the network is not subnetted = 192.168.87.212/24 512 addresses per subnet = 172.27.64.98/23  option 4 is a distractor</scoringdescription></responcondition></resprocessing></scoring></item></questtestinjterop>]]> </ai></form-item></form></exam> 

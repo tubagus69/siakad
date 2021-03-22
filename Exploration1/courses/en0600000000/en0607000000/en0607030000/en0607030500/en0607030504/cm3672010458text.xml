@@ -1,0 +1,201 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>802.11 Wireless LAN Protocol</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Octets: 2</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>2</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>6</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>6</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>6</b>]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>2</b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>6</b>]]></text> 
+  </component>
+<component id="ID_txt09">
+  <text><![CDATA[<b>0-2312</b>]]></text> 
+  </component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>4</b>]]></text> 
+  </component>
+<component id="ID_txt11">
+  <text><![CDATA[<b>Frame Control</b>]]></text> 
+  </component>
+<component id="ID_txt12">
+  <text><![CDATA[<b>Duration/ID</b>]]></text> 
+  </component>
+<component id="ID_txt13">
+  <text><![CDATA[<b>DA</b>]]></text> 
+  </component>
+<component id="ID_txt14">
+  <text><![CDATA[<b>SA</b>]]></text> 
+  </component>
+<component id="ID_txt15">
+  <text><![CDATA[<b>RA</b>]]></text> 
+  </component>
+<component id="ID_txt16">
+  <text><![CDATA[<b>Sequence Control</b>]]></text> 
+  </component>
+<component id="ID_txt17">
+  <text><![CDATA[<b>TA</b>]]></text> 
+  </component>
+<component id="ID_txt18">
+  <text><![CDATA[<b>Frame Body</b>]]></text> 
+  </component>
+<component id="ID_txt19">
+  <text><![CDATA[<b>FCS</b>]]></text> 
+  </component>
+<component id="ID_txt20">
+  <text><![CDATA[<b>B0</b>]]></text> 
+  </component>
+<component id="ID_txt21">
+  <text><![CDATA[<b>B3</b>]]></text> 
+  </component>
+<component id="ID_txt22">
+  <text><![CDATA[<b>B4</b>]]></text> 
+  </component>
+<component id="ID_txt23">
+  <text><![CDATA[<b>B15</b>]]></text> 
+  </component>
+<component id="ID_txt24">
+  <text><![CDATA[<b>Fragment Number</b>]]></text> 
+  </component>
+<component id="ID_txt25">
+  <text><![CDATA[<b>Sequence Number</b>]]></text> 
+  </component>
+<component id="ID_txt26">
+  <text><![CDATA[<b></b>]]></text> 
+  </component>
+<component id="ID_txt27">
+  <text><![CDATA[<b>4</b>]]></text> 
+  </component>
+<component id="ID_txt28">
+  <text><![CDATA[<b>12</b>]]></text> 
+  </component>
+<component id="ID_txt29">
+  <text><![CDATA[<b>B0</b>]]></text> 
+  </component>
+<component id="ID_txt30">
+  <text><![CDATA[<b>B1B2</b>]]></text> 
+  </component>
+<component id="ID_txt31">
+  <text><![CDATA[<b>B3B4</b>]]></text> 
+  </component>
+<component id="ID_txt32">
+  <text><![CDATA[<b>B7</b>]]></text> 
+  </component>
+<component id="ID_txt33">
+  <text><![CDATA[<b>B8</b>]]></text> 
+  </component>
+<component id="ID_txt34">
+  <text><![CDATA[<b>B9</b>]]></text> 
+  </component>
+<component id="ID_txt35">
+  <text><![CDATA[<b>B10</b>]]></text> 
+  </component>
+<component id="ID_txt36">
+  <text><![CDATA[<b>B11</b>]]></text> 
+  </component>
+<component id="ID_txt37">
+  <text><![CDATA[<b>B12</b>]]></text> 
+  </component>
+<component id="ID_txt38">
+  <text><![CDATA[<b>B13</b>]]></text> 
+  </component>
+<component id="ID_txt39">
+  <text><![CDATA[<b>B14</b>]]></text> 
+  </component>
+<component id="ID_txt40">
+  <text><![CDATA[<b>B15</b>]]></text> 
+  </component>
+<component id="ID_txt41">
+  <text><![CDATA[<b>Protocol Version</b>]]></text> 
+  </component>
+<component id="ID_txt42">
+  <text><![CDATA[<b>Type</b>]]></text> 
+  </component>
+<component id="ID_txt43">
+  <text><![CDATA[<b>Subtype</b>]]></text> 
+  </component>
+<component id="ID_txt44">
+  <text><![CDATA[<b>To DS</b>]]></text> 
+  </component>
+<component id="ID_txt45">
+  <text><![CDATA[<b>From DS</b>]]></text> 
+  </component>
+<component id="ID_txt46">
+  <text><![CDATA[<b>More Frag</b>]]></text> 
+  </component>
+<component id="ID_txt47">
+  <text><![CDATA[<b>Retry</b>]]></text> 
+  </component>
+<component id="ID_txt48">
+  <text><![CDATA[<b>Pwr Mgt</b>]]></text> 
+  </component>
+<component id="ID_txt49">
+  <text><![CDATA[<b>More Data</b>]]></text> 
+  </component>
+<component id="ID_txt50">
+  <text><![CDATA[<b>WEP</b>]]></text> 
+  </component>
+<component id="ID_txt51">
+  <text><![CDATA[<b>Order</b>]]></text> 
+  </component>
+<component id="ID_txt52">
+  <text><![CDATA[<b></b>]]></text> 
+  </component>
+<component id="ID_txt53">
+  <text><![CDATA[<b>2</b>]]></text> 
+  </component>
+<component id="ID_txt54">
+  <text><![CDATA[<b>2</b>]]></text> 
+  </component>
+<component id="ID_txt55">
+  <text><![CDATA[<b>4</b>]]></text> 
+  </component>
+<component id="ID_txt56">
+  <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+<component id="ID_txt57">
+  <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+<component id="ID_txt58">
+  <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+<component id="ID_txt59">
+  <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+<component id="ID_txt60">
+  <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+<component id="ID_txt61">
+  <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+<component id="ID_txt62">
+  <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+<component id="ID_txt63">
+  <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+<component id="ID_txt64">
+  <text><![CDATA[<b>Sequence Control</b>]]></text> 
+  </component>
+<component id="ID_txt65">
+  <text><![CDATA[<b>Frame Control</b>]]></text> 
+  </component>
+  <component id="ID_txt66">
+  <text><![CDATA[<b>Bits</b>]]></text> 
+  </component>
+
+</textcomponents>

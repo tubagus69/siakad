@@ -1,0 +1,30 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Command Syntax Check Help</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[ ]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[ ]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>The IOS returns a <b>"^"</b> to indicate where the command interpreter can not decipher the command:</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>The IOS returns a help message indicating that required keywords or arguments were left off the end of the command:</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>The IOS returns a help message to indicate that there were not enough characters entered for the command interpreter to recognize the command. </b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[ ]]></text> 
+</component>
+
+</textcomponents>

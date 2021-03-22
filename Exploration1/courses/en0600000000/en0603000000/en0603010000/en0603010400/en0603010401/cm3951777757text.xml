@@ -1,0 +1,79 @@
+<textcomponents>
+<component id="transcript">
+<text><![CDATA[Transcript]]></text>
+</component>
+<component id="ID_txt01">
+	<text><![CDATA[<b>7 Application]]></text>
+</component>
+
+<component id="ID_txt01a">
+		<text><![CDATA[<b>7 Application]]></text>
+</component>
+
+
+<component id="ID_txt02">
+	<text><![CDATA[<b>6 Presentation]]></text>
+</component>
+
+<component id="ID_txt02a">
+	<text><![CDATA[<b>6 Presentation]]></text>
+</component>
+<component id="ID_txt03">
+		<text><![CDATA[<b>5 Session]]></text>
+	</component>
+
+<component id="ID_txt03a">
+	<text><![CDATA[<b>5 Session]]></text>
+</component>
+<component id="ID_txt04">
+	<text><![CDATA[<b>4 Transport]]></text>
+</component>
+
+<component id="ID_txt04a">
+		<text><![CDATA[<b>4 Transport]]></text>
+</component>
+
+<component id="ID_txt05">
+	<text><![CDATA[<b>3 Network]]></text>
+</component>
+
+<component id="ID_txt05a">
+	<text><![CDATA[<b>3 Network]]></text>
+</component>
+<component id="ID_txt06">
+		<text><![CDATA[<b>2 Data Link]]></text>
+	</component>
+
+<component id="ID_txt06a">
+	<text><![CDATA[<b>2 Data Link]]></text>
+</component>
+<component id="ID_txt07">
+	<text><![CDATA[<b>1 Physical]]></text>
+</component>
+
+<component id="ID_txt07a">
+		<text><![CDATA[<b>1 Physical]]></text>
+
+</component>
+
+<component id="ID_txt09">
+		<text><![CDATA[<b>7 Application]]></text>
+</component>
+<component id="ID_txt12">
+		<text><![CDATA[<b><font color="#3333CC">PROTOCOLS</font></b>]]></text>
+
+
+</component>
+<component id="ID_txt10">
+		<text><![CDATA[<b>Application layer protocols provide the rules for communication between applications.]]></text>
+
+</component>
+
+<component id="myTable">
+  <text><![CDATA[<table><tr><th>Protocols:</th></tr><tr><td><li>Define processes on either end of the communication</li><li>Define the types of messages</li><li>Define the syntax of messages</li><li>Define the meaning of any informational fields</li><li>Define how messages are sent and the expected response</li><li>Define interaction with the next lower layer</li></ul></td></tr></table>]]></text> 
+  </component>
+
+
+
+
+</textcomponents>

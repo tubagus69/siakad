@@ -1,0 +1,48 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Determining the Number of Hosts in the Network</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Include these devices in the count:</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Router Interfaces</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Count the number of interfaces, and not the number of routers</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Printers</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>IP Phones</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Count other specialty  IP devices as well]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Switch Management Addresses</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Administration Users</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>General Users</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Servers</b>]]></text>
+</component>
+
+
+</textcomponents>

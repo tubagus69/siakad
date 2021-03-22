@@ -1,0 +1,11 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Moving Ethernet to 1 Gbps and Beyond</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>New networking services require high-bandwidth LANs.</b>]]></text>
+</component>
+
+</textcomponents>

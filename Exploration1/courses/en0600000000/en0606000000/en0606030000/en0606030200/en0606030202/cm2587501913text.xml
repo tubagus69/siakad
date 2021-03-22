@@ -1,0 +1,42 @@
+<textcomponents>
+<component id="ID_title">
+	<text><![CDATA[<b>Assigning Dynamic Addresses</b>]]></text>
+	</component>
+	
+<component id="ID_inst">
+	<text><![CDATA[<b>Click to see the configuration output.</b>]]></text>
+	</component>
+	
+	<component id="DEVICE CONFIGURATON">
+	<text><![CDATA[DEVICE CONFIGURATON]]></text>
+	</component>
+	
+<component id="ID_txt01">
+	<text><![CDATA[<b>This property will set the device to obtain an IP address automatically.</b>]]></text>
+	</component>
+	
+<component id="ID_txt02">
+	<text><![CDATA[<b>These addresses are assigned dynamically:</b>]]></text>
+	</component>
+	
+	<component id="ID_txt02b">
+	<text><![CDATA[<b>IP Address</b>]]></text>
+	</component>
+	
+	<component id="ID_txt02c">
+	<text><![CDATA[<b>Subnet mask</b>]]></text>
+	</component>
+	
+	<component id="ID_txt02d">
+	<text><![CDATA[<b>Default gateway</b>]]></text>
+	</component>
+	
+	<component id="ID_txt02e">
+	<text><![CDATA[<b>DHCP server</b>]]></text>
+	</component>
+	
+	<component id="ID_txt03">
+	<text><![CDATA[<b>Using DHCP</b>]]></text>
+	</component>
+
+</textcomponents>

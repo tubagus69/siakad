@@ -1,0 +1,86 @@
+<textcomponents>
+<component id="ID_title">
+	<text><![CDATA[<b>IPv4 Address Planning and Assignment</b>]]></text>
+	</component>
+<component id="ID_txt01">
+		<text><![CDATA[<b>Sales</b>]]></text>
+	</component>
+<component id="ID_txt02">
+		<text><![CDATA[<b>Sales</b>]]></text>
+	</component>
+<component id="ID_txt03">
+		<text><![CDATA[<b>HR</b>]]></text>
+	</component>
+<component id="ID_txt04">
+		<text><![CDATA[<b>Legal</b>]]></text>
+	</component>
+<component id="ID_txt05">
+    		<text><![CDATA[<b>HR</b>]]></text>
+	</component>
+<component id="ID_txt06">
+    		<text><![CDATA[<b>Admin</b>]]></text>
+	</component>
+<component id="ID_txt07">
+	    	<text><![CDATA[<b>Legal</b>]]></text>
+		</component>
+<component id="ID_txt08">
+	    	<text><![CDATA[<b>Sales</b>]]></text>
+	</component>
+	
+<component id="ID_txt09">
+		<text><![CDATA[<b>East Office</b>]]></text>
+	</component>
+	
+<component id="ID_txt10">
+		<text><![CDATA[<b>West Office</b>]]></text>
+	</component>
+	
+<component id="ID_txt11">
+		<text><![CDATA[<b>Office</b>]]></text>
+	</component>
+	
+<component id="ID_txt12">
+		<text><![CDATA[<b>Office</b>]]></text>
+	</component>
+	
+<component id="ID_txt13">
+		<text><![CDATA[<b>Dept</b>]]></text>
+	</component>
+	
+<component id="ID_txt14">
+		<text><![CDATA[<b>Device</b>]]></text>
+	</component>
+	
+	<component id="LOCATION">
+		<text><![CDATA[LOCATION]]></text>
+	</component>
+	
+		<component id="SALES">
+		<text><![CDATA[SALES]]></text>
+	</component>
+	
+		<component id="HR">
+		<text><![CDATA[HR]]></text>
+	</component>
+	
+			<component id="LEGAL">
+		<text><![CDATA[LEGAL]]></text>
+	</component>
+	
+			<component id="PRINTER">
+		<text><![CDATA[PRINTER]]></text>
+	</component>
+	
+			<component id="SERVER">
+		<text><![CDATA[SERVER]]></text>
+	</component>
+	
+			<component id="COMPUTER">
+		<text><![CDATA[COMPUTER]]></text>
+	</component>
+	
+<component id="ID_inst">
+		<text><![CDATA[<b>Roll over a method for assignment.</b>]]></text>
+	</component>
+
+</textcomponents>

@@ -1,0 +1,1 @@
+<h2>saya sedang belajar pemrograman framework, <?php echo $name ?> !</h2>

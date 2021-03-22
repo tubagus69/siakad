@@ -1,0 +1,12 @@
+﻿<textcomponents>
+<component id="ID_caption">
+<text><![CDATA[<b>Unauthorized use of our communications data can have severe consequences.
+</b>]]></text>
+</component>
+<component id="ID_txt1">
+<text><![CDATA[<b>Out of Business</b>]]></text>
+</component>
+<component id="ID_txt2">
+<text><![CDATA[<b>Unauthorized Transactions</b>]]></text>
+</component>
+</textcomponents>

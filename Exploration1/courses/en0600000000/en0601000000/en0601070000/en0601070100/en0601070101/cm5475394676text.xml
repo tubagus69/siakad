@@ -1,0 +1,8 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>In this chapter, you learned to:</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<ul><li>Describe how networks impact our daily lives.</li><li>Describe the role of data networking in the human network.</li><li>Identify the key components of any data network.</li><li>Identify the opportunities and challenges posed by converged networks.</li><li>Describe the characteristics of network architectures: fault tolerance, scalability, quality of service and security.</li><li>Install and use IRC clients and a Wiki server.</li></ul>]]></text> 
+  </component>
+</textcomponents>

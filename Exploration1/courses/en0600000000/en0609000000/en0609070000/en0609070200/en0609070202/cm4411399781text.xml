@@ -1,0 +1,65 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Proxy ARP Allows Router to Respond for Remote Host</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Host A</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Host B</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>172.16.10.100/16<br>00-00-0c-94-36-aa</b>]]></text>
+</component>
+
+
+<component id="ID_txt04">
+<text><![CDATA[<b>172.16.10.200/24<br>00-00-0c-94-36-bb</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>172.16.10.99/24<br>00-00-0c-94-36-ab</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>172.16.20.99/24<br>00-00-0c-94-36-cd</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>e0</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>e1</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Subnet A</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Subnet B</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Host C</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Host D</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>172.16.20.100/24<br>00-00-0c-94-36-cc</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>172.16.20.200/24<br>00-00-0c-94-36-dd</b>]]></text>
+</component>
+
+
+</textcomponents>

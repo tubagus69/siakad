@@ -1,0 +1,45 @@
+
+#login{
+	width:100%;
+	height:15px;
+	background:none;
+	}
+	
+.form-login {
+	max-width: 330px;
+	margin: 100px auto 0;
+	background: #fff;
+	border-radius: 5px;
+	font:125% "Arial",Gloucester MT Extra Condensed;
+	-webkit-border-radius: 5px;
+}
+
+.form-login h2.form-login-heading {
+	margin: 0;
+	padding: 25px 20px;
+	text-align: center;
+	background: #0A7EEA;
+	font:120% "Arial",Gloucester MT Extra Condensed;
+	border-radius: 5px 5px 0 0;
+	-webkit-border-radius: 5px 5px 0 0;
+	color: #fff;
+	font-size: 30px;
+	text-transform: uppercase;
+	font-weight: 300;
+}
+.login-wrap {
+	padding: 20px;
+	font:115% "Arial",Gloucester MT Extra Condensed;
+}
+.login-wrap .registration {
+	text-align: center;
+	font-size:12px;
+}
+.login-social-link {
+	display: block;
+	margin-top: 20px;
+	font:125% "Arial",Gloucester MT Extra Condensed;
+	margin-bottom: 15px;
+}
+
+

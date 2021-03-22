@@ -1,0 +1,115 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Click Play to view human and computer encoding examples.</b>]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Source<br>Encoded</b>]]></text> 
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Destination<br>Decoded</b>]]></text> 
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Source<br>Encoded</b>]]></text> 
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>Destination<br>Decoded</b>]]></text> 
+</component>
+
+<component id="ID_ch01">
+	<text><![CDATA[<B>Message</B>]]></text>
+</component>
+<component id="ID_ch02">
+	<text><![CDATA[<B>Signal</B>]]></text>
+</component>
+<component id="ID_ch03">
+	<text><![CDATA[<B>Signal</B>]]></text>
+</component>
+<component id="ID_ch04">
+	<text><![CDATA[<B>Message</B>]]></text>
+</component>
+<component id="ID_txt03">
+	<text><![CDATA[Message Source]]></text>
+</component>
+<component id="ID_txt04">
+	<text><![CDATA[Encoder]]></text>
+</component>
+<component id="ID_txt05">
+	<text><![CDATA[Transmitter]]></text>
+</component>
+<component id="ID_txt06">
+	<text><![CDATA[Transmission<br/>Medium<br/>"The Channel"]]></text>
+</component>
+<component id="ID_txt07">
+	<text><![CDATA[Receiver]]></text>
+</component>
+<component id="ID_txt08">
+	<text><![CDATA[Decoder]]></text>
+</component>
+<component id="ID_txt09">
+	<text><![CDATA[Message Destination]]></text>
+</component>
+
+
+
+//controller 1 text
+	<component id="play">
+		<text><![CDATA[Play]]></text>
+	</component>
+    <component id="pause">
+		<text><![CDATA[Pause]]></text>
+	</component>
+    <component id="rewind">
+		<text><![CDATA[Rewind]]></text>
+	</component>
+	<component id="forward">
+		<text><![CDATA[Fast Forward]]></text>
+	</component>
+    <component id="mute">
+		<text><![CDATA[Mute]]></text>
+	</component>
+    <component id="unmute">
+		<text><![CDATA[UnMute]]></text>
+	</component>
+    <component id="previous">
+		<text><![CDATA[Restart]]></text>
+	</component>
+    <component id="next">
+		<text><![CDATA[End]]></text>
+	</component>
+<component id="transcript">
+		<text><![CDATA[Transcript]]></text>
+	</component>
+
+//controller 2 text
+
+	<component id="play2">
+		<text><![CDATA[Play]]></text>
+	</component>
+    <component id="pause2">
+		<text><![CDATA[Pause]]></text>
+	</component>
+    <component id="rewind2">
+		<text><![CDATA[Rewind]]></text>
+	</component>
+	<component id="forward2">
+		<text><![CDATA[Fast Forward]]></text>
+	</component>
+    <component id="mute2">
+		<text><![CDATA[Mute]]></text>
+	</component>
+    <component id="unmute2">
+		<text><![CDATA[UnMute]]></text>
+	</component>
+    <component id="previous2">
+		<text><![CDATA[Restart]]></text>
+	</component>
+    <component id="next2">
+		<text><![CDATA[End]]></text>
+	</component>
+<component id="transcript2">
+		<text><![CDATA[Transcript]]></text>
+	</component>
+</textcomponents>
+

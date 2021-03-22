@@ -1,0 +1,143 @@
+<textcomponents>
+
+<component id="ID_title1">
+<text><![CDATA[<b>Types of WAN Connections</b>]]></text>
+</component>
+
+<component id="CHART">
+<text><![CDATA[CHART]]></text>
+</component>
+
+<component id="SERIAL">
+<text><![CDATA[SERIAL]]></text>
+</component>
+
+<component id="DSL">
+<text><![CDATA[DSL]]></text>
+</component>
+
+
+
+<component id="ID_title2">
+<text><![CDATA[<b>Types of WAN Connections - DSL</b>]]></text>
+</component>
+<component id="ID_title3">
+<text><![CDATA[<b>Types of WAN Connections - Serial</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Click to see examples of the WAN connection.</b>]]></text>
+</component>
+
+<component id="ID_txt01a">
+<text><![CDATA[<b>Cisco HDLC</b>]]></text>
+</component>
+
+<component id="ID_txt01b">
+<text><![CDATA[<b>PPP</b>]]></text>
+</component>
+
+<component id="ID_txt01c">
+<text><![CDATA[<b>Frame Relay</b>]]></text>
+</component>
+
+<component id="ID_txt01d">
+<text><![CDATA[<b>DSL Modem</b>]]></text>
+</component>
+
+<component id="ID_txt01e">
+<text><![CDATA[<b>Cable Modem</b>]]></text>
+</component>
+
+<component id="ID_txt01f">
+<text><![CDATA[<b>EIA/TIA-232<br>EIA/TIA-449</br><br>X.21V.24</br><br>V.35</br><br>High Speed Serial Interface (HSSI)</br></b>]]></text>
+</component>
+
+<component id="ID_txt01g">
+<text><![CDATA[<b>RJ-11<br>Note: Works over telephone line</br></b>]]></text>
+</component>
+
+<component id="ID_txt01h">
+<text><![CDATA[<b>F<br>Note: Works over Cable TV line</br></b>]]></text>
+</component>
+
+<component id="ID_txt02a">
+<text><![CDATA[<b>Cisco 827-4v router</b>]]></text>
+</component>
+
+<component id="ID_txt02b">
+<text><![CDATA[<b>Wall Jack</b>]]></text>
+</component>
+
+<component id="ID_txt02c">
+<text><![CDATA[<b>Telephone</b>]]></text>
+</component>
+
+<component id="ID_txt02d">
+<text><![CDATA[<b>Same network bandwidth shared by 12 hosts</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Same network bandwidth shared by 12 hosts</b>]]></text>
+</component>
+
+<component id="ID_txt03a">
+<text><![CDATA[<b>End-User Device</b>]]></text>
+</component>
+
+<component id="ID_txt03b">
+<text><![CDATA[<b>Router Connections</b>]]></text>
+</component>
+
+<component id="ID_txt03c">
+<text><![CDATA[<b>CSU/DSU</b>]]></text>
+</component>
+
+<component id="ID_txt03d">
+<text><![CDATA[<b>DCE</b>]]></text>
+</component>
+
+<component id="ID_txt03e">
+<text><![CDATA[<b>Service Provider</b>]]></text>
+</component>
+
+<component id="ID_txt03f">
+<text><![CDATA[<b>EIA/TIA-232</b>]]></text>
+</component>
+
+<component id="ID_txt03g">
+<text><![CDATA[<b>EIA/TIA-449</b>]]></text>
+</component>
+
+<component id="ID_txt03h">
+<text><![CDATA[<b>V.35</b>]]></text>
+</component>
+
+<component id="ID_txt03i">
+<text><![CDATA[<b>X.21</b>]]></text>
+</component>
+
+<component id="ID_txt03j">
+<text><![CDATA[<b>EIA-530</b>]]></text>
+</component>
+
+<component id="ID_txt03k">
+<text><![CDATA[<b>Network Connections at the CSU/DSU</b>]]></text>
+</component>
+
+<component id="ID_txt04l">
+<text><![CDATA[<b>DTE</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Router: Male Smart Serial</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Network: Male Winchester Block Type</b>]]></text>
+</component>
+
+
+</textcomponents>
+
+

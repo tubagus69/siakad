@@ -1,0 +1,14 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>IOS Prompt Structure</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>The prompt changes to denote the current CLI mode.</b>]]></text>
+</component>
+
+
+
+
+
+
+  </textcomponents>

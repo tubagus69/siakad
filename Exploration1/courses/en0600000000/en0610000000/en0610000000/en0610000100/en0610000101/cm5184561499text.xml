@@ -1,0 +1,18 @@
+﻿<textcomponents>
+<component id="ID_caption01">
+<text><![CDATA[<b>Planning & Cabling a Network</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Eagle Server</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Pod#1</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Pod#11</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,117 @@
+﻿<textcomponents>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Network Requirements<br>Using VLSM is more efficient.</b>]]></text>
+</component>
+
+<component id="slide1">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+<component id="slide2">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+<component id="slide3">
+<text><![CDATA[<b>3</b>]]></text>
+</component>
+<component id="slide4">
+<text><![CDATA[<b>4</b>]]></text>
+</component>
+<component id="slide5">
+<text><![CDATA[<b>5</b>]]></text>
+</component>
+<component id="slide6">
+<text><![CDATA[<b>6</b>]]></text>
+</component>
+
+<component id="overlay1">
+<text><![CDATA[<b>AtlantaHQ block</b>]]></text>
+</component>
+
+<component id="overlay2">
+<text><![CDATA[<b>Allocated Addresses</b>]]></text>
+</component>
+
+<component id="overlay3">
+<text><![CDATA[<b>PerthHQ Block</b>]]></text>
+</component>
+
+<component id="overlay4">
+<text><![CDATA[<b>Allocated Addresses</b>]]></text>
+</component>
+
+<component id="overlay5">
+<text><![CDATA[<b>SydneyHQ block</b>]]></text>
+</component>
+
+<component id="overlay6">
+<text><![CDATA[<b>CorpusHQ block</b>]]></text>
+</component>
+
+<component id="overlay7">
+<text><![CDATA[<b>WAN blocks (3)</b>]]></text>
+</component>
+
+<component id="overlay8">
+<text><![CDATA[<b>Allocated Addresses</b>]]></text>
+</component>
+
+
+
+<component id="header01">
+<text><![CDATA[<b>/25 (1 subnet bit)<br>1 subnet<br>126 hosts</b>]]></text>
+</component>
+
+
+<component id="header02">
+<text><![CDATA[<b>/26 (2 subnet bits)<br>3 subnet<br>62 hosts</b>]]></text>
+</component>
+
+<component id="header03">
+<text><![CDATA[<b>/27 (3 subnet bits)<br>7 subnets<br>30 hosts</b>]]></text>
+</component>
+
+<component id="header04">
+<text><![CDATA[<b>/28 (4 subnet bits)<br>15 subnets<br>14 hosts</b>]]></text>
+</component>
+
+<component id="header05">
+<text><![CDATA[<b>/29 (5 subnet bits)<br>31 subnets<br>6 hosts</b>]]></text>
+</component>
+
+<component id="header06">
+<text><![CDATA[<b>/30 (6 subnet bits)<br>63 subnets<br>2 hosts</b>]]></text>
+</component>
+
+
+
+<component id="header01a">
+<text><![CDATA[<b>/25 (1 subnet bit)<br>1 subnet<br>126 hosts</b>]]></text>
+</component>
+
+
+<component id="header02a">
+<text><![CDATA[<b>/26 (2 subnet bits)<br>3 subnet<br>62 hosts</b>]]></text>
+</component>
+
+<component id="header03a">
+<text><![CDATA[<b>/27 (3 subnet bits)<br>7 subnets<br>30 hosts</b>]]></text>
+</component>
+
+<component id="header04a">
+<text><![CDATA[<b>/28 (4 subnet bits)<br>15 subnets<br>14 hosts</b>]]></text>
+</component>
+
+<component id="header05a">
+<text><![CDATA[<b>/29 (5 subnet bits)<br>31 subnets<br>6 hosts</b>]]></text>
+</component>
+
+<component id="header06a">
+<text><![CDATA[<b>/30 (6 subnet bits)<br>63 subnets<br>2 hosts</b>]]></text>
+</component>
+
+<component id="ID_caption08">
+<text><![CDATA[<b>Addressing using VLSM</b>]]></text>
+</component>
+
+
+</textcomponents>

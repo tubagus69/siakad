@@ -1,0 +1,44 @@
+<textcomponents>
+<component id="ID_caption1">
+<text><![CDATA[<b>The way we learn is supported by courseware delivered over the data network.</b>]]></text>
+</component>
+<component id="ID_caption2">
+<text><![CDATA[<b>Students in different locations can work together on  documents and speak together while they work.</b>]]></text>
+</component>
+<component id="ID_caption3">
+<text><![CDATA[<b>Updated maintenance instructions are downloaded to a PDA at the time they are needed.</b>]]></text>
+</component>
+<component id="ID_caption4">
+<text><![CDATA[<b>In addition to supporting courseware, data networks support administration, enrollment, and teacher-student communication.</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Students at remote locations can access the same resources as those available on campus.<br>This course is distributed over the network and the content is enhanced by links to other resources, which are also on the network.
+</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>An administrator publishes the course catalog to a web site.</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>A student enrolls in classes from home.</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>A text message is sent from an instructor telling students that the next class is in the lab.</b>]]></text>
+</component>
+
+<component id="ID_bodytext01">
+<text><![CDATA[<b>Updated Maintenance Instructions:</b><br><br>1. Valve 1 pressure: 230 psi<br>2. Valve 2 pressure: 230 psi<br>3. Valve 3 pressure: 230 psi]]></text>
+</component>
+
+<component id="button1">
+<text><![CDATA[COURSEWARE]]></text>
+</component>
+<component id="button2">
+<text><![CDATA[COLLABORATION]]></text>
+</component>
+<component id="button3">
+<text><![CDATA[REFERENCE]]></text>
+</component>
+<component id="button4">
+<text><![CDATA[ADMINISTRATION]]></text>
+</component>
+</textcomponents>

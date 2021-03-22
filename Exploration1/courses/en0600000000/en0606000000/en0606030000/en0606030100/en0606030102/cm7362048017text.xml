@@ -1,0 +1,52 @@
+<textcomponents>
+<component id="ID_title">
+	<text><![CDATA[<b>IPv4 Address Planning and Assignment<br>Public and Private Addresses</b>]]></text>
+	</component>
+	<component id="PRIVATE ADDRESSES">
+	<text><![CDATA[PRIVATE ADDRESSES]]></text>
+	</component>
+		<component id="PUBLIC ADDRESSES">
+	<text><![CDATA[PUBLIC ADDRESSES]]></text>
+	</component>
+	
+<component id="ID_txt01">
+	<text><![CDATA[<b>Internal Local Network</b>]]></text>
+	</component>
+	<component id="ID_internet">
+	<text><![CDATA[<b>Internet</b>]]></text>
+	</component>
+	
+	
+<component id="ID_txt02">
+	<text><![CDATA[<b>Public Web Servers</b>]]></text>
+	</component>
+	
+<component id="ID_inst">
+	<text><![CDATA[<b>Roll over a  type of address.</b>]]></text>
+	</component>
+	
+<component id="ID_txt03">
+	<text><![CDATA[<b>Network Address Translation required to allow Internet access for private addresses.</b>]]></text>
+	</component>
+	
+	<component id="ID_txt03a">
+	<text><![CDATA[<b>Private Address </b>]]></text>
+	</component>
+	
+		<component id="ID_txt03b">
+	<text><![CDATA[<b>Public Address </b>]]></text>
+	</component>
+	
+		<component id="ID_txt04a">
+	<text><![CDATA[<b>Public Address </b>]]></text>
+	</component>
+	
+		<component id="ID_txt04b">
+	<text><![CDATA[<b>Public Address </b>]]></text>
+	</component>
+	
+<component id="ID_txt04">
+	<text><![CDATA[<b>Public addresses have Internet access.</b>]]></text>
+	</component>
+		
+</textcomponents>

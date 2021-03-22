@@ -1,0 +1,29 @@
+﻿<textcomponents>
+<component id="ID_caption01">
+<text><![CDATA[<b>Clients send e-mails to a server using SMTP and receive e-mails using POP3.</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>E-mail Client (MUA)</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Client</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Get E-mail</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>POP Protocol</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>SMTP/POP3<br>Server</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>SMTP Protocol</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Send E-mail</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Mail User Agent<br>(MUA)</b>]]></text>
+</component>
+</textcomponents>

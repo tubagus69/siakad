@@ -1,0 +1,43 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Recognizing Frame Signals</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<font color="#990000"><b>PHYSICAL LAYER DECODES FRAMED MEDIA SIGNALS INTO BINARY CODE</b></font>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Specific physical signal pattern denotes the start of the frame</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Physical signals representing frame contents</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Specific signal pattern denotes the end of the frame</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Random unframed signals on physical media due to noise or interference</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>A specific bit pattern denotes the start of the frame</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Bit pattern representing frame contents passed to Data Link layer</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Specific bit pattern denotes the end of the frame</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Unframed signals not decoded and not passed to Data Link layer</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,30 @@
+﻿<textcomponents>
+<component id="ID_caption01">
+<text><![CDATA[<b>Ethernet is the predominant LAN technology in use today.</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Shared Media (multiple access)</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Extended Media (multiple access with Layer 1 networking device)</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Point-to-Point</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>SHARED MEDIA</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>ADDRESSING</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>SWITCHING</b>]]></text>
+</component>
+
+</textcomponents>

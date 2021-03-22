@@ -1,0 +1,83 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Port Addressing</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Electronic Mail</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>To: you@example.com<br>From: me@example.com<br>Subject: Email</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>HTML Page</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Internet Chat</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Application Port</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Data</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Application Port</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Data</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Application Port</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Data</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>110</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>80</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>531</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>POP3</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>HTTP</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>IM</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>Data for different applications is directed to the correct application because each application has a unique port number.</b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>Transport</b>]]></text>
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[<b><font color="#FF9900">Different</font><br/>Applications<br/>Protocols<br/>Port Numbers</b>]]></text>
+</component>
+
+</textcomponents>

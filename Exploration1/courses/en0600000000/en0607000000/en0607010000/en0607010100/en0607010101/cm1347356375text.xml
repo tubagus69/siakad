@@ -1,0 +1,53 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Data Link Layer Terms</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Frame</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Node</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Media</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Network</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+<text><![CDATA[<b>A PDU at the Data Link layer is called a frame.</b>]]></text>
+</component>
+<component id="ID_txt06a">
+<text><![CDATA[<b>PDU</b>]]></text>
+</component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>A node is a device on a network.</b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>The media are the physical means used to carry data signals.</b>]]></text> 
+  </component>
+<component id="ID_txt09">
+  <text><![CDATA[<b>A network is two or more devices connected to a common medium.</b>]]></text> 
+  </component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>Application</b>]]></text> 
+  </component>
+<component id="ID_txt11">
+  <text><![CDATA[<b>Presentation</b>]]></text> 
+  </component>
+<component id="ID_txt12">
+  <text><![CDATA[<b>Session</b>]]></text> 
+  </component>
+<component id="ID_txt13">
+  <text><![CDATA[<b>Transport</b>]]></text> 
+  </component>
+<component id="ID_txt14">
+  <text><![CDATA[<b>Network</b>]]></text> 
+  </component>
+  <component id="ID_txt15">
+    <text><![CDATA[<b>Data Link</b>]]></text> 
+  </component>
+  <component id="ID_txt16">
+      <text><![CDATA[<b>Physical</b>]]></text> 
+  </component>
+</textcomponents>

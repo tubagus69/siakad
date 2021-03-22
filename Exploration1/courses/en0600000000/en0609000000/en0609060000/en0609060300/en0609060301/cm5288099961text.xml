@@ -1,0 +1,380 @@
+﻿<textcomponents>
+
+   <component id="play">
+      <text>Play</text>
+   </component>
+   
+   <component id="pause">
+      <text>Pause</text>
+   </component>
+   
+   <component id="rewind">
+      <text>Rewind</text>
+   </component>
+   
+   <component id="forward">
+      <text>Fast Forward</text>
+   </component>
+   
+   <component id="mute">
+      <text>Mute</text>
+   </component>
+   
+   <component id="unmute">
+      <text>UnMute</text>
+   </component>
+   
+   <component id="previous">
+      <text>Restart</text>
+   </component>
+   
+   <component id="next">
+      <text>End</text>
+   </component>
+   
+   <component id="transcript">
+      <text>Transcript</text>
+   </component>
+   
+   
+   <component id="ID_txt01">
+      <text><![CDATA[<b>Switches - Selective Forwarding</b>]]></text>
+   </component>
+   
+   <component id="ID_txt02">
+      <text><![CDATA[<b>Click Play to see the animation.</b>]]></text>
+   </component>
+   
+   <component id="ID_header1">
+         <text><![CDATA[<b>PORT</b>]]></text>
+   </component>
+     
+   <component id="ID_header2">
+         <text><![CDATA[<b>MAC ADDRESS</b>]]></text>
+   </component>
+   
+   <component id="ID_header3">
+         <text><![CDATA[<b>Preamble</b>]]></text>
+   </component>
+       
+   <component id="ID_header4">
+         <text><![CDATA[<b>Destination Address</b>]]></text>
+   </component>
+       
+   <component id="ID_header5">
+         <text><![CDATA[<b>Source Address</b>]]></text>
+   </component>
+       
+   <component id="ID_header6">
+         <text><![CDATA[<b>Type</b>]]></text>
+   </component>
+       
+   <component id="ID_header7">
+         <text><![CDATA[<b>Data</b>]]></text>
+   </component>
+       
+   <component id="ID_header8">
+         <text><![CDATA[<b>Pad</b>]]></text>
+   </component>
+       
+   <component id="ID_header9">
+         <text><![CDATA[<b>CRC</b>]]></text>
+   </component>
+      
+   
+   <component id="ID_header10">
+         <text><![CDATA[<b>Preamble</b>]]></text>
+   </component>
+    
+       
+   <component id="ID_header11">
+         <text><![CDATA[<b>Destination Address</b>]]></text>
+   </component>
+        
+       
+   <component id="ID_header12">
+         <text><![CDATA[<b>Source Address</b>]]></text>
+   </component>
+          
+         
+   <component id="ID_header13">
+         <text><![CDATA[<b>Type</b>]]></text>
+   </component>
+          
+         
+   <component id="ID_header14">
+         <text><![CDATA[<b>Data</b>]]></text>
+   </component>
+          
+          
+   <component id="ID_header15">
+         <text><![CDATA[<b>Pad</b>]]></text>
+   </component>
+          
+         
+   <component id="ID_header16">
+         <text><![CDATA[<b>CRC</b>]]></text>
+   </component>
+     
+   <component id="ID_header17">
+         <text><![CDATA[<b>Preamble</b>]]></text>
+   </component>
+       
+          
+   <component id="ID_header18">
+         <text><![CDATA[<b>Destination Address</b>]]></text>
+   </component>
+           
+          
+   <component id="ID_header19">
+         <text><![CDATA[<b>Source Address</b>]]></text>
+   </component>
+             
+            
+   <component id="ID_header20">
+         <text><![CDATA[<b>Type</b>]]></text>
+   </component>
+             
+            
+   <component id="ID_header21">
+         <text><![CDATA[<b>Data</b>]]></text>
+   </component>
+             
+             
+   <component id="ID_header22">
+         <text><![CDATA[<b>Pad</b>]]></text>
+   </component>
+             
+            
+   <component id="ID_header23">
+         <text><![CDATA[<b>CRC</b>]]></text>
+   </component>
+          
+      
+   <component id="ID_txt01a">
+         <text><![CDATA[1]]></text>
+   </component>
+       
+   <component id="ID_txt02a">
+         <text><![CDATA[3]]></text>
+   </component>
+       
+   <component id="ID_txt03a">
+         <text><![CDATA[6]]></text>
+   </component>
+       
+   <component id="ID_txt04a">
+         <text><![CDATA[9]]></text>
+   </component>
+       
+   <component id="ID_txt05a">
+         <text><![CDATA[0A]]></text>
+   </component>
+       
+   <component id="ID_txt06a">
+         <text><![CDATA[0B]]></text>
+   </component>
+       
+   <component id="ID_txt07a">
+         <text><![CDATA[0C]]></text>
+   </component>
+       
+   <component id="ID_txt08a">
+         <text><![CDATA[0D]]></text>
+   </component>
+         
+   <component id="ID_txt09a">
+        <text><![CDATA[0C]]></text>
+   </component>
+         
+   <component id="ID_txt10a">
+        <text><![CDATA[0A]]></text>
+   </component>
+            
+   <component id="ID_txt11a">
+        <text><![CDATA[0C]]></text>
+   </component>
+               
+     
+   <component id="ID_txt12a">
+        <text><![CDATA[0D]]></text>
+   </component>
+      
+      
+   <component id="ID_txt13a">
+        <text><![CDATA[<b>FRAME 1</b>]]></text>
+   </component>
+   
+   <component id="ID_txt13b">
+        <text><![CDATA[<b>FRAME 2</b>]]></text>
+   </component>
+     
+   <component id="ID_txt14a">
+        <text><![CDATA[<b>0A</b>]]></text>
+   </component>
+     
+   <component id="ID_txt15a">
+        <text><![CDATA[<b>0B</b>]]></text>
+   </component>
+     
+   <component id="ID_txt16a">
+        <text><![CDATA[<b>0C</b>]]></text>
+   </component>
+     
+   <component id="ID_txt17a">
+        <text><![CDATA[<b>0D</b>]]></text>
+   </component>
+        
+   <component id="ID_txt18a">
+        <text><![CDATA[<b>1</b>]]></text>
+   </component>
+        
+   <component id="ID_txt19a">
+        <text><![CDATA[<b>3</b>]]></text>
+   </component>
+        
+   <component id="ID_txt20a">
+        <text><![CDATA[<b>6</b>]]></text>
+   </component>
+        
+   <component id="ID_txt21a">
+        <text><![CDATA[<b>9</b>]]></text>
+   </component>
+         
+   <component id="ID_txt22a">
+        <text><![CDATA[<b>SWITCHING TABLE</b>]]></text>
+   </component>
+           
+   <component id="ID_txt23">
+        <text><![CDATA[0C]]></text>
+   </component>
+           
+   <component id="ID_txt24">
+        <text><![CDATA[0B]]></text>
+   </component>
+              
+   <component id="ID_txt25">
+        <text><![CDATA[<b>Buffer and Forward</b>]]></text>
+   </component>
+   
+   <component id="Bubble_01">
+   	<text><![CDATA[<b>Here's a match, but I've got 2 frames going to the same port! I'll send them one at a time to port 6.</b>]]></text>
+   </component>
+   
+   
+   
+             
+   <component id="ID_flash01">
+        <text><![CDATA[<b>Flash</b>]]></text>
+   </component>
+                
+   <component id="ID_flash02">
+        <text><![CDATA[<b>CPU</b>]]></text>
+   </component>
+                
+   <component id="ID_flash03">
+        <text><![CDATA[<b>MAC<br/>Address Table</b>]]></text>
+   </component>
+                
+   <component id="ID_flash04">
+        <text><![CDATA[<b>Switching<br/>Logic</b>]]></text>
+   </component>
+                
+   <component id="ID_flash05">
+        <text><![CDATA[<b>Memory<br/>Buffers</b>]]></text>
+   </component>
+                
+   <component id="ID_flash06">
+        <text><![CDATA[<b>Fa<br/>0/1</b>]]></text>
+   </component>
+                
+   <component id="ID_flash07">
+        <text><![CDATA[<b>Fa<br/>0/2</b>]]></text>
+   </component>
+                
+   <component id="ID_flash08">
+        <text><![CDATA[<b>Fa<br/>0/3</b>]]></text>
+   </component>
+                
+   <component id="ID_flash09">
+        <text><![CDATA[<b>Fa<br/>0/4</b>]]></text>
+   </component>
+                
+   <component id="ID_flash10">
+        <text><![CDATA[<b>Fa<br/>0/5</b>]]></text>
+   </component>
+                
+   <component id="ID_flash11">
+        <text><![CDATA[<b>Fa<br/>0/6</b>]]></text>
+   </component>
+                
+   <component id="ID_flash12">
+        <text><![CDATA[<b>Fa<br/>0/7</b>]]></text>
+   </component>
+                
+   <component id="ID_flash13">
+        <text><![CDATA[<b>Fa<br/>0/8</b>]]></text>
+   </component>
+                
+   <component id="ID_flash14">
+        <text><![CDATA[<b>Fa<br/>0/9</b>]]></text>
+   </component>
+                
+   <component id="ID_flash15">
+        <text><![CDATA[<b>Fa<br/>0/10</b>]]></text>
+   </component>
+                
+   <component id="ID_flash16">
+        <text><![CDATA[<b>Fa<br/>0/11</b>]]></text>
+   </component>
+                
+   <component id="ID_flash17">
+        <text><![CDATA[<b>Fa<br/>0/12</b>]]></text>
+   </component>
+                  
+   <component id="ID_flash18">
+        <text><![CDATA[<b>PORT</b>]]></text>
+   </component>
+                     
+   <component id="ID_flash19">
+        <text><![CDATA[<b>1</b>]]></text>
+   </component>
+                     
+   <component id="ID_flash20">
+        <text><![CDATA[<b>3</b>]]></text>
+   </component>
+                     
+   <component id="ID_flash21">
+        <text><![CDATA[<b>6</b>]]></text>
+   </component>
+                     
+   <component id="ID_flash22">
+        <text><![CDATA[<b>9</b>]]></text>
+   </component>
+                     
+   <component id="ID_flash23">
+        <text><![CDATA[<b>MAC</b>]]></text>
+   </component>
+                     
+   <component id="ID_flash24">
+        <text><![CDATA[<b>0A</b>]]></text>
+   </component>
+                     
+   <component id="ID_flash25">
+        <text><![CDATA[<b>0B</b>]]></text>
+   </component>
+                     
+   <component id="ID_flash26">
+        <text><![CDATA[<b>0C</b>]]></text>
+   </component>
+                     
+   <component id="ID_flash27">
+        <text><![CDATA[<b>0D</b>]]></text>
+   </component>
+   
+   
+    
+  
+      
+   
+</textcomponents>

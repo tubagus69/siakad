@@ -1,0 +1,48 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Streaming video or audio</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Vital Transactions</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Downloading web pages (often lower priority)</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Choppy picture starts and stops.</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Clear, continuous service.</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>Time    : Price<BR><BR>02:14:05  $1.54</b>]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>Time    : Price<BR><BR>02:14:04  $1.52</b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>Just one second earlier...</b>]]></text> 
+  </component>
+<component id="ID_txt09">
+  <text><![CDATA[<b>The price may be better.</b>]]></text> 
+  </component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>Web pages arrive a bit later...</b>]]></text> 
+  </component>
+<component id="ID_txt11">
+  <text><![CDATA[<b>But the end result is identical.</b>]]></text> 
+  </component>
+<component id="ID_header1">
+  <text><![CDATA[<b>Communication Type</b>]]></text> 
+  </component>
+<component id="ID_header2">
+  <text><![CDATA[<b>Without QoS</b>]]></text> 
+  </component>
+<component id="ID_header3">
+  <text><![CDATA[<b>With QoS</b>]]></text> 
+  </component>
+<component id="title">
+  <text><![CDATA[<b>Quality of Service Matters</b>]]></text> 
+  </component>
+
+</textcomponents>

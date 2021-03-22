@@ -1,0 +1,120 @@
+﻿<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Connectionless Communication</b>]]></text>
+</component>
+
+<component id="ID_titlea">
+<text><![CDATA[<b>Connectionless Communication</b>]]></text>
+</component>
+
+<component id="ID_txt1_mail">
+<text><![CDATA[POSTAL ROUTES]]></text>
+</component>
+
+<component id="ID_txt1_data">
+<text><![CDATA[DATA NETWORKS]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Letter</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Post Box</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Letter</b>]]></text>
+</component>
+
+
+<component id="ID_txt01a">
+<text><![CDATA[<b>IP Header</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt02a">
+<text><![CDATA[<b>Segment</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt03a">
+<text><![CDATA[<b>IP Header</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>A <font color="#009900">letter</font> is sent.</b>]]></text>
+</component>
+
+<component id="ID_txt04a">
+<text><![CDATA[<b>A <font color="#009900">packet</font> is sent.</b>]]></text>
+</component>
+
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Segment</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Click to compare networks.</b>]]></text>
+</component>
+
+<component id="ID_insta">
+<text><![CDATA[<b>Click to compare networks.</b>]]></text>
+</component>
+
+<component id="ID_header1">
+<text><![CDATA[<b>The sender doesn't know:</b>]]></text>
+</component>
+<component id="ID_header1a">
+<text><![CDATA[<b>The receiver doesn't know:</b>]]></text>
+</component>
+<component id="ID_txt1_new">
+<text><![CDATA[]]></text>
+</component>
+<component id="ID_txt2_new">
+<text><![CDATA[<ul><li>if the receiver is present</li></ul>]]></text>
+</component>
+<component id="ID_txt3_new">
+<text><![CDATA[<ul><li>if the letter arrived</li></ul>]]></text>
+</component>
+<component id="ID_txt4_new">
+<text><![CDATA[<ul><li>if the receiver can read the letter</li></ul>]]></text>
+</component>
+<component id="ID_txt5_new">
+<text><![CDATA[]]></text>
+</component>
+<component id="ID_txt6_new">
+<text><![CDATA[<ul><li>when it is coming</li></ul>]]></text>
+</component>
+
+<component id="ID_header2">
+<text><![CDATA[<b>The sender doesn't know:</b>]]></text>
+</component>
+<component id="ID_header2b">
+<text><![CDATA[<b>The receiver doesn't know:</b>]]></text>
+</component>
+<component id="ID_txt11_new">
+<text><![CDATA[]]></text>
+</component>
+<component id="ID_txt12_new">
+<text><![CDATA[<ul><li>if the receiver is present</li></ul>]]></text>
+</component>
+<component id="ID_txt13_new">
+<text><![CDATA[<ul><li>if the packet arrived </li></ul>]]></text>
+</component>
+<component id="ID_txt14_new">
+<text><![CDATA[<ul><li>if the receiver can read the packet </li></ul>]]></text>
+</component>
+<component id="ID_txt15_new">
+<text><![CDATA[]]></text>
+</component>
+<component id="ID_txt16_new">
+<text><![CDATA[<ul><li>when it is coming</li></ul>]]></text>
+</component>
+
+
+</textcomponents>

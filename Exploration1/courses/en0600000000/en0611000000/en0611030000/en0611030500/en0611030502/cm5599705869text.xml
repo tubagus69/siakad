@@ -1,0 +1,63 @@
+﻿<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Interpreting Test Results</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>192.168.23.2/24</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>192.168.23.3/24</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Host1</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>192.168.23.254/24</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>RouterA</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>RouterB</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>RouterC</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>RouterD</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>192.168.11.254/24</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>192.168.11.1/24</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>192.168.11.2/24</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<font face = "courier new"><b>IP Address. . . . : 192.168.23.3<br>Subnet Mask . . . : 255.255.255.0<br>Default Gateway . : 192.168.23.<font color = "#990000">253</font></b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>A ping from Host1 to a correct gateway address succeeds.</b>]]></text>
+</component>
+
+<component id="ID_txt15_1">
+<text><![CDATA[<b>A ping from Host1 fails because the wrong gateway address is configured on the host.</b>]]></text>
+</component>
+
+</textcomponents>

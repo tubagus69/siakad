@@ -1,0 +1,70 @@
+{
+    "menu": [
+        {
+            "kategori": "ayam",
+            "nama": "Combo 1pcs Fire Chicken",
+            "deskripsi": "1 potong ayam goreng dibalut saus BBQ dengan pilihan level 0 s.d level 5, disajikan dengan cheese sauce lezat, 1 nasi dan 1 Pink Lava/ Fruitarian ukuran Medium. (1 nasi + 1 Fire Chicken (Level 0 s.d 5) + Cheese Sauce + Minuman)",
+            "harga": 20000,
+            "gambar": "2.png"
+        },
+        {
+            "kategori": "ayam",
+            "nama": "Combo Duo Fire Chicken",
+            "deskripsi": "1 nasi + 2 Fire Chicken (Level 0 s.d 5) + Cheese Sauce + Minuman BBQ dengan pilihan level 0 s.d level 5, disajikan dengan cheese sauce lezat, 1 nasi dan 1 Pink Lava/ Fruitarian ukuran Medium. (2 potong ayam goreng dibalut saus)",
+            "harga": 26000,
+            "gambar": "3.png"
+        },
+        {
+            "kategori": "ayam",
+            "nama": "Combo 2 Hot & Spicy Chicken",
+            "deskripsi": "2 ayam goreng super renyah ditambah 1 nasi, disajikan dengan cheese sauce yang lezat dan 1 Pink Lava/ Fruitarian ukuran Medium (1 nasi + 2 HS Chicken + Cheese Sauce + Minuman)",
+            "harga": 30000,
+            "gambar": "1.png"
+        },
+        
+        {
+            "kategori": "meal kids",
+            "nama": "Combo Kids Meal Crispy Chicken",
+            "deskripsi": "1 potong Crispy Chicken, disajikan dengan cheese sauce lezat, 1 nasi dan 1 Pink Lava/ Fruitarian ukuran Medium. (1 nasi + 1 Crispy Chicken + Cheese Sauce + Minuman)",
+            "harga": 18000,
+            "gambar": "4.png"
+        },
+        {
+            "kategori": "meal kids",
+            "nama": "Combo Birthday Richicken",
+            "deskripsi": "Paket Ulang Tahun Anak, terdiri dari 1 potong ayam goreng bagian paha bawah khas Richeese Factory, disajikan dengan cheese sauce lezat, 1 nasi dan 1 Pink Lava/ Fruitarian ukuran Medium. (1 nasi + 1 Richicken + Cheese Sauce + Minuman )",
+            "harga": 23000,
+            "gambar": "5.png"
+        },
+        
+        {
+            "kategori": "snack and dessert",
+            "nama": "Cookies and Cream Cake In a Cup",
+            "deskripsi": "Manis dan lembutnya cake dengan varian rasa Cookies and Cream yang dapat membuat harimu lebih indah.",
+            "harga": 10000,
+            "gambar": "6.png"
+        },
+        {
+            "kategori": "snack and dessert",
+            "nama": "Milk Chocolate Cake In a Cup",
+            "deskripsi": "Manis dan lembutnya cake dengan varian rasa Milk Chocolate yang dapat membuat harimu lebih indah.",
+            "harga": 12000,
+            "gambar": "7.png"
+        },
+        
+        {
+            "kategori": "beverages",
+            "nama": "Frutarian Tea",
+            "deskripsi": "Minuman perpaduan rasa teh dan rasa buah yang segar.",
+            "harga": 6000,
+            "gambar": "8.png"
+        },
+        {
+            "kategori": "beverages",
+            "nama": "Pink Lava",
+            "deskripsi": "Minuman segar dengan perpaduan manisnya susu dan manisnya stroberi.",
+            "harga": 8000,
+            "gambar": "9.png"
+        }
+    ]
+}

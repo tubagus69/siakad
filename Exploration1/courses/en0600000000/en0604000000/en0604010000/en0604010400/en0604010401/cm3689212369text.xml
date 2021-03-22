@@ -1,0 +1,106 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>TCP and UDP Headers</b>]]></text> 
+</component>
+
+<component id="ID_title1">
+<text><![CDATA[<b>TCP Segment</b>]]></text> 
+</component>
+<component id="ID_title2">
+<text><![CDATA[<b>UDP Datagram</b>]]></text> 
+</component>
+
+<component id="ID_level1">
+<text><![CDATA[<b>20 Bytes</b>]]></text> 
+</component>
+
+<component id="ID_level2">
+<text><![CDATA[<b>8 Bytes</b>]]></text> 
+</component>
+
+<component id="ID_txt001">
+<text><![CDATA[<b>Bit (0)</b>]]></text> 
+</component>
+
+<component id="ID_txt002">
+<text><![CDATA[<b>Bit (15) Bit (16)</b>]]></text> 
+</component>
+
+<component id="ID_txt003">
+<text><![CDATA[<b>Bit (31)</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Source Port (16)</b>]]></text> 
+</component>
+
+<component id="ID_txt01a">
+<text><![CDATA[<b>Destination Port (16)</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Sequence Number (32)</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Acknowledgement Number (32)</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Header Length (4) Reserved (6) Code Bits (6)</b>]]></text> 
+</component>
+
+<component id="ID_txt04a">
+<text><![CDATA[<b>Window (16)</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Checksum (16)</b>]]></text> 
+</component>
+
+<component id="ID_txt05a">
+<text><![CDATA[<b>Urgent (16)</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Options (0 or 32 if any)</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>APPLICATION LAYER DATA (Size varies)</b>]]></text> 
+</component>
+
+<component id="ID_txt111">
+<text><![CDATA[<b>Bit (0)</b>]]></text> 
+</component>
+
+<component id="ID_txt222">
+<text><![CDATA[<b>Bit (15) Bit (16)</b>]]></text> 
+</component>
+
+<component id="ID_txt333">
+<text><![CDATA[<b>Bit (31)</b>]]></text> 
+</component>
+
+<component id="ID_txt1">
+<text><![CDATA[<b>Source Port (16)</b>]]></text> 
+</component>
+
+<component id="ID_txt2">
+<text><![CDATA[<b>Length (16)</b>]]></text> 
+</component>
+
+<component id="ID_txt3">
+<text><![CDATA[<b>APPLICATION LAYER DATA (Size varies)</b>]]></text> 
+</component>
+
+<component id="ID_txt1a">
+<text><![CDATA[<b>Destination Port (16)</b>]]></text> 
+</component>
+
+<component id="ID_txt2a">
+<text><![CDATA[<b>Checksum (16)</b>]]></text> 
+</component>
+
+</textcomponents>

@@ -1,0 +1,52 @@
+<textcomponents>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Fiber Media Connectors</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>ST Connector</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Straight Tip (ST) connector is used with single-mode fiber</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Single-Mode (LC) </b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Single-Mode Lucent Connector (LC)</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Duplex Multimode (LC) </b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Duplex Multimode  LC Connector </b>]]></text> 
+</component>
+
+
+<component id="ID_txt08">
+<text><![CDATA[<b>SC Connector</b>]]></text> 
+</component>
+
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Subscriber Connector (SC) is used with multimode fiber</b>]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Multimode (LC) </b>]]></text> 
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Multimode LC Connector</b>]]></text> 
+</component>
+
+
+
+</textcomponents>

@@ -1,0 +1,140 @@
+<textcomponents>
+   <component id="ID_txt01">
+      <text><![CDATA[<b>Use the subnet mask to determine the network address for the host 173.16.132.70/20.</b>]]></text>
+   </component>
+   <component id="ID_txt02">
+      <text><![CDATA[<b>Host Address</b>]]></text>
+   </component>
+   
+
+   
+   <component id="ID_txt04">
+      <text><![CDATA[<b>10101100&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;00010000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10000100&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01000110</b>]]></text>
+   </component>
+   
+   <component id="ID_txt05">
+      <text><![CDATA[<b>Binary Host<br/>Address</b>]]></text>
+   </component>
+                                                                                                                                                                                   
+   <component id="ID_txt06">                                                                                                                                                       
+      <text><![CDATA[<b>111111111&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11111111&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11110000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;00000000</b>]]></text>
+   </component>
+   
+   <component id="ID_txt07">
+      <text><![CDATA[<b>Convert host address to binary</b>]]></text>
+   </component>
+   
+   <component id="ID_txt08">
+      <text><![CDATA[<b>Binary Subnet Mask</b>]]></text>
+   </component>
+   
+   <component id="ID_txt09">
+      <text><![CDATA[<b>Convert /20 prefix to binary subnet mask</b>]]></text>
+   </component>
+   
+   <component id="ID_txt10">
+      <text><![CDATA[<b><font color="#993333">1</font></b>]]></text>
+   </component>
+   
+   <component id="ID_txt11">
+      <text><![CDATA[<b>Binary Network Address</b>]]></text>
+   </component>
+   
+   <component id="ID_txt12">
+      <text><![CDATA[<b>AND most significant bit of host address<br/>with most significant bit of mask</b>]]></text>
+   </component>
+   
+   <component id="ID_txt13">
+      <text><![CDATA[<b>AND</b>]]></text>
+   </component>
+   
+   <component id="ID_txt14">
+          <text><![CDATA[<b>&nbsp;&nbsp;1<font color="#993333">0</font></b>]]></text>
+   </component>
+   
+   <component id="ID_txt15">
+      <text><![CDATA[<b>AND next significant bit of host address with next significant bit of mask</b>]]></text>
+   </component>
+   
+   <component id="ID_txt14a">
+      <text><![CDATA[<b>Binary Network<br/>Address</b>]]></text>
+   </component>
+   
+   <component id="ID_txt16">
+      <text><![CDATA[<b>Continue to AND each bit of host address with corresponding "1" bit of mask</b>]]></text>
+   </component>
+   
+   <component id="ID_txt17">
+      <text><![CDATA[<b>Binary Network<br/>Address</b>]]></text>
+   </component>
+   
+   <component id="ID_txt18">
+      <text><![CDATA[<b>10<font color="#993333">1</font></b>]]></text>
+   </component>
+   
+   <component id="ID_Inst">
+      <text><![CDATA[<b>Click Play to view the animation.</b>]]></text>
+   </component>
+   
+   <component id="ID_txt19">
+      <text><![CDATA[<b>Binary Network<br/>Address</b>]]></text>
+   </component>
+   
+   <component id="ID_txt20">
+      <text><![CDATA[<b>101<font color="#993333">0</font></b>]]></text>
+   </component>
+   
+   <component id="ID_txt21">
+     <text><![CDATA[<b>10101100&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;00010000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1000<font color="#993333">0</font></b>]]></text>
+   </component>
+   
+   <component id="ID_txt22">
+      <text><![CDATA[<b>AND each bit of host address with corresponding "0" bit of mask</b>]]></text>
+   </component>
+   
+   <component id="ID_txt23">
+      <text><![CDATA[<b>10101100&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;00010000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1000000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0000000<font color="#993333">0</font></b>]]></text>
+   </component>
+   
+   <component id="ID_txt24">
+     <text><![CDATA[<b>AND each bit of host address with corresponding "0" bit of mask</b>]]></text>
+   </component>
+   
+
+   
+   <component id="ID_txt26">
+      <text><![CDATA[<b>Network Address</b>]]></text>
+   </component>
+   
+   <component id="ID_txt27">
+         <text><![CDATA[<b>Convert binary network address to decimal</b>]]></text>
+   </component>
+   
+   <component id="play">
+      <text>Play</text>
+   </component>
+   <component id="pause">
+      <text>Pause</text>
+   </component>
+   <component id="rewind">
+      <text>Rewind</text>
+   </component>
+   <component id="forward">
+      <text>Fast Forward</text>
+   </component>
+   <component id="mute">
+      <text>Mute</text>
+   </component>
+   <component id="unmute">
+      <text>UnMute</text>
+   </component>
+   <component id="previous">
+      <text>Restart</text>
+   </component>
+   <component id="next">
+      <text>End</text>
+   </component>
+   <component id="transcript">
+      <text>Transcript</text>
+   </component>
+</textcomponents>

@@ -1,0 +1,51 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>The ARP Process - Removing Address Mappings</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>10.10.0.1<br><font color = "#003399"><b>00-0d-88-c7-9a-24</b></font><br><font color = "#990000">FFFF.FFFF.FFFF</b></font>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>10.10.0.2<br><font color = "#003399"><b>00-08-a3-b6-ce-04</b></font><br><font color = "#990000">FFFF.FFFF.FFFF</b></font>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>10.10.0.4<br><font color = "#003399"><b>00-12-3f-d4-6d-1b</b></font><br><font color = "#990000">FFFF.FFFF.FFFF</b></font>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>10.10.0.254<br><font color = "#003399"><b>00-10-7b-e7-fa-ef</b></font><br><font color = "#990000">FFFF.FFFF.FFFF</b></font>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>If C's IP and MAC addresses are not removed from A's ARP Cache, A may still try to communicate with C.</b></font>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Computer C removed from network.</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>A</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>B</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>D</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>A's ARP CACHE<br>10.10.0.3 = 00-0d-56-09-fb-d1<br>10.10.0.254 = 00-10-7b-e7-fa-ef</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+
+</textcomponents>

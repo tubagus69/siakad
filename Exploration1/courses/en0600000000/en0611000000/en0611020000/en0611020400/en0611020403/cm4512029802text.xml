@@ -1,0 +1,22 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Router Interfaces Descriptions</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[ ]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Description is all text after this space</b>]]></text> 
+  </component>
+  <component id="ID_txt03a">
+  <text><![CDATA[<b>Description is all text after this space</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>Interface description used for internal network documentation</b>]]></text> 
+  </component>
+
+  </textcomponents>

@@ -1,0 +1,53 @@
+<textcomponents>
+<component id="ID_caption1">
+<text><![CDATA[<b>Communication is successful when the intended message has been received and confirmed.</b>]]></text>
+</component>
+<component id="ID_caption2">
+<text><![CDATA[<b>Before communication can begin, we may have to reach an agreement on the language used.</b>]]></text>
+</component>
+<component id="ID_caption3">
+<text><![CDATA[<b>Before communication can begin, we may have to reach an agreement on the method used.</b>]]></text>
+</component>
+<component id="ID_txt01_1">
+<text><![CDATA[<b>1. I would like to order 3 black shirts, size medium.</b>]]></text>
+</component>
+<component id="ID_txt02_1">
+<text><![CDATA[<b>2. Yes, I understand your order: 3 medium, black shirts.</b>]]></text>
+</component>
+<component id="ID_txt03_1">
+<text><![CDATA[<b>3. Yes, that is correct. Thank you.</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>1. I can speak Japanese and English.</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>2. I can speak Spanish and English.</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>3. We can communicate in English then!</b>]]></text>
+</component>
+<component id="ID_txt01_3">
+<text><![CDATA[<b>1. Uses sign language...</b>]]></text>
+</component>
+<component id="ID_txt02_3">
+<text><![CDATA[<b>2. Writes note: <i>Sorry I do not understand signing.</i></b>]]></text>
+</component>
+<component id="ID_txt03_3">
+<text><![CDATA[<b>3. Writes note: <i>Can we use written notes?</i></b>]]></text>
+</component>
+<component id="ID_txt04_3">
+<text><![CDATA[<b>4. <i>Yes, that will be fine.</i></b>]]></text>
+</component>
+<component id="button1">
+<text><![CDATA[<B>Confirmation</B>]]></text>
+</component>
+<component id="button2">
+<text><![CDATA[<B>Language</B>]]></text>
+</component>
+<component id="button3">
+<text><![CDATA[<B>Method</B>]]></text>
+</component>
+<component id="click">
+<text><![CDATA[<b>Click to see a factor in successful communication.</b>]]></text>
+</component>
+</textcomponents>

@@ -1,0 +1,168 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Acknowledgement of TCP Segments</b>]]></text>
+</component>
+
+<component id="ID_txt001">
+<text><![CDATA[<b>Start with byte #1, <br/>I am sending 10 bytes.</b>]]></text>
+</component>
+
+<component id="ID_txt002">
+<text><![CDATA[<b>I received 10 bytes <br/>starting with byte #1.<br/>I expect byte #11 next.</b>]]></text>
+</component>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Source Port</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Destination Port</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Sequence Number</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>Acknowledgement Numbers</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>...</b>]]></text> 
+  </component>
+  
+<component id="ID_txt06">
+    <text><![CDATA[<b>Network</b>]]></text> 
+  </component>
+  
+<component id="ID_txt07">
+<text><![CDATA[<b>Source</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+  <text><![CDATA[<b>Des.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt09">
+  <text><![CDATA[<b>Seq.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt10">
+  <text><![CDATA[<b>Ack.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt11">
+  <text><![CDATA[<b>1028</b>]]></text> 
+  </component>
+  
+<component id="ID_txt12">
+    <text><![CDATA[<b>23</b>]]></text> 
+  </component>
+  
+<component id="ID_txt13">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+  <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+  
+<component id="ID_txt15">
+  <text><![CDATA[<b>...</b>]]></text> 
+  </component>
+  
+<component id="ID_txt07a">
+<text><![CDATA[<b>Source</b>]]></text>
+</component>
+
+<component id="ID_txt08a">
+  <text><![CDATA[<b>Des.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt09a">
+  <text><![CDATA[<b>Seq.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt10a">
+  <text><![CDATA[<b>Ack.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt11a">
+  <text><![CDATA[<b>1028</b>]]></text> 
+  </component>
+  
+<component id="ID_txt12a">
+    <text><![CDATA[<b>23</b>]]></text> 
+  </component>
+  
+<component id="ID_txt13a">
+<text><![CDATA[<b>11</b>]]></text>
+</component>
+
+<component id="ID_txt14a">
+  <text><![CDATA[<b>1</b>]]></text> 
+  </component>
+  
+<component id="ID_txt15a">
+  <text><![CDATA[<b>...</b>]]></text> 
+  </component>
+  
+<component id="ID_txt07b">
+<text><![CDATA[<b>Source</b>]]></text>
+</component>
+
+<component id="ID_txt08b">
+  <text><![CDATA[<b>Des.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt09b">
+  <text><![CDATA[<b>Seq.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt10b">
+  <text><![CDATA[<b>Ack.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt11b">
+  <text><![CDATA[<b>23</b>]]></text> 
+  </component>
+  
+<component id="ID_txt12b">
+    <text><![CDATA[<b>1028</b>]]></text> 
+  </component>
+  
+<component id="ID_txt13b">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+
+<component id="ID_txt14b">
+  <text><![CDATA[<b>11</b>]]></text> 
+  </component>
+  
+<component id="ID_txt15b">
+  <text><![CDATA[<b>...</b>]]></text> 
+  </component>
+  
+<component id="ID_txt16">
+  <text><![CDATA[<b>10 bytes</b>]]></text> 
+  </component>
+  
+<component id="ID_txt17">
+  <text><![CDATA[<b>more bytes starting with byte #11</b>]]></text> 
+  </component>
+  
+<component id="ID_txt18">
+    <text><![CDATA[<b>Receive 4501 - 6000</b>]]></text> 
+  </component>
+  
+<component id="ID_txt19">
+  <text><![CDATA[<b>Acknowledgement number 6001</b>]]></text> 
+  </component>
+  
+<component id="ID_txt20">
+    <text><![CDATA[<b><br>The<font color="#993333"> window size </font>determines the number of bytes sent before an acknowledgment is expected.</br><br>The <font color="#993333">acknowledgement </font>number is the number of the next expected byte.</b></br>]]></text> 
+  </component>
+  
+</textcomponents> 

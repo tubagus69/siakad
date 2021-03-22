@@ -1,0 +1,39 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Command Syntax Check Help</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[not enough characters entered for the IOS to recognize the command]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[not all of the required keywords or arguments were entered]]></text> 
+  </component>
+<component id="ID_txt06">
+<text><![CDATA[command was entered incorrectly. The error occurred where the caret mark (^) appears.]]></text>
+</component>
+
+  <component id="ID_txt10">
+      <text><![CDATA[Reenter the command followed by a question mark (?) with no space between the command and the question mark.<br/>The possible keywords that you can enter with the command are displayed.]]></text> 
+        </component>
+  <component id="ID_txt11">
+      <text><![CDATA[Reenter the command followed by a question mark (?) with a space after last word. The required keywords or arguments are displayed.]]></text> 
+  </component>
+  <component id="ID_txt12">
+      <text><![CDATA[Reenter the command followed by a question mark (?) in a place pointed by '^' mark. It can be also needed to delete last keyword(s) or argument(s).]]></text> 
+  </component>
+
+  
+  <component id="ID_header1">
+      <text><![CDATA[<b>Error Message </b>]]></text> 
+  </component>
+  <component id="ID_header2">
+      <text><![CDATA[<b>Meaning</b>]]></text> 
+  </component>
+    <component id="ID_header3">
+	      <text><![CDATA[<b>Examples</b>]]></text> 
+  </component>
+    <component id="ID_header4">
+	      <text><![CDATA[<b>How to Get Help </b>]]></text> 
+  </component>
+  </textcomponents>

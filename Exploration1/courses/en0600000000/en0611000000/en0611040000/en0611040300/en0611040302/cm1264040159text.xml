@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Switch Connections</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Table showing MAC addresses connected to switch interfaces</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Multiple devices connected to Fa0/23</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,63 @@
+<textcomponents>
+
+<component id="ID_title">
+	<text><![CDATA[<b>Reserved IPv4 Address Ranges</b>]]></text>
+</component>
+
+
+
+
+<component id="ID_txt01">
+	<text><![CDATA[<b>Type of Address</b>]]></text>
+</component>
+<component id="ID_txt02">
+	<text><![CDATA[<b>Host Address</b>]]></text>
+</component>
+<component id="ID_txt03">
+	<text><![CDATA[<b>Multicast Addresses</b>]]></text>
+</component>
+<component id="ID_txt04">
+	<text><![CDATA[<b>Experimental Addresses</b>]]></text>
+</component>
+<component id="ID_txt05">
+	<text><![CDATA[<b>Usage</b>]]></text>
+</component>
+<component id="ID_txt06">
+	<text><![CDATA[<b>used for IPv4 hosts</b>]]></text>
+</component>
+<component id="ID_txt07">
+	<text><![CDATA[<b>used for multicast groups on a local network </b>]]></text>
+</component>
+<component id="ID_txt08">
+	<text><![CDATA[<b><li>used for research or experimentation</li><li>cannot currently be used for hosts in IPv4 networks</li></b>]]></text>
+</component>
+<component id="ID_header3">
+	<text><![CDATA[<b>Reserved IPv4 Address Range</b>]]></text>
+</component>
+<component id="ID_txt09">
+	<text><![CDATA[<b>0.0.0.0  to 223.255.255.255 </b>]]></text>
+</component>
+<component id="ID_txt10">
+	<text><![CDATA[<b>224.0.0.0 to 239.255.255.255</b>]]></text>
+</component>
+<component id="ID_txt11">
+	<text><![CDATA[<b>240.0.0.0 to 255.255.255.254  </b>]]></text>
+</component>
+
+<component id="ID_header4">
+	<text><![CDATA[<b>RFC</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+	<text><![CDATA[<b>1700 </b>]]></text>
+</component>
+
+<component id="ID_txt12a">
+	<text><![CDATA[<b>790</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+	<text><![CDATA[<b>1700<br>3330</b>]]></text>
+</component>
+
+</textcomponents>

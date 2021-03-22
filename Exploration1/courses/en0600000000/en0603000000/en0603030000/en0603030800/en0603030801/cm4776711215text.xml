@@ -1,0 +1,44 @@
+﻿<textcomponents>
+
+
+<component id="ID_title">
+  <text><![CDATA[<b>Telnet </b>]]></text> 
+</component>
+<component id="ID_inst">
+  <text><![CDATA[<b>Click to see Telnet.</b>]]></text> 
+</component>
+<component id="ID_inst2">
+  <text><![CDATA[<b>Click to Reset.</b>]]></text> 
+</component>
+<component id="ID_txt01">
+  <text><![CDATA[<b>Computer1[root]$ dir<br/>cache lib lock mail spool www local log<br/>tmp   yp</b>]]></text> 
+</component>
+<component id="ID_txt01a">
+  <text><![CDATA[<b>Computer1[root]$ dir<br/>cache lib lock mail spool www local log<br/>tmp   yp</b>]]></text> 
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Physical terminal</b>]]></text> 
+</component>
+
+<component id="ID_txt02a">
+  <text><![CDATA[IP address<br/>192.168.2.2]]></text> 
+</component>
+<component id="ID_txt02b">
+  <text><![CDATA[<b>Network</b>]]></text> 
+</component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Telnet provides a way to use a computer, connected via the network, to access a network device as if the keyboard and monitor were directly connected to the device.</b>]]></text> 
+</component>
+<component id="ID_txt02c">
+  <text><![CDATA[<b>Virtual terminal</b>]]></text> 
+</component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Telnet<br/>Client</b>]]></text> 
+</component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>Telnet<br/>Server</b>]]></text> 
+</component>
+
+
+
+</textcomponents>

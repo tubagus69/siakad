@@ -1,0 +1,181 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Use this activity to check your understanding of the main points in this chapter.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>A series of questions will be presented. This is not a quiz and your answers are not recorded.</li><li>Click <b>Answer</b> to see the answer.</li><li>Click <b>Next Question</b> to go to the next question in the series.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Click Here<br/>to Begin</b>]]></text>
+</component>
+
+<!-- Question 1 -->
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[How does the Data Link layer prepare packets for transmission?]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[The Data Link layer prepares a packet for transport across the local media by encapsulating it with a header and a trailer to create a frame.]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[Describe four general Data Link layer media access methods.  Suggest data communications environments in which these access methods may be appropriately implemented.]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[<p>Media access control methods for shared media:</p><ul><li>Controlled—Each node has its own time to use the medium - a ring topology</li><li>Contention-based—All nodes compete for the use of the medium - a bus topology</li></ul><br/><p>Media access control in point-to-point connections:</p><ul><li>Half-duplex-a node can only transmit or receive at one time - long distance low bandwidth link</li><li>Full-duplex- a node can both transmit and receive at the same time- long distance high bandwidth link</li></ul>]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[Compare and contrast the logical point-to-point and logical multi-access topologies.]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[<p>A logical point-to-point topology connects two nodes directly together. In data networks with point-to-point topologies, the media access control protocol can be very simple. All frames on the media can only travel to or from the two nodes. The frames are placed on the media by the node at one end and taken off the media by the node at the other end. In point-to-point networks, if data can only flow in one direction at a time, it is operating as a half-duplex link. If data can successfully flow across the link from each node simultaneously, it is a full-duplex service. </p><br/><p>A logical multi-access topology enables a number of nodes to communicate by using the same shared media. Data from only one node can be placed on the medium at any one time. Every node sees all the frames that are on the medium, but only the node to which the frame is addressed processes the contents of the frame. Having many nodes share access to the medium requires a Data Link media access control method to regulate the transmission of data and thereby reduce collisions between different signals.</p>]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[Describe the features of a logical ring topology]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[<p>In a logical ring topology, each node in turn receives a frame. If the frame is not addressed to a node, the node passes the frame to the next node. This allows a ring to use a controlled media access control technique called token passing.</p><br/><p>The media usually carries only one frame at a time. If there is no data being transmitted, a signal (known as a token) may be placed on the media and a node can only place a data frame on the media when it has the token.</p>]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[Name five Layer 2 protocols.]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[<ul><li>Point-to-Point Protocol (PPP) </li><li>Ethernet </li><li>High-Level Data Link Control (HDLC)</li><li>Frame Relay </li><li>Asynchronous Transfer Mode (ATM)</li></ul>]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q6_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[How do Data Link layer addresses differ from Network layer addresses?]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[<p>Unlike Layer 3 logical addresses that are hierarchical, physical addresses do not indicate on what network the device is located. If the device is moved to another network or subnet, it will still function with the same Layer 2 physical address.</p><br/><p>Because the frame is only used to transport data between nodes across the local media, the Data Link layer address is only used for local delivery. Addresses at this layer have no meaning beyond the local network. Compare this to Layer 3, where addresses in the packet header are carried from source host to destination host regardless of the number of network hops along the route.</p>
+]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 7 -->
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[What are the possible header field types in Data Link frames?]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[<p>Typical frame header fields include:</p><ul><li>Start Frame field—Indicates the beginning of the frame</li><li>Source and Destination address fields—Indicates the source and destination nodes on the media</li><li>Priority/Quality of Service field—Indicates a particular type of communication service for processing</li><li>Type field—Indicates the upper layer service contained in the frame</li><li>Logical connection control field—Used to establish a logical connection between nodes</li><li>Physical link control field—Used to establish the media link </li><li>Flow control field—Used to start and stop traffic over the media</li><li>Congestion control field—Indicates congestion in the media</li></ul>]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q7_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 8 -->
+
+<component id="ID_Q8_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q8_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q8_txt03">
+<text><![CDATA[Give the purpose of the Frame Check Sequence field in a Data Link frame trailer ]]></text>
+</component>
+<component id="ID_Q8_txt04">
+<text><![CDATA[<p>The media is a potentially unsafe environment for data. The signals on the media could be subject to interference, distortion, or loss that would substantially change the bit values that those signals represent. To ensure that the content of the received frame at the destination matches that of the frame that left the source node, a transmitting node creates a logical summary of the contents of the frame. This is known as the Frame Check Sequence (FCS) and is placed in the trailer to represent the contents of the frame. When the frame arrives at the destination node, the receiving node calculates its own logical summary, or FCS, of the frame. The receiving node compares the two FCS values. If the two values are the same, the frame is considered to have arrived as transmitted. If the FCS values differ, the frame is discarded. There is always the small possibility that a frame with a good FCS result is actually corrupt. Errors in bits may cancel each other out when the FCS is calculated. Upper layer protocols would then be required to detect and correct this data loss. </p>]]></text>
+</component>
+<component id="ID_Q8_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q8_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+</textcomponents>

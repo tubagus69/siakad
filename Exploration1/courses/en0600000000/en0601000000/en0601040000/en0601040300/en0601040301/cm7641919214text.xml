@@ -1,0 +1,384 @@
+﻿<textcomponents>
+
+<component id="ID_button01">
+<text><![CDATA[<b>Tier 1</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>Tier 2</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>Tier 3</b>]]></text>
+</component>
+
+<component id="ID_button04">
+<text><![CDATA[<b>Hierarchical</b>]]></text>
+</component>
+
+<component id="ID_button05">
+<text><![CDATA[<b>Distributed</b>]]></text>
+</component>
+
+<component id="ID_button06">
+<text><![CDATA[<b>Peers</b>]]></text>
+</component>
+
+<component id="ID_txt01_01">
+<text><![CDATA[<b>At the center of the Internet, “tier-1” ISPs provide national and international connections. These ISPs treat each other as equals.</b>]]></text>
+</component>
+
+<component id="ID_txt02_01">
+<text><![CDATA[<b>Examples are: Verizon, Sprint, AT&T, NTT, cable systems and wide area wireless networks.</b>]]></text>
+</component>
+
+<component id="ID_txt03_01">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt04_01">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt05_01">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt06_01">
+<text><![CDATA[<b>This is the “backbone” of the Internet.</b>]]></text>
+</component>
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>“Tier-2” ISPs are smaller and often provide regional service. Tier-2 ISPs usually pay Tier-1 ISPs for connectivity to rest of the Internet. 
+</b>]]></text>
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt03_02">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt04_02">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt05_02">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt06_02">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt07_02">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt08_02">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt09_02">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt10_02">
+<text><![CDATA[<b>The point where ISPs interconnect is often called a “border.”</b>]]></text>
+</component>
+
+<component id="ID_txt01_03">
+<text><![CDATA[<b>“Tier-3” ISPs are the local providers of service directly to end users. Tier-3 ISPs are usually connected to Tier 2 ISPs and pay Tier 2 providers for Internet access.</b>]]></text>
+</component>
+
+<component id="ID_txt02_03">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt03_03">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt04_03">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt05_03">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt06_03">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt07_03">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt08_03">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt09_03">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt10_03">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt11_03">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt12_03">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt13_03">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt14_03">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt15_03">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt16_03">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt17_03">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt01_04">
+<text><![CDATA[<b>The Domain Name System (DNS) provides a hierarchical directory of addresses--one server doesn’t have to hold the entire list of millions of addresses.</b>]]></text>
+</component>
+
+<component id="ID_txt02_04">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt03_04">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt04_04">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt05_04">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt06_04">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt07_04">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt08_04">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt09_04">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt10_04">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt11_04">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt12_05">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt13_04">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt14_04">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt15_04">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt16_04">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt17_04">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt18_04">
+<text><![CDATA[<b>The DNS servers update each with the top level addressses so local devices can search the closest one confident that the information is up-to-date.<br>The DNS servers contain lower level addresses only for the networks directly connected.  This keeps the directories from getting too large.
+</b>]]></text>
+</component>
+
+<component id="ID_txt01_05">
+<text><![CDATA[<b>The distributed nature of connections and directories means that communication can bypass bottlenecks and outages. Originally designed to protect against military attack, the system has also proved the best way to offer a scalable, reliable civilian network.</b>]]></text>
+</component>
+
+<component id="ID_txt02_05">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt03_05">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt04_05">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt05_05">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt06_05">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt07_05">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt08_05">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt09_05">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt10_05">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt11_05">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt12_05">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt13_05">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt14_05">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt15_05">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt16_05">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt17_05">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt18_05">
+<text><![CDATA[<b>If one DNS server is down, local devices can get in touch with another one. If one route is congested or broken, communication is automatically directed along another route.</b>]]></text>
+</component>
+
+
+<component id="ID_txt01_06">
+<text><![CDATA[<b>Peer connections between networks at the same level provide direct connections, bypassing longer routes and preventing congestion on the backbone.</b>]]></text>
+</component>
+
+<component id="ID_txt02_06">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt03_06">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt04_06">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt05_06">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt06_06">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt07_06">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt08_06">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt09_06">
+<text><![CDATA[<b>local<br>ISP</b>]]></text>
+</component>
+
+<component id="ID_txt10_06">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt11_06">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt12_06">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt13_06">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt14_06">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt15_06">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt16_06">
+<text><![CDATA[<b>Tier-1 ISP</b>]]></text>
+</component>
+
+<component id="ID_txt17_06">
+<text><![CDATA[<b>Tier-2 ISP</b>]]></text>
+</component>
+
+
+<component id="ID_inst">
+<text><![CDATA[<b>Click to see the Internet structure.</b>]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Internet Structure - A Network of Networks</b>]]></text>
+</component>
+
+
+</textcomponents>

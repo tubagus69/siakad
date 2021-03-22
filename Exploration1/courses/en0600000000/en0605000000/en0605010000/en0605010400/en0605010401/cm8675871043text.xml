@@ -1,0 +1,29 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Best Effort</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>IP Packet</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>IP Packet</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>IP Packet</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>IP Packet</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>IP Packet</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Some packets may be lost enroute.</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Packets are routed through the network quickly.</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>As an unreliable Network layer protocol, IP does not guarantee that all sent packets will be received.<br/><br/>Other protocols manage the process of tracking packets and ensuring their delivery.</b>]]></text>
+</component>
+</textcomponents>

@@ -1,0 +1,31 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b></b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Local Network</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Gateway</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>This host has the addresses for the hosts in its own network.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>The address for this destination is unknown so packets are passed to the gateway router.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>Hosts do not know how to deliver data to devices in a remote network - this is the role of the gateway.</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt06">
+    <text><![CDATA[<b>Outside</b>]]></text> 
+  </component>
+  
+</textcomponents>

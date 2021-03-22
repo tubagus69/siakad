@@ -1,0 +1,349 @@
+<textcomponents>
+		
+
+	
+<component id="ID_title">
+<text><![CDATA[<b>Switch Operation</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Click to see the steps.</b>]]></text>
+</component>
+
+
+
+
+<component id="But_01">
+<text><![CDATA[<b>Reset</b>]]></text>
+</component>
+<component id="But_02">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+<component id="But_03">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+<component id="But_04">
+<text><![CDATA[<b>3</b>]]></text>
+</component>
+<component id="But_05">
+<text><![CDATA[<b>4</b>]]></text>
+</component>
+<component id="But_06">
+<text><![CDATA[<b>5</b>]]></text>
+</component>
+<component id="But_07">
+<text><![CDATA[<b>6</b>]]></text>
+</component>
+<component id="But_08">
+<text><![CDATA[<b>7</b>]]></text>
+</component>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Fa1</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Fa3</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Fa6</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Fa8</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>0A</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>0C</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>0B</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>0D</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Host1</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Host2</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Host3</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Host4</b>]]></text>
+</component>
+
+
+
+<component id="ID_title_reset">
+<text><![CDATA[<b>Switch Learning Process<br><br>&#8226; Learning - Records MAC address and port number<br>&#8226; Flooding - Sends frame to all ports except incoming port<br>&#8226; Selective Forwarding - Sends frame only to the destination port</b>]]></text>
+</component>
+
+
+
+<component id="Butt_01_text1">
+<text><![CDATA[<b>Upon initialization of the switch, the MAC address table is empty.</b>]]></text>
+</component>
+
+<component id="Butt_01_text2">
+<text><![CDATA[<b>MAC TABLE</b>]]></text>
+</component>
+<component id="Butt_01_text3">
+<text><![CDATA[<b>Port</b>]]></text>
+</component>
+<component id="Butt_01_text4">
+<text><![CDATA[<b>MAC Address</b>]]></text>
+</component>
+<component id="Butt_01_text5">
+<text><![CDATA[<b>Time</b>]]></text>
+</component>
+
+
+
+<component id="Butt_02_text1">
+<text><![CDATA[<b>Host1 sends data to Host2. The frame sent contains both a source MAC address and a destination MAC address.</b>]]></text>
+</component>
+
+<component id="Butt_02_text2">
+<text><![CDATA[<b>MAC TABLE</b>]]></text>
+</component>
+<component id="Butt_02_text3">
+<text><![CDATA[<b>Port</b>]]></text>
+</component>
+<component id="Butt_02_text4">
+<text><![CDATA[<b>MAC Address</b>]]></text>
+</component>
+<component id="Butt_02_text5">
+<text><![CDATA[<b>Time</b>]]></text>
+</component>
+<component id="Butt_02_text6">
+<text><![CDATA[<b>Frame Source Address: <font color="#0000ff">0A</font></b>]]></text>
+</component>
+<component id="Butt_02_text7">
+<text><![CDATA[<b>Frame Destination Address: <font color="#0000ff">0C</font></b>]]></text>
+</component>
+
+
+
+<component id="Butt_03_text1">
+<text><![CDATA[<b>The switch reads the source MAC address, 0A, from the frame received on port Fa1 and stores it in the MAC address table for use in the forwarding of frames to Host1.</b>]]></text>
+</component>
+
+<component id="Butt_03_text1a">
+<text><![CDATA[<b>Learning</b>]]></text>
+</component>
+
+<component id="Butt_03_text2">
+<text><![CDATA[<b>MAC TABLE</b>]]></text>
+</component>
+<component id="Butt_03_text3">
+<text><![CDATA[<b>Port</b>]]></text>
+</component>
+<component id="Butt_03_text4">
+<text><![CDATA[<b>MAC Address</b>]]></text>
+</component>
+<component id="Butt_03_text5">
+<text><![CDATA[<b>Time</b>]]></text>
+</component>
+<component id="Butt_03_text6">
+<text><![CDATA[<b>Frame Source Address: <font color="#0000ff">0A</font></b>]]></text>
+</component>
+<component id="Butt_03_text7">
+<text><![CDATA[<b>Frame Destination Address: 0C</b>]]></text>
+</component>
+
+<component id="Butt_03_text8">
+<text><![CDATA[<b>Fa1</b>]]></text>
+</component>
+<component id="Butt_03_text9">
+<text><![CDATA[<b><font color="#0000ff">0A</font></b>]]></text>
+</component>
+<component id="Butt_03_text10">
+<text><![CDATA[<b>11:25:11</b>]]></text>
+</component>
+
+
+<component id="Butt_04_text1">
+<text><![CDATA[<b>The destination MAC address, 0C, is not in the MAC Table. The switch floods the frame out all ports except port Fa1, the port for the sender. Host3 and Host4 receive the frame, but the address in the frame does not match their MAC address. They drop the frame. The destination MAC address in the frame matches Host2 and it accepts the frame.</b>]]></text>
+</component>
+<component id="Butt_04_text1a">
+<text><![CDATA[<b>Flooding</b>]]></text>
+</component>
+
+<component id="Butt_04_text2">
+<text><![CDATA[<b>MAC TABLE</b>]]></text>
+</component>
+<component id="Butt_04_text3">
+<text><![CDATA[<b>Port</b>]]></text>
+</component>
+<component id="Butt_04_text4">
+<text><![CDATA[<b>MAC Address</b>]]></text>
+</component>
+<component id="Butt_04_text5">
+<text><![CDATA[<b>Time</b>]]></text>
+</component>
+<component id="Butt_04_text6">
+<text><![CDATA[<b>Frame Source Address: 0A</b>]]></text>
+</component>
+<component id="Butt_04_text7">
+<text><![CDATA[<b>Frame Destination Address: <font color="#0000ff">0C</font></b>]]></text>
+</component>
+
+<component id="Butt_04_text8">
+<text><![CDATA[<b>Fa1</b>]]></text>
+</component>
+<component id="Butt_04_text9">
+<text><![CDATA[<b>OA</b>]]></text>
+</component>
+<component id="Butt_04_text10">
+<text><![CDATA[<b>11:25:11</b>]]></text>
+</component>
+<component id="Butt_04_text11">
+<text><![CDATA[<b><font color="#0000ff">?</font></b>]]></text>
+</component>
+
+
+<component id="Butt_05_text1">
+<text><![CDATA[<b>Host2 sends a frame to Host1 containing a reply. The source address in the frame is the MAC address of Host2. The destination address in the frame matches the MAC address for Host1. </b>]]></text>
+</component>
+
+<component id="Butt_05_text2">
+<text><![CDATA[<b>MAC TABLE</b>]]></text>
+</component>
+<component id="Butt_05_text3">
+<text><![CDATA[<b>Port</b>]]></text>
+</component>
+<component id="Butt_05_text4">
+<text><![CDATA[<b>MAC Address</b>]]></text>
+</component>
+<component id="Butt_05_text5">
+<text><![CDATA[<b>Time</b>]]></text>
+</component>
+<component id="Butt_05_text6">
+<text><![CDATA[<b>Frame Source Address: <font color="#0000ff">0C</font></b>]]></text>
+</component>
+<component id="Butt_05_text7">
+<text><![CDATA[<b>Frame Destination Address: 0A</b>]]></text>
+</component>
+
+<component id="Butt_05_text8">
+<text><![CDATA[<b>Fa1</b>]]></text>
+</component>
+<component id="Butt_05_text9">
+<text><![CDATA[<b>OA</b>]]></text>
+</component>
+<component id="Butt_05_text10">
+<text><![CDATA[<b>11:25:11</b>]]></text>
+</component>
+<component id="Butt_05_text11">
+<text><![CDATA[<b><font color="#0000ff">?</font></b>]]></text>
+</component>
+
+<component id="Butt_06_text1">
+<text><![CDATA[<b>The switch reads the source MAC address, 0C, from the frame received on port Fa6, and stores it in the MAC address table for use in the forwarding of frames to Host2.</b>]]></text>
+</component>
+<component id="Butt_06_text1a">
+<text><![CDATA[<b>Learning</b>]]></text>
+</component>
+
+<component id="Butt_06_text2">
+<text><![CDATA[<b>MAC TABLE</b>]]></text>
+</component>
+<component id="Butt_06_text3">
+<text><![CDATA[<b>Port</b>]]></text>
+</component>
+<component id="Butt_06_text4">
+<text><![CDATA[<b>MAC Address</b>]]></text>
+</component>
+<component id="Butt_06_text5">
+<text><![CDATA[<b>Time</b>]]></text>
+</component>
+<component id="Butt_06_text6">
+<text><![CDATA[<b>Frame Source Address: <font color="#0000ff">0C</font></b>]]></text>
+</component>
+<component id="Butt_06_text7">
+<text><![CDATA[<b>Frame Destination Address: 0A</b>]]></text>
+</component>
+
+<component id="Butt_06_text8">
+<text><![CDATA[<b>Fa1</b>]]></text>
+</component>
+<component id="Butt_06_text9">
+<text><![CDATA[<b>OA</b>]]></text>
+</component>
+<component id="Butt_06_text10">
+<text><![CDATA[<b>11:25:11</b>]]></text>
+</component>
+<component id="Butt_06_text11">
+<text><![CDATA[<b>Fa6</b>]]></text>
+</component>
+
+<component id="Butt_06_text12">
+<text><![CDATA[<b><font color="#0000ff">OC</font></b>]]></text>
+</component>
+<component id="Butt_06_text13">
+<text><![CDATA[<b>11:26:32</b>]]></text>
+</component>
+
+<component id="Butt_07_text1">
+<text><![CDATA[<b>The destination MAC address, 0A, is in the MAC address table. The switch selectively forwards the frame out port Fa1 only. The destination MAC address in the frame matches the MAC address for Host1. Host1 accepts the frame. </b>]]></text>
+</component>
+<component id="Butt_07_text1a">
+<text><![CDATA[<b>Selective Forwarding</b>]]></text>
+</component>
+
+<component id="Butt_07_text2">
+<text><![CDATA[<b>MAC TABLE</b>]]></text>
+</component>
+<component id="Butt_07_text3">
+<text><![CDATA[<b>Port</b>]]></text>
+</component>
+<component id="Butt_07_text4">
+<text><![CDATA[<b>MAC Address</b>]]></text>
+</component>
+<component id="Butt_07_text5">
+<text><![CDATA[<b>Time</b>]]></text>
+</component>
+<component id="Butt_07_text6">
+<text><![CDATA[<b>Frame Source Address: 0C</b>]]></text>
+</component>
+<component id="Butt_07_text7">
+<text><![CDATA[<b>Frame Destination Address: <font color="#0000ff">0A</font></b>]]></text>
+</component>
+
+<component id="Butt_07_text8">
+<text><![CDATA[<b>Fa1</b>]]></text>
+</component>
+<component id="Butt_07_text9">
+<text><![CDATA[<b><font color="#0000ff">OA</font></b>]]></text>
+</component>
+<component id="Butt_07_text10">
+<text><![CDATA[<b>11:25:11</b>]]></text>
+</component>
+<component id="Butt_07_text11">
+<text><![CDATA[<b>Fa6</b>]]></text>
+</component>
+
+<component id="Butt_07_text12">
+<text><![CDATA[<b>OC</b>]]></text>
+</component>
+<component id="Butt_07_text13">
+<text><![CDATA[<b>11:26:32</b>]]></text>
+</component>
+
+
+</textcomponents>

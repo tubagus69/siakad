@@ -1,0 +1,43 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Using Queues to Prioritize Communication</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>All communication has some access to the media, but higher priority communication has a greater percentage of the packets.
+</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>High Priority Queue</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Medium Priority Queue</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Low Priority Queue</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Voice Over IP</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Financial Transaction</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Web Page</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Link to Network</b>]]></text>
+</component>
+
+<component id="ID_caption01">
+<text><![CDATA[<b>Queuing according to data type enables voice data to have priority over transaction data, which has priority over web data.</b>]]></text>
+</component>
+
+</textcomponents>

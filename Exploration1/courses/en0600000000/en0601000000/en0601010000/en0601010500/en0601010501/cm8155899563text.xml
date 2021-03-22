@@ -1,0 +1,23 @@
+﻿<textcomponents>
+<component id="ID_caption1">
+<text><![CDATA[<b>The way we play is supported by services delivered by the data network.</b>]]></text>
+</component>
+<component id="ID_caption2">
+<text><![CDATA[<b>The onboard data network provides a range of services to airline personal seatback video systems.</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Instant Messaging</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Online Games</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Online Entertainment</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Online Travel</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Online Interest Groups</b>]]></text>
+</component>
+</textcomponents>

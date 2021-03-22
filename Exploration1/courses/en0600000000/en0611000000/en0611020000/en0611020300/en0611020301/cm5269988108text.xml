@@ -1,0 +1,21 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Checking Configuration Files</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[ ]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Lists the complete configuration  currently active in RAM.</b>]]></text> 
+  </component>  
+<component id="ID_txt05">
+  <text><![CDATA[<b>The active configuration can be copied to NVRAM.</b>]]></text> 
+  </component>
+
+</textcomponents>

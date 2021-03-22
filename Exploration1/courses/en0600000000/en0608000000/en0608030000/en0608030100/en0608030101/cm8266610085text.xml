@@ -1,0 +1,303 @@
+<textcomponents>
+<component id="ID_instruct">
+<text><![CDATA[<b>Click to see media characteristics.</b>]]></text>
+</component>
+<component id="SIGNALS">
+<text><![CDATA[ETHERNET]]></text>
+</component>
+<component id="CONNECTORS">
+<text><![CDATA[WIRELESS]]></text>
+</component>
+<component id="ID_title">
+  <text><![CDATA[<b>Physical Media - Characteristics</b>]]></text> 
+  </component>
+<component id="ID_subtitle">
+  <text><![CDATA[<b>Ethernet Media</b>]]></text> 
+  </component>
+<component id="ID_subtitle_02a">
+  <text><![CDATA[<b>Wireless Media</b>]]></text>
+  </component>
+<component id="ID_header1">
+  <text><![CDATA[<b>10BASE-T</b>]]></text> 
+  </component>
+<component id="ID_header2">
+  <text><![CDATA[<b>100BASE-TX</b>]]></text> 
+  </component>
+<component id="ID_header3">
+  <text><![CDATA[<b>100BASE-FX</b>]]></text> 
+  </component>
+<component id="ID_header4">
+  <text><![CDATA[<b>100BASE-FX</b>]]></text> 
+  </component>
+<component id="ID_header5">
+  <text><![CDATA[<b>1000BASE-CX</b>]]></text> 
+  </component>
+<component id="ID_header6">
+  <text><![CDATA[<b>1000BASE-T</b>]]></text> 
+  </component>
+<component id="ID_header7">
+  <text><![CDATA[<b>1000BASE-SX</b>]]></text> 
+  </component>
+<component id="ID_header8">
+  <text><![CDATA[<b>1000BASE-LX</b>]]></text> 
+  </component>
+  <component id="ID_header9">
+  <text><![CDATA[<b>1000BASE-ZX</b>]]></text> 
+  </component>
+    <component id="ID_header10">
+  <text><![CDATA[<b>10GBASE-ZR</b>]]></text> 
+  </component>
+<component id="ID_t01">
+  <text><![CDATA[<b>Media</b>]]></text> 
+  </component>
+<component id="ID_t00">
+  <text><![CDATA[<b>Ethernet Media</b>]]></text> 
+  </component>  
+<component id="ID_t02">
+  <text><![CDATA[<b>Maximum Segment Length</b>]]></text> 
+  </component>
+<component id="ID_t03">
+  <text><![CDATA[<b>Topology</b>]]></text> 
+  </component>
+  <component id="ID_t03b">
+  <text><![CDATA[<b>Connector</b>]]></text> 
+  </component>
+<component id="ID_t05">
+  <text><![CDATA[EIA/TIA Category 3, 4, 5 UTP - four pair]]></text> 
+  </component>
+<component id="ID_t06">
+  <text><![CDATA[100m (328 feet)]]></text> 
+  </component>
+<component id="ID_t07">
+  <text><![CDATA[Star]]></text> 
+  </component>
+<component id="ID_t08">
+  <text><![CDATA[ISO 8877 (RJ-45)]]></text> 
+  </component>
+<component id="ID_t09">
+  <text><![CDATA[EIA/TIA Category 5 UTP - two pair]]></text> 
+  </component>
+<component id="ID_t10">
+  <text><![CDATA[100m (328 feet)</b>]]></text> 
+  </component>
+<component id="ID_t11">
+  <text><![CDATA[Star]]></text> 
+  </component>
+<component id="ID_t12">
+  <text><![CDATA[ISO 8877 (RJ-45)]]></text> 
+  </component>
+<component id="ID_t13">
+  <text><![CDATA[62.5/125 multimode fiber]]></text> 
+  </component>
+<component id="ID_t14">
+  <text><![CDATA[400 m (13123 feet)]]></text> 
+  </component>
+<component id="ID_t15">
+  <text><![CDATA[Star]]></text> 
+  </component>
+<component id="ID_t17">
+  <text><![CDATA[50/62.5 µm<br>multi mode fiber]]></text> 
+  </component>
+<component id="ID_t18">
+  <text><![CDATA[2 km (6562 ft)]]></text> 
+  </component>
+<component id="ID_t19">
+  <text><![CDATA[Star]]></text> 
+  </component>
+<component id="ID_t21">
+  <text><![CDATA[STP]]></text> 
+  </component>
+<component id="ID_t22">
+  <text><![CDATA[25 m (82 feet)]]></text> 
+  </component>
+<component id="ID_t23">
+  <text><![CDATA[Star]]></text> 
+  </component>
+<component id="ID_t24">
+  <text><![CDATA[ISO 8877 (RJ-45)]]></text> 
+  </component>
+<component id="ID_t25">
+  <text><![CDATA[EIA/TIA Category 5 (or greater) UTP, four pair]]></text> 
+  </component>
+<component id="ID_t26">
+  <text><![CDATA[100 m (328 feet)]]></text> 
+  </component>
+<component id="ID_t27">
+  <text><![CDATA[Star]]></text> 
+  </component>
+<component id="ID_t28">
+  <text><![CDATA[ISO 8877 (RJ-45)]]></text> 
+  </component>
+<component id="ID_t29">
+  <text><![CDATA[50/62.5 micron multimode fiber]]></text> 
+  </component>
+<component id="ID_t30">
+  <text><![CDATA[Up to 550 m (1,804 ft) depending on fiber used]]></text> 
+  </component>
+<component id="ID_t31">
+  <text><![CDATA[Star]]></text> 
+  </component>
+<component id="ID_t33">
+  <text><![CDATA[50/62.5 micron multimode fiber or 9 micron single mode fiber]]></text> 
+  </component>
+<component id="ID_t34">
+  <text><![CDATA[550 m (MMF)10 km (SMF)]]></text> 
+  </component>
+<component id="ID_t35">
+  <text><![CDATA[Star]]></text> 
+  </component>
+  
+  <component id="ID_t37">
+  <text><![CDATA[9µm single mode fiber]]></text> 
+  </component>
+  
+  <component id="ID_t38">
+  <text><![CDATA[Approx. 70 km]]></text> 
+  </component>
+  
+  <component id="ID_t39">
+  <text><![CDATA[Star]]></text> 
+  </component>
+  
+  <component id="ID_t40">
+  <text><![CDATA[9µm single mode fiber]]></text> 
+  </component>
+  
+  <component id="ID_t41">
+  <text><![CDATA[Up to 80 km]]></text> 
+  </component>
+  
+  <component id="ID_t42">
+  <text><![CDATA[Star]]></text> 
+  </component>
+<component id="ID_t01a">
+  <text><![CDATA[<b>Standards</b>]]></text> 
+  </component>
+<component id="ID_t02a">
+  <text><![CDATA[<b>Speed</b>]]></text> 
+  </component>
+<component id="ID_t03a">
+  <text><![CDATA[<b>Range</b>]]></text> 
+  </component>
+<component id="ID_t04a">
+  <text><![CDATA[<b>Applications</b>]]></text> 
+  </component>
+<component id="ID_t05a">
+  <text><![CDATA[<b>Bluetooth 802.15</b>]]></text> 
+  </component>
+<component id="ID_t06a">
+  <text><![CDATA[<b>&lt;1 Mbps</b>]]></text> 
+  </component>
+<component id="ID_t07a">
+  <text><![CDATA[<b>Short</b>]]></text> 
+  </component>
+<component id="ID_t08a">
+  <text><![CDATA[<b>Peer-to-peer device-to-device</b>]]></text> 
+  </component>
+<component id="ID_t09a">
+  <text><![CDATA[<b>802.11(a,b,g,n), HiperLAN 2</b>]]></text> 
+  </component>
+<component id="ID_t10a">
+  <text><![CDATA[<b>1 - 54 + Mbps</b>]]></text> 
+  </component>
+<component id="ID_t11a">
+  <text><![CDATA[<b>Medium</b>]]></text> 
+  </component>
+<component id="ID_t12a">
+  <text><![CDATA[<b>Enterprise networks</b>]]></text> 
+  </component>
+<component id="ID_t13a">
+  <text><![CDATA[<b>802, 11, MMDS, LMDS</b>]]></text> 
+  </component>
+<component id="ID_t14a">
+  <text><![CDATA[<b>22 Mbps+</b>]]></text> 
+  </component>
+<component id="ID_t15a">
+  <text><![CDATA[<b>Medium- long</b>]]></text> 
+  </component>
+<component id="ID_t16a">
+  <text><![CDATA[<b>Fixed, last mile access</b>]]></text> 
+  </component>
+<component id="ID_t17a">
+  <text><![CDATA[<b>GSM, GPRS, CDMA, 2.5- 3G</b>]]></text> 
+  </component>
+<component id="ID_t18a">
+  <text><![CDATA[<b>10- 384 Kbps</b>]]></text> 
+  </component>
+<component id="ID_t19a">
+  <text><![CDATA[<b>Long</b>]]></text> 
+  </component>
+<component id="ID_t20a">
+  <text><![CDATA[<b>PDAs, Mobile phones, Cellular access</b>]]></text> 
+  </component>
+<component id="ID_t21a">
+  <text><![CDATA[<b>Wireless Media</b>]]></text> 
+  </component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Source Node</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Destination Node</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Frame</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Frame</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>Frame</b>]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>Frame</b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>Logical point-to-point connection</b>]]></text> 
+  </component>
+
+<component id="ID_txt09">
+  <text><![CDATA[<b>The same</b>]]></text> 
+  </component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>Source Node</b>]]></text> 
+  </component>
+<component id="ID_txt11">
+  <text><![CDATA[<b>Destination Node</b>]]></text> 
+  </component>
+<component id="ID_txt12">
+  <text><![CDATA[<b>Frame</b>]]></text> 
+  </component>
+<component id="ID_txt13">
+  <text><![CDATA[<b>Frame</b>]]></text> 
+  </component>
+<component id="ID_txt14">
+  <text><![CDATA[<b>Frame</b>]]></text> 
+  </component>
+<component id="ID_txt15">
+  <text><![CDATA[<b>Frame</b>]]></text> 
+  </component>
+<component id="ID_txt16">
+  <text><![CDATA[<b>Logical point-to-point connection</b>]]></text> 
+  </component>
+<component id="ID_txt17">
+  <text><![CDATA[<b>The same</b>]]></text> 
+  </component>
+<component id="ID_txt18">
+  <text><![CDATA[<b>The same</b>]]></text> 
+  </component>
+<component id="ID_txt19">
+  <text><![CDATA[<b>The same</b>]]></text> 
+  </component>
+<component id="ID_txt20">
+  <text><![CDATA[<b>The same</b>]]></text> 
+  </component>
+<component id="ID_txt21">
+  <text><![CDATA[<b>The same</b>]]></text> 
+  </component>
+<component id="ID_txt22">
+  <text><![CDATA[<b>The same</b>]]></text> 
+  </component>
+<component id="ID_txt23">
+  <text><![CDATA[<b>The same</b>]]></text> 
+  </component>  
+</textcomponents>

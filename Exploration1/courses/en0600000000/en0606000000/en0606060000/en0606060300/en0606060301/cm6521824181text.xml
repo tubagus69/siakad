@@ -1,0 +1,104 @@
+<textcomponents>
+   <component id="ID_txt01">
+      <text><![CDATA[<b>Testing Connectivity to Remote LAN<br/>Ping to a remote host</b>]]></text>
+   </component>
+   <component id="ID_txt02">
+      <text><![CDATA[<b>10.0.1.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F0</b>]]></text>
+   </component>
+   
+   <component id="ID_txt03">
+      <text><![CDATA[<b>10.0.0.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F1</b>]]></text>
+   </component>
+   
+   <component id="ID_txt04">
+      <text><![CDATA[<b>10.0.0.254<br/>255.255.255.0</b>]]></text>
+   </component>
+   
+   <component id="ID_txt05">
+      <text><![CDATA[<b>10.0.1.254<br/>255.255.255.0</b>]]></text>
+   </component>
+   
+   <component id="ID_txt06">
+      <text><![CDATA[<b>F1</b>]]></text>
+   </component>
+   
+   <component id="ID_txt07">
+      <text><![CDATA[<b>F0</b>]]></text>
+   </component>
+   
+   <component id="ID_txt08">
+      <text><![CDATA[<b>Ping 10.0.1.1</b>]]></text>
+   </component>
+   
+   <component id="ID_txt09">
+      <text><![CDATA[<b>10.0.0.1<br/>255.255.255.0</b>]]></text>
+   </component>
+   
+   <component id="ID_txt10">
+      <text><![CDATA[<b>10.0.0.2<br/>255.255.255.0</b>]]></text>
+   </component>
+   
+   <component id="ID_txt11">
+         <text><![CDATA[<b>10.0.0.2<br/>255.255.255.0</b>]]></text>
+   </component>
+   
+   <component id="ID_txt12">
+         <text><![CDATA[<b>10.0.0.253<br/>255.255.255.0</b>]]></text>
+   </component>
+   
+   <component id="ID_txt13">
+         <text><![CDATA[<b>ECHO REPLY</b>]]></text>
+   </component>
+   
+   <component id="ID_txt13a">
+         <text><![CDATA[<b>ECHO REQUEST</b>]]></text>
+   </component>
+
+   <component id="ID_txt14">
+         <text><![CDATA[<b>10.0.1.1<br/>255.255.255.0</b>]]></text>
+   </component>
+   
+   <component id="ID_txt15">
+         <text><![CDATA[<b>10.0.1.2<br/>255.255.255.0</b>]]></text>
+   </component>
+   
+   <component id="ID_txt16">
+         <text><![CDATA[<b>10.0.1.2<br/>255.255.255.0</b>]]></text>
+   </component>
+   
+   <component id="ID_txt17">
+         <text><![CDATA[<b>10.0.1.253<br/>255.255.255.0</b>]]></text>
+   </component>
+   
+   <component id="ID_inst">
+            <text><![CDATA[<b>Click Play to the see the animation.</b>]]></text>
+   </component>
+   
+   <component id="play">
+      <text>Play</text>
+   </component>
+   <component id="pause">
+      <text>Pause</text>
+   </component>
+   <component id="rewind">
+      <text>Rewind</text>
+   </component>
+   <component id="forward">
+      <text>Fast Forward</text>
+   </component>
+   <component id="mute">
+      <text>Mute</text>
+   </component>
+   <component id="unmute">
+      <text>UnMute</text>
+   </component>
+   <component id="previous">
+      <text>Restart</text>
+   </component>
+   <component id="next">
+      <text>End</text>
+   </component>
+   <component id="transcript">
+      <text>Transcript</text>
+   </component>
+</textcomponents>

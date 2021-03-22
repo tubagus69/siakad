@@ -1,0 +1,117 @@
+<textcomponents>
+
+<component id="ID_button01">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_button03">
+<text><![CDATA[<b>3</b>]]></text>
+</component>
+
+<component id="ID_button04">
+<text><![CDATA[<b>4</b>]]></text>
+</component>
+
+<component id="ID_button05">
+<text><![CDATA[<b>5</b>]]></text>
+</component>
+
+<component id="ID_button06">
+<text><![CDATA[<b>6</b>]]></text>
+</component>
+
+<component id="ID_button07">
+<text><![CDATA[<b>7</b>]]></text>
+</component>
+
+<component id="ID_txt01_01">
+<text><![CDATA[<b>I will be arriving on Tuesday. Please meet me at the airport.</b>]]></text>
+</component>
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>I will be arriving on Tuesday. Please meet me at the airport.</b>]]></text>
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[<b>Instant Messages are converted to binary bits before they are transmitted on the medium.</b>]]></text>
+</component>
+
+<component id="ID_txt01_03">
+<text><![CDATA[<b>I will be arriving on Tuesday.  Please meet me at the airport.</b>]]></text>
+</component>
+
+<component id="ID_txt02_03">
+<text><![CDATA[<b>The network interface card inside the PC generates electrical signals to represent the bits and places the bits on the medium. The bits arrive at the first network device.</b>]]></text>
+</component>
+
+<component id="ID_txt01_04">
+<text><![CDATA[<b>I will be arriving on Tuesday.  Please meet me at the airport.</b>]]></text>
+</component>
+
+<component id="ID_txt02_04">
+<text><![CDATA[<b>A router plays a key role as it both joins networks together and ensures that communication is directed towards its destination.</b>]]></text>
+</component>
+
+<component id="ID_txt03_04">
+<text><![CDATA[<b>The bits are passed from device to device in the local area. As bits leave the local area, they usually pass through a router.</b>]]></text>
+</component>
+
+<component id="ID_txt01_05">
+<text><![CDATA[<b>I will be arriving on Tuesday.  Please meet me at the airport.</b>]]></text>
+</component>
+
+<component id="ID_txt02_05">
+<text><![CDATA[<b>Data<br>Networks</b>]]></text>
+</component>
+
+<component id="ID_txt03_05">
+<text><![CDATA[<b>From this perspective, the many interconnected devices worldwide are often represented by a cloud.</b>]]></text>
+</component>
+
+<component id="ID_txt04_05">
+<text><![CDATA[<b>The bits are transmitted to the devices that connect the local networks. There can be dozens, even hundreds of devices handling the bits as they are routed to their destination.</b>]]></text>
+</component>
+
+<component id="ID_txt01_06">
+<text><![CDATA[<b>I will be arriving on Tuesday.  Please meet me at the airport.</b>]]></text>
+</component>
+
+<component id="ID_txt02_06">
+<text><![CDATA[<b>Data<br>Networks</b>]]></text>
+</component>
+
+<component id="ID_txt03_06">
+<text><![CDATA[<b>As the bits get close to their destination, they once again get passed through local devices.</b>]]></text>
+</component>
+
+<component id="ID_txt01_07">
+<text><![CDATA[<b>I will be arriving on Tuesday.  Please meet me at the airport.</b>]]></text>
+</component>
+
+<component id="ID_txt02_07">
+<text><![CDATA[<b>Data<br>Networks</b>]]></text>
+</component>
+
+<component id="ID_txt03_07">
+<text><![CDATA[<b>I will be arriving on Tuesday.  Please meet me at the airport.
+</b>]]></text>
+</component>
+
+<component id="ID_txt04_07">
+<text><![CDATA[<b>The destination device reads the bits and converts them back to the human readable message.</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Click to see the steps.</b>]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Sending an Instant Message</b>]]></text>
+</component>
+
+
+</textcomponents>

@@ -1,0 +1,29 @@
+<textcomponents>
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Fiber Media Cable Design</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Fiber provides full duplex communications with a cable dedicated to each direction.</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Tx</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Rx</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Rx</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Tx</b>]]></text> 
+</component>
+
+
+</textcomponents>

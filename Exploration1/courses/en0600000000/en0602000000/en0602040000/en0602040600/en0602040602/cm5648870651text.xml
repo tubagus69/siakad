@@ -1,0 +1,95 @@
+<textcomponents>
+     	<component id="play">
+   		<text><![CDATA[Play]]></text>
+   	</component>
+        <component id="pause">
+   		<text><![CDATA[Pause]]></text>
+   	</component>
+        <component id="rewind">
+   		<text><![CDATA[Rewind]]></text>
+   	</component>
+   	<component id="forward">
+   		<text><![CDATA[Fast Forward]]></text>
+   	</component>
+        <component id="mute">
+   		<text><![CDATA[Mute]]></text>
+   	</component>
+        <component id="unmute">
+   		<text><![CDATA[UnMute]]></text>
+   	</component>
+        <component id="previous">
+   		<text><![CDATA[Restart]]></text>
+   	</component>
+        <component id="next">
+   		<text><![CDATA[End]]></text>
+   	</component>
+   		<component id="transcript">
+   		<text><![CDATA[Transcript]]></text>
+   	</component>
+   	<component id="ID_inst">
+   	        <text><![CDATA[<b>Click Play to see the de-encapsulation process when receiving a message from another host.</b>]]></text>
+      	</component>
+       	<component id="ID_txt01">
+       		<text><![CDATA[<b>Protocol Operation of Sending and Receiving a Message</b>]]></text>
+    	</component>
+    	<component id="ID_txt02">
+	       	<text><![CDATA[<b>Protocol Encapsulation Terms</b>]]></text>
+    	</component>
+    	<component id="ID_txt03">
+		<text><![CDATA[<b>Data</b>]]></text>
+    	</component>
+    	<component id="ID_txt04">
+		<text><![CDATA[<b>TCP</b>]]></text>
+    	</component>
+    	<component id="ID_txt05">
+		<text><![CDATA[<b>IP</b>]]></text>
+    	</component>
+    	<component id="ID_txt06">
+		<text><![CDATA[<b>Ethernet</b>]]></text>
+    	</component>
+    	<component id="ID_txt07ab">
+		<text><![CDATA[<b>User Data</b>]]></text>
+    	</component>
+    	<component id="ID_txt08">
+	       	<text><![CDATA[<b>TCP Segment</b>]]></text>
+    	</component>
+    	<component id="ID_txt09">
+		<text><![CDATA[<b>IP Packet</b>]]></text>
+    	</component>
+    	<component id="ID_txt10">
+		<text><![CDATA[<b>Ethernet Frame</b>]]></text>
+    	</component>
+    	<component id="ID_txt11">
+		<text><![CDATA[<b>010101101010010111101101010010</b>]]></text>
+    	</component>
+    	<component id="ID_txt12">
+		<text><![CDATA[<b>Web Server</b>]]></text>
+    	</component>
+    	<component id="ID_txt13">
+		<text><![CDATA[<b>Web Client</b>]]></text>
+    	</component>
+       	<component id="ID_txt14">
+		<text><![CDATA[<b>Data</b>]]></text>
+    	</component>
+    	<component id="ID_txt15">
+		<text><![CDATA[<b>TCP</b>]]></text>
+    	</component>
+    	<component id="ID_txt16">
+		<text><![CDATA[<b>IP</b>]]></text>
+    	</component>
+    	<component id="ID_txt17">
+		<text><![CDATA[<b>Ethernet</b>]]></text>
+    	</component>
+    	<component id="ID_txt18">
+		<text><![CDATA[<b>Data</b>]]></text>
+	</component>
+	<component id="ID_txt19">
+		<text><![CDATA[<b>TCP</b>]]></text>
+	</component>
+	<component id="ID_txt20">
+		<text><![CDATA[<b>IP</b>]]></text>
+	</component>
+	<component id="ID_txt21">
+		<text><![CDATA[<b>Ethernet</b>]]></text>
+    	</component>
+    	</textcomponents>

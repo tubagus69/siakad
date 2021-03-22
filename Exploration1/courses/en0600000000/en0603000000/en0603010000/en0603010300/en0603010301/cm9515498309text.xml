@@ -1,0 +1,102 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Application Layer Applications and Services</b>]]></text>
+</component>
+<component id="ID_txt01">
+	<text><![CDATA[<b>7 Application</b>]]></text>
+</component>
+<component id="ID_txt01a">
+		<text><![CDATA[<b>7 Application</b>]]></text>
+</component>
+<component id="ID_label01">
+		<text><![CDATA[<b>I'll be home at 5</b>]]></text>
+</component>
+<component id="ID_txt11b">
+		<text><![CDATA[<b>APPLICATIONS provide the human interface.<br>SERVICES follow protocols to prepare data for the network.</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+	<text><![CDATA[<b>6 Presentation</b>]]></text>
+</component>
+<component id="ID_txt02a">
+	<text><![CDATA[<b>6 Presentation</b>]]></text>
+</component>
+<component id="ID_txt03">
+		<text><![CDATA[<b>5 Session</b>]]></text>
+</component>
+<component id="ID_txt03a">
+	<text><![CDATA[<b>5 Session</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>4 Transport</b>]]></text>
+</component>
+<component id="ID_txt04a">
+		<text><![CDATA[<b>4 Transport</b>]]></text>
+</component>
+<component id="ID_txt05">
+	<text><![CDATA[<b>3 Network</b>]]></text>
+</component>
+<component id="ID_txt05a">
+<text><![CDATA[<b>3 Network</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>2 Data Link</b>]]></text>
+	</component>
+<component id="ID_txt06a">
+<text><![CDATA[<b>2 Data Link</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>1 Physical</b>]]></text>
+</component>
+<component id="ID_txt07a">
+<text><![CDATA[<b>1 Physical</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>OSI Model</b>]]></text>
+</component>
+<component id="ID_txt08a">
+<text><![CDATA[<b>OSI Model</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>APPLICATIONS</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>SERVICES</b>]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>Our company was founded in 2001.</b>]]></text>
+</component>			
+<component id="ID_txt14a">
+		<text><![CDATA[<b><p>Our company was founded in 2001.</b>]]></text>
+</component>
+<component id="ID_title">
+		<text><![CDATA[<b>Interfacing Human and Data Networks</b>]]></text>
+</component>
+<component id="ID_inst">
+<text><![CDATA[<b>Click Play to the see the animation.</b>]]></text>
+</component>
+<component id="ID_instruct">
+  <text><![CDATA[<b>Click Play to see the animation.</b>]]></text>
+</component>
+
+<component id="play">
+<text><![CDATA[Play]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pause]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Restart]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Rewind]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Fast Forward]]></text>
+</component>
+<component id="next">
+<text><![CDATA[End]]></text>
+</component>
+
+
+</textcomponents>

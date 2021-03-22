@@ -1,0 +1,45 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Local Router Routing Table</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Local Router</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b><font color="#0066FF">Interface<br/>192.168.1.1/24</font></b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b><font color="#0066FF">Interface<br/>192.168.1.2/24</font></b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Network 10.1.1.0/24</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Remote Router</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Network 10.1.2.0/24</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>LOCAL ROUTER ROUTING TABLE</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>10.1.1.0/24</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>10.1.2.0/24</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b><font color="#006600">192.168.1.2/24</font></b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b><font color="#006600">192.168.1.2/24</font></b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>next<br/>hop address</b>]]></text></component>
+<component id="ID_txt13">
+<text><![CDATA[<b>destination network</b>]]></text>
+</component>
+<component id="ID_txt14"><text><![CDATA[<b>The next hop for both networks 10.1.1.0/24 and 10.1.2.0/24 from Local Router is 192.168.1.2/24</b>]]></text>
+</component>
+</textcomponents>

@@ -1,0 +1,49 @@
+<textcomponents>
+	<component id="txt_activity">
+		<text><![CDATA[<font size="14" face="_sans"><b>Activity</b></font>]]></text>
+	</component>
+	<component id="txt_instructions">
+		<text><![CDATA[<font size="12" face="_sans">Given the network address and the subnet mask, define the range of hosts, the broadcast address, and the next network address. Click on the octet in the table to enter your response.</font>]]></text>
+	</component>
+	<component id="txt_correct">
+		<text><![CDATA[<font size="14" face="_sans"><b>Correct</b></font>]]></text>
+	</component>
+	<component id="txt_incorrect">
+		<text><![CDATA[<font size="14" face="_sans"><b>Incorrect</b></font>]]></text>
+	</component>
+	<component id="txt_netdec">
+		<text><![CDATA[<font size="12" face="_sans"><b>Network Address in decimal</b></font>]]></text>
+	</component>
+	<component id="txt_smdec">
+		<text><![CDATA[<font size="12" face="_sans"><b>Subnet Mask in decimal</b></font>]]></text>
+	</component>
+	<component id="txt_netbin">
+		<text><![CDATA[<font size="12" face="_sans"><b>Network address in binary</b></font>]]></text>
+	</component>
+	<component id="txt_smbin">
+		<text><![CDATA[<font size="12" face="_sans"><b>Subnet Mask in binary</b></font>]]></text>
+	</component>
+	<component id="txt_first">
+		<text><![CDATA[<font size="12" face="_sans"><b>First Usable Host IP Address in decimal</b></font>]]></text>
+	</component>
+	<component id="txt_last">
+		<text><![CDATA[<font size="12" face="_sans"><b>Last Usable Host IP Address in decimal</b></font>]]></text>
+	</component>
+	<component id="txt_badec">
+		<text><![CDATA[<font size="12" face="_sans"><b>Broadcast Address in decimal</b></font>]]></text>
+	</component>
+	<component id="txt_nnetdec">
+		<text><![CDATA[<font size="12" face="_sans"><b>Next Network Address in decimal</b></font>]]></text>
+	</component>
+
+
+	<component id="txt_check">
+		<text><![CDATA[Check]]></text>
+	</component>
+	<component id="txt_reset">
+		<text><![CDATA[Reset]]></text>
+	</component>
+	<component id="txt_newnumber">
+		<text><![CDATA[New Number]]></text>
+	</component>
+</textcomponents>

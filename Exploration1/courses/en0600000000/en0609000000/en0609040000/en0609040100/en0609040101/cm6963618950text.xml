@@ -1,0 +1,30 @@
+<textcomponents>
+
+<component id="ID_txt01">
+    <text><![CDATA[<b>Carrier Sense Multiple Access with Collision Detection (CSMA/CD)</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt02">
+      <text><![CDATA[<b>CSMA/CD controls access to the shared media. If there is a collision, it is detected and frames are retransmitted.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+      <text><![CDATA[<b>A</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+      <text><![CDATA[<b>B</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+            <text><![CDATA[<b>C</b>]]></text> 
+  </component>
+  
+<component id="ID_txt06">
+            <text><![CDATA[<b>D</b>]]></text> 
+  </component>
+  
+<component id="ID_title">
+            <text><![CDATA[<b>Media Access Control in Ethernet</b>]]></text> 
+  </component>
+</textcomponents>

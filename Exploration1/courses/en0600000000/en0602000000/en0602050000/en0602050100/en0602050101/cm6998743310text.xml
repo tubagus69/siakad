@@ -1,0 +1,43 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Physical</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Data Link</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Transport</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Upper Layers</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Timing and Synchronization Bits</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Destination and Source Physical Addresses</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Destination and Source Logical Network Addresses</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Destination and Source Process Number (ports)</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Encoded Application Data</b>]]></text>
+</component>
+
+</textcomponents>

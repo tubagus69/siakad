@@ -1,0 +1,693 @@
+﻿<textcomponents>
+<component id="ID_body_01">
+<text><![CDATA[A user on a LAN network wants to access a web page stored on a server that is located on a remote network. The user starts by activtating a link on a web page.]]></text>
+</component>
+
+<component id="ID_body_02">
+<text><![CDATA[The browser initiates an HTTP Get request. The Application layer adds the Layer 7 header to identify the application and data type.]]></text>
+</component>
+
+<component id="ID_body_03">
+<text><![CDATA[The Transport layer identifies the upper layer service as a World Wide Web (WWW) client. The Transport layer then associates this service with the TCP protocol and assigns the port numbers. It uses a randomly selected source port that is associated with this established session (12345). The destination port (80) is associated with a WWW service.]]></text>
+</component>
+
+<component id="ID_body_04">
+<text><![CDATA[TCP also sends an acknowledgement number that tells the WWW server the sequence number of the next TCP segment it expects to receive. The sequence number will indicate where this segment is placed in the series of related segments. Flags are also set as appropriate to establish a session.]]></text>
+</component>
+
+<component id="ID_body_05">
+<text><![CDATA[At the Network layer, an IP packet is constructed to identify the source and destination hosts. For the destination address, the client host uses the IP address associated with the WWW server host name that is cached in the host table. It uses its own IPv4 address as the source address. The Network layer also identifies the upper layer protocol encapsulated in this packet as a TCP segment.]]></text>
+</component>
+
+<component id="ID_body_06">
+<text><![CDATA[The Data Link layer refers to the Address Resolution Protocol (ARP) cache to determine the MAC address that is associated with the interface of RouterB, which is specified as the default gateway. It then uses this address to build an Ethernet II frame to transport the IPv4 packet across the local media. The MAC address of the laptop is used as the source MAC address, and the MAC address of the Fa0/0 interface of RouterB is used as the destination MAC address in the frame.]]></text>
+</component>
+
+<component id="ID_body_07">
+<text><![CDATA[The frame also indicates the upper layer protocol of IPv4 with a value of 0800 in the Type field. The frame begins with a Preamble and Start of Frame (SOF) indicator and ends with a cyclic redundancy check (CRC) in the Frame Check Sequence at the end of the frame for the error detection. It then uses CSMA/CD to control the placing of the frame onto the media.]]></text>
+</component>
+
+<component id="ID_body_08">
+<text><![CDATA[The Physical layer begins encoding the frame onto the media, bit by bit. The segment between RouterA and the server is a 10Base-T segment; therefore, the bits are encoded using Manchester Differential encoding. The RouterB buffers the bits as they are received.]]></text>
+</component>
+
+<component id="ID_body_09">
+<text><![CDATA[RouterB examines the bits in the preamble and SOF, looking for the two consecutive 1 bits that indicate the beginning of the frame. RouterB then begins buffering the bits as part of the reconstructed frame. When the entire frame is received, RouterB generates a CRC of the frame. It then compares this to the FCS at the end of the frame to determine that the frame was received intact. When the frame is confirmed as a good frame, the destination MAC address in the frame is compared to the MAC address of the interface (Fa0/0). Because it matches, the headers are removed and the packet is pushed up to the Network layer.
+]]></text>
+</component>
+
+<component id="ID_body_10">
+<text><![CDATA[At the Network layer, the destination IPv4 address of the packet is compared against the routes in the routing table. A match is found that is associated with a next hop out interface S0/0/0. The packet inside RouterB is then passed to the circuitry for the S0/0/0 interface.]]></text>
+</component>
+
+<component id="ID_body_11">
+<text><![CDATA[RouterB creates a PPP frame to transport the packet across the WAN. In the PPP header, a flag of 01111110 binary is added to indicate the start of the frame. Following that, an address field of 11111111 is added, which is equivalent to a broadcast (it means “send to all stations”).  Because PPP is point-to-point and is used as direct link between two nodes, this field has no real meaning.]]></text>
+</component>
+
+<component id="ID_body_12">
+<text><![CDATA[Also included is a Protocol field with a value of 0021(hex) to indicate that an IPv4 packet is encapsulated. The frame trailer ends with a cyclic redundancy check in the Frame Check Sequence for the error detection. A Flag value of 01111110 binary indicates the end of a PPP frame.]]></text>
+</component>
+
+<component id="ID_body_13">
+<text><![CDATA[With the circuit and PPP session already established between the routers, the Physical layer begins encoding the frame onto the WAN media, bit by bit. The receiving router (RouterA) buffers the bits as they are received. The type of bit representation and encoding is dependent on the type of WAN technology being used.]]></text>
+</component>
+
+<component id="ID_body_14">
+<text><![CDATA[RouterA examines the bits in the flag to identify the beginning of the frame. RouterA then begins buffering the bits as part of the reconstructed frame. When the entire frame is received, as indicated by the flag in the trailer, the RouterA generates a CRC of the frame. It then compares this to the FCS at the end of the frame to determine that the frame was received intact. When the frame is confirmed as a good frame, the headers are removed and the packet is pushed up to the Network layer of RouterA.]]></text>
+</component>
+
+<component id="ID_body_15">
+<text><![CDATA[At the Network layer, the destination IPv4 address of the packet is compared against the routes in the routing table. A match is found that is directly connected to interface Fa0/0. The packet inside RouterA is then passed to the circuitry for the Fa0/0 interface.]]></text>
+</component>
+
+<component id="ID_body_16">
+<text><![CDATA[The Data Link layer refers to the ARP cache of RouterA to determine the MAC address that is associated with the interface of Web Server. It then uses this MAC address to build an Ethernet II frame to transport the IPv4 packet across the local media to the server. The MAC address of the fa0/0 interface of RouterA is used as the source MAC address, and the MAC address of the server is used as the destination MAC address in the frame. The frame also indicates the upper layer protocol of IPv4 with a value of 0800 in the Type field. The frame begins with a Preamble and Start of Frame (SOF) indicator and ends with a cyclic redundancy check in the Frame Check Sequence at the end of the frame for the error detection. It then uses CSMA/CD to control the placing of the frame onto the media.]]></text>
+</component>
+
+<component id="ID_body_17">
+<text><![CDATA[The Physical layer begins encoding the frame onto the media, bit by bit. The segment between RouterA and the server is a 100Base-T segment; therefore, the bits are encoded using 4B/5B encoding. The server buffers the bits as they are received.]]></text>
+</component>
+
+<component id="ID_body_18">
+<text><![CDATA[The Web Server examines the bits in the Preamble and SOF looking for the two consecutive 1 bits that indicate the beginning of the frame. The server then begins buffering the bits as part of the reconstructed frame. When it has received the entire frame, the server generates a CRC of the frame. It then compares this to the FCS at the end of the frame to determine that the frame was received intact.]]></text>
+</component>
+
+<component id="ID_body_19">
+<text><![CDATA[When the frame is confirmed as a good frame, the destination MAC address in the frame is compared to the MAC address of the NIC in the server. Because it matches, the headers are removed and the packet is pushed up to the Network layer.]]></text>
+</component>
+
+<component id="ID_body_20">
+<text><![CDATA[At the Network layer, the destination IPv4 address of the packet is examined to identify the destination host. Because this address matches its own IPv4 address, the packet is processed by the server. The Network layer identifies the upper layer protocol as TCP and directs the contained segment to the TCP service at the Transport layer.]]></text>
+</component>
+
+<component id="ID_body_21">
+<text><![CDATA[At the Transport layer of the server, the TCP segment is examined to determine the session to which the data contained in the segment belongs. This is done by examining the source and destination ports. The unique source and destination port identifies an existing session to the web server service. The sequence number is used to place this segment in the proper order to be sent upward to the Application layer.]]></text>
+</component>
+
+<component id="ID_body_22">
+<text><![CDATA[At the Application layer, the HTTP Get request is delivered to the Web Server service (httpd). The service can then formulate a response to the request.]]></text>
+</component>
+
+
+
+
+
+<component id="ID_title">
+<text><![CDATA[<b>A client requests data from a server</b>]]></text>
+</component>
+
+<component id="ID_title1">
+<text><![CDATA[<b>Source Application layer initiates data transfer</b>]]></text>
+</component>
+
+<component id="ID_title1a">
+<text><![CDATA[<b>Physical layer transports data across the media</b>]]></text>
+</component>
+
+<component id="ID_title2">
+<text><![CDATA[<b>Source Transport layer directs the session</b>]]></text>
+</component>
+
+<component id="ID_title2a">
+<text><![CDATA[<b>Destination Data Link layer of Server gets data off the media</b>]]></text>
+</component>
+
+<component id="ID_title3">
+<text><![CDATA[<b>Network layer directs data to the destination host</b>]]></text>
+</component>
+
+<component id="ID_title3a">
+<text><![CDATA[<b>Destination Network layer of server identifies packet is to the host</b>]]></text>
+</component>
+
+<component id="ID_title4">
+<text><![CDATA[<b>Data Link layer puts data onto the media</b>]]></text>
+</component>
+
+<component id="ID_title4a">
+<text><![CDATA[<b>Destination Transport layer of server identifies the session</b>]]></text>
+</component>
+
+<component id="ID_title4ab">
+<text><![CDATA[<b>Destination Application layer server delivers the data</b>]]></text>
+</component>
+
+<component id="ID_title5">
+<text><![CDATA[<b>Physical layer transports data across the media.</b>]]></text>
+</component>
+
+<component id="ID_title6">
+<text><![CDATA[<b>Data Link Layer of Router B gets data off the media</b>]]></text>
+</component>
+
+<component id="ID_title6a">
+<text><![CDATA[<b>Data Link layer of Router A puts data onto the media</b>]]></text>
+</component>
+
+<component id="ID_title7">
+<text><![CDATA[<b>Network layer of Router B directs toward the destination</b>]]></text>
+</component>
+
+<component id="ID_title7a">
+<text><![CDATA[<b>Network layer of Router A directs toward the destination</b>]]></text>
+</component>
+
+
+<component id="ID_title8">
+<text><![CDATA[<b>Data Link layer of Router B puts data onto the media</b>]]></text>
+</component>
+
+<component id="ID_title9">
+<text><![CDATA[<b>Physical layer transports across the media</b>]]></text>
+</component>
+
+<component id="ID_title10a">
+<text><![CDATA[<b>Data Link layer of Router A gets data off the media</b>]]></text>
+</component>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click to see the steps.</b>]]></text> 
+  </component>
+  
+<component id="ID_inst1">
+  <text><![CDATA[<b>Click for details</b>]]></text> 
+  </component>
+  
+<component id="ID_R1">
+  <text><![CDATA[<b>Data</b>]]></text> 
+  </component>
+  
+<component id="ID_R2">
+  <text><![CDATA[<b>R2</b>]]></text> 
+  </component>
+  
+<component id="ID_R3">
+  <text><![CDATA[<b>Subnet</b>]]></text> 
+  </component>
+  
+<component id="ID_txt01">
+  <text><![CDATA[<b>MATCH!!</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt02">
+    <text><![CDATA[<b>7 Application</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt03">
+    <text><![CDATA[<b>Router A</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt04">
+    <text><![CDATA[<b>Layer 7 Header</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt04a">
+      <text><![CDATA[<b>L4</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt04c">
+        <text><![CDATA[<b>L2</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt04b">
+          <text><![CDATA[<b>L3</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt04d">
+          <text><![CDATA[<b>L2</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt04e">
+            <text><![CDATA[<b>L1</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt04f">
+            <text><![CDATA[<b>L1</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt05">
+    <text><![CDATA[<b>2 Data Link</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt06">
+    <text><![CDATA[<b>6 Presentation</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt07">
+    <text><![CDATA[<b>Server</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt08">
+    <text><![CDATA[<b>Router B</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt09">
+    <text><![CDATA[<b>3 Network</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt10">
+    <text><![CDATA[<b>Client</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt10a">
+      <text><![CDATA[<b>L7</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt11">
+    <text><![CDATA[<b>Subnet</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt12">
+    <text><![CDATA[<b>1 Physical</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt13">
+    <text><![CDATA[<b>.1</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt14">
+    <text><![CDATA[<b>5 Session</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt15">
+    <text><![CDATA[<b>4 Transport</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt16">
+    <text><![CDATA[<b>Ultimate Route</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt17">
+    <text><![CDATA[<b>Path/ Interface</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt18">
+    <text><![CDATA[<b>Source</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt19">
+    <text><![CDATA[<b>Remote Network</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt21">
+    <text><![CDATA[<b>Ultimate Route</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt22">
+    <text><![CDATA[<b>Path/ Interface</b>]]></text> 
+  </component>
+
+  <component id="ID_txt0023">
+    <text><![CDATA[<b>NO MATCH</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt0024">
+    <text><![CDATA[<b>Classful or Classless?</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt25">
+      <text><![CDATA[<b>Protocol:<br/>Source Port:<br/>Destination Port:<br/>Ack #:<br/>Seq #:<br/>Flags<br/>SYN:<br/>ACK:</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt25a">
+        <text><![CDATA[<b>Protocol:<br/>Source Port:<br/>Destination Port:<br/>Ack #:<br/>Seq #:<br/>SYN:<br/>ACK:</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt25ab">
+          <text><![CDATA[<b>Protocol:<br/>Source Port:<br/>Destination Port:<br/>Ack #:<br/>Seq #:<br/>SYN:<br/>ACK:</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt26">
+      <text><![CDATA[<b>TCP<br/>12345<br/>80<br/>154647<br/>7332<br/><br/>0<br/>1</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt26_1">
+        <text><![CDATA[<b>TCP<br/>12345<br/>80<br/>154647<br/>7332<br/>0<br/>1</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt26a">
+        <text><![CDATA[<b>TCP<br/>12345<br/>80<br/>154647<br/>7332<br/>0<br/>1</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt27">
+      <text><![CDATA[<b>Application:<BR/>Protocol:</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt28">
+        <text><![CDATA[<b>Web Browser<BR/>HTTP GET</b>]]></text> 
+  </component>
+  
+<component id="ID_BT1">
+        <text><![CDATA[<b>Acknowledgement Number</b>]]></text> 
+  </component>
+  
+<component id="ID_BT1a">
+        <text><![CDATA[<b>IPv4 address: 192.0.3.7</b>]]></text> 
+  </component>
+
+<component id="ID_BT2a">
+        <text><![CDATA[<b>IPv4 address: 10.1.1.1</b>]]></text> 
+  </component>  
+<component id="ID_BT2">
+        <text><![CDATA[<b>Sequence Number</b>]]></text> 
+  </component>
+
+<component id="ID_BT3">
+        <text><![CDATA[<b>Session Flags</b>]]></text> 
+  </component>
+  
+<component id="ID_BT4">
+        <text><![CDATA[<b>MAC address: 00-05-9A-3C-78-00</b>]]></text> 
+  </component>
+  
+<component id="ID_BT5">
+        <text><![CDATA[<b>MAC address: 00-08-A3-B6-CE-04</b>]]></text> 
+  </component>
+  
+<component id="ID_BT6">
+        <text><![CDATA[<b>Fa0/0</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt0025">
+    <text><![CDATA[<b>Drop Packet</b>]]></text> 
+  </component>
+    <component id="ID_txt03aa">
+      <text><![CDATA[<b>NO MATCH</b>]]></text> 
+  </component>
+      <component id="ID_title12">
+        <text><![CDATA[<b>Step 5: No Match. No Default. Drop the packet.</b>]]></text> 
+  </component>
+        <component id="ID_title12a">
+          <text><![CDATA[<b>Step 1: Examine level 1 routes for best match with the packet’s destination address.</b>]]></text> 
+  </component>
+        <component id="ID_title11">
+          <text><![CDATA[<b>Step 1a: If best match is a level 1 ultimate route, use it to forward packet.</b>]]></text> 
+  </component>
+        <component id="ID_title10">
+          <text><![CDATA[<b>Step 1b: If the best match is a level 1 parent route, proceed to Step 2.</b>]]></text> 
+  </component>
+        <component id="ID_title09">
+          <text><![CDATA[<b>Step 2: Child routes are examined for a best match.</b>]]></text> 
+  </component>
+        <component id="ID_title08">
+          <text><![CDATA[<b>Step 2a: Match! Use this subnet to forward the packet.</b>]]></text> 
+  </component>
+        <component id="ID_title07">
+          <text><![CDATA[<b>Step 2b: No Match. Proceed to Step 3.</b>]]></text> 
+  </component>
+        <component id="ID_title06">
+          <text><![CDATA[<b>Step 3: Classful or Classless Routing Behavior?</b>]]></text> 
+  </component>
+          <component id="ID_title05">
+          <text><![CDATA[<b>Step 3a: Classful Routing Behavior: Drop the Packet</b>]]></text> 
+          </component>
+  <component id="ID_title04">
+          <text><![CDATA[<b>Step 3b: Classless Routing Behavior: Search Level 1 Routes</b>]]></text> 
+          </component>
+  <component id="ID_title03">
+          <text><![CDATA[<b>Step 4: Match with Supernet or Default. Use it to forward packet. Supernets are checked first, then Default if necessary.</b>]]></text> 
+          </component>
+  <component id="ID_R100">
+	  <text><![CDATA[<b>Manoj.</b>]]></text> 
+          </component>
+  <component id="ID_speech1">
+	  <text><![CDATA[<b>Application: Web Browser Protocol:HTTP GET </b>]]></text> 
+          </component>
+          
+  
+  <component id="ID_txt29">
+          <text><![CDATA[<b>Protocol:<br/>Source Address:<br/>Destination Address:<br/>Upper Layer:</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt30">
+          <text><![CDATA[<b>IPv4<br/>10.1.1.1<br/>192.0.3.7<br/>TCP</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt31">
+            <text><![CDATA[<b>Protocol (LLC/MAC):<br/>Media Access Control:<br/>Source Address:<br/>Destination Address:</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt31_1">
+            <text><![CDATA[<b>Upper Layer (type):</b>]]></text> 
+  </component>
+
+  <component id="ID_txt31_2">
+            <text><![CDATA[<b>SOF:</b>]]></text> 
+  </component>
+
+  <component id="ID_txt31_3">
+            <text><![CDATA[<b>Preamble:</b>]]></text> 
+  </component>
+    
+  <component id="ID_txt32">
+            <text><![CDATA[<b>802.2/802.3<br/>CSMA/CD<br/>00-05-9A-3C-78-00<br/>00-08-A3-B6-CE-04</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt32_1">
+            <text><![CDATA[<b>0800 (IPv4)<br/>10101011<br/>10101010 (7 times)</b>]]></text> 
+  </component>
+
+  <component id="ID_txt32_1">
+            <text><![CDATA[<b>0800 (IPv4)</b>]]></text> 
+  </component>
+
+  <component id="ID_txt32_2">
+            <text><![CDATA[<b>10101011</b>]]></text> 
+  </component>  
+
+  <component id="ID_txt32_3">
+            <text><![CDATA[<b>10101010 (7 times)</b>]]></text> 
+  </component>  
+  
+  <component id="ID_txt33">
+              <text><![CDATA[<b>Protocol<br/>(MAC):<br/>FCS:</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt34">
+              <text><![CDATA[<b><br/>802.3<br/>(CRC calculation)</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt35">
+                <text><![CDATA[<b>Frame Check Sequence</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt36">
+                <text><![CDATA[<b>Type</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt37">
+                <text><![CDATA[<b>Start of Frame</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt38">
+                  <text><![CDATA[<b>10BT</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt39">
+                    <text><![CDATA[<b>Protocol:<br/>Encoding:</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt40">
+                 <text><![CDATA[<b>802.3<br/>Manchester Encoding</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt41">
+                 <text><![CDATA[<b>Protocol (MAC):<br/>FCS:</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt42">
+                <text><![CDATA[<b>802.3<br/>(CRC calculation)</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt43">
+                  <text><![CDATA[<b>Protocol (LLC/MAC):<br/>Media Access Control:<br/>Source Address:<br/>Destination Address:<br/>Upper Layer (type):<br/>SOF:<br/>Preamble:</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt44">
+              <text><![CDATA[<b>802.2/802.3<br/>CSMA/CD<br/>00-05-9A-3C-78-00<br/>00-08-A3-B6-CE-04<br/>0800 (IPv4)<br/>10101011<br/>10101010 (7 times)</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt45">
+                <text><![CDATA[<b>IPv4 address : 192.168.1.5</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt46">
+                <text><![CDATA[<b>Protocol:<br/>Source Address:<br/>Destination Address:<br/>Upper Layer:</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt47">
+                <text><![CDATA[<b>IPv4<br/>10.0.1.1<br/>192.0.3.7<br/>TCP</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt48">
+              <text><![CDATA[<b>IPv4 address: 192.0.3.7</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt48a">
+              <text><![CDATA[<b>Routing Table</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt49">
+                <text><![CDATA[<b>IPv4 address: 192.168.1.6</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt50">
+                <text><![CDATA[<b>Fa0/0</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt51">
+                <text><![CDATA[<b>S0/0/0</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt52">
+                <text><![CDATA[<b>S0/0/0</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt53">
+                <text><![CDATA[<b>Destination</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt54">
+                <text><![CDATA[<b>Next Hop</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt55">
+                <text><![CDATA[<b>Interface</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt56">
+                <text><![CDATA[<b>10.0.0.0 /24</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt57">
+                  <text><![CDATA[<b>NC</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt58">
+                  <text><![CDATA[<b>Fa0/0</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt59">
+                  <text><![CDATA[<b>192.0.3.0 /24</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt60">
+                  <text><![CDATA[<b>192.168.1.6</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt61">
+                  <text><![CDATA[<b>S0/0/0</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt62">
+                  <text><![CDATA[<b>192.168.1.4 /30</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt63">
+                  <text><![CDATA[<b>NC</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt64">
+                  <text><![CDATA[<b>S0/0/0</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt65">
+                  <text><![CDATA[<b>Protocol:<br/>FCS:<br/>Flag:</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt66">
+                    <text><![CDATA[<b>PPP<br/>(CRC Calculation)<br/>01111110</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt67">
+                    <text><![CDATA[<b>Protocol:<br/>Media Access Control:<br/>Flag:<br/>Address (all nodes):<br/>Upper Layer (Protocol):</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt68">
+                    <text><![CDATA[<b>PPP<br/>NA<br/>01111110<br/>11111111<br/>0021 (hex) (IPv4)</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt69">
+                    <text><![CDATA[<b>PPP Frame</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt70">
+                  <text><![CDATA[<b>Protocol Field</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt71">
+                  <text><![CDATA[<b>Flag</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt72">
+                 <text><![CDATA[<b>Frame Check<br/>Sequence</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt73">
+                 <text><![CDATA[<b>Protocol:<br/>Encoding:</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt74">
+               <text><![CDATA[<b>????<br/>????</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt75">
+                 <text><![CDATA[<b>192.0.3.0 /24</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt76">
+                 <text><![CDATA[<b>192.168.1.5</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt77">
+                 <text><![CDATA[<b>Protocol:<br/>Source Address:<br/>Destination Address:<br/>Upper Layer:</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt78">
+                <text><![CDATA[<b>IPv4<br/>10.1.1.1<br/>192.0.3.7<br/>TCP</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt79">
+                  <text><![CDATA[<b>802.2/802.3<br/>CSMA/CD<br/>00-08-A3-79-FF-23<br/>00-1D-17-67-45-FC<br/>0800 (IPv4)<br/>10101011<br/>10101010 (7 times)</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt80">
+                <text><![CDATA[<b>MAC address: 00-1D-17-67-45-FC</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt81">
+                   <text><![CDATA[<b>MAC Address: 00-08-A3-79-FF-23</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt82">
+                     <text><![CDATA[<b>Protocol:<br/>Encoding:</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt83">
+                 <text><![CDATA[<b>802.3<br/>4B/5B</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt84">
+                 <text><![CDATA[<b>100BT</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt85">
+                   <text><![CDATA[<b>Destination</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt86">
+                   <text><![CDATA[<b>Matching Address</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt87">
+                   <text><![CDATA[<b>Matching Address</b>]]></text> 
+  </component>
+  
+  <component id="ID_IP">
+            <text><![CDATA[<b>IPv4 Packet</b>]]></text> 
+  </component>
+  
+  <component id="ID_IP1">
+              <text><![CDATA[<b>Ethernet II Frame</b>]]></text> 
+  </component>
+</textcomponents>

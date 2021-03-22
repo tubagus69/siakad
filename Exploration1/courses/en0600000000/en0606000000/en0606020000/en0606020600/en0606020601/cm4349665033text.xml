@@ -1,0 +1,23 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Special IPv4 Addresses</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Router does not forward TEST-NET and Link-Local addresses.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>Network using TEST-NET addresses 192.0.2.0 /24 can only communicate within the local LAN.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>Link-Local Network 169.254.0.0 /16 can only communicate within the local LAN.</b>]]></text> 
+  </component>
+  
+</textcomponents>

@@ -1,0 +1,53 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Comparison of Physical Layer Standards and Upper Layer Standards</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Application</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Presentation</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Session</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Transport</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Data Link</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Physical</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Implemented <br>in software</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Standards set by: ISO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IEEE<br>ANSI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITU<br>EIA/TIA&nbsp;&nbsp;&nbsp;FCC</b>]]></text>
+</component>
+
+<component id="ID_txt29">
+<text><![CDATA[<b>TCP/IP Standards set by:<br>IETF</b>]]></text>
+</component>
+
+<component id="ID_txt53">
+<text><![CDATA[<b>Implemented <br>in hardware</b>]]></text>
+
+</component>
+
+
+
+</textcomponents>

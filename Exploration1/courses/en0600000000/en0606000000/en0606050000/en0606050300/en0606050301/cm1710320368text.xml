@@ -1,0 +1,77 @@
+﻿<textcomponents>
+
+<component id="ID_button01">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+
+<component id="ID_header01">
+<text><![CDATA[<b>Subnet Number</b>]]></text>
+</component>
+
+<component id="ID_header02">
+<text><![CDATA[<b>Subnet Address</b>]]></text>
+</component>
+
+<component id="ID_txt01_01">
+<text><![CDATA[<b>Building A</b>]]></text>
+</component>
+
+<component id="ID_txt02_01">
+<text><![CDATA[<b>Building B</b>]]></text>
+</component>
+
+<component id="ID_txt03_01">
+<text><![CDATA[<b>Building C</b>]]></text>
+</component>
+
+<component id="ID_txt04_01">
+<text><![CDATA[<b>Building D</b>]]></text>
+</component>
+
+<component id="ID_header01_02">
+<text><![CDATA[<b>Subnet Number</b>]]></text>
+</component>
+
+<component id="ID_header02_02">
+<text><![CDATA[<b>Subnet Address</b>]]></text>
+</component>
+
+<component id="ID_header03_02">
+<text><![CDATA[<b>Subnet Number</b>]]></text>
+</component>
+
+<component id="ID_header04_02">
+<text><![CDATA[<b>Subnet Address</b>]]></text>
+</component>
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>Building A</b>]]></text>
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[<b>Building B</b>]]></text>
+</component>
+
+<component id="ID_txt03_02">
+<text><![CDATA[<b>Building C</b>]]></text>
+</component>
+
+<component id="ID_txt04_02">
+<text><![CDATA[<b>Building D</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Click to see the steps.</b>]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Subnetting a Subnetwork Block</b>]]></text>
+</component>
+
+
+</textcomponents>

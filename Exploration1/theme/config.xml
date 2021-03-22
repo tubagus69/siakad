@@ -1,0 +1,6 @@
+<config>
+    <mediapath value="../courses/" />
+    <coursepath value="../courses/" />
+    <lang value="en" />
+    <togglelang value="null" />
+</config>

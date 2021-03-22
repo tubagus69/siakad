@@ -1,0 +1,71 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>ARP Issues:<br><li>Broadcasts, overhead on the Media<li>Security</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Shared Media (multiple access)</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>ARP broadcasts can flood the local media.</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>A false ARP message can  provide an incorrect MAC address that will then hijack frames using that address (called a spoof).</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Ethernet</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>8</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>6</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>6</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>46 to 1500</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>4</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Preamble</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<font color = "#990000"><b>Destination Address</b></font>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Source Address</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>Type</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Data</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Frame Check Sequence</b>]]></text>
+</component>
+
+</textcomponents>

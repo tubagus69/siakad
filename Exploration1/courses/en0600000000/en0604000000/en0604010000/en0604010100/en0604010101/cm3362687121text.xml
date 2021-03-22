@@ -1,0 +1,52 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Enabling Applications on Devices  to Communicate</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Application</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Transport</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Network Access</b>]]></text>
+</component>
+
+<component id="ID_txt01a">
+<text><![CDATA[<b>Application</b>]]></text>
+</component>
+
+<component id="ID_txt02a">
+<text><![CDATA[<b>Transport</b>]]></text>
+</component>
+
+<component id="ID_txt03a">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_txt04a">
+<text><![CDATA[<b>Network Access</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>TCP/IP Model</b>]]></text>
+</component>
+
+<component id="ID_txt05a">
+<text><![CDATA[<b>TCP/IP Model</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>The Transport layer moves data between  applications on devices in the network.</b>]]></text>
+</component>
+
+
+</textcomponents>

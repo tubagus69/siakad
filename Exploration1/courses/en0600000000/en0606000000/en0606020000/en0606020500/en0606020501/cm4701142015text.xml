@@ -1,0 +1,119 @@
+﻿<textcomponents>
+	<component id="play">
+		<text><![CDATA[Play]]></text>
+	</component>
+    <component id="pause">
+		<text><![CDATA[Pause]]></text>
+	</component>
+    <component id="rewind">
+		<text><![CDATA[Rewind]]></text>
+	</component>
+	<component id="forward">
+		<text><![CDATA[Fast Forward]]></text>
+	</component>
+    <component id="mute">
+		<text><![CDATA[Mute]]></text>
+	</component>
+    <component id="unmute">
+		<text><![CDATA[UnMute]]></text>
+	</component>
+    <component id="previous">
+		<text><![CDATA[Restart]]></text>
+	</component>
+    <component id="next">
+		<text><![CDATA[End]]></text>
+	</component>
+<component id="transcript">
+		<text><![CDATA[Transcript]]></text>
+	</component>
+	
+	<component id="ID_inst">
+   <text><![CDATA[<b>Click Play to view the animation.</b>]]></text>
+</component>
+	<component id="ID_title">
+	      <text><![CDATA[<b>Private Addresses Used in Networks without NAT</b></font>]]></text> 
+  </component>
+      <component id="ID_txt01">
+  		<text><![CDATA[<b>192.168.1.0<br/>Private Net</b>]]></text>
+	</component>
+	    <component id="ID_txt01a">
+	  		<text><![CDATA[<b>Internet</b>]]></text>
+	</component>
+	      <component id="ID_txt02">
+	  		<text><![CDATA[<b>172.16.0.0<br/> Private Net</b>]]></text>
+	</component>
+	      <component id="ID_txt03">
+	  		<text><![CDATA[<b>10.0.0.0<br/> Private Net</b>]]></text>
+	</component>
+	      <component id="ID_txt04">
+	  		<text><![CDATA[<b>ISP 1<>/b]]></text>
+	</component>
+	      <component id="ID_txt05">
+	  		<text><![CDATA[<b>ISP 2</b>]]></text>
+	</component>
+	      <component id="ID_txt06">
+	  		<text><![CDATA[<b>ISP 3</b>]]></text>
+	</component>
+	      <component id="ID_txt07">
+	  		<text><![CDATA[<b><font color="#003399">192.168.1.</font><font color="#990000">1</font></b>]]></text>
+	</component>
+	      <component id="ID_txt08">
+	  		<text><![CDATA[<b><font color="#003399">192.168.1.</font><font color="#990000">2</font></b>]]></text>
+	</component>
+
+	      <component id="ID_txt09">
+	  		<text><![CDATA[<b><font color="#003399">192.168.1.</font><font color="#990000">3</font></b>]]></text>
+	</component>
+	      <component id="ID_txt10">
+	  		<text><![CDATA[<b><font color="#009900">10</font><font color="#990000">.0.0.1</font></b>]]></text>
+	</component>
+	      <component id="ID_txt11">
+	  		<text><![CDATA[<b><font color="#009900">10</font><font color="#990000">.0.0.2</font></b>]]></text>
+	</component>
+	      <component id="ID_txt12">
+	  		<text><![CDATA[<b><font color="#009900">10</font><font color="#990000">.0.0.3</font></b>]]></text>
+	</component>
+	      <component id="ID_txt13">
+	  		<text><![CDATA[<b><font color="#009900">10</font><font color="#990000">.0.0.4</font></b>]]></text>
+	</component>
+	      <component id="ID_txt14">
+	  		<text><![CDATA[<b><font color="#009900">10</font><font color="#990000">.0.0.5</font></b>]]></text>
+	</component>
+	      <component id="ID_txt15">
+	  		<text><![CDATA[<b><font color="#009900">10</font><font color="#990000">.0.0.6</font></b>]]></text>
+	</component>
+	      <component id="ID_txt16">
+	  		<text><![CDATA[<b><font color="#009900">10</font><font color="#990000">.0.0.7</font></b>]]></text>
+	</component>
+	      <component id="ID_txt17">
+	  		<text><![CDATA[<b><font color="#009900">10</font><font color="#990000">.0.0.8</font></b>]]></text>
+	</component>
+	      <component id="ID_txt18">
+	  		<text><![CDATA[<b><font color="#009900">10</font><font color="#990000">.0.0.9</font></b>]]></text>
+	</component>
+	      <component id="ID_txt19a">
+		  	<text><![CDATA[<b><font color="#009900">10</font><font color="#990000">.0.0.10</font></b>]]></text>
+	</component>
+	      <component id="ID_txt19">
+	  		<text><![CDATA[<b><font color="#663399">172.16.</font><font color="#990000">0.1</font></b>]]></text>
+	</component>
+	      <component id="ID_txt20">
+	  		<text><![CDATA[<b><font color="#663399">172.16.</font><font color="#990000">0.2</font></b>]]></text>
+	</component>
+	<component id="ID_txt21">
+		  	<text><![CDATA[<b><font color="#663399">172.16.</font><font color="#990000">0.3</font></b>]]></text>
+	</component>
+	<component id="ID_txt22">
+		  	<text><![CDATA[<b><font color="#663399">172.16.</font><font color="#990000">0.4</font></b>]]></text>
+	</component>
+	<component id="ID_txt23">
+		  	<text><![CDATA[<b><font color="#663399">172.16.</font><font color="#990000">0.5</font></b>]]></text>
+	</component>
+	<component id="ID_txt24">
+		  	<text><![CDATA[<b><font color="#663399">172.16.</font><font color="#990000">0.6</font></b>]]></text>
+	</component>
+		<component id="ID_txt25">
+			<text><![CDATA[<b><font color="#663399">172.16.</font><font color="#990000">0.7</font></b>]]></text>
+	</component>
+  
+	</textcomponents>

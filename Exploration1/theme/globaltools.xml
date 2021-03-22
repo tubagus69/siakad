@@ -1,0 +1,14 @@
+<globaltools>
+    <tool ltype="pt" link="./theme/blank.pkt">
+        <title lang="en">Packet Tracer</title>
+        <title lang="es">Packet Tracer</title>
+        <title lang="ch">Packet Tracer</title>
+    </tool>
+    <!--
+    <tool ltype="internal" link="commandreference.pdf">
+        <title lang="en">Command Reference</title>
+        <title lang="es">Command Reference</title>
+        <title lang="ch">Command Reference</title>
+    </tool>
+    -->
+</globaltools>

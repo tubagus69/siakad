@@ -1,0 +1,36 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Media Independence</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Benefits of OSL model:</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>IP packets can travel over different media.</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>IP Packet</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>copper Ethernet</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>copper serial</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>optical fiber</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>IP Packet</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>copper Ethernet</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>wireless</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>IP Packet</b>]]></text>
+</component>
+
+</textcomponents>

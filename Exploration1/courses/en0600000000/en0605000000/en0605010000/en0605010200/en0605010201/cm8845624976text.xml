@@ -1,0 +1,59 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>TCP/IP</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Users exchanging data</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>UPPER LAYERS</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>TCP session (process) in progress</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>TRANSPORT LAYER</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>TCP Segment</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>TCP Segment</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>IP Header</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Segment</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>IP Header</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Segment</b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>TCP segments encapsulated into IP packets</b>]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>NETWORK LAYER</b>]]></text>
+</component>
+<component id="ID_txt14">
+<text><![CDATA[<b>IP Packets flow through the internetwork.</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>• Connectionless - No connection is established before sending data packets.<br><br>• Best Effort (unreliable) - No overhead is used to guarantee packet delivery.<br><br>• Media Independent - Operates independently of the medium carrying the data.
+</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Packet</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>Packet</b>]]></text>
+</component>
+
+
+</textcomponents>

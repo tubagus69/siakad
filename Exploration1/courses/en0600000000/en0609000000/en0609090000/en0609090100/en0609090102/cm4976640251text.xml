@@ -1,0 +1,328 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Use this activity to check your understanding of the main points in this chapter.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>A series of questions will be presented. This is not a quiz and your answers are not recorded.</li><li>Click <b>Answer</b> to see the answer.</li><li>Click <b>Next Question</b> to go to the next question in the series.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Click Here<br/>to Begin</b>]]></text>
+</component>
+
+<!-- Question 1 -->
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[Name the two Data Link sublayers and list their purposes.]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[<p><b>Logical Link Control (LLC)</b></p><p>Handles the communication between the upper layers and the lower layers, typically hardware. Implemented in software and is independent of the physical equipment; can be considered as the NIC driver software in a PC. Provides sub addressing to identify the network protocol that uses the link layer service. Destination Service Access Point (DSAP) and the Source Service Access Point (SSAP): identifies a protocol, or set of protocols, in the next higher OSI layer, the Network layer.</p><br/><p><b>Media Access Control (MAC)</b></p><p>Ethernet MAC sublayer has the following responsibilities: Data Encapsulation: Fame assembly before transmission, and frame parsing/error detection during and after reception. Media Access Control: Controls frames on and off the media, including initiation of frame transmission and recovery from transmission failure. Addressing: Provides physical address (MAC address) that enables frames to be delivered to destination hosts. Media Access Control is implemented by hardware, typically in the host NIC or equivalent.</p>]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[Describe some of the limiting features of Legacy Ethernet technologies.]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[<ul><li>Low bandwidth</li><li>Half-duplex</li><li>Coaxial cable, especially Thicknet—Ddifficult to install; required large radius corners</li><li>Physical bus—termination issues</li><li>Bayonet/vampire type connectors—difficult to install and were a source of problems</li></ul>]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[List the fields and purposes of the fields of an Ethernet frame.]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[<p><b>Preamble and Start Frame Delimiter:</b></p><p>The Preamble and SFD are used for synchronization. </p><br/><p><b>Destination MAC Address:</b></p><p>The Destination MAC Address (6 bytes in length) is the identifier for the intended recipient. </p><br/><p><b>Source MAC Address:</b></p><p>The Source MAC Address (6 bytes in length) identifies the frame originating NIC or interface. </p><br/><p><b>Length/Type:</b></p><p>The Length (2 bytes in length) field defines the exact length of the frame's data field. The Type field describes which protocol is listed inside the frame.</p><br/><p><b>Data and Pad:</b></p><p>The Data and Pad (46 – 1500 bytes in length) field contains the data from a higher layer, which is a generic L3PDU or more usually an IP packet if using TCP/IP.  The Pad is required to pad out the frame to the minimum size if a very small packet is encapsulated.</p><br/><p><b>Frame Check Sequence (FCS):</b></p><p>The FCS (4 bytes in length) field is used to detect errors in a frame. It uses a cyclic redundancy check (CRC), which begins with the sending station, and includes the results of that CRC in the FCS field. The receiving station receives the frame and runs the exact same CRC to check for errors. If the calculations match, then there was no error; otherwise the frame is dropped.</p>]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[Describe the structure of an Ethernet MAC address.]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[<p>Ethernet MAC address is a 48-bit binary value expressed as 12 hexadecimal digits. The first 24 bits (3 bytes) are the Organizationally Unique Identifier (OUI). The second 24 bits (3 bytes) identify the device and must be unique for a particular OUI value.</p>]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[Why are Layer 2 MAC addresses necessary?]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[<p>Ethernet MAC address is used to transport the frame across the local media. A particular MAC address has no meaning or use outside the local segment. It is unique; it is non-hierarchal and associated with a particular device regardless of its location or to which network it is connected. In contrast, Layer 3 addresses are used end-to-end across networks.</p>]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q6_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[Describe how Ethernet implements unicast, mutlticast, and broadcast communications.]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[<p><b>Unicast:</b></p><p>A unicast MAC address is the unique address used when a message is sent from one transmitting device to one destination device. All hosts examine the frame, but if it is not addressed to them, the frame is dropped. Only the host whose MAC address matches the frame destination address accepts the frame and processes the message through the upper layers.</p><br/><p><b>Multicast:</b></p><p>Multicast MAC addresses are a group of common MAC addresses that all devices have, to enable delivery of frames carrying multicast packets, such as streaming audio or video. For IP multicasting, the Ethernet multicast MAC addresses begin with 0100.5E or 0100.5F. Frames with a destination address in this range will be delivered to those devices on the LAN whose upper layers have established a multicast session.</p><br/><p><b>Broadcast:</b></p><p>The Ethernet broadcast MAC address is FFFF.FFFF.FFFF. Frames with this destination address are delivered to and processed by all of the devices on that LAN subnet.</p>]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 7 -->
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[Use examples to describe the CSMA/CD process. ]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[<p><b>Carrier Sense</b></p><p>All network devices that have messages to send must listen before transmitting. If a signal from another device is detected, the device sits back and waits a random amount of time before trying again. When no traffic is detected, the device transmits its message.</p><br/> <p><b>Multiple Access</b></p><p>If the latency of one device's signals means that they are not detected by a second device, the second device may then start to transmit, too. The two messages will propagate across the media until they encounter each other. The jumble of remaining signals continues to propagate across the media.</p><br/><p><b>Collision Detection</b></p><p>All devices detect the increase in the amplitude of the signal above the normal level that a collision produces. Once detected, every device transmitting will continue to transmit to ensure that all devices on the network detect the collision. </p><br/><p><b>Jam Signal</b></p><p>Further, once the collision is detected, all devices send out a jamming signal.</p><br/><p><b>Random Backoff </b></p><p>This jamming signal invokes the backoff algorithm, which causes all devices to then stop transmitting for a random amount of time. This allows for the collision signals to subside from the medium. After the delay has expired, all devices go back into the listen before transmit mode. The random back offtime means that a third device may transmit before either of the two involved in the original collision. </p>]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q7_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 8 -->
+
+<component id="ID_Q8_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q8_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q8_txt03">
+<text><![CDATA[Describe an Ethernet collision domain.]]></text>
+</component>
+<component id="ID_Q8_txt04">
+<text><![CDATA[<p>The group of connected devices that can cause collisions to occur with each other is known as a collision domain. Collision domains occur at Layer 1 of the networking reference model.</p><br/><p>Hubs and repeaters are intermediary devices at Layer 1 that extend the distance that Ethernet cables can reach. Hubs (also known as multi-port repeaters) enable more devices to connect to the shared media. Both types of devices have the effect of increasing the size of the collision domain. Providing network access for more users with hubs reduces the performance for each because the fixed capacity of the media has to be shared among more and more devices.</p>]]></text>
+</component>
+<component id="ID_Q8_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q8_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 9 -->
+
+<component id="ID_Q9_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q9_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q9_txt03">
+<text><![CDATA[Compare the specifications of early Ethernet technologies to current versions.]]></text>
+</component>
+<component id="ID_Q9_txt04">
+<text><![CDATA[<p><b>Bandwidth:</b> 10 Mbps to 100Mbps compared to 1000Mbps to 10,000Mbps</p> <br/><p><b>Distance:</b></p><ul><li>Copper media—500 meters to 200 meters to 100 meters (Lower cost and higher bandwidth outweighed shorter distance)</li><li>Fiber media—400 meters to 10 kilometers</li></ul><br/><p><b>Media: </b></p><ul><li>Coaxial cable to Unshielded Twisted-Pair to Optic Fiber</li><li>Multiple-hosts per segment (shared media) to single hosts per segment</li><li>Half-duplex to Full-duplex</li></ul><br/><p><b>Cost:</b> Cost per Mbps per meter has fallen</p>]]></text>
+</component>
+<component id="ID_Q9_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q9_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 10 -->
+
+<component id="ID_Q10_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q10_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q10_txt03">
+<text><![CDATA[State the benefits of moving from a hub-based to a switched local network.]]></text>
+</component>
+<component id="ID_Q10_txt04">
+<text><![CDATA[<p><b>Scalability:</b></p><ul><li>Hubs share limited bandwidth among users.</li><li>Switches provide the full available bandwidth to each host.</li></ul><br/><p><b>Latency:</b></p><ul><li>Latency is the amount of time that a packet takes to get to the destination. </li><li>More nodes on a segment increase latency as each waits to transmit.</li><li>Hubs regenerate frames, which also adds delay. </li><li>Switches also buffer frames, but with only one host on each segment, there is no delay when each host wants to transmit.</li></ul><br/><p><b>Network Failure:</b></p><ul><li>Incompatible speeds, e.g., 100 Mbps device connected to a 10 Mbps hub.</li><li>Switches can be configured to manage different segment speeds. </li></ul><br/><p><b>Collisions:</b></p><ul><li>Hubs increase the size of the collision domain. Using hubs (Layer 1 devices) to increase the number of nodes on the same segment can increase the number of collisions. </li><li>Switches divide collision domains at Layer 2, reducing, if not eliminating, collisions to each segment.</li></ul>]]></text>
+</component>
+<component id="ID_Q10_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q10_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 11 -->
+
+<component id="ID_Q11_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q11_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q11_txt03">
+<text><![CDATA[List and describe the stages of operation of an Ethernet switch.]]></text>
+</component>
+<component id="ID_Q11_txt04">
+<text><![CDATA[<p><b>Learning</b></p><p>When a frame of data is received from a node, the switch reads the source MAC address and saves the address to the lookup table against the incoming interface. The switch now knows out which interface to forward frames with this address.</p><br/><p><b>Flooding</b></p><p>When the switch does not have a destination MAC address in its lookup table, it sends (floods) the frame out all interfaces except the one on which the frame arrived.</p><br/><p><b>Forwarding</b></p><p>When the switch has the destination MAC address in its lookup table and the interface mapped to the MAC address is not the interface it received the frame on, it sends (forwards) the frame out that interface.</p><br/><p><b>Filtering</b></p><p>When the switch has the destination MAC address in its lookup table and the interface mapped to the MAC address is the interface it received the frame on, it drops the frame. (Other interfaces/segments are spared unnecessary and potentially collision-causing traffic.)</p><br/><p><b>Aging</b></p><p>Each MAC-IP address entry on a lookup table has a timestamp that is reset each time the entry is referred to. If the timer expires, the entry is purged from the table. This reduces the number of entries to look up and frees up memory.</p>]]></text>
+</component>
+<component id="ID_Q11_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q11_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 12 -->
+
+<component id="ID_Q12_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q12_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q12_txt03">
+<text><![CDATA[Describe the forwarding of a frame through a switch.]]></text>
+</component>
+<component id="ID_Q12_txt04">
+<text><![CDATA[<p>Ethernet switches selectively forward individual frames from a receiving port to the port where the destination node is connected. A switch will buffer an incoming frame and then forward it to the proper port when that port is idle.</p><br/><p>This process is referred to as store and forward. With store and forward switching, the switch receives the entire frame, checks the FSC for errors, and forwards the frame to the appropriate port for the destination node. Because the nodes do not have to wait for the media to be idle, the nodes can send and receive at full media speed without losses due to collisions or the overhead associated with managing collisions.</p>]]></text>
+</component>
+<component id="ID_Q12_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q12_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 13-->
+
+<component id="ID_Q13_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q13_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q13_txt03">
+<text><![CDATA[When and why does a network host need to broadcast an ARP request?]]></text>
+</component>
+<component id="ID_Q13_txt04">
+<text><![CDATA[<p>When a host has a packet to send to a known IP address but does not know the destination MAC address to use the frame, it sends an ARP broadcast to all hosts on the network requesting that the host with the known IP address reply with its MAC address. This enables the originating host to store and use the IP and MAC address pair.</p>]]></text>
+</component>
+<component id="ID_Q13_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q13_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 14 -->
+
+<component id="ID_Q14_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q14_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q14_txt03">
+<text><![CDATA[What is the purpose of the Proxy ARP process?]]></text>
+</component>
+<component id="ID_Q14_txt04">
+<text><![CDATA[<p>To enable the requesting host to map the IP address of a destination in a non-local network with the MAC address of the gateway (local network router interface). This enables the frame to be sent to the router, which will forward on the packet.
+</p>]]></text>
+</component>
+<component id="ID_Q14_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q14_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 15 -->
+
+<component id="ID_Q15_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q15_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q15_txt03">
+<text><![CDATA[Explain why entries in a network host's ARP cache are cleared if not used for a period of time.]]></text>
+</component>
+<component id="ID_Q15_txt04">
+<text><![CDATA[<p>Unlimited ARP cache hold times could cause errors when devices leave the network or change Layer 3 address, and over time could fill the available cache memory.</p>]]></text>
+</component>
+<component id="ID_Q15_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q15_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+</textcomponents>

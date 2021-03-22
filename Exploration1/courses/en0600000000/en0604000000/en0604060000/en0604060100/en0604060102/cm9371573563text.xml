@@ -1,0 +1,369 @@
+<textcomponents>
+
+<component id="ID_setup">
+<text><![CDATA[<b>Use this activity to check your understanding of the main points in this chapter.</b>]]></text>
+</component>
+
+<component id="ID_setup2">
+<text><![CDATA[<ul><li>A series of questions will be presented. This is not a quiz and your answers are not recorded.</li><li>Click <b>Answer</b> to see the answer.</li><li>Click <b>Next Question</b> to go to the next question in the series.</li></ul>]]></text>
+</component>
+
+<component id="clickHere">
+<text><![CDATA[<b>Click Here<br/>to Begin</b>]]></text>
+</component>
+
+<!-- Question 1 -->
+
+<component id="ID_Q1_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q1_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q1_txt03">
+<text><![CDATA[Where do Transport layer processes occur?]]></text>
+</component>
+<component id="ID_Q1_txt04">
+<text><![CDATA[Transport layer processes occur between the Application layer and Internet layer of the TCP/IP model and between the Session layer and Network layer of the OSI model.]]></text>
+</component>
+<component id="ID_Q1_txt05">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 2 -->
+
+<component id="ID_Q2_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q2_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q2_txt03">
+<text><![CDATA[What are the Transport Layers responsibilities?]]></text>
+</component>
+<component id="ID_Q2_txt04">
+<text><![CDATA[<p>The Transport layer is responsible for:</p><ol><li>Keeping track of the individual conversations taking place between applications on the source and destination hosts</li><li>Segmenting data and adding a header to identify and manage each segment</li><li>Using the header information to reassemble the segments back into application data</li><li>Passing the assembled data to the correct application</li></ol>]]></text>
+</component>
+<component id="ID_Q2_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q2_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 3 -->
+
+<component id="ID_Q3_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q3_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q3_txt03">
+<text><![CDATA[What does segmentation provide to communications?]]></text>
+</component>
+<component id="ID_Q3_txt04">
+<text><![CDATA[<p>Segmentation of the data, in accordance with Transport layer protocols, provides the means to both send and receive data when running multiple applications concurrently on a computer.</p>]]></text>
+</component>
+<component id="ID_Q3_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q3_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 4 -->
+
+<component id="ID_Q4_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q4_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q4_txt03">
+<text><![CDATA[What are the primary functions specified by all Transport layer protocols?]]></text>
+</component>
+<component id="ID_Q4_txt04">
+<text><![CDATA[<p>The primary functions specified by all Transport layer protocols include:</p><ul><li><b>Conversation Multiplexing</b>—There may be many applications or services running on each host in the network. Each of these applications or services is assigned an address known as a port so that the Transport layer can determine with which application or service the data is identified.</li><li><b>Segmentation and Reassembly</b>—Most networks have a limitation on the amount of data that can be included in a single PDU. The Transport layer divides application data into blocks of data that are an appropriate size. At the destination, the Transport layer reassembles the data before sending it to the destination application or service.</li><li><b>Error Checking</b>—Basic error checking can be performed on the data in the segment to determine if the data was changed during transmission.</li></ul>]]></text>
+</component>
+<component id="ID_Q4_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q4_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 5 -->
+
+<component id="ID_Q5_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q5_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q5_txt03">
+<text><![CDATA[In networking terms what is reliability?]]></text>
+</component>
+<component id="ID_Q5_txt04">
+<text><![CDATA[<p>In networking terms, <i>reliability</i> means ensuring that each segment that the source sends arrives at the destination.</p>]]></text>
+</component>
+<component id="ID_Q5_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q5_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 6 -->
+
+<component id="ID_Q6_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q6_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q6_txt03">
+<text><![CDATA[List three applications that use TCP:]]></text>
+</component>
+<component id="ID_Q6_txt04">
+<text><![CDATA[<p>Applications that use TCP are:</p><ul><li>Web Browsing</li><li>E-mail</li><li>File Transfers</li></ul>]]></text>
+</component>
+<component id="ID_Q6_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q6_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 7 -->
+
+<component id="ID_Q7_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q7_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q7_txt03">
+<text><![CDATA[List three applications that use UDP: ]]></text>
+</component>
+<component id="ID_Q7_txt04">
+<text><![CDATA[<p>Applications that use UDP include:</p><ul><li>Domain Name Resolution</li><li>Video Streaming</li><li>Voice over IP (VoIP)</li></ul>]]></text>
+</component>
+<component id="ID_Q7_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q7_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 8 -->
+
+<component id="ID_Q8_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q8_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q8_txt03">
+<text><![CDATA[What are the different types of port numbers?]]></text>
+</component>
+<component id="ID_Q8_txt04">
+<text><![CDATA[<p>The different types of port numbers are:</p><ul><li><b>Well Known Ports (Numbers 0 to 1023)</b>—These numbers are reserved for services and applications. They are commonly used for applications such as HTTP (web server) POP3/SMTP (e-mail server) and Telnet. By defining these well-known ports for server applications, client applications can be programmed to request a connection to that specific port and its associated service.</li><li><b>Registered Ports (Numbers 1024 to 49151)</b>—These port numbers are assigned to user processes or applications. These are primarily individual applications that a user has chosen to install rather than common, universal applications that would receive a Well Known Port.</li><li><b>Dynamic or Private Ports (Numbers 49152 to 65535)</b>—Also known as Ephemeral Ports, these are usually assigned dynamically to client applications when initiating a connection. It is not very common for a client to connect to a service using a Dynamic or Private Port (although some peer-to-peer file sharing programs do).</li></ul>]]></text>
+</component>
+<component id="ID_Q8_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q8_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 9 -->
+
+<component id="ID_Q9_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q9_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q9_txt03">
+<text><![CDATA[What is contained in the header of each segment or datagram?]]></text>
+</component>
+<component id="ID_Q9_txt04">
+<text><![CDATA[<p>The source and destination port number.</p>]]></text>
+</component>
+<component id="ID_Q9_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q9_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 10 -->
+
+<component id="ID_Q10_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q10_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q10_txt03">
+<text><![CDATA[What is the purpose of a sequence number?]]></text>
+</component>
+<component id="ID_Q10_txt04">
+<text><![CDATA[<p>A sequence number allows the Transport layer functions on the destination host to reassemble segments in the order in which they were transmitted.</p>]]></text>
+</component>
+<component id="ID_Q10_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q10_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 11 -->
+
+<component id="ID_Q11_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q11_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q11_txt03">
+<text><![CDATA[What is one way to improve security on a server?]]></text>
+</component>
+<component id="ID_Q11_txt04">
+<text><![CDATA[One way to improve security on a server is to restrict server access to only those ports associated with the services and applications that should be accessible to authorized requestors.]]></text>
+</component>
+<component id="ID_Q11_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q11_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 12 -->
+
+<component id="ID_Q12_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q12_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q12_txt03">
+<text><![CDATA[Describe the TCP three way handshake:]]></text>
+</component>
+<component id="ID_Q12_txt04">
+<text><![CDATA[<p>The three-way handshake:</p><ul><li>Establishes that the destination device is present on the network</li><li>Verifies that the destination device has an active service and is accepting requests on the destination port number that the initiating client intends to use for the session</li><li>Informs the destination device that the source client intends to establish a communication session on that port number</li></ul>]]></text>
+</component>
+<component id="ID_Q12_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q12_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 13-->
+
+<component id="ID_Q13_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q13_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q13_txt03">
+<text><![CDATA[What are TCP sequence numbers used for?]]></text>
+</component>
+<component id="ID_Q13_txt04">
+<text><![CDATA[<p>For the original message to be understood by the recipient, the data in these segments is reassembled into the original order.</p>]]></text>
+</component>
+<component id="ID_Q13_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q13_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 14 -->
+
+<component id="ID_Q14_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q14_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q14_txt03">
+<text><![CDATA[Explain an expectational acknowledgement.]]></text>
+</component>
+<component id="ID_Q14_txt04">
+<text><![CDATA[<p>TCP uses the acknowledgement number in segments sent back to the source to indicate the next byte in this session that the receiver expects to receive.</p>]]></text>
+</component>
+<component id="ID_Q14_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q14_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 15 -->
+
+<component id="ID_Q15_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q15_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q15_txt03">
+<text><![CDATA[After a predetermined amount of time what does TCP do when it hasn't received an acknowledgement?]]></text>
+</component>
+<component id="ID_Q15_txt04">
+<text><![CDATA[<p>When TCP at the source host has not received an acknowledgement after a predetermined amount of time, it will go back to the last acknowledgement number that it received and retransmit data from that point forward.</p>]]></text>
+</component>
+<component id="ID_Q15_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q15_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 16 -->
+
+<component id="ID_Q16_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q16_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q16_txt03">
+<text><![CDATA[The amount of data that can be transmitted before a TCP acknowledgement must be received is referred to as:]]></text>
+</component>
+<component id="ID_Q16_txt04">
+<text><![CDATA[The window size.]]></text>
+</component>
+<component id="ID_Q16_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q16_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+<!-- Question 17 -->
+
+<component id="ID_Q17_txt01">
+<text><![CDATA[<b>Answer</b>]]></text>
+</component>
+<component id="ID_Q17_txt02">
+<text><![CDATA[Can you mentally answer this question?<br/>Click <b>Answer</b> to see if you're correct.]]></text>
+</component>
+<component id="ID_Q17_txt03">
+<text><![CDATA[List key application layer protocols that use UDP]]></text>
+</component>
+<component id="ID_Q17_txt04">
+<text><![CDATA[<p>Application layer protocols that use UDP include:</p><ul><li>Domain Name System (DNS)</li><li>Simple Network Management Protocol (SNMP)</li><li>Dynamic Host Configuration Protocol (DHCP)</li><li>Routing Information Protocol (RIP)</li><li>Trivial File Transfer Protocol (TFTP)</li><li>Online games</li></ul>]]></text>
+</component>
+<component id="ID_Q17_txt05">
+<text><![CDATA[<b>Previous<br/>Question</b>]]></text>
+</component>
+<component id="ID_Q17_txt06">
+<text><![CDATA[<b>Next<br/>Question</b>]]></text>
+</component>
+
+</textcomponents>

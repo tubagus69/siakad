@@ -1,0 +1,34 @@
+﻿<textcomponents>
+
+<component id="btn1">
+<text><![CDATA[<b>Ethernet interface configuration</b>]]></text>
+</component>
+<component id="btn2">
+<text><![CDATA[<b>Serial interface configuration</b>]]></text>
+</component>
+
+
+<component id="ID_title1">
+<text><![CDATA[<b>Configuring Router Ethernet Interfaces</b>]]></text>
+</component>
+
+<component id="ID_title2">
+<text><![CDATA[<b> Configure Router Serial Interfaces</b>]]></text>
+</component>
+
+<component id="ID_caption">
+<text><![CDATA[<b>Click to see.</b>]]></text>
+</component>
+
+
+<component id="output_text_01">
+<text><![CDATA[<b>Configure Router Ethernet Interfaces</b>]]></text>
+</component>
+
+<component id="output_text_02">
+<text><![CDATA[<b>Configure Router Serial Interfaces</b>]]></text>
+</component>
+
+
+
+</textcomponents>

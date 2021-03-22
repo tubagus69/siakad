@@ -1,0 +1,26 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>UDP Low Overhead Data Transport</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Sender</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Receiver</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>UDP does not establish a connection before sending data.</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>UDP provides low overhead data transport because it has a small datagram header and no network management traffic.</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+    <text><![CDATA[<b>Data</b>]]></text> 
+  </component>
+  
+</textcomponents> 

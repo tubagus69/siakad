@@ -1,0 +1,8 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>In this chapter, you learned to:</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<ul><li>Identify the basic characteristics of network media used in Ethernet.</li><li>Describe the Physical and Data Link layer features of Ethernet.</li><li>Describe the function and characteristics of the media access control method used by Ethernet protocol.</li><li>Explain the importance of Layer 2 addressing used for data transmission and determine how the different types of addressing impacts network operation and performance.</li><li>Compare and contrast the application and benefits of using Ethernet switches in a LAN as opposed to using hubs.</li><li>Explain the ARP process.</li></ul>]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,55 @@
+<textcomponents>
+<component id="NETWORK">
+<text><![CDATA[NETWORK]]></text>
+</component>
+<component id="HOST">
+<text><![CDATA[HOST]]></text>
+</component>	
+	
+<component id="ID_title">
+	<text><![CDATA[<b>Network and Host Portions of an IP Address</b>]]></text>
+	</component>
+<component id="ID_txt01">
+		<text><![CDATA[<b>IP Address</b>]]></text>
+	</component>
+<component id="ID_txt02">
+		<text><![CDATA[<b>Subnet Mask</b>]]></text>
+	</component>
+<component id="ID_txt03">
+		<text><![CDATA[<b>172&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1</b>]]></text>
+	</component>
+<component id="ID_txt04">
+		<text><![CDATA[<b>00001010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;00000000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;000000000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;00000001</b>]]></text>
+	</component>
+<component id="ID_txt05">
+    		<text><![CDATA[<b>255&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;255&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;255&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0</b>]]></text>
+	</component>
+<component id="ID_txt06">
+    		<text><![CDATA[<b>111111111&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;111111111&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;111111111&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;00000000</b>]]></text>
+	</component>
+<component id="ID_txt07">
+	    	<text><![CDATA[<b>Prefix /24 (24 high order bits)</b>]]></text>
+		</component>
+
+<component id="ID_txt13">
+		<text><![CDATA[<b>These values are in the network portion of the address.  They can be "0" or "1".</b>]]></text>
+	</component>
+	
+	
+<component id="ID_txt15">
+		<text><![CDATA[<b>These values are in the host portion of the address.They can be "0" or "1".</b>]]></text>
+	</component>
+	
+<component id="ID_inst">
+		<text><![CDATA[<b>Roll over to learn more.</b>]]></text>
+	</component>
+	
+<component id="ID_txt16">
+		<text><![CDATA[<b>A "1" in these positions indicates that these positions are part of the network portion of the address.</b>]]></text>
+	</component>
+	
+<component id="ID_txt17">
+		<text><![CDATA[<b>A "0" in these positions indicates that these positions are part of the host portion of the address.</b>]]></text>
+	</component>
+
+</textcomponents>

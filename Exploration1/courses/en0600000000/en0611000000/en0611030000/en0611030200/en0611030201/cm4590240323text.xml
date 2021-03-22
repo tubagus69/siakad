@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Click to view various router outputs.</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Summary<br>Static Route to<br> 192.168.0.0/16</b>]]></text>
+</component>
+
+<component id="ID_Title01">
+<text><![CDATA[<b>Interface Testing</b>]]></text>
+</component>
+
+<component id="slide1">
+<text><![CDATA[<b>Router1</b>]]></text>
+</component>
+
+<component id="slide2">
+<text><![CDATA[<b>Switch1</b>]]></text>
+</component>
+
+<component id="rbutton">
+<text><![CDATA[<b>Device Output</b>]]></text>
+</component>
+
+</textcomponents>

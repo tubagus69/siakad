@@ -1,0 +1,47 @@
+﻿<textcomponents>
+<component id="ID_caption01">
+<text><![CDATA[<b>The Mail Transfer Agent process governs e-mail handling between servers and servers.</b>]]></text>
+</component>
+<component id="ID_txt14">
+<text><![CDATA[<b>E-mail Server - MTA</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Is the recipient in my list of recipients?<br>No.  Forward e-mail to another server.</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>SMTP/POP3<br>Server</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Mail Transfer Agent<br>(MTA)</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Mail Transfer Agent<br>(MTA)</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>SMTP/POP3<br>Server</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Recipient</b>]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Client</b>]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>Mail User Agent<br>(MUA)</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Sender</b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Client</b>]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>Mail User Agent<br>(MUA)</b>]]></text>
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>Send E-mail</b>]]></text>
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>recipient@domain.com</b>]]></text>
+</component>
+</textcomponents>

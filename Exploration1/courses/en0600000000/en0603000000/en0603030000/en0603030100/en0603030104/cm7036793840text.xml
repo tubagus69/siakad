@@ -1,0 +1,44 @@
+<textcomponents>
+<component id="txt1">
+<text><![CDATA[<b>Top-level domain servers</b>]]></text>
+</component>
+<component id="txt2">
+  <text><![CDATA[<b>Secondary level domain  servers</b>]]></text> 
+  </component>
+<component id="txt3">
+  <text><![CDATA[<b>Local DNS server</b>]]></text> 
+  </component>
+<component id="txt4">
+  <text><![CDATA[<b>DNS Client</b>]]></text> 
+  </component>
+<component id="txt5">
+  <text><![CDATA[<b>cisco.com</b>]]></text> 
+  </component>
+<component id="txt6">
+  <text><![CDATA[<b>A hierarchy of DNS servers contains the resource records that match names with addresses.</b>]]></text> 
+  </component>
+<component id="txt7">
+  <text><![CDATA[<b>Root DNS servers</b>]]></text> 
+  </component>
+<component id="txt8">
+  <text><![CDATA[<b>.com</b>]]></text> 
+  </component>
+<component id="txt9">
+  <text><![CDATA[<b>.org</b>]]></text> 
+  </component>
+<component id="txt10">
+  <text><![CDATA[<b>.au</b>]]></text> 
+  </component>
+<component id="txt11">
+  <text><![CDATA[<b>.co</b>]]></text> 
+  </component>
+<component id="bbl1">
+  <text><![CDATA[I have the records for:<BR>www.cisco.com<BR>mail.cisco.com]]></text> 
+  </component>
+<component id="bbl2">
+  <text><![CDATA[I have records to find who knows about:<BR>cisco.com<BR>linksys.com]]></text> 
+  </component>
+<component id="bbl3">
+  <text><![CDATA[I have records to find who knows about:<BR>.com<BR>.org<BR>.au<BR>.co]]></text> 
+  </component>
+</textcomponents>

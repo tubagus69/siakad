@@ -1,0 +1,141 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Factors Determining LAN Switch Selection</b>]]></text>
+</component>
+
+<component id="ID_subtitle">
+<text><![CDATA[<b>Port Speeds, Types and Expandability</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>NIC Mbps</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>NIC Mbps</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>100</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>100</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>100</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>100</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>1000</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>1000</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>1000 Mbps</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>1000 Mbps</b>]]></text>
+</component>
+
+<component id="ID_txt01a">
+<text><![CDATA[<b>Port Mbps</b>]]></text>
+</component>
+
+<component id="ID_txt02a">
+<text><![CDATA[<b>Port Mbps</b>]]></text>
+</component>
+
+<component id="ID_txt03a">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_txt04a">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_txt05a">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_txt06a">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_txt07a">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_txt08a">
+<text><![CDATA[<b>100</b>]]></text>
+</component>
+
+<component id="ID_txt09a">
+<text><![CDATA[<b>100</b>]]></text>
+</component>
+
+<component id="ID_txt10a">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_txt11a">
+<text><![CDATA[<b>Port Mbps</b>]]></text>
+</component>
+
+<component id="ID_txt12a">
+<text><![CDATA[<b>10</b>]]></text>
+</component>
+
+<component id="ID_txt13a">
+<text><![CDATA[<b>100</b>]]></text>
+</component>
+
+
+<component id="ID_txt14a">
+<text><![CDATA[<b>100</b>]]></text>
+</component>
+
+<component id="ID_txt15a">
+<text><![CDATA[<b>1G</b>]]></text>
+</component>
+
+<component id="ID_txt20">
+<text><![CDATA[<b>UTP Fiber</b>]]></text>
+</component>
+
+<component id="ID_txt21">
+<text><![CDATA[<b>All ports are one speed and type</b>]]></text>
+</component>
+
+<component id="ID_txt22">
+<text><![CDATA[<b>One type, multiple speeds</b>]]></text>
+</component>
+
+<component id="ID_txt23">
+<text><![CDATA[<b>Two types, multiple speeds</b>]]></text>
+</component>
+
+<component id="ID_bottomline">
+<text><![CDATA[<b>Some switches can be expanded to meet new requirements with additional modules.</b>]]></text>
+</component>
+
+
+</textcomponents>

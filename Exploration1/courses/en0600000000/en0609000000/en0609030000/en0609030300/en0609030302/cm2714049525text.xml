@@ -1,0 +1,11 @@
+﻿<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Viewing the MAC Address</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Viewing the MAC Address</b>]]></text>
+</component>
+
+</textcomponents>

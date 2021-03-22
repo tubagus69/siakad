@@ -1,0 +1,114 @@
+<textcomponents>
+
+<component id="ID_txt01">
+    <text><![CDATA[<b>Carrier Sense</b>]]></text> 
+  </component>
+  
+  <component id="ID_txt02">
+      <text><![CDATA[<b>Multiple Access</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+      <text><![CDATA[<b>A</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+      <text><![CDATA[<b>B</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+            <text><![CDATA[<b>C</b>]]></text> 
+  </component>
+  
+<component id="ID_txt06">
+            <text><![CDATA[<b>D</b>]]></text> 
+  </component>
+  
+<component id="ID_txt07">
+            <text><![CDATA[<b>A</b>]]></text> 
+  </component>
+  
+<component id="ID_txt08">
+            <text><![CDATA[<b>B</b>]]></text> 
+  </component>
+  
+<component id="ID_txt09">
+            <text><![CDATA[<b>C</b>]]></text> 
+  </component>
+  
+<component id="ID_txt10">
+            <text><![CDATA[<b>D</b>]]></text> 
+  </component>
+  
+<component id="ID_txt11">
+            <text><![CDATA[<b>A</b>]]></text> 
+  </component>
+  
+<component id="ID_txt12">
+            <text><![CDATA[<b>B</b>]]></text> 
+  </component>
+  
+<component id="ID_txt13">
+            <text><![CDATA[<b>C</b>]]></text> 
+  </component>
+  
+<component id="ID_txt14">
+            <text><![CDATA[<b>D</b>]]></text> 
+  </component>
+  
+<component id="ID_txt15">
+            <text><![CDATA[<b>A</b>]]></text> 
+  </component>
+  
+<component id="ID_txt16">
+            <text><![CDATA[<b>B</b>]]></text> 
+  </component>
+  
+<component id="ID_txt17">
+            <text><![CDATA[<b>C</b>]]></text> 
+  </component>
+  
+<component id="ID_txt18">
+            <text><![CDATA[<b>D</b>]]></text> 
+  </component>
+  
+<component id="ID_txt19">
+            <text><![CDATA[<b>Collision</b>]]></text> 
+  </component>
+
+<component id="ID_txt19a">
+            <text><![CDATA[<b>Collision</b>]]></text> 
+  </component>  
+  
+<component id="ID_txt20">
+            <text><![CDATA[<b>Collision Detection</b>]]></text> 
+  </component>
+  
+<component id="ID_txt21">
+            <text><![CDATA[<b>JAM</b>]]></text> 
+  </component>   
+
+<component id="ID_txt22">
+            <text><![CDATA[<b>JAM</b>]]></text> 
+  </component> 
+  
+<component id="ID_txt23">
+            <text><![CDATA[<b>JAM</b>]]></text> 
+  </component> 
+  
+<component id="ID_txt24">
+            <text><![CDATA[<b>JAM</b>]]></text> 
+  </component>
+  
+<component id="ID_txt25">
+            <text><![CDATA[<b>JAM</b>]]></text> 
+  </component>
+  
+<component id="ID_txt26">
+            <text><![CDATA[<b>JAM</b>]]></text> 
+  </component>  
+  
+<component id="ID_title">
+            <text><![CDATA[<b>Stations detecting a collision send a jam signal.</b>]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,105 @@
+﻿<textcomponents>
+
+<component id="ID_button01">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+
+<component id="ID_button02">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+
+<component id="ID_header01">
+<text><![CDATA[<b>Actual Requirements</b>]]></text>
+</component>
+
+<component id="ID_header02">
+<text><![CDATA[<b>Total Wasted Addresses</b>]]></text>
+</component>
+
+<component id="ID_txt01_01">
+<text><![CDATA[<b>AtlantaHQ</b>]]></text>
+</component>
+
+<component id="ID_txt02_01">
+<text><![CDATA[<b>SydneyHQ</b>]]></text>
+</component>
+
+<component id="ID_txt03_01">
+<text><![CDATA[<b>PerthHQ</b>]]></text>
+</component>
+
+<component id="ID_txt04_01">
+<text><![CDATA[<b>CorpusHQ</b>]]></text>
+</component>
+
+<component id="ID_txt01_02">
+<text><![CDATA[<b>AtlantaHQ</b>]]></text>
+</component>
+
+<component id="ID_txt02_02">
+<text><![CDATA[<b>58 host addresses</b>]]></text>
+</component>
+
+<component id="ID_txt03_02">
+<text><![CDATA[<b>PerthHQ</b>]]></text>
+</component>
+
+<component id="ID_txt04_02">
+<text><![CDATA[<b>26 host addresses</b>]]></text>
+</component>
+
+<component id="ID_txt05_02">
+<text><![CDATA[<b>SydneyHQ</b>]]></text>
+</component>
+
+<component id="ID_txt06_02">
+<text><![CDATA[<b>10 host addresses</b>]]></text>
+</component>
+
+<component id="ID_txt07_02">
+<text><![CDATA[<b>CorpusHQ</b>]]></text>
+</component>
+
+<component id="ID_txt08_02">
+<text><![CDATA[<b>10 host addresses</b>]]></text>
+</component>
+
+<component id="ID_txt09_02">
+<text><![CDATA[<b>WAN links</b>]]></text>
+</component>
+
+<component id="ID_txt10_02">
+<text><![CDATA[<b>2 host addresses (each)</b>]]></text>
+</component>
+
+<component id="ID_txta">
+<text><![CDATA[<b>4 addresses</b>]]></text>
+</component>
+
+<component id="ID_txtb">
+<text><![CDATA[<b>36 addresses</b>]]></text>
+</component>
+
+<component id="ID_txtc">
+<text><![CDATA[<b>52 addresses</b>]]></text>
+</component>
+
+<component id="ID_txtd">
+<text><![CDATA[<b>52 addresses</b>]]></text>
+</component>
+
+<component id="ID_txte">
+<text><![CDATA[<b>60 addresses</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Click to see the steps.</b>]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Network Requirements: Using standard subnetting would be inefficient.</b>]]></text>
+</component>
+
+
+</textcomponents>

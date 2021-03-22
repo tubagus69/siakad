@@ -1,0 +1,20 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Internetwork Connections with a Router</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Router interconnecting two LANs</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Router interconnecting a LAN and a WAN</b>]]></text>
+</component>
+
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Network</b>]]></text>
+</component>
+
+</textcomponents>

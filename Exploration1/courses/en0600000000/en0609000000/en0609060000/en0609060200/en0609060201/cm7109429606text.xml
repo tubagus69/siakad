@@ -1,0 +1,25 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Switch Uses</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Switch acting as a bridge between two shared-media hubs</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Switch at the center of a LAN</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Two collision domains&#8212;one for each shared media LAN.</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>Each computer has its own collision domain.</b>]]></text> 
+  </component>
+  
+  
+
+</textcomponents>

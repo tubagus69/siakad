@@ -1,0 +1,23 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Telnet: Application, Service & Protocol</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Telnet Client<br>Application: Teraterm</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Telnet Service:<br>Telnet</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Telnet Protocol:<li>Set up negotiation rules</li><li>commands</b></li>]]></text>
+</component>
+
+<component id="myTable">
+  <text><![CDATA[<table><tr><th>Telnet Protocol:</th></tr><tr><td><li>Set up negotiation rules</li><li>Issue Commands</li></ul></td></tr></table>]]></text> 
+  </component>
+
+
+</textcomponents>

@@ -1,0 +1,43 @@
+<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Peer-to-Peer Networking </b>]]></text> 
+</component>
+
+<component id="ID_txt01a">
+<text><![CDATA[<b>Yes. Send over the page to print and I will print. Meanwhile I will access a file from your drive.</b>]]></text>
+</component>
+
+<component id="ID_txt01b">
+<text><![CDATA[<b>I will share a file I have stored on my hard drive. Can you print the directions?</b>]]></text>
+</component>
+
+<component id="ID_txt02a">
+<text><![CDATA[<b>PEER</b>]]></text>
+</component>
+
+<component id="ID_txt02b">
+<text><![CDATA[<b>Print server<br>File client</br></b>]]></text>
+</component>
+
+<component id="ID_txt03a">
+<text><![CDATA[<b>PEER</b>]]></text>
+</component>
+
+<component id="ID_txt03b">
+<text><![CDATA[<b>Print client<br>File server</br></b>]]></text>
+</component>
+
+
+<component id="ID_txt04">
+<text><![CDATA[<b>In a peer-to-peer exchange, both devices are considered equal in the communication process.</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Printer</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Directly connected printer</b>]]></text>
+</component>
+
+</textcomponents>

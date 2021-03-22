@@ -1,0 +1,130 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Ethernet Slot and Bit Times</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Speed</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Slot Time</b>]]></text> 
+  </component>
+  
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>Time Interval</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[10 Mbps]]></text> 
+  </component>
+  
+<component id="ID_txt06">
+  <text><![CDATA[100 Mbps]]></text> 
+  </component>
+  
+<component id="ID_txt07">
+  <text><![CDATA[1 Gbps]]></text> 
+  </component>
+   
+  
+<component id="ID_txt08">
+  <text><![CDATA[10 Gbps]]></text> 
+  </component>
+  
+<component id="ID_txt09">
+  <text><![CDATA[512 bit time]]></text> 
+  </component>
+  
+<component id="ID_txt10">
+  <text><![CDATA[512 bit time]]></text> 
+  </component>
+  
+<component id="ID_txt11">
+  <text><![CDATA[4096 bit time]]></text> 
+  </component>
+  
+<component id="ID_txt12">
+  <text><![CDATA[not applicable]]></text> 
+  </component>
+  
+<component id="ID_txt13">
+  <text><![CDATA[51.2 µs]]></text> 
+  </component>
+  
+<component id="ID_txt14">
+  <text><![CDATA[5.12 µs]]></text> 
+  </component>
+  
+<component id="ID_txt15">
+  <text><![CDATA[4.096 µs]]></text> 
+  </component>
+  
+<component id="ID_txt16">
+  <text><![CDATA[not applicable]]></text> 
+  </component>
+  
+<component id="ID_txt17">
+<text><![CDATA[<b><font color="#336699">Slot time = A + B<font/></b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>Ethernet Speed</b>]]></text>
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[<b>Bit time</b>]]></text>
+</component>
+
+<component id="ID_txt20">
+<text><![CDATA[10 Mbps]]></text>
+</component>
+
+<component id="ID_txt21">
+<text><![CDATA[100 ns]]></text>
+</component>
+
+<component id="ID_txt22">
+<text><![CDATA[100 Mbps]]></text>
+</component>
+
+<component id="ID_txt23">
+<text><![CDATA[10 ns]]></text>
+</component>
+
+<component id="ID_txt24">
+<text><![CDATA[1000 Mbps = 1 Gbps]]></text>
+</component>
+
+<component id="ID_txt25">
+<text><![CDATA[1 ns]]></text>
+</component>
+
+<component id="ID_txt26">
+<text><![CDATA[10,000 Mbps = 10 Gbps]]></text>
+</component>
+
+<component id="ID_txt27">
+<text><![CDATA[.1 ns]]></text>
+</component>
+
+<component id="ID_txt28a">
+<text><![CDATA[<b><font color="#336699">A<font/></b>]]></text>
+</component>
+
+<component id="ID_txt29a">
+<text><![CDATA[<b><font color="#336699">B<font/></b>]]></text>
+</component>
+
+<component id="ID_txt30a">
+<text><![CDATA[<b>Device 1</b>]]></text>
+</component>
+
+<component id="ID_txt31a">
+<text><![CDATA[<b>Device 2</b>]]></text>
+</component>
+
+
+</textcomponents>

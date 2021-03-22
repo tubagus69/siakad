@@ -1,0 +1,18 @@
+﻿<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Route Entries in a Routing Table</b>]]></text>
+</component>
+
+<component id="caption_01">
+<text><![CDATA[<b>Packets with destination host addresses in one of the network ranges shown will be matched with the next hop that leads to that network.</b>]]></text>
+</component>
+
+
+<component id="output_text_01">
+<text><![CDATA[<b>The routing table shows the destination networks.
+</b>]]></text>
+</component>
+
+
+</textcomponents>

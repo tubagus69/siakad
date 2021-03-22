@@ -1,0 +1,87 @@
+﻿<textcomponents>
+<component id="ID_PDU">
+  <text><![CDATA[<b>Protocol Data Unit (PDU)</b>]]></text> 
+  </component>
+<component id="ID_PDU2">
+  <text><![CDATA[<b>Protocol Data Unit (PDU)</b>]]></text> 
+  </component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<b>Destination<br>network</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>Source<br>network</b>]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>Source end device</b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>Getting the Pieces to the Correct Network</b>]]></text> 
+  </component>
+<component id="ID_txt09">
+  <text><![CDATA[<b>The Protocol Data Unit header also contains the network address.</b>]]></text> 
+  </component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>Destination</b>]]></text> 
+  </component>
+<component id="ID_txt11">
+  <text><![CDATA[<b>Source</b>]]></text> 
+  </component>
+<component id="ID_txt12">
+  <text><![CDATA[<b>Data</b>]]></text> 
+  </component>
+<component id="ID_txt13">
+  <text><![CDATA[<b>Network<br>Address</b>]]></text> 
+  </component>
+<component id="ID_txt14">
+  <text><![CDATA[<b>Device<br>Address</b>]]></text> 
+  </component>
+<component id="ID_txt15">
+  <text><![CDATA[<b>Network<br>Address</b>]]></text> 
+  </component>
+<component id="ID_txt16">
+  <text><![CDATA[<b>Device<br>Address</b>]]></text> 
+  </component>
+<component id="ID_txt05_2">
+  <text><![CDATA[<b>Destination<br>network</b>]]></text> 
+  </component>
+<component id="ID_txt06_2">
+  <text><![CDATA[<b>Source<br>network</b>]]></text> 
+  </component>
+<component id="ID_txt07_2">
+  <text><![CDATA[<b>Source end device</b>]]></text> 
+  </component>
+<component id="ID_txt08_2">
+  <text><![CDATA[<b>Getting the Pieces to the Correct Network</b>]]></text> 
+  </component>
+<component id="ID_txt09_2">
+  <text><![CDATA[<b>The Protocol Data Unit header also contains the network address.</b>]]></text> 
+  </component>
+<component id="ID_txt10_2">
+  <text><![CDATA[<b>Destination</b>]]></text> 
+  </component>
+<component id="ID_txt11_2">
+  <text><![CDATA[<b>Source</b>]]></text> 
+  </component>
+<component id="ID_txt12_2">
+  <text><![CDATA[<b>Data</b>]]></text> 
+  </component>
+<component id="ID_txt13_b">
+  <text><![CDATA[<b>Network<br>209.165</b>]]></text> 
+  </component>
+<component id="ID_txt14_b">
+  <text><![CDATA[<b>Device<br>200.230</b>]]></text> 
+  </component>
+<component id="ID_txt15_b">
+  <text><![CDATA[<b>Network<br>209.165.202.</b>]]></text> 
+  </component>
+<component id="ID_txt16_b">
+  <text><![CDATA[<b>Device<br>130</b>]]></text> 
+  </component>
+<component id="ID_reset">
+  <text><![CDATA[Reset]]></text> 
+  </component>
+<component id="ID_addresses">
+  <text><![CDATA[Addresses]]></text> 
+  </component>
+</textcomponents>

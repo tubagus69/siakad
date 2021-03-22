@@ -1,0 +1,107 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>1000BASE-T Circuitry</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Twisted Pair</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Twisted Pair</b>]]></text> 
+  </component>
+  
+<component id="ID_txt04">
+  <text><![CDATA[<b>Twisted Pair</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>Twisted Pair</b>]]></text> 
+  </component>
+  
+<component id="ID_txt06">
+  <text><![CDATA[<b>Hybrid</b>]]></text> 
+  </component>
+  
+<component id="ID_txt07">
+  <text><![CDATA[<b>Hybrid</b>]]></text> 
+  </component>
+  
+<component id="ID_txt08">
+  <text><![CDATA[<b>Hybrid</b>]]></text> 
+  </component>
+  
+<component id="ID_txt09">
+  <text><![CDATA[<b>Hybrid</b>]]></text> 
+  </component>
+  
+<component id="ID_txt18">
+  <text><![CDATA[<b>Hybrid</b>]]></text> 
+  </component>
+  
+<component id="ID_txt19">
+  <text><![CDATA[T]]></text> 
+  </component>
+  
+<component id="ID_txt20">
+  <text><![CDATA[R]]></text> 
+  </component>
+  
+<component id="ID_txt21">
+  <text><![CDATA[T]]></text> 
+  </component>
+  
+<component id="ID_txt22">
+  <text><![CDATA[R]]></text> 
+  </component>
+  
+<component id="ID_txt23">
+  <text><![CDATA[T]]></text> 
+  </component>
+  
+<component id="ID_txt24">
+  <text><![CDATA[R]]></text> 
+  </component>
+  
+<component id="ID_txt25">
+  <text><![CDATA[T]]></text> 
+  </component>
+  
+<component id="ID_txt26">
+  <text><![CDATA[R]]></text> 
+  </component>
+  
+<component id="ID_txt27">
+  <text><![CDATA[R]]></text> 
+  </component>
+  
+<component id="ID_txt28">
+  <text><![CDATA[T]]></text> 
+  </component>
+  
+<component id="ID_txt29">
+  <text><![CDATA[R]]></text> 
+  </component>
+  
+<component id="ID_txt30">
+  <text><![CDATA[T]]></text> 
+  </component>
+  
+<component id="ID_txt31">
+  <text><![CDATA[R]]></text> 
+  </component>
+  
+<component id="ID_txt32">
+  <text><![CDATA[T]]></text> 
+  </component>
+  
+<component id="ID_txt33">
+    <text><![CDATA[R]]></text> 
+    </component>
+    
+<component id="ID_txt34">
+  <text><![CDATA[T]]></text> 
+  </component>
+
+</textcomponents>

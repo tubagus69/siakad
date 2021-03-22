@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<exam id="13241" dateexported="06/05/2007">
+		<name>Module 9 Quiz</name>
+		<form id="18838" lang="en"><form-item>
+			<ai id="113155" type="dnd" src="ravennaDandDclip">
+			<![CDATA[ <questtestinjterop><item ident="113155" title="not used in brown trout" type="interactiveType1" usage="Default"><components><!-- *********** OPTIONS *********** --><component ident="1" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Preamble (7 Bytes) and Start of Frame Delimiter (1 Byte)</mattext></material></textcomponent></component><component ident="2" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Frame Checksum Sequence (4 Bytes)</mattext></material></textcomponent></component><component ident="3" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Destination Address (6 Bytes)</mattext></material></textcomponent></component><component ident="4" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Source Address (6 Bytes)</mattext></material></textcomponent></component><component ident="5" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>Length/Type (2 Bytes)</mattext></material></textcomponent></component><component ident="6" movable="yes" snappable="no" displaytype="text"><textcomponent textrows="2" textwidth="332"><material><mattext>802.2 Header and Data (46 to 1500 Bytes)</mattext></material></textcomponent></component> <!-- ***********  LABELS  *********** --> <!-- ***********  TARGETS  *********** --><component ident="1" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>contains the encapsulated data from a higher layer</mattext></material></textcomponent></component><component ident="2" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>identifies the intended recipient</mattext></material></textcomponent></component><component ident="3" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>value equal to or greater than 0x0600 indicates the encapsulated protocol </mattext></material></textcomponent></component><component ident="4" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>used for synchronization between the sending and receiving devices</mattext></material></textcomponent></component><component ident="5" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>used to detect errors in a frame</mattext></material></textcomponent></component><component ident="6" movable="no" snappable="yes" displaytype="text"><textcomponent textrows="2" textwidth="300"><material><mattext>identifies the frame’s originating NIC or interface</mattext></material></textcomponent></component> <!-- ***********  STEM  *********** --><component ident="40" movable="no" snappable="no" displaytype="text"><textcomponent textrows="1" textwidth="760"><material><mattext>Drag the Ethernet frame fields on the left and drop them onto their function on the right.</mattext></material></textcomponent></component></components><!-- ***********  PRESENTATION  *********** --><presentation><layout category="A" initY="-137.5" targetYspacing="21" yspacing="60" targetH="37"><options><display componentIdent="1" xpos="200" ypos="75"/><display componentIdent="2" xpos="200" ypos="135"/><display componentIdent="3" xpos="200" ypos="195"/><display componentIdent="4" xpos="200" ypos="255"/><display componentIdent="5" xpos="200" ypos="315"/><display componentIdent="6" xpos="200" ypos="375"/></options><targets><display componentIdent="1" xpos="600" ypos="75"/><display componentIdent="2" xpos="600" ypos="127"/><display componentIdent="3" xpos="600" ypos="179"/><display componentIdent="4" xpos="600" ypos="231"/><display componentIdent="5" xpos="600" ypos="283"/><display componentIdent="6" xpos="600" ypos="335"/></targets><stem><display componentIdent="40" xpos="420" ypos="28"/></stem></layout></presentation><!-- ***********  SCORING  *********** --><scoring><scoringzone ident ="1"><componentident>1</componentident></scoringzone><scoringzone ident ="2"><componentident>2</componentident></scoringzone><scoringzone ident ="3"><componentident>3</componentident></scoringzone><scoringzone ident ="4"><componentident>4</componentident></scoringzone><scoringzone ident ="5"><componentident>5</componentident></scoringzone><scoringzone ident ="6"><componentident>6</componentident></scoringzone><resprocessing resprocident="hardcoded resprocident#23423"><outcomes><decvar varname="199014" maxvalue ="1"><title>no title</title></decvar><interpretvar varname="199014" view="All">no description given</interpretvar></outcomes><responcondition><conditionvar><scoringzonecontains szident="1"><componentident>6</componentident></scoringzonecontains><scoringzonecontains szident="2"><componentident>3</componentident></scoringzonecontains><scoringzonecontains szident="3"><componentident>5</componentident></scoringzonecontains><scoringzonecontains szident="4"><componentident>1</componentident></scoringzonecontains><scoringzonecontains szident="5"><componentident>2</componentident></scoringzonecontains><scoringzonecontains szident="6"><componentident>4</componentident></scoringzonecontains></conditionvar><setvar varname="199014" action="Set">1</setvar><scoringdescription>Top down: Data, Destination Address, Length/type, Preamble, Frame Checksum, Source Address</scoringdescription></responcondition></resprocessing><feedback><correct>Excellent!</correct><incorrect>Try Again.</incorrect></feedback></scoring></item></questtestinjterop>]]> </ai></form-item><form-item order="fixed">
+			<ai id="113027" type="mc-sa"><question><![CDATA[What is a primary function of CSMA/CD in an Ethernet network?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[assigns MAC addresses to hosts]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[defines the area in which collisions can occur ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[identifies the start and end of Ethernet frame]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[provides a method to determine when and how hosts access the Ethernet medium]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[creates the header in the Ethernet frame as data is encapsulated ]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[maps an IP address to a MAC address]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="113156" type="mc-sa"><question><![CDATA[What technology is the IEEE 802.3ac standard specifically designed to accommodate?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Simple Network Management Protocol]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Address Resolution Protocol]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Virtual Local Area Network]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Voice over IP]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Internet Control message Protocol]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="30316" type="mc-sa"><question><![CDATA[What is the purpose of media access control?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[It identifies which workstation has sent a frame.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[It determines which Layer 3 protocol should handle a frame.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[It identifies which Ethernet frame format to use on the network. ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[It determines which workstation on a shared medium LAN is allowed to transmit data.]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="58122" type="mc-sa"><question><![CDATA[How are collisions detected on an Ethernet network?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Stations identify the altered FCS field on the colliding packets.]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[The signal amplitude on the networking media is higher than normal.]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Traffic on the network cannot be detected due to a blockage]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[The signal amplitude on the networking media is lower than normal.]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="58579" type="mc-sa"><question><![CDATA[Which Layer 2 sublayer provides services to the network layer of the OSI Model?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[FCS]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[IEEE 802.3]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[LLC]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[MAC]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="59740" type="mc-sa"><question><![CDATA[Which devices shown in the graphic must have a MAC address?<Br><img src="2762.jpg">]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[only PC]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[only router]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[PC and router]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[PC, hub, and router ]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[PC, printer, and router ]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="84307" type="mc-sa"><question><![CDATA[In the graphic, Host A has reached 50% completion in sending a 1 KB Ethernet frame to Host D when Host B wishes to transmit its own frame to Host C. What must Host B do?<Br><img src="6054.jpg">]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[Host B can transmit immediately since it is connected on its own cable segment.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Host B must wait to receive a CSMA transmission from the hub, to signal its turn.]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[Host B must send a request signal to Host A by transmitting an interframe gap.]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[Host B must wait until it is certain that Host A has completed sending its frame.]]></text>
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="84849" type="mc-ma"><question><![CDATA[Which of the following are fields in an 802.3 Ethernet frame? (Choose three.)]]></question><choices>
+						<choice correct="y">
+							<text><![CDATA[source physical address]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[source logical address]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[media type identifier]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[frame check sequence]]></text>
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[destination physical address]]></text>
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[destination logical address]]></text>
+							
+							
+						</choice></choices></ai></form-item><form-item order="fixed">
+			<ai id="113107" type="mc-sa"><question><![CDATA[What address type does a switch use to make selective forwarding decisions?]]></question><choices>
+						<choice correct="n">
+							<text><![CDATA[source IP]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[destination IP]]></text>
+							
+							
+						</choice>
+						<choice correct="n">
+							<text><![CDATA[source MAC]]></text>
+							
+							
+						</choice>
+						<choice correct="y">
+							<text><![CDATA[destination MAC]]></text>
+							
+						</choice></choices></ai></form-item></form></exam> 

@@ -1,0 +1,33 @@
+<textcomponents>
+
+<component id="ID_Title">
+<text><![CDATA[<b>Factors Determining LAN Switch Selection</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Cost</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>One large, central switch</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Multiple switches, connected with a central switch</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>A failure of any of these switches only affects the directly connected PCs.</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>The failure of either of these central switches does not stop network operation.</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Two central switches with redundancy</b>]]></text>
+</component>
+
+
+
+</textcomponents>
